@@ -97,8 +97,27 @@ jobs:
                   + ", ".join(sorted(missing))
               )
 
+          existing_channels = [e for e in list(root) if e.tag == "channel"]
+          existing_programmes = [e for e in list(root) if e.tag == "programme"]
+          others = [e for e in list(root) if e.tag not in ("channel", "programme")]
+
+          for e in list(root):
+              root.remove(e)
+
+          existing_channel_ids = {e.get("id") for e in existing_channels}
+
+          for channel in existing_channels:
+              root.append(channel)
+
           for cid in sorted(channels):
-              root.append(channels[cid])
+              if cid not in existing_channel_ids:
+                  root.append(channels[cid])
+
+          for e in others:
+              root.append(e)
+
+          for programme in existing_programmes:
+              root.append(programme)
 
           for programme in programmes:
               root.append(programme)
