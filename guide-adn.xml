@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv><channel id="ADN.fr">
+    <display-name>ADN</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png" />
+  </channel>
+  <programme channel="ADN.fr" start="20260830220000 +0000" stop="20260830223000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>La brigade vient d'apprendre que Kurapika est le meurtrier d'Uvôguine. Ce n'est qu'une question …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488909819_0_20240227T162221393Z_89.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260830223000 +0000" stop="20260830224500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Kurapika a réussi à capturer Kuroro, il lui propose la liberté en échange de celle de Kirua et de…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488909827_0_20240227T162220993Z_135.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260830224500 +0000" stop="20260830231500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Le jeu Greed Island est aux enchères, Gon et Kirua viennent de demander à l'acheteur de les engag…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488351305_3_20240207T122123669Z_106.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260830231500 +0000" stop="20260830234500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua essayent d'être pris en tant que joueurs de Greed Island. Seuls 32 joueurs sur 200 …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488301558_2_20240205T145249007Z_128.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260830234500 +0000" stop="20260831000000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua ont réussi à rester dans le monde de Greed Island. Continuant leur recherche sur Jin…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488301580_2_20240205T145249007Z_80.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831000000 +0000" stop="20260831003000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua sont à la recherche des cartes de sort. Ils vont poursuivre des monstres mais certai…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488301563_4_20240205T145248685Z_128.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831003000 +0000" stop="20260831010000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Biscuit compte bien entraîner Gon et Kirua ! Leur premier test est de vaincre Binolt, le chasseu…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488301583_2_20240205T145248612Z_33.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831010000 +0000" stop="20260831013000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua progressent vite dans leur maîtrise du Nen sous la supervision de Bisc. Mais un cer…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488351304_0_20240207T122123527Z_91.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831013000 +0000" stop="20260831014500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua décident de travailler leurs techniques spéciales. Alors que Kirua quitte le jeu le…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488351303_5_20240207T122123808Z_39.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831014500 +0000" stop="20260831021500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Kirua va passer son examen de Hunter pour la deuxième fois. Dès son retour ce sera le moment de …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488909689_4_20240227T162221793Z_24.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831021500 +0000" stop="20260831024500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua sont à la moitié du jeu. Mais la suite de l'aventure va devenir plus ardue. Ils vie…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488909814_4_20240227T162221700Z_130.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831024500 +0000" stop="20260831030000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Pour récupérer l'une des cartes les plus rares, il faut affronter 15 pirates. Malheureusement, l…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488909816_4_20240227T162221210Z_96.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831030000 +0000" stop="20260831033000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et ses amis font désormais équipe avec Hisoka et Goreinu pour défier Laser à nouveau ... Avec…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489010622_7_20240301T221921219Z_1.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831033000 +0000" stop="20260831040000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>La partie de balle au prisonnier se poursuit. Tour à tour, les équipiers de Gon et Kirua se font …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489010620_9_20240301T221921286Z_69.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831040000 +0000" stop="20260831043000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Le travail d'équipe ! C'est le mot pour vaincre Laser ! Enfin, Gon va peut-être se rapprocher de…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489010621_8_20240301T221921284Z_55.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  </tv>
