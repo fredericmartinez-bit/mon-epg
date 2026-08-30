@@ -1,0 +1,158 @@
+name: Update EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate custom EPG files
+        run: |
+          python3 orange_pitchoun.py
+          python3 oqee_pitchoun.py
+          python3 oqee_ducktv.py
+          python3 tunisiatv_watania.py
+
+      - name: Verify generated files
+        run: |
+          test -s pitchoun-kids.xml
+          test -s tv-pitchoun.xml
+          test -s duck-tv.xml
+          test -s watania-officiel.xml
+
+          ls -lh \
+            pitchoun-kids.xml \
+            tv-pitchoun.xml \
+            duck-tv.xml \
+            watania-officiel.xml
+
+      - name: Merge generated EPG into guide.xml
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+
+          GUIDE = "guide.xml"
+
+          SOURCES = [
+              "pitchoun-kids.xml",
+              "tv-pitchoun.xml",
+              "duck-tv.xml",
+              "watania-officiel.xml",
+          ]
+
+          TARGET_IDS = {
+              "PitchounKidsMusic.fr",
+              "TVPitchoun.fr",
+              "DuckTV.fr",
+              "Watania1.tn",
+              "Watania2.tn",
+          }
+
+          tree = ET.parse(GUIDE)
+          root = tree.getroot()
+
+          for elem in list(root):
+              if elem.tag == "channel" and elem.get("id") in TARGET_IDS:
+                  root.remove(elem)
+              elif elem.tag == "programme" and elem.get("channel") in TARGET_IDS:
+                  root.remove(elem)
+
+          channels = {}
+          programmes = []
+
+          for source in SOURCES:
+              src_root = ET.parse(source).getroot()
+
+              for elem in src_root:
+                  if elem.tag == "channel":
+                      cid = elem.get("id")
+                      if cid in TARGET_IDS:
+                          channels[cid] = elem
+
+                  elif elem.tag == "programme":
+                      cid = elem.get("channel")
+                      if cid in TARGET_IDS:
+                          programmes.append(elem)
+
+          missing = TARGET_IDS - set(channels)
+
+          if missing:
+              raise SystemExit(
+                  "Missing channels in generated EPG: "
+                  + ", ".join(sorted(missing))
+              )
+
+          for cid in sorted(channels):
+              root.append(channels[cid])
+
+          for programme in programmes:
+              root.append(programme)
+
+          ET.indent(tree, space="  ")
+          tree.write(
+              GUIDE,
+              encoding="utf-8",
+              xml_declaration=True
+          )
+
+          print("Merged channels:", ", ".join(sorted(channels)))
+          print("Merged programmes:", len(programmes))
+          PY
+
+      - name: Validate guide.xml
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          from collections import Counter
+
+          root = ET.parse("guide.xml").getroot()
+
+          ids = [
+              "PitchounKidsMusic.fr",
+              "TVPitchoun.fr",
+              "DuckTV.fr",
+              "Watania1.tn",
+              "Watania2.tn",
+          ]
+
+          counts = Counter(
+              p.get("channel")
+              for p in root.findall("programme")
+          )
+
+          print("TOTAL:", len(root.findall("programme")))
+
+          for cid in ids:
+              print(cid, counts[cid])
+              if counts[cid] == 0:
+                  raise SystemExit(f"No programmes found for {cid}")
+          PY
+
+      - name: Commit updated guide
+        run: |
+          if git diff --quiet guide.xml; then
+            echo "No change in guide.xml"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add guide.xml
+          git commit -m "Mise à jour automatique EPG"
+          git push
