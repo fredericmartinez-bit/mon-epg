@@ -1,0 +1,45 @@
+name: Test Sat.tv Tunisia
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-sattv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test Sat.tv Hannibal
+        shell: bash
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          TIMESTAMP=$(($(date +%s) * 1000))
+
+          echo "Date : $DATE"
+
+          HTTP_CODE=$(curl -sS \
+            -o /tmp/sattv.html \
+            -w "%{http_code}" \
+            'https://www.sat.tv/wp-content/themes/twentytwenty-child/ajax_chaines.php' \
+            -A 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36' \
+            -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+            -H 'X-Requested-With: XMLHttpRequest' \
+            -H 'Referer: https://www.sat.tv/' \
+            -H 'Origin: https://www.sat.tv' \
+            -H 'Cookie: pll_language=en' \
+            --data-urlencode "dateFiltre=$DATE" \
+            --data-urlencode 'hoursFiltre=0' \
+            --data-urlencode 'satLineup=72' \
+            --data-urlencode 'satSatellite=1' \
+            --data-urlencode "userDateTime=$TIMESTAMP" \
+            --data-urlencode 'userTimezone=Europe/London')
+
+          echo "HTTP STATUS : $HTTP_CODE"
+          echo "TAILLE : $(wc -c < /tmp/sattv.html) octets"
+
+          echo
+          echo "=== HANNIBAL ==="
+          grep -A80 -B5 'Hannibal TV' /tmp/sattv.html | head -100 || true
+
+          echo
+          echo "=== CLOUDFLARE ? ==="
+          grep -iE 'cloudflare|attention required|just a moment' /tmp/sattv.html | head -10 || true
