@@ -1271,6 +1271,10 @@
     <display-name>XXL</display-name>
     <icon src="https://i.imgur.com/TEuLkeQ.png" />
   </channel>
+  <channel id="ADN.fr">
+    <display-name>ADN</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png" />
+  </channel>
   <channel id="DuckTV.fr">
     <display-name>Duck TV</display-name>
   </channel>
@@ -97169,41 +97173,6 @@
     <title lang="fr">La playlist des Pitchouns</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20260830220000 +0000" stop="20260830220300 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Danse de Pitchoun</title>
-    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
-  </programme>
-  <programme start="20260830220300 +0000" stop="20260830220500 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">L'Agenda des Pitchouns</title>
-    <desc lang="fr">Toutes les sorties à faire en famille dans les jours qui viennent, ainsi que des bons plans à retrouver partout en France.</desc>
-    <category lang="fr">Magazine</category>
-    <category lang="fr">Magazine de société</category>
-    <icon src="https://img2.oqee.net/pictures/5039881/wide_generic/h640" />
-  </programme>
-  <programme start="20260830220500 +0000" stop="20260830221800 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Molang YouTuber</title>
-    <desc lang="fr">Molang et Piu Piu sont désormais des YouTubers ! Pincos, pour être encore plus à vos côtés, les deux meilleurs amis postent CHAQUE SEMAINE de nouveaux contenus, comme des vidéos "réaction", du gaming, de l'ASMR, des challenges, et bien plus encore</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/5039883/wide_generic/h640" />
-  </programme>
-  <programme start="20260830221800 +0000" stop="20260830224000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Pirata &amp; Capitano</title>
-    <desc lang="fr">Pirata &amp; Capitano : Embarquez avec Pirata, son équipage et son meilleur ami Capitano ! Chaque virée en mer est l'occasion de chercher un trésor, de porter secours à une espèce en danger, de rencontrer de nouveaux amis ou de découvrir des îles mystérieuses. Une série sur l'entraide et le bien vivre ensemble en voguant sur le grand océan…alors, hissez les voiles et levez l'ancre, en route pour l'aventure !</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/491742/wide_generic/h640" />
-  </programme>
-  <programme start="20260830224000 +0000" stop="20260830230000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Le monde de Simsala Grimm</title>
-    <desc lang="fr">Yoyo et Doc Croc sont deux jouets qui ont été abandonnés dans un grenier. Un jour, un livre de conte de fées doté de pouvoirs magiques leur donne vie. Depuis ce jour, ils vivent de belles aventures à la découverte des contes de fées de notre enfance dans la joie et la bonne humeur !</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img2.oqee.net/pictures/4494423/wide_generic/h640" />
-  </programme>
   <programme start="20260830230000 +0000" stop="20260830230300 +0000" channel="TVPitchoun.fr">
     <title lang="fr">Danse de Pitchoun</title>
     <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
@@ -102545,156 +102514,40 @@
     <category lang="fr">Série d'animation</category>
     <icon src="https://img2.oqee.net/pictures/4369649/wide_generic/h640" />
   </programme>
-  <programme start="20260830220000 +0000" stop="20260830220300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde des Elfes</title>
-    <desc lang="fr">Vous allez vivre d'incroyables aventures avec les elfes. </desc>
+  <programme start="20260906220000 +0000" stop="20260906220300 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Danse de Pitchoun</title>
+    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983252/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
   </programme>
-  <programme start="20260830220300 +0000" stop="20260830220500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Maintenant, nous jouons</title>
-    <desc lang="fr">Nous jouons avec les membres et objets les plus proches de notre famille: mère et père, enfants sur l'aire de jeu, dessins et coloriage. </desc>
+  <programme start="20260906220300 +0000" stop="20260906220500 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">L'Agenda des Pitchouns</title>
+    <desc lang="fr">Toutes les sorties à faire en famille dans les jours qui viennent, ainsi que des bons plans à retrouver partout en France.</desc>
+    <category lang="fr">Magazine</category>
+    <category lang="fr">Magazine de société</category>
+    <icon src="https://img2.oqee.net/pictures/5039881/wide_generic/h640" />
+  </programme>
+  <programme start="20260906220500 +0000" stop="20260906221800 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Molang YouTuber</title>
+    <desc lang="fr">Molang et Piu Piu sont désormais des YouTubers ! Pincos, pour être encore plus à vos côtés, les deux meilleurs amis postent CHAQUE SEMAINE de nouveaux contenus, comme des vidéos "réaction", du gaming, de l'ASMR, des challenges, et bien plus encore</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983241/wide_generic/h640" />
+    <icon src="https://img2.oqee.net/pictures/5039883/wide_generic/h640" />
   </programme>
-  <programme start="20260830220500 +0000" stop="20260830220800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Holiday</title>
-    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
+  <programme start="20260906221800 +0000" stop="20260906224000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Pirata &amp; Capitano</title>
+    <desc lang="fr">Pirata &amp; Capitano : Embarquez avec Pirata, son équipage et son meilleur ami Capitano ! Chaque virée en mer est l'occasion de chercher un trésor, de porter secours à une espèce en danger, de rencontrer de nouveaux amis ou de découvrir des îles mystérieuses. Une série sur l'entraide et le bien vivre ensemble en voguant sur le grand océan…alors, hissez les voiles et levez l'ancre, en route pour l'aventure !</desc>
     <category lang="fr">Série</category>
     <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/491742/wide_generic/h640" />
   </programme>
-  <programme start="20260830220800 +0000" stop="20260830221100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Quelle est ta profession ?</title>
-    <desc lang="fr">Nous vous présentons les diverses professions. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983275/wide_generic/h640" />
-  </programme>
-  <programme start="20260830221100 +0000" stop="20260830221300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Petits animaux</title>
-    <desc lang="fr">Venons avec nous dans une forêt, vous allez voir une partie sauvage. </desc>
+  <programme start="20260906224000 +0000" stop="20260906230000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Le monde de Simsala Grimm</title>
+    <desc lang="fr">Yoyo et Doc Croc sont deux jouets qui ont été abandonnés dans un grenier. Un jour, un livre de conte de fées doté de pouvoirs magiques leur donne vie. Depuis ce jour, ils vivent de belles aventures à la découverte des contes de fées de notre enfance dans la joie et la bonne humeur !</desc>
     <category lang="fr">Dessin animé</category>
     <category lang="fr">Dessin animé</category>
-    <date>2015</date>
-    <icon src="https://img1.oqee.net/pictures/4254246/wide_generic/h640" />
-  </programme>
-  <programme start="20260830221300 +0000" stop="20260830221600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde des Elfes</title>
-    <desc lang="fr">Vous allez vivre d'incroyables aventures avec les elfes. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983252/wide_generic/h640" />
-  </programme>
-  <programme start="20260830221600 +0000" stop="20260830221900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Village ensoleillé</title>
-    <desc lang="fr">La vie quotidienne d'un village ensoleillé- Messieurs chameau, chien, une famille de raton laveur, un petit Chat, un cochon amical... </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983249/wide_generic/h640" />
-  </programme>
-  <programme start="20260830221900 +0000" stop="20260830222200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20260830222200 +0000" stop="20260830222500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Amis</title>
-    <desc lang="fr">Les amis, un petit singe et un petit ours jouent les jeux les plus variés. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985049/wide_generic/h640" />
-  </programme>
-  <programme start="20260830222500 +0000" stop="20260830222700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Bonshommes en légumes</title>
-    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2017</date>
-    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
-  </programme>
-  <programme start="20260830222700 +0000" stop="20260830223000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20260830223000 +0000" stop="20260830223200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Entraînons-nous !</title>
-    <desc lang="fr">Nous ne devrions être uniquement assis devant la télé. Allez debout et l'on se met au mouvement. Langi, Rundi et Rendi s'entraînent en imitant les mouvement de la nature. Entrainons-nous avec eux pour améliorer nos conditions physiques, rendons notre santé plus forte.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983238/wide_generic/h640" />
-  </programme>
-  <programme start="20260830223200 +0000" stop="20260830223500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Maintenant, nous jouons</title>
-    <desc lang="fr">Nous jouons avec les membres et objets les plus proches de notre famille: mère et père, enfants sur l'aire de jeu, dessins et coloriage. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983241/wide_generic/h640" />
-  </programme>
-  <programme start="20260830223500 +0000" stop="20260830223700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20260830223700 +0000" stop="20260830224000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Holiday</title>
-    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
-  </programme>
-  <programme start="20260830224000 +0000" stop="20260830224300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde aquatique</title>
-    <desc lang="fr">Nous nous figurons les divers animaux exotiques tels que nous ne pouvons pas voir autour de notre maison.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série jeunesse</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4257175/wide_generic/h640" />
-  </programme>
-  <programme start="20260830224300 +0000" stop="20260830224500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Bonshommes en légumes</title>
-    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2017</date>
-    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
-  </programme>
-  <programme start="20260830224500 +0000" stop="20260830224900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Village ensoleillé</title>
-    <desc lang="fr">La vie quotidienne d'un village ensoleillé- Messieurs chameau, chien, une famille de raton laveur, un petit Chat, un cochon amical... </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983249/wide_generic/h640" />
-  </programme>
-  <programme start="20260830224900 +0000" stop="20260830225200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20260830225200 +0000" stop="20260830225400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Holiday</title>
-    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
-  </programme>
-  <programme start="20260830225400 +0000" stop="20260830225700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+    <icon src="https://img2.oqee.net/pictures/4494423/wide_generic/h640" />
   </programme>
   <programme start="20260830225700 +0000" stop="20260830230100 +0000" channel="DuckTV.fr">
     <title lang="fr">Monde aquatique</title>
@@ -129981,234 +129834,597 @@
     <category lang="fr">Emission jeunesse</category>
     <icon src="https://img2.oqee.net/pictures/4985059/wide_generic/h640" />
   </programme>
-  <programme start="20260830060000 +0100" stop="20260830060200 +0100" channel="Watania1.tn">
+  <programme start="20260906220000 +0000" stop="20260906220300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde aquatique</title>
+    <desc lang="fr">Nous nous figurons les divers animaux exotiques tels que nous ne pouvons pas voir autour de notre maison.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série jeunesse</category>
+    <date>2016</date>
+    <icon src="https://img2.oqee.net/pictures/4257175/wide_generic/h640" />
+  </programme>
+  <programme start="20260906220300 +0000" stop="20260906220500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Village ensoleillé</title>
+    <desc lang="fr">La vie quotidienne d'un village ensoleillé- Messieurs chameau, chien, une famille de raton laveur, un petit Chat, un cochon amical... </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983249/wide_generic/h640" />
+  </programme>
+  <programme start="20260906220500 +0000" stop="20260906220800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20260906220800 +0000" stop="20260906221100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Miracle en couleurs</title>
+    <desc lang="fr">Nous apprenons à reconnaître les couleurs.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985058/wide_generic/h640" />
+  </programme>
+  <programme start="20260906221100 +0000" stop="20260906221400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20260906221400 +0000" stop="20260906221600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Entraînons-nous !</title>
+    <desc lang="fr">Nous ne devrions être uniquement assis devant la télé. Allez debout et l'on se met au mouvement. Langi, Rundi et Rendi s'entraînent en imitant les mouvement de la nature. Entrainons-nous avec eux pour améliorer nos conditions physiques, rendons notre santé plus forte.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983238/wide_generic/h640" />
+  </programme>
+  <programme start="20260906221600 +0000" stop="20260906222000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Village ensoleillé</title>
+    <desc lang="fr">La vie quotidienne d'un village ensoleillé- Messieurs chameau, chien, une famille de raton laveur, un petit Chat, un cochon amical... </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983249/wide_generic/h640" />
+  </programme>
+  <programme start="20260906222000 +0000" stop="20260906222300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Village ensoleillé</title>
+    <desc lang="fr">La vie quotidienne d'un village ensoleillé- Messieurs chameau, chien, une famille de raton laveur, un petit Chat, un cochon amical... </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983249/wide_generic/h640" />
+  </programme>
+  <programme start="20260906222300 +0000" stop="20260906222500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20260906222500 +0000" stop="20260906222700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Bonshommes en légumes</title>
+    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2017</date>
+    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
+  </programme>
+  <programme start="20260906222700 +0000" stop="20260906222900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Maintenant, nous jouons</title>
+    <desc lang="fr">Nous jouons avec les membres et objets les plus proches de notre famille: mère et père, enfants sur l'aire de jeu, dessins et coloriage. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983241/wide_generic/h640" />
+  </programme>
+  <programme start="20260906222900 +0000" stop="20260906223200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petits animaux</title>
+    <desc lang="fr">Venons avec nous dans une forêt, vous allez voir une partie sauvage. </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2015</date>
+    <icon src="https://img1.oqee.net/pictures/4254246/wide_generic/h640" />
+  </programme>
+  <programme start="20260906223200 +0000" stop="20260906223500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde aquatique</title>
+    <desc lang="fr">Nous nous figurons les divers animaux exotiques tels que nous ne pouvons pas voir autour de notre maison.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série jeunesse</category>
+    <date>2016</date>
+    <icon src="https://img2.oqee.net/pictures/4257175/wide_generic/h640" />
+  </programme>
+  <programme start="20260906223500 +0000" stop="20260906223700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Holiday</title>
+    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
+  </programme>
+  <programme start="20260906223700 +0000" stop="20260906223900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde aquatique</title>
+    <desc lang="fr">Nous nous figurons les divers animaux exotiques tels que nous ne pouvons pas voir autour de notre maison.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série jeunesse</category>
+    <date>2016</date>
+    <icon src="https://img2.oqee.net/pictures/4257175/wide_generic/h640" />
+  </programme>
+  <programme start="20260906223900 +0000" stop="20260906224200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Quelle est ta profession ?</title>
+    <desc lang="fr">Nous vous présentons les diverses professions. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983275/wide_generic/h640" />
+  </programme>
+  <programme start="20260906224200 +0000" stop="20260906224400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Amis</title>
+    <desc lang="fr">Les amis, un petit singe et un petit ours jouent les jeux les plus variés. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985049/wide_generic/h640" />
+  </programme>
+  <programme start="20260906224400 +0000" stop="20260906224700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Maintenant, nous jouons</title>
+    <desc lang="fr">Nous jouons avec les membres et objets les plus proches de notre famille: mère et père, enfants sur l'aire de jeu, dessins et coloriage. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983241/wide_generic/h640" />
+  </programme>
+  <programme start="20260906224700 +0000" stop="20260906225100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde aquatique</title>
+    <desc lang="fr">Nous nous figurons les divers animaux exotiques tels que nous ne pouvons pas voir autour de notre maison.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série jeunesse</category>
+    <date>2016</date>
+    <icon src="https://img2.oqee.net/pictures/4257175/wide_generic/h640" />
+  </programme>
+  <programme start="20260906225100 +0000" stop="20260906225400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Amis</title>
+    <desc lang="fr">Les amis, un petit singe et un petit ours jouent les jeux les plus variés. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985049/wide_generic/h640" />
+  </programme>
+  <programme start="20260906225400 +0000" stop="20260906225600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Bonshommes en légumes</title>
+    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2017</date>
+    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
+  </programme>
+  <programme start="20260906225600 +0000" stop="20260906225800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Maintenant, nous jouons</title>
+    <desc lang="fr">Nous jouons avec les membres et objets les plus proches de notre famille: mère et père, enfants sur l'aire de jeu, dessins et coloriage. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983241/wide_generic/h640" />
+  </programme>
+  <programme start="20260906225800 +0000" stop="20260906230100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde des Elfes</title>
+    <desc lang="fr">Vous allez vivre d'incroyables aventures avec les elfes. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983252/wide_generic/h640" />
+  </programme>
+  <programme start="20260831060000 +0100" stop="20260831060200 +0100" channel="Watania1.tn">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-TWugUrC7.jpg" />
   </programme>
-  <programme start="20260830060200 +0100" stop="20260830062000 +0100" channel="Watania1.tn">
+  <programme start="20260831060200 +0100" stop="20260831062500 +0100" channel="Watania1.tn">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-3Bte7UvD.jpg" />
   </programme>
-  <programme start="20260830062000 +0100" stop="20260830064500 +0100" channel="Watania1.tn">
+  <programme start="20260831062500 +0100" stop="20260831064500 +0100" channel="Watania1.tn">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-n5fHi64u.jpg" />
   </programme>
-  <programme start="20260830064500 +0100" stop="20260830071000 +0100" channel="Watania1.tn">
+  <programme start="20260831064500 +0100" stop="20260831071000 +0100" channel="Watania1.tn">
     <title lang="ar">في خلقه شؤون</title>
     <desc lang="ar">وثائقي يسلّط الضوء على عظمة خلق الله وتنوّع شؤونه في الكون، من خلال عرض مشاهد الطبيعة والحياة، مبرزًا دقّة الخلق وجماله وتجدّده المستمر بأسلوب بصري وتأمّلي يعزّز الإيمان والتفكّر</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-ztIMKehl.jpg" />
   </programme>
-  <programme start="20260830071000 +0100" stop="20260830073500 +0100" channel="Watania1.tn">
+  <programme start="20260831071000 +0100" stop="20260831073500 +0100" channel="Watania1.tn">
     <title lang="ar">سلسلة علماء المسلمين</title>
     <desc lang="ar">سلسلة تسلط الضوء على مشاهير العلماء المسلمين في جميع المجلات</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-ocsOPZyE.jpg" />
   </programme>
-  <programme start="20260830073500 +0100" stop="20260830083000 +0100" channel="Watania1.tn">
+  <programme start="20260831073500 +0100" stop="20260831082500 +0100" channel="Watania1.tn">
     <title lang="ar">قصص من الأرض</title>
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bRGRhUKH.jpg" />
   </programme>
-  <programme start="20260830083000 +0100" stop="20260830093000 +0100" channel="Watania1.tn">
-    <title lang="ar">وثائقي: المقطوع و الموصول</title>
-    <desc lang="ar">من "رهبة الركح" إلى "هوس الأرقام": حكاية التمثيل في تونس ورحلته الطويلة بين جيل التأسيس وعصر "الكاستينغ" الرقمي</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bFukJKEe.jpg" />
+  <programme start="20260831082500 +0100" stop="20260831090000 +0100" channel="Watania1.tn">
+    <title lang="ar">تونس المدينة العتيقة</title>
+    <desc lang="ar">رحلة داخل أزقة المدينة العتيقة، حيث يلتقي التاريخ بالحياة اليومية في تناغم فريد. ن خلال معالمها العريقة، وأسواقها النابضة، وحِرفها التقليدية نغوص في ذاكرة المكان، حيث لكل زاوية حكاية، ولكل باب أثر يروي جزءًا من تاريخ تونس.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-2cxotMLr.jpg" />
   </programme>
-  <programme start="20260830093000 +0100" stop="20260830100000 +0100" channel="Watania1.tn">
+  <programme start="20260831090000 +0100" stop="20260831094000 +0100" channel="Watania1.tn">
+    <title lang="ar">محلاها بلادي... تونس البية</title>
+    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-fYQXnORB.jpg" />
+  </programme>
+  <programme start="20260831094000 +0100" stop="20260831100000 +0100" channel="Watania1.tn">
+    <title lang="ar">صنعة إيديك</title>
+    <desc lang="ar">صنعة إيديك</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-jHri5pNr.jpg" />
+  </programme>
+  <programme start="20260831100000 +0100" stop="20260831103000 +0100" channel="Watania1.tn">
     <title lang="ar">ديما عامرة</title>
     <desc lang="ar">من الأكلات الشعبية إلى الأطباق العائلية الغنية، نكتشف معًا أسرار المطبخ التونسي، بلمسة عصرية وروح مليئة بالدفء والكرم</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-ucTGG3lB.jpg" />
   </programme>
-  <programme start="20260830100000 +0100" stop="20260830102500 +0100" channel="Watania1.tn">
-    <title lang="ar">المتحف الوطني بباردو.. كنوز الحضارات</title>
-    <desc lang="ar">وثائقي يسلط الضوء على كنوز متحف باردو</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-k8Fz4REU.jpg" />
+  <programme start="20260831103000 +0100" stop="20260831113500 +0100" channel="Watania1.tn">
+    <title lang="ar">شريط وثائقي: حول تاريخ حديقة البلفيدير</title>
+    <desc lang="ar">شريط وثائقي: حول تاريخ حديقة البلفيدير</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-i6dcxyUD.jpg" />
   </programme>
-  <programme start="20260830102500 +0100" stop="20260830112500 +0100" channel="Watania1.tn">
-    <title lang="ar">منازل الفن</title>
-    <desc lang="ar">منازل الفن فضاء للتفكير والتفكيك داخل بيوت الثقافة والفن ..ليس المهم أن نجيب عن جميع الأسئلة ولكن حسبنا أننا نستعرض الأسئلة وندعو الى التفكير والفهم. منازل الفن برنامج ثقافي إعداد وتقديم شادية خذير إخراج هشام العكرمي</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-b8yG6N3B.jpg" />
-  </programme>
-  <programme start="20260830112500 +0100" stop="20260830120500 +0100" channel="Watania1.tn">
+  <programme start="20260831113500 +0100" stop="20260831122000 +0100" channel="Watania1.tn">
     <title lang="ar">برنامج صيف وكيف</title>
     <desc lang="ar">من قلب السواحل التونسية</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-dVlD0v1k.jpg" />
   </programme>
-  <programme start="20260830120500 +0100" stop="20260830130000 +0100" channel="Watania1.tn">
-    <title lang="ar">مسلسل الزوجة الخامسة</title>
-    <desc lang="ar">دراما تونسية تتناول الفترة ما قبل ثورة 14 يناير وما بعدها وتلقي الضوء على موضوعات شائكة مثل الزواج العرفي والتحرش الجنسي والمعاملة القاسية للزوجات من أزواجهن جنسيًا وماديًا ومعنويًا وأيضًا جرائم المخدرات والإتجار فيها وما ينتج عنها من أضرار على المجتمع التونسي.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-vCYyfNqB.jpg" />
+  <programme start="20260831122000 +0100" stop="20260831130000 +0100" channel="Watania1.tn">
+    <title lang="ar">المجلة الصحية</title>
+    <desc lang="ar">المجلة الصحية</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-5ZFZzAn9.jpg" />
   </programme>
-  <programme start="20260830130000 +0100" stop="20260830133000 +0100" channel="Watania1.tn">
+  <programme start="20260831130000 +0100" stop="20260831133000 +0100" channel="Watania1.tn">
     <title lang="ar">نشرة الظهر للأخبار</title>
     <desc lang="ar">نشرة الظهر للأخبار</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-pmE4d5K1.jpg" />
   </programme>
-  <programme start="20260830133000 +0100" stop="20260830140000 +0100" channel="Watania1.tn">
-    <title lang="ar">خيوط الذاكرة ....سوق القماش</title>
-    <desc lang="ar">في قلب المدينة العتيقة، حيث يمتزج عبق الأزقة بصخب الحياة، يروي سوق القماش حكاية زمنٍ حيّ لم ينقطع. هذا الوثائقي يغوص في تاريخ السوق وعلاقته بـجامع الزيتونة المعمور، حيث كان الأئمة من روّاده، في تداخل فريد بين العلم والتجارة. وبمرافقة باحث في الأنثروبولوجيا، نكتشف كيف ظلّ السوق يحافظ على روحه، رابطًا بين ذاكرة الماضي وتحولات الحاضر.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bh4KUHa6.jpg" />
-  </programme>
-  <programme start="20260830140000 +0100" stop="20260830160500 +0100" channel="Watania1.tn">
-    <title lang="ar">شريط سينمائي: الباشا تلميذ</title>
-    <desc lang="ar">تدور قصة الفيلم حول جامعة الصفوة التي كان فيها الكثير من الطلبة الذين كانوا يدمنون المخدرات وهنا كان يحاول اللواء نجدت (حسن حسني) بأن يحل هذه المشكلة ولكنه يفشل دوما، إلا أن يتوصل إلى خطة حيث يختار إحدى الضباط من دفعة حديثة فاختار الضابط بسيوني (كريم عبد العزيز) وشرح له الخطة بأن يكون إحدى الطلبة في تلك الجامعة فوافق بسيوني وهنا تدور الأحداث في الجامعة ويتعرف بسيوني على إنجي (غادة عادل) وطارق عدوه اللدود (محمد رجب) والبنت الغريبة مايا (مها أحمد) والمطرب الفاشل حمزة (رامز جلال) ويخوض الكثير من المغامرات ويقع في حب إنجي، إلا أن يكتشف أمره فيرحل عن الجامعة ويفشل في مهمته، ولكن إنجي وحمزة اكتشفا أنه كان يبحث عن المخدرات فقررا مساعدته وكذلك ساعده طارق وبعد ذلك نجح بسيوني في مهمته وكوفئ بعد ذلك وكذلك تخرجت إنجي وحمزة ومايا من الجامعة.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-plHzHmL3.jpg" />
-  </programme>
-  <programme start="20260830160500 +0100" stop="20260830163000 +0100" channel="Watania1.tn">
-    <title lang="ar">أستديو تحليلي</title>
-    <desc lang="ar">أستديو تحليلي</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-U4JNLsgf.jpg" />
-  </programme>
-  <programme start="20260830163000 +0100" stop="20260830171500 +0100" channel="Watania1.tn">
-    <title lang="ar">كرة القدم: شبيبة العمران / الترجي الرياضي التونسي</title>
-    <desc lang="ar">كرة القدم: شبيبة العمران / الترجي الرياضي التونسي</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-C1t0yZlr.jpg" />
-  </programme>
-  <programme start="20260830171500 +0100" stop="20260830173000 +0100" channel="Watania1.tn">
-    <title lang="ar">النشرة المسائية للأخبار</title>
-    <desc lang="ar">النشرة المسائية للأخبار</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-DurHzZDF.jpg" />
-  </programme>
-  <programme start="20260830173000 +0100" stop="20260830182000 +0100" channel="Watania1.tn">
-    <title lang="ar">كرة القدم: الترجي الرياضي التونسي / النجم الرياضي الساحلي</title>
-    <desc lang="ar">كرة قدم: البطولة المحترفة 1 ج 01: الترجي الرياضي التونسي / النجم الرياضي الساحلي</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-2tcrnnab.jpg" />
-  </programme>
-  <programme start="20260830182000 +0100" stop="20260830183500 +0100" channel="Watania1.tn">
-    <title lang="ar">أستديو تحليلي</title>
-    <desc lang="ar">أستديو تحليلي</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-U4JNLsgf.jpg" />
-  </programme>
-  <programme start="20260830183500 +0100" stop="20260830200000 +0100" channel="Watania1.tn">
-    <title lang="ar">مسلسل كمنجة سلامة</title>
-    <desc lang="ar">كمنجة سلّامة مسلسل درامي تونسي يتكون من خمس عشرة حلقة، عُرض في النصف الأول من شهر رمضان سنة 2007 وهو من تأليف علي اللواتي وإخراج حمادي عرافة</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Qaut0bWQ.jpg" />
-  </programme>
-  <programme start="20260830200000 +0100" stop="20260830204000 +0100" channel="Watania1.tn">
-    <title lang="ar">النشرة الرئيسية للأخبار</title>
-    <desc lang="ar">النشرة الرئيسية للأخبار</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-qGCKcxop.jpg" />
-  </programme>
-  <programme start="20260830204000 +0100" stop="20260830205000 +0100" channel="Watania1.tn">
-    <title lang="ar">النشرة الجوية</title>
-    <desc lang="ar">حالة الطقس المتوقعة (حالة الطقس , الرياح و الرطوبة، أوقات الصلاة، الشروق و الغروب والتنبيهات...)</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-FpffdaFg.jpg" />
-  </programme>
-  <programme start="20260830205000 +0100" stop="20260831000000 +0100" channel="Watania1.tn">
+  <programme start="20260831133000 +0100" stop="20260831163000 +0100" channel="Watania1.tn">
     <title lang="ar">الأحد الرياضي</title>
     <desc lang="ar">برنامج الأحد الرياضي من أعرق البرامج الرياضية في تونس، حيث يُبثّ على القناة الوطنية الأولى منذ سنة 1970، محافظًا على مكانته كمرجع إعلامي في متابعة الشأن الرياضي الوطني. يقدّم البرنامج تغطية شاملة لأهم مستجدات الساحة الرياضية، مع تركيز خاص على بطولة كرة القدم التونسية، من خلال ملخصات المباريات، التحاليل الفنية، الروبورتاجات الميدانية، والمتابعات الخاصة. كما يفتح المجال لنقاش معمّق بمشاركة محللين وضيوف من مختلف الاختصاصات الرياضية. ويتميّز البرنامج بأسلوبه التحليلي الرصين وثراء محتواه، بما يجعله فضاءً يجمع بين الخبر والتحليل والنقاش، ويواكب تطلعات الجمهور الرياضي التونسي. يُعدّ البرنامج ويقدّمه الإعلامي محمد علي بوزقرو، تحت إشراف رئيس التحرير حسام غراد.</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-p4gfRGms.jpg" />
   </programme>
-  <programme start="20260830060000 +0100" stop="20260830060200 +0100" channel="Watania2.tn">
+  <programme start="20260831163000 +0100" stop="20260831170000 +0100" channel="Watania1.tn">
+    <title lang="ar">عند عزيز</title>
+    <desc lang="ar">يروي المسلسل قصة عزيّز، الذي يملك محلا تجاريا أو كما يسميه هو «سوبارات» ويعاني من صعوبات بسبب افتتاح محل تجاري ضخم قرب محله.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-PBCa5MeQ.jpg" />
+  </programme>
+  <programme start="20260831170000 +0100" stop="20260831172000 +0100" channel="Watania1.tn">
+    <title lang="ar">النشرة المسائية للأخبار</title>
+    <desc lang="ar">النشرة المسائية للأخبار</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-DurHzZDF.jpg" />
+  </programme>
+  <programme start="20260831172000 +0100" stop="20260831172500 +0100" channel="Watania1.tn">
+    <title lang="ar">إصدارات</title>
+    <desc lang="ar">ملخص لآخر الاصدارات الادبية والدواوين الشعرية والنشريات الثقافية</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-YGXkt41n.jpg" />
+  </programme>
+  <programme start="20260831172500 +0100" stop="20260831182500 +0100" channel="Watania1.tn">
+    <title lang="ar">مسلسل كمنجة سلامة</title>
+    <desc lang="ar">كمنجة سلّامة مسلسل درامي تونسي يتكون من خمس عشرة حلقة، عُرض في النصف الأول من شهر رمضان سنة 2007 وهو من تأليف علي اللواتي وإخراج حمادي عرافة</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Qaut0bWQ.jpg" />
+  </programme>
+  <programme start="20260831182500 +0100" stop="20260831185500 +0100" channel="Watania1.tn">
+    <title lang="ar">سيتكوم الفارمسي</title>
+    <desc lang="ar">سيتكوم الفارمسي</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-5iJE8Bi0.jpg" />
+  </programme>
+  <programme start="20260831185500 +0100" stop="20260831193000 +0100" channel="Watania1.tn">
+    <title lang="ar">برنامج لغات</title>
+    <desc lang="ar">برنامج لغات بحث في كيفية التواصل بين المخلوقات في عوالمها و بحث و تحقيق فيما ابتدعه الإنسان من أنظمة في التواصل و ما يسلكه من انساق في التعامل بينه و بين المختلف عنه من لغة الإشارة و الإيماء الى لغة براي و لغة الذكاء الاصطناعي برنامج لغات تفكير بالاستناد الى ما كشفه العلم في حقائق التواصل و التفاعل بين منظومات الكون و عناصر الطبيعة</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-f3JMIEsR.jpg" />
+  </programme>
+  <programme start="20260831193000 +0100" stop="20260831200000 +0100" channel="Watania1.tn">
+    <title lang="ar">محلاها بلادي... تونس البية</title>
+    <desc lang="ar">برنامج يحتفي بجمال تونس يكتشف ملامحها كما نحبّها: أصيلة، متنوّعة، ومليئة بالحياة. هو دعوة لاكتشاف تفاصيل صغيرة تصنع الفرق، وتُبرز روح البلاد في أبسط صورها وأجملها.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-fYQXnORB.jpg" />
+  </programme>
+  <programme start="20260831200000 +0100" stop="20260831204000 +0100" channel="Watania1.tn">
+    <title lang="ar">النشرة الرئيسية للأخبار</title>
+    <desc lang="ar">النشرة الرئيسية للأخبار</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-qGCKcxop.jpg" />
+  </programme>
+  <programme start="20260831204000 +0100" stop="20260831205000 +0100" channel="Watania1.tn">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">حالة الطقس المتوقعة (حالة الطقس , الرياح و الرطوبة، أوقات الصلاة، الشروق و الغروب والتنبيهات...)</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-FpffdaFg.jpg" />
+  </programme>
+  <programme start="20260831205000 +0100" stop="20260831215000 +0100" channel="Watania1.tn">
+    <title lang="ar">مسلسل الزوجة الخامسة</title>
+    <desc lang="ar">دراما تونسية تتناول الفترة ما قبل ثورة 14 يناير وما بعدها وتلقي الضوء على موضوعات شائكة مثل الزواج العرفي والتحرش الجنسي والمعاملة القاسية للزوجات من أزواجهن جنسيًا وماديًا ومعنويًا وأيضًا جرائم المخدرات والإتجار فيها وما ينتج عنها من أضرار على المجتمع التونسي.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-vCYyfNqB.jpg" />
+  </programme>
+  <programme start="20260831215000 +0100" stop="20260831233000 +0100" channel="Watania1.tn">
+    <title lang="ar">الكتبية</title>
+    <desc lang="ar">شريط سينمائي تونسي الكتبية : شاب يعود من فرنسا ويقع في حب امرأة تكبره سنًا… وفي المقابل، يعيش ابنها صراعًا مع زوجة متمردة تعشق الغناء. حكايات متشابكة عن الحب والاختلاف داخل عائلة واحدة.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-LaYVVCvR.jpg" />
+  </programme>
+  <programme start="20260831233000 +0100" stop="20260901000000 +0100" channel="Watania1.tn">
+    <title lang="ar">برنامج صيف وكيف</title>
+    <desc lang="ar">من قلب السواحل التونسية</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-dVlD0v1k.jpg" />
+  </programme>
+  <programme start="20260831000000 +0100" stop="20260831001500 +0100" channel="Watania1.tn">
+    <title lang="ar">نشرة منتصف الليل للأخبار</title>
+    <desc lang="ar">نشرة منتصف الليل للأخبار</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-FRneWNVU.jpg" />
+  </programme>
+  <programme start="20260831001500 +0100" stop="20260831002000 +0100" channel="Watania1.tn">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">حالة الطقس المتوقعة (حالة الطقس , الرياح و الرطوبة، أوقات الصلاة، الشروق و الغروب والتنبيهات...)</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-FpffdaFg.jpg" />
+  </programme>
+  <programme start="20260831002000 +0100" stop="20260831011500 +0100" channel="Watania1.tn">
+    <title lang="ar">مسلسل كمنجة سلامة</title>
+    <desc lang="ar">كمنجة سلّامة مسلسل درامي تونسي يتكون من خمس عشرة حلقة، عُرض في النصف الأول من شهر رمضان سنة 2007 وهو من تأليف علي اللواتي وإخراج حمادي عرافة</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Qaut0bWQ.jpg" />
+  </programme>
+  <programme start="20260831011400 +0100" stop="20260831014500 +0100" channel="Watania1.tn">
+    <title lang="ar">عند عزيز</title>
+    <desc lang="ar">يروي المسلسل قصة عزيّز، الذي يملك محلا تجاريا أو كما يسميه هو «سوبارات» ويعاني من صعوبات بسبب افتتاح محل تجاري ضخم قرب محله.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-PBCa5MeQ.jpg" />
+  </programme>
+  <programme start="20260831014500 +0100" stop="20260831021500 +0100" channel="Watania1.tn">
+    <title lang="ar">سيتكوم الفارمسي</title>
+    <desc lang="ar">سيتكوم الفارمسي</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-5iJE8Bi0.jpg" />
+  </programme>
+  <programme start="20260831021500 +0100" stop="20260831032500 +0100" channel="Watania1.tn">
+    <title lang="ar">شريط وثائقي: حول تاريخ حديقة البلفيدير</title>
+    <desc lang="ar">شريط وثائقي: حول تاريخ حديقة البلفيدير</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-i6dcxyUD.jpg" />
+  </programme>
+  <programme start="20260831032500 +0100" stop="20260831041000 +0100" channel="Watania1.tn">
+    <title lang="ar">المجلة الصحية</title>
+    <desc lang="ar">المجلة الصحية</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-5ZFZzAn9.jpg" />
+  </programme>
+  <programme start="20260831041000 +0100" stop="20260831050000 +0100" channel="Watania1.tn">
+    <title lang="ar">تونس المدينة العتيقة</title>
+    <desc lang="ar">رحلة داخل أزقة المدينة العتيقة، حيث يلتقي التاريخ بالحياة اليومية في تناغم فريد. ن خلال معالمها العريقة، وأسواقها النابضة، وحِرفها التقليدية نغوص في ذاكرة المكان، حيث لكل زاوية حكاية، ولكل باب أثر يروي جزءًا من تاريخ تونس.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-2cxotMLr.jpg" />
+  </programme>
+  <programme start="20260831050000 +0100" stop="20260831060000 +0100" channel="Watania1.tn">
+    <title lang="ar">قصص من الأرض</title>
+    <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bRGRhUKH.jpg" />
+  </programme>
+  <programme start="20260831060000 +0100" stop="20260831060200 +0100" channel="Watania2.tn">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-TWugUrC7.jpg" />
   </programme>
-  <programme start="20260830060200 +0100" stop="20260830062000 +0100" channel="Watania2.tn">
+  <programme start="20260831060200 +0100" stop="20260831062000 +0100" channel="Watania2.tn">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-3Bte7UvD.jpg" />
   </programme>
-  <programme start="20260830062000 +0100" stop="20260830063000 +0100" channel="Watania2.tn">
+  <programme start="20260831062000 +0100" stop="20260831063000 +0100" channel="Watania2.tn">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-n5fHi64u.jpg" />
   </programme>
-  <programme start="20260830063000 +0100" stop="20260830070000 +0100" channel="Watania2.tn">
-    <title lang="ar">مقتطفات من حفل فيروز</title>
-    <desc lang="ar">مقتطفات من حفل فيروز</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-c3X2hHVv.jpg" />
+  <programme start="20260831063000 +0100" stop="20260831070000 +0100" channel="Watania2.tn">
+    <title lang="ar">فقرة انشادية: حاتم الفرشيشي</title>
+    <desc lang="ar">فقرة انشادية: حاتم الفرشيشي</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-GCPUDmv2.jpg" />
   </programme>
-  <programme start="20260830070000 +0100" stop="20260830080000 +0100" channel="Watania2.tn">
+  <programme start="20260831070000 +0100" stop="20260831080000 +0100" channel="Watania2.tn">
     <title lang="ar">تبّعني</title>
     <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Xw7JZHJy.jpg" />
   </programme>
-  <programme start="20260830080000 +0100" stop="20260830084500 +0100" channel="Watania2.tn">
+  <programme start="20260831080000 +0100" stop="20260831084500 +0100" channel="Watania2.tn">
     <title lang="ar">مسلسل ماطوس</title>
     <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-XSTZnMCr.jpg" />
   </programme>
-  <programme start="20260830084500 +0100" stop="20260830091500 +0100" channel="Watania2.tn">
-    <title lang="ar">وثائقي: جربة قباب من نور</title>
-    <desc lang="ar">"جربة… قباب من نور" وثائقي يستكشف جمال العمارة في جزيرة جربة، حيث تروي القباب البيضاء حكاية المكان والذاكرة.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-h4Akcmaw.jpg" />
+  <programme start="20260831084500 +0100" stop="20260831091500 +0100" channel="Watania2.tn">
+    <title lang="ar">خيوط الذاكرة ....سوق القماش</title>
+    <desc lang="ar">في قلب المدينة العتيقة، حيث يمتزج عبق الأزقة بصخب الحياة، يروي سوق القماش حكاية زمنٍ حيّ لم ينقطع. هذا الوثائقي يغوص في تاريخ السوق وعلاقته بـجامع الزيتونة المعمور، حيث كان الأئمة من روّاده، في تداخل فريد بين العلم والتجارة. وبمرافقة باحث في الأنثروبولوجيا، نكتشف كيف ظلّ السوق يحافظ على روحه، رابطًا بين ذاكرة الماضي وتحولات الحاضر.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bh4KUHa6.jpg" />
   </programme>
-  <programme start="20260830091500 +0100" stop="20260830100000 +0100" channel="Watania2.tn">
-    <title lang="ar">وثائقي: قرطاجنة</title>
-    <desc lang="ar">قرطاجنة هي مدينة ساحلية تقع في منطقة مرسية جنوب شرق إسبانيا</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-EVmxjddC.jpg" />
+  <programme start="20260831091500 +0100" stop="20260831101500 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل أقفاص بلا طيور</title>
+    <desc lang="ar">مسلسل أقفاص بلا طيور</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Hb2BMCk9.jpg" />
   </programme>
-  <programme start="20260830100000 +0100" stop="20260830110000 +0100" channel="Watania2.tn">
-    <title lang="ar">شريط وثائقي: تلفزيون الامتاع والمؤانسة</title>
-    <desc lang="ar">شريط وثائقي: تلفزيون الامتاع والمؤانسة</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-BSqs0E5K.jpg" />
+  <programme start="20260831101500 +0100" stop="20260831110000 +0100" channel="Watania2.tn">
+    <title lang="ar">تونس المزيانة</title>
+    <desc lang="ar">تونس المزيانة</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VFD1QTNQ.jpg" />
   </programme>
-  <programme start="20260830110000 +0100" stop="20260830113000 +0100" channel="Watania2.tn">
+  <programme start="20260831110000 +0100" stop="20260831113000 +0100" channel="Watania2.tn">
     <title lang="ar">للا سندريلا</title>
     <desc lang="ar">للا سندريلا</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-C2RcnhGI.jpg" />
   </programme>
-  <programme start="20260830113000 +0100" stop="20260830130000 +0100" channel="Watania2.tn">
+  <programme start="20260831113000 +0100" stop="20260831130000 +0100" channel="Watania2.tn">
     <title lang="ar">صور متحركة</title>
     <desc lang="ar">صور متحركة</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-8QQRIXRa.jpg" />
   </programme>
-  <programme start="20260830130000 +0100" stop="20260830134000 +0100" channel="Watania2.tn">
+  <programme start="20260831130000 +0100" stop="20260831134000 +0100" channel="Watania2.tn">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">شوفلي حل</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VmbGmZ9y.jpg" />
   </programme>
-  <programme start="20260830134000 +0100" stop="20260830143000 +0100" channel="Watania2.tn">
+  <programme start="20260831134000 +0100" stop="20260831143000 +0100" channel="Watania2.tn">
     <title lang="ar">مسلسل الدوار</title>
     <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-IQniO3qJ.jpg" />
   </programme>
-  <programme start="20260830143000 +0100" stop="20260830150000 +0100" channel="Watania2.tn">
+  <programme start="20260831143000 +0100" stop="20260831150000 +0100" channel="Watania2.tn">
     <title lang="ar">دار الخلاعة</title>
     <desc lang="ar">كريّم، خبير محاسب، يقرر قضاء عطلته الصيفية مع زوجته الجديدة حياة، التي تصغره سنًا. يدعو شقيقتي حياة، هادية وهناء، لقضاء العطلة معهما في منزل على البحر في منطقة الوطن القبلي، رفقة عائلاتهما.</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-sycoeskd.jpg" />
   </programme>
-  <programme start="20260830150000 +0100" stop="20260830161500 +0100" channel="Watania2.tn">
-    <title lang="ar">الذكرى الستون للتلفزة التونسية: الميلاد و العنفوان (الدراما...الروايات و التمثليات -الجزء الأول- )</title>
-    <desc lang="ar">وثائقي بمناسبة الذكرى 60 لتأسيس التلفزة التونسية</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-rTj3eQfQ.jpg" />
+  <programme start="20260831150000 +0100" stop="20260831170000 +0100" channel="Watania2.tn">
+    <title lang="ar">في الذاكرة الرياضية</title>
+    <desc lang="ar">في الذاكرة الرياضية</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bA0A37iC.jpg" />
   </programme>
-  <programme start="20260830161500 +0100" stop="20260830183000 +0100" channel="Watania2.tn">
-    <title lang="ar">كرة القدم: النجم الرياضي الساحلي /النجم الرياضي بالمتلوي</title>
-    <desc lang="ar">كرة القدم: النجم الرياضي الساحلي /النجم الرياضي بالمتلوي</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-K6FVUQAM.jpg" />
-  </programme>
-  <programme start="20260830183000 +0100" stop="20260830190000 +0100" channel="Watania2.tn">
-    <title lang="ar">للا سندريلا</title>
-    <desc lang="ar">للا سندريلا</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-C2RcnhGI.jpg" />
-  </programme>
-  <programme start="20260830190000 +0100" stop="20260830203000 +0100" channel="Watania2.tn">
-    <title lang="ar">كرة القدم-تسجيل: نادي حمام الأنف /النادي البنزرتي</title>
-    <desc lang="ar">كرة القدم- تسجيل: نادي حمام الأنف /النادي البنزرتي</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VUAGpHp6.jpg" />
-  </programme>
-  <programme start="20260830203000 +0100" stop="20260830211500 +0100" channel="Watania2.tn">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">شوفلي حل</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VmbGmZ9y.jpg" />
-  </programme>
-  <programme start="20260830211500 +0100" stop="20260830221500 +0100" channel="Watania2.tn">
-    <title lang="ar">مسلسل الدوار</title>
-    <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-IQniO3qJ.jpg" />
-  </programme>
-  <programme start="20260830221400 +0100" stop="20260830230000 +0100" channel="Watania2.tn">
+  <programme start="20260831170000 +0100" stop="20260831174500 +0100" channel="Watania2.tn">
     <title lang="ar">مسلسل نص يوم</title>
     <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها. لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-g9Wvs8A7.jpg" />
   </programme>
-  <programme start="20260830230000 +0100" stop="20260831000000 +0100" channel="Watania2.tn">
-    <title lang="ar">الحاج كلوف</title>
-    <desc lang="ar">شخصية "الحاج كلوف" صارت مضرب الأمثال، كيف يتدخل شخص في ما لا يعنيه.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-FsNp0FtH.jpg" />
+  <programme start="20260831174500 +0100" stop="20260831183000 +0100" channel="Watania2.tn">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-8QQRIXRa.jpg" />
+  </programme>
+  <programme start="20260831183000 +0100" stop="20260831190000 +0100" channel="Watania2.tn">
+    <title lang="ar">صحة برو</title>
+    <desc lang="ar">كوميديا يومية من قلب الحي ...بشبش يقرّر تغيير حياته… ويجدد صالون الحلاقة من الأرض إلى السقف. لكن المرايا الجديدة تعكس نفس الفوضى والزبائن</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-F0UWINQA.jpg" />
+  </programme>
+  <programme start="20260831190000 +0100" stop="20260831193000 +0100" channel="Watania2.tn">
+    <title lang="ar">أحكيلي عليها</title>
+    <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر. تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-RQ1BskZy.jpg" />
+  </programme>
+  <programme start="20260831193000 +0100" stop="20260831203000 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل أقفاص بلا طيور</title>
+    <desc lang="ar">مسلسل أقفاص بلا طيور</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Hb2BMCk9.jpg" />
+  </programme>
+  <programme start="20260831203000 +0100" stop="20260831211500 +0100" channel="Watania2.tn">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">شوفلي حل</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VmbGmZ9y.jpg" />
+  </programme>
+  <programme start="20260831211500 +0100" stop="20260831221500 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل الدوار</title>
+    <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-IQniO3qJ.jpg" />
+  </programme>
+  <programme start="20260831221500 +0100" stop="20260831230000 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل ماطوس</title>
+    <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-XSTZnMCr.jpg" />
+  </programme>
+  <programme start="20260831230000 +0100" stop="20260831234500 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل نص يوم</title>
+    <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها. لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-g9Wvs8A7.jpg" />
+  </programme>
+  <programme start="20260831234500 +0100" stop="20260901000000 +0100" channel="Watania2.tn">
+    <title lang="ar">في الذاكرة الرياضية</title>
+    <desc lang="ar">في الذاكرة الرياضية</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bA0A37iC.jpg" />
+  </programme>
+  <programme channel="ADN.fr" start="20260830220000 +0000" stop="20260830223000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>La brigade vient d'apprendre que Kurapika est le meurtrier d'Uvôguine. Ce n'est qu'une question …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488909819_0_20240227T162221393Z_89.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260830223000 +0000" stop="20260830224500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Kurapika a réussi à capturer Kuroro, il lui propose la liberté en échange de celle de Kirua et de…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488909827_0_20240227T162220993Z_135.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260830224500 +0000" stop="20260830231500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Le jeu Greed Island est aux enchères, Gon et Kirua viennent de demander à l'acheteur de les engag…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488351305_3_20240207T122123669Z_106.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260830231500 +0000" stop="20260830234500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua essayent d'être pris en tant que joueurs de Greed Island. Seuls 32 joueurs sur 200 …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488301558_2_20240205T145249007Z_128.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260830234500 +0000" stop="20260831000000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua ont réussi à rester dans le monde de Greed Island. Continuant leur recherche sur Jin…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488301580_2_20240205T145249007Z_80.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831000000 +0000" stop="20260831003000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua sont à la recherche des cartes de sort. Ils vont poursuivre des monstres mais certai…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488301563_4_20240205T145248685Z_128.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831003000 +0000" stop="20260831010000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Biscuit compte bien entraîner Gon et Kirua ! Leur premier test est de vaincre Binolt, le chasseu…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488301583_2_20240205T145248612Z_33.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831010000 +0000" stop="20260831013000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua progressent vite dans leur maîtrise du Nen sous la supervision de Bisc. Mais un cer…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488351304_0_20240207T122123527Z_91.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831013000 +0000" stop="20260831014500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua décident de travailler leurs techniques spéciales. Alors que Kirua quitte le jeu le…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488351303_5_20240207T122123808Z_39.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831014500 +0000" stop="20260831021500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Kirua va passer son examen de Hunter pour la deuxième fois. Dès son retour ce sera le moment de …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488909689_4_20240227T162221793Z_24.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831021500 +0000" stop="20260831024500 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et Kirua sont à la moitié du jeu. Mais la suite de l'aventure va devenir plus ardue. Ils vie…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488909814_4_20240227T162221700Z_130.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831024500 +0000" stop="20260831030000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Pour récupérer l'une des cartes les plus rares, il faut affronter 15 pirates. Malheureusement, l…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488909816_4_20240227T162221210Z_96.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831030000 +0000" stop="20260831033000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Gon et ses amis font désormais équipe avec Hisoka et Goreinu pour défier Laser à nouveau ... Avec…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489010622_7_20240301T221921219Z_1.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831033000 +0000" stop="20260831040000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>La partie de balle au prisonnier se poursuit. Tour à tour, les équipiers de Gon et Kirua se font …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489010620_9_20240301T221921286Z_69.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260831040000 +0000" stop="20260831043000 +0000">
+    <title>Hunter x Hunter 2011</title>
+    <desc>Le travail d'équipe ! C'est le mot pour vaincre Laser ! Enfin, Gon va peut-être se rapprocher de…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489010621_8_20240301T221921284Z_55.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
 </tv>
