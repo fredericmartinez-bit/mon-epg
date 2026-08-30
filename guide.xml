@@ -1271,6 +1271,21 @@
     <display-name>XXL</display-name>
     <icon src="https://i.imgur.com/TEuLkeQ.png" />
   </channel>
+  <channel id="DuckTV.fr">
+    <display-name>Duck TV</display-name>
+  </channel>
+  <channel id="PitchounKidsMusic.fr">
+    <display-name>Pitchoun Kids Music</display-name>
+  </channel>
+  <channel id="TVPitchoun.fr">
+    <display-name>TV Pitchoun</display-name>
+  </channel>
+  <channel id="Watania1.tn">
+    <display-name lang="fr">Watania 1</display-name>
+  </channel>
+  <channel id="Watania2.tn">
+    <display-name lang="fr">Watania 2</display-name>
+  </channel>
   <programme start="20260830043000 +0000" stop="20260830050000 +0000" channel="6ter.fr@SD">
     <title lang="fr">Les aventures de Tintin - Saison 3</title>
     <desc lang="fr">Les nombreuses aventures d'un jeune reporter à la houpette blonde et rousse, Tintin, toujours accompagné de son fidèle et malicieux fox-terrier Milou.</desc>
@@ -96606,21 +96621,6 @@
     </rating>
     <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/50083/canal-ouah/GEN169/XXL-oaET</image>
   </programme>
-  <channel id="DuckTV.fr">
-    <display-name>Duck TV</display-name>
-  </channel>
-  <channel id="PitchounKidsMusic.fr">
-    <display-name>Pitchoun Kids Music</display-name>
-  </channel>
-  <channel id="TVPitchoun.fr">
-    <display-name>TV Pitchoun</display-name>
-  </channel>
-  <channel id="Watania1.tn">
-    <display-name lang="fr">Watania 1</display-name>
-  </channel>
-  <channel id="Watania2.tn">
-    <display-name lang="fr">Watania 2</display-name>
-  </channel>
   <programme start="20260830000000 -0400" stop="20260830030000 -0400" channel="PitchounKidsMusic.fr">
     <title lang="fr">La playlist des Pitchouns</title>
     <category lang="fr">Clips</category>
