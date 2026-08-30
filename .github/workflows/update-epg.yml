@@ -27,6 +27,7 @@ jobs:
           python3 oqee_pitchoun.py
           python3 oqee_ducktv.py
           python3 tunisiatv_watania.py
+          python3 samsung_adn.py
 
       - name: Verify generated files
         run: |
@@ -34,12 +35,14 @@ jobs:
           test -s tv-pitchoun.xml
           test -s duck-tv.xml
           test -s watania-officiel.xml
+          test -s adn.xml
 
           ls -lh \
             pitchoun-kids.xml \
             tv-pitchoun.xml \
             duck-tv.xml \
-            watania-officiel.xml
+            watania-officiel.xml \
+            adn.xml
 
       - name: Merge generated EPG into guide.xml
         run: |
@@ -53,6 +56,7 @@ jobs:
               "tv-pitchoun.xml",
               "duck-tv.xml",
               "watania-officiel.xml",
+              "adn.xml",
           ]
 
           TARGET_IDS = {
@@ -61,6 +65,7 @@ jobs:
               "DuckTV.fr",
               "Watania1.tn",
               "Watania2.tn",
+              "ADN.fr",
           }
 
           tree = ET.parse(GUIDE)
