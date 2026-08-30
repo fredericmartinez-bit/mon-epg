@@ -6,7 +6,7 @@
   <channel site="sat.tv" site_id="1#72#Tunisna TV" lang="en" xmltv_id="TunisnaTV.tn">Tunisna TV</channel>
   <channel site="sat.tv" site_id="1#72#Al Janoubiya TV" lang="en" xmltv_id="AlJanoubiyaTV.tn">Al Janoubiya TV</channel>
   <channel site="sat.tv" site_id="1#72#Attessia" lang="en" xmltv_id="AttessiaTV.tn">Attessia TV</channel>
-  <channel site="sat.tv" site_id="1#72#El Hiwar Ettounsi" lang="en" xmltv_id="ElhiwarEttounsiTV.tn">El Hiwar Ettounsi</channel>
+  <channel site="canalplus.com" site_id="#1191" lang="fr" xmltv_id="ElhiwarEttounsiTV.tn">El Hiwar Ettounsi</channel>
   <channel site="sat.tv" site_id="1#72#Nessma El Jadida TV" lang="en" xmltv_id="NessmaElJadida.tn">Nessma El Jadida</channel>
   <channel site="sat.tv" site_id="1#72#Telvza TV" lang="en" xmltv_id="TelvzaTV.tn">Telvza TV</channel>
   <channel site="sat.tv" site_id="1#72#الزيتونة تي في" lang="ar" xmltv_id="ZitounaTV.tn">Zitouna TV</channel>
