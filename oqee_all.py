@@ -23,7 +23,7 @@ now -= now % 3600
 
 all_entries = {}
 
-for hour in range(25):
+for hour in range(169):
     ts = now + hour * 3600
     print(f"Récupération +{hour}h...")
 
