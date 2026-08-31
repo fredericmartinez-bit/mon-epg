@@ -44,7 +44,7 @@ jobs:
             tv-pitchoun.xml \
             duck-tv.xml \
             watania-officiel.xml \
-            adn.xml
+            adn.xml \
             guide-free.xml
 
       - name: Merge generated EPG into guide.xml
