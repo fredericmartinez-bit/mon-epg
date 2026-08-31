@@ -3,7 +3,7 @@ name: Update EPG
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 4 * * *'
+    - cron: '15 4,16 * * *'
 
 permissions:
   contents: write
