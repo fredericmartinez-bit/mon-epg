@@ -29,6 +29,8 @@ jobs:
           python3 tunisiatv_watania.py
           python3 samsung_adn.py
           python3 oqee_all.py
+          python3 sqool_tv.py
+          python3 esprit_sorcier.py
 
       - name: Verify generated files
         run: |
@@ -38,6 +40,8 @@ jobs:
           test -s watania-officiel.xml
           test -s adn.xml
           test -s guide-free.xml
+          test -s sqool-tv.xml
+          test -s esprit-sorcier.xml
 
           ls -lh \
             pitchoun-kids.xml \
@@ -45,7 +49,9 @@ jobs:
             duck-tv.xml \
             watania-officiel.xml \
             adn.xml \
-            guide-free.xml
+            guide-free.xml \
+            sqool-tv.xml \
+            esprit-sorcier.xml
 
       - name: Merge generated EPG into guide.xml
         run: |
@@ -60,6 +66,8 @@ jobs:
               "duck-tv.xml",
               "watania-officiel.xml",
               "adn.xml",
+              "sqool-tv.xml",
+              "esprit-sorcier.xml",
           ]
 
           TARGET_IDS = {
@@ -69,6 +77,8 @@ jobs:
               "Watania1.tn",
               "Watania2.tn",
               "ADN.fr",
+              "SQOOLTV.fr",
+              "LEspritSorcierTV.fr",
           }
 
           tree = ET.parse(GUIDE)
@@ -155,6 +165,9 @@ jobs:
               "DuckTV.fr",
               "Watania1.tn",
               "Watania2.tn",
+              "ADN.fr",
+              "SQOOLTV.fr",
+              "LEspritSorcierTV.fr",
           ]
 
           counts = Counter(
