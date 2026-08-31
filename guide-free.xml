@@ -1666,6 +1666,10 @@
     <title lang="fr">Enquête prioritaire - S01E203</title>
     <desc lang="fr">Dans la région du Cambrésis, il existe une brigade de gendarmerie unique en France : la cellule Mineurs Victimes de Cambrai. Sa spécialité est de traiter tous les cas de sévices sexuels, physiques ou moraux perpétrés sur des mineurs dans la région. Une équipe de tournage a pu suivre le travail difficile de ces gendarmes.</desc>
   </programme>
+  <programme channel="OQEE.1292" start="20260901024800 +0000" stop="20260901041500 +0000">
+    <title lang="fr">Enquête prioritaire</title>
+    <desc lang="fr">Clermont-Ferrand est une ville tranquille. Son taux de criminalité est parmi les plus bas du pays. Et pourtant, l'usage des armes à feu s'y est banalisé. Face à ce phénomène, des policiers en civil, comme ceux du GVP, Groupe de voie publique. Parmi eux, le brigadier-chef Stéphane, qui auditionne une étudiante venue porter plainte. Elle a été agressée par un homme armé au pied de son immeuble. Stéphane se lance alors dans une chasse à l'homme qui va durer huit jours.</desc>
+  </programme>
   <programme channel="OQEE.1292" start="20260901041500 +0000" stop="20260901053800 +0000">
     <title lang="fr">100 jours à la maternité - S01E01</title>
     <desc lang="fr">La maternité du Centre Hospitalier Universitaire de Nice est spécialisée dans la prise en charge de grossesses à risques et des prématurés et réputée pour ses urgences néonatales. Céline et Romain attendent impatiemment de rencontrer leurs jumelles, après des semaines de grossesse compliquée. Pour Patricia et Cardoso, un couple de capverdiens, l'accouchement ne s'avère pas facile, la barrière de la langue leur posant quelques soucis de compréhension. Anthony, 24 ans, est apprenti sage-femme en stage de 4e et avant-dernière année d'école. Avec ses collègues, il doit faire face à des situations parfois difficiles, notamment la prise en charge d'un prématuré, né à 29 semaines et rapatrié de Corse en hélicoptère.</desc>
@@ -9800,15 +9804,19 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Con el culo al aire</title>
     <desc lang="fr">Disfruta de los mejores momentos y todos los capítulos de CON EL CULO AL AIRE en Atresplayer. Serie protagonizada por Paco Tous, María León, Raúl Arévalo, Raúl Fernández, Iñaki Miramón, Toni Acosta, Carmen Ruiz, Goizalde Núñez, Hiba Abouk, Cesáreo Estébanez, Vicente Romero, Jesse Johnson, Sélica Torcal, Natalia Roig, Henar Jiménez, Víctor Palmero, Adam Jezierski. Tino es el líder y alma del camping. Un churrero que va con su furgoneta de feria en feria y que siempre ha vivido acampando. Alardea de llevar un tipo de vida alternativo, al margen de la legalidad y de sus vecinos</desc>
   </programme>
+  <programme channel="OQEE.68" start="20260901041000 +0000" stop="20260901061500 +0000">
+    <title lang="fr">Con el culo al aire</title>
+    <desc lang="fr">Disfruta de los mejores momentos y todos los capítulos de CON EL CULO AL AIRE en Atresplayer. Serie protagonizada por Paco Tous, María León, Raúl Arévalo, Raúl Fernández, Iñaki Miramón, Toni Acosta, Carmen Ruiz, Goizalde Núñez, Hiba Abouk, Cesáreo Estébanez, Vicente Romero, Jesse Johnson, Sélica Torcal, Natalia Roig, Henar Jiménez, Víctor Palmero, Adam Jezierski. Tino es el líder y alma del camping. Un churrero que va con su furgoneta de feria en feria y que siempre ha vivido acampando. Alardea de llevar un tipo de vida alternativo, al margen de la legalidad y de sus vecinos</desc>
+  </programme>
+  <programme channel="OQEE.68" start="20260901061500 +0000" stop="20260901085500 +0000">
+    <title lang="fr">Aquí no hay quien viva</title>
+    <desc lang="fr">Lucía (María Adánez) y Roberto (Daniel Guzmán) son una pareja de novios que acaba de mudarse a un curioso edificio. Los vecinos son seres un tanto especiales entre los que no falta una familia de clase media, una pareja de homosexuales y un nutrido grupo de cotillas. "Aquí no hay quien viva" es una telecomedia producida por Miramón Mendi, la compañía del polifacético José Luis Moreno, para Antena 3. Aparte de los ya mencionados, el reparto incluye a varios nombres habituales del cine español actual, como Emma Penella, Gemma Cuervo, Adrià Collado, Loles León o Luis Merlo.</desc>
+  </programme>
   <programme channel="OQEE.68" start="20260901062500 +0000" stop="20260901073700 +0000">
     <title lang="fr">Aquí no hay quien viva</title>
     <desc lang="fr">Lucía (María Adánez) y Roberto (Daniel Guzmán) son una pareja de novios que acaba de mudarse a un curioso edificio. Los vecinos son seres un tanto especiales entre los que no falta una familia de clase media, una pareja de homosexuales y un nutrido grupo de cotillas. "Aquí no hay quien viva" es una telecomedia producida por Miramón Mendi, la compañía del polifacético José Luis Moreno, para Antena 3. Aparte de los ya mencionados, el reparto incluye a varios nombres habituales del cine español actual, como Emma Penella, Gemma Cuervo, Adrià Collado, Loles León o Luis Merlo.</desc>
   </programme>
   <programme channel="OQEE.68" start="20260901073700 +0000" stop="20260901085000 +0000">
-    <title lang="fr">Aquí no hay quien viva</title>
-    <desc lang="fr">Lucía (María Adánez) y Roberto (Daniel Guzmán) son una pareja de novios que acaba de mudarse a un curioso edificio. Los vecinos son seres un tanto especiales entre los que no falta una familia de clase media, una pareja de homosexuales y un nutrido grupo de cotillas. "Aquí no hay quien viva" es una telecomedia producida por Miramón Mendi, la compañía del polifacético José Luis Moreno, para Antena 3. Aparte de los ya mencionados, el reparto incluye a varios nombres habituales del cine español actual, como Emma Penella, Gemma Cuervo, Adrià Collado, Loles León o Luis Merlo.</desc>
-  </programme>
-  <programme channel="OQEE.68" start="20260901061500 +0000" stop="20260901085500 +0000">
     <title lang="fr">Aquí no hay quien viva</title>
     <desc lang="fr">Lucía (María Adánez) y Roberto (Daniel Guzmán) son una pareja de novios que acaba de mudarse a un curioso edificio. Los vecinos son seres un tanto especiales entre los que no falta una familia de clase media, una pareja de homosexuales y un nutrido grupo de cotillas. "Aquí no hay quien viva" es una telecomedia producida por Miramón Mendi, la compañía del polifacético José Luis Moreno, para Antena 3. Aparte de los ya mencionados, el reparto incluye a varios nombres habituales del cine español actual, como Emma Penella, Gemma Cuervo, Adrià Collado, Loles León o Luis Merlo.</desc>
   </programme>
@@ -10467,18 +10475,36 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.86" start="20260831133400 +0000" stop="20260831140000 +0000">
     <title lang="fr">Paroles agricoles</title>
   </programme>
-  <programme channel="OQEE.86" start="20260831140000 +0000" stop="20260831143100 +0000">
-    <title lang="fr">Samachar</title>
-  </programme>
-  <programme channel="OQEE.86" start="20260831143100 +0000" stop="20260831150000 +0000">
-    <title lang="fr">Mangeons Veg</title>
-    <desc lang="fr">Producer: Ramprakash Bhantoo</desc>
+  <programme channel="OQEE.86" start="20260831130300 +0000" stop="20260831153000 +0000">
+    <title lang="fr">Rodrig prog : Féminin pluriel</title>
   </programme>
   <programme channel="OQEE.86" start="20260831150000 +0000" stop="20260831153000 +0000">
     <title lang="fr">Zournal Kreol</title>
   </programme>
   <programme channel="OQEE.86" start="20260831153000 +0000" stop="20260831160000 +0000">
     <title lang="fr">Le journal télévisé</title>
+  </programme>
+  <programme channel="OQEE.86" start="20260831160000 +0000" stop="20260831160400 +0000">
+    <title lang="fr">La Meteo</title>
+  </programme>
+  <programme channel="OQEE.86" start="20260831160400 +0000" stop="20260831161400 +0000">
+    <title lang="fr">Le Journal Des Sports</title>
+  </programme>
+  <programme channel="OQEE.86" start="20260831161400 +0000" stop="20260831161600 +0000">
+    <title lang="fr">Zero stress avek Miselaine</title>
+  </programme>
+  <programme channel="OQEE.86" start="20260831161600 +0000" stop="20260831162300 +0000">
+    <title lang="fr">Nou Travay Nou Lavenir</title>
+  </programme>
+  <programme channel="OQEE.86" start="20260831162300 +0000" stop="20260831164400 +0000">
+    <title lang="fr">Grand titre</title>
+  </programme>
+  <programme channel="OQEE.86" start="20260831164400 +0000" stop="20260831173600 +0000">
+    <title lang="fr">Mise A Jour</title>
+    <desc lang="fr">Le musée tel qu'on l'a connu est en train de se réinventer. Il devient un lieu ou l'on expérimente- ou l'on joue- ou l'on crée grâce a la réalité virtuelle. Mise a jour : le musée de demain sera-t-il un lieu que l'on visite ou que l'on vit ?</desc>
+  </programme>
+  <programme channel="OQEE.86" start="20260831173600 +0000" stop="20260831180500 +0000">
+    <title lang="fr">Rodrig prog : Féminin pluriel</title>
   </programme>
   <programme channel="OQEE.86" start="20260831153000 +0000" stop="20260831223900 +0000">
     <title lang="fr">Le journal télévisé</title>
@@ -10498,16 +10524,6 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   </programme>
   <programme channel="OQEE.86" start="20260831223900 +0000" stop="20260831230900 +0000">
     <title lang="fr">Eclairage</title>
-  </programme>
-  <programme channel="OQEE.86" start="20260831225600 +0000" stop="20260831232100 +0000">
-    <title lang="fr">Mangeons Veg</title>
-    <desc lang="fr">Producer: Ramprakash Bhantoo</desc>
-  </programme>
-  <programme channel="OQEE.86" start="20260831232100 +0000" stop="20260831234700 +0000">
-    <title lang="fr">Rodrig prog : Lavi fam</title>
-  </programme>
-  <programme channel="OQEE.86" start="20260831234700 +0000" stop="20260901001100 +0000">
-    <title lang="fr">Paroles agricoles</title>
   </programme>
   <programme channel="OQEE.86" start="20260831230900 +0000" stop="20260901015900 +0000">
     <title lang="fr">Rodrig prog : Féminin pluriel</title>
@@ -13608,8 +13624,15 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Football : Ligue 1 McDonald's - Lyon / Le Havre</title>
     <desc lang="fr">Revivez la rencontre entre l'OL et le Havre lors de la deuxième journée de ligue 1 McDonald's 2026/2027.</desc>
   </programme>
+  <programme channel="OQEE.136" start="20260831130000 +0000" stop="20260831160000 +0000">
+    <title lang="fr">La chaîne officielle de l'Olympique Lyonnais</title>
+    <desc lang="fr">Consultez la grille des programmes pour suivre la chaîne officielle de l'Olympique Lyonnais.</desc>
+  </programme>
   <programme channel="OQEE.136" start="20260831154500 +0000" stop="20260831160000 +0000">
     <title lang="fr">Résumés des derniers matchs</title>
+  </programme>
+  <programme channel="OQEE.136" start="20260831160000 +0000" stop="20260831180000 +0000">
+    <title lang="fr">Football : National 2 - OL - Bourgoin</title>
   </programme>
   <programme channel="OQEE.136" start="20260831160000 +0000" stop="20260831190000 +0000">
     <title lang="fr">La chaîne officielle de l'Olympique Lyonnais</title>
@@ -13619,13 +13642,13 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Football : Ligue 1 McDonald's - Lyon / Le Havre</title>
     <desc lang="fr">Revivez la rencontre entre l'OL et le Havre lors de la deuxième journée de ligue 1 McDonald's 2026/2027.</desc>
   </programme>
-  <programme channel="OQEE.136" start="20260831190000 +0000" stop="20260901040000 +0000">
-    <title lang="fr">La chaîne officielle de l'Olympique Lyonnais</title>
-    <desc lang="fr">Consultez la grille des programmes pour suivre la chaîne officielle de l'Olympique Lyonnais.</desc>
-  </programme>
   <programme channel="OQEE.136" start="20260831203000 +0000" stop="20260901040000 +0000">
     <title lang="fr">La chaîne officielle de l'Olympique Lyonnais</title>
     <desc lang="fr">Retrouvez tous les programmes phares d'OLPLAY.</desc>
+  </programme>
+  <programme channel="OQEE.136" start="20260831190000 +0000" stop="20260901040000 +0000">
+    <title lang="fr">La chaîne officielle de l'Olympique Lyonnais</title>
+    <desc lang="fr">Consultez la grille des programmes pour suivre la chaîne officielle de l'Olympique Lyonnais.</desc>
   </programme>
   <programme channel="OQEE.136" start="20260901040000 +0000" stop="20260901070000 +0000">
     <title lang="fr">La chaîne officielle de l'Olympique Lyonnais</title>
@@ -14078,9 +14101,17 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Ridiculous - S35E11</title>
     <desc lang="fr">Rob, Steelo et Nina Agdal observent des animaux sous surveillance, cuisinent avec des "ninjas culinaires" et analysent des hygiènes dentaires avec un "récurage répugnant".</desc>
   </programme>
-  <programme channel="OQEE.157" start="20260831140200 +0000" stop="20260831144400 +0000">
+  <programme channel="OQEE.157" start="20260831134100 +0000" stop="20260831140300 +0000">
+    <title lang="fr">Ridiculous - S35E11</title>
+    <desc lang="fr">Rob, Steelo et Nina Agdal observent des animaux sous surveillance, cuisinent avec des "ninjas culinaires" et analysent des hygiènes dentaires avec un "récurage répugnant".</desc>
+  </programme>
+  <programme channel="OQEE.157" start="20260831140300 +0000" stop="20260831144600 +0000">
     <title lang="fr">Catfish : fausse identité - S05E05</title>
     <desc lang="fr">Jaylin est prêt à sacrifier une amitié de très longue date et une carrière dans le jeu vidéo pour être avec une fille rencontrée sur Internet.</desc>
+  </programme>
+  <programme channel="OQEE.157" start="20260831144600 +0000" stop="20260831152800 +0000">
+    <title lang="fr">Catfish : fausse identité - S01E04</title>
+    <desc lang="fr">Après avoir passé des années à tchatter avec Chris, Shakinah doit faire avancer sa vie amoureuse. Mais quand Nev et Kamie Crawford découvrent que Chris est une énorme star, ils savent qu'il va falloir aider Shakinah plus que ça.</desc>
   </programme>
   <programme channel="OQEE.157" start="20260831144400 +0000" stop="20260831152700 +0000">
     <title lang="fr">Catfish : fausse identité - S01E04</title>
@@ -14090,21 +14121,21 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Catfish : fausse identité - S02E03</title>
     <desc lang="fr">Ramon correspond avec Paola sur Internet, mais la jeune femme refuse de le rencontrer ou de discuter avec une webcam. Il doute donc de son honnêteté.</desc>
   </programme>
-  <programme channel="OQEE.157" start="20260831152800 +0000" stop="20260831160900 +0000">
-    <title lang="fr">Catfish : fausse identité - S02E03</title>
-    <desc lang="fr">Ramon correspond avec Paola sur Internet, mais la jeune femme refuse de le rencontrer ou de discuter avec une webcam. Il doute donc de son honnêteté.</desc>
-  </programme>
-  <programme channel="OQEE.157" start="20260831160900 +0000" stop="20260831165000 +0000">
+  <programme channel="OQEE.157" start="20260831161000 +0000" stop="20260831165100 +0000">
     <title lang="fr">Catfish : fausse identité - S02E09</title>
     <desc lang="fr">La vie d'Artis a radicalement changé il y a cinq mois, lorsqu'il a rencontré Jess sur Internet et aujourd'hui, il est prêt à tout pour la rencontrer.</desc>
   </programme>
-  <programme channel="OQEE.157" start="20260831165000 +0000" stop="20260831173300 +0000">
+  <programme channel="OQEE.157" start="20260831165100 +0000" stop="20260831173200 +0000">
     <title lang="fr">Catfish : fausse identité - S04E01</title>
     <desc lang="fr">Nev et Charlamagne, qui remplace Max, tentent d'aider Miracle, qui est tombée amoureuse de Javonni, un jeune homme qu'elle n'a jamais rencontré.</desc>
   </programme>
-  <programme channel="OQEE.157" start="20260831173300 +0000" stop="20260831175800 +0000">
+  <programme channel="OQEE.157" start="20260831173200 +0000" stop="20260831175500 +0000">
     <title lang="fr">Ink Master rédemption - S03E07</title>
     <desc lang="fr">Pour la première fois dans le cadre de la rédemption d'Ink Master, la chérie et favorite des fans, Tatu Baby, renverse les tables de rédemption et recherche ses malheureuses toiles en se rendant dans leurs villes d'origine.</desc>
+  </programme>
+  <programme channel="OQEE.157" start="20260831175500 +0000" stop="20260831183600 +0000">
+    <title lang="fr">Love &amp; Hip Hop Atlanta - S11E18</title>
+    <desc lang="fr">Amy ravive une ancienne flamme, mais sa famille se fait du souci. Renni découvre que pour guérir les blessures du passé, il faut parfois rouvrir d'anciennes plaies.</desc>
   </programme>
   <programme channel="OQEE.157" start="20260831175800 +0000" stop="20260831183600 +0000">
     <title lang="fr">Love &amp; Hip Hop Atlanta - S11E18</title>
@@ -14122,9 +14153,13 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Caught In The Act : Infidélité - S01E04</title>
     <desc lang="fr">C'est une Team Peck divisée qui participe au défi sur le contraste. L'alliance des filles est en péril à cause d'un tatoueur. La course au titre de meilleur tatoueur continue.</desc>
   </programme>
-  <programme channel="OQEE.157" start="20260831200000 +0000" stop="20260831204500 +0000">
+  <programme channel="OQEE.157" start="20260831200000 +0000" stop="20260831204400 +0000">
     <title lang="fr">Jersey Shore : Vacances en famille - S08E31</title>
-    <desc lang="fr">Mike fait son grand retour à Times Square, et Angelina et Vinny remettent le couvert.</desc>
+    <desc lang="fr">Alors que Mike fait son grand retour à Times Square, Angelina et Vinny remettent le couvert.</desc>
+  </programme>
+  <programme channel="OQEE.157" start="20260831204400 +0000" stop="20260831212900 +0000">
+    <title lang="fr">17 ans et maman UK - S09E06</title>
+    <desc lang="fr">Mia est très peinée d'apprendre que Marliya souffre de ses disputes avec Manley. Chloe et Jordan quittent leur première maison. Amber reprend sa vie en main.</desc>
   </programme>
   <programme channel="OQEE.157" start="20260831204500 +0000" stop="20260831213000 +0000">
     <title lang="fr">17 ans et maman UK - S09E06</title>
@@ -14145,14 +14180,6 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.157" start="20260831223500 +0000" stop="20260831232600 +0000">
     <title lang="fr">MTV Unplugged</title>
     <desc lang="fr">Dans cet épisode enregistré à la Brooklyn Academy of Music à New York, Crow interprète des titres de son premier album, dont son single primé aux Grammy Awards, All I Wanna Do.</desc>
-  </programme>
-  <programme channel="OQEE.157" start="20260831223500 +0000" stop="20260831232000 +0000">
-    <title lang="fr">Storytellers - S08E03</title>
-    <desc lang="fr">Le groupe Coldplay de Chris Martin se raconte en musique. Les musiciens interprètent leurs plus grands titres et parlent de la genèse des chansons qui ont fait leur succès. C'est l'occasion de découvrir ce qui se cache derrière ces mélodies qui ont séduit des fans du monde entier et de comprendre comment Coldplay est devenu l'un des groupes les plus importants de sa génération.</desc>
-  </programme>
-  <programme channel="OQEE.157" start="20260831232000 +0000" stop="20260901000200 +0000">
-    <title lang="fr">Ink Master : le meilleur tatoueur - S10E09</title>
-    <desc lang="fr">Le travail d'équipe est le mot d'ordre dans une série de défis de tatouage par équipe. Un énorme rebondissement oblige les artistes d'une équipe à se retourner contre les leurs.</desc>
   </programme>
   <programme channel="OQEE.157" start="20260831232600 +0000" stop="20260901000900 +0000">
     <title lang="fr">Ink Master : le meilleur tatoueur - S10E09</title>
@@ -14182,9 +14209,9 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Jersey Shore : Vacances en famille - S08E31</title>
     <desc lang="fr">Alors que Mike fait son grand retour à Times Square, Angelina et Vinny remettent le couvert.</desc>
   </programme>
-  <programme channel="OQEE.157" start="20260901015000 +0000" stop="20260901022700 +0000">
-    <title lang="fr">Jersey Shore : Vacances en famille - S08E31</title>
-    <desc lang="fr">Mike fait son grand retour à Times Square, et Angelina et Vinny remettent le couvert.</desc>
+  <programme channel="OQEE.157" start="20260901023000 +0000" stop="20260901031500 +0000">
+    <title lang="fr">Celebrity Ex on the Beach : la revanche des ex - S03E02</title>
+    <desc lang="fr">Les célébrités font la fête dans un beach club où Ashley se questionne sur sa relation avec Jarred et où une arrivée surprise prend Yaz de court.</desc>
   </programme>
   <programme channel="OQEE.157" start="20260901022700 +0000" stop="20260901031300 +0000">
     <title lang="fr">Celebrity Ex on the Beach : la revanche des ex - S03E02</title>
@@ -15963,9 +15990,12 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">News London</title>
     <desc lang="fr">A news bulletin that delivers comprehensive updates from London, covering political developments, social issues, economic trends, and major urban events. Through timely reporting and clear analysis, it highlights the city's evolving dynamics and diverse communities. The program brings together breaking news, public affairs, and cultural stories, offering viewers a structured overview of what shapes daily life in one of the world's most influential cities.</desc>
   </programme>
-  <programme channel="OQEE.893" start="20260831173000 +0000" stop="20260831180000 +0000">
-    <title lang="fr">Marchés du monde - S01E05</title>
-    <desc lang="fr">Près de l'immense port de Busan, Jagalchi est le plus grand marché aux poissons de Corée du Sud. Ce sont les femmes qui vendent les denrées.</desc>
+  <programme channel="OQEE.893" start="20260831173000 +0000" stop="20260831174500 +0000">
+    <title lang="fr">One on One</title>
+  </programme>
+  <programme channel="OQEE.893" start="20260831174500 +0000" stop="20260831180000 +0000">
+    <title lang="fr">Digital documentaries</title>
+    <desc lang="fr">Exploring the intersection of technology, innovation and human experience, this documentary reveals stories that define the digital era. From groundbreaking developments and emerging trends to the social and cultural impact of technological change, it offers a thought-provoking perspective on a rapidly evolving world. Featuring expert insights, real-life experiences and in-depth reporting, the film examines how digital transformation continues to reshape the way people live, work and connect.</desc>
   </programme>
   <programme channel="OQEE.893" start="20260831180000 +0000" stop="20260831183000 +0000">
     <title lang="fr">News London</title>
@@ -17565,9 +17595,13 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Cult of Personality - S01E06</title>
     <desc lang="fr">L'Eglise de l'Unification a été fondée par le révérend Sun Myung Moon. Considérée comme une secte dans de nombreux pays, elle procède notamment à des mariages collectifs.</desc>
   </programme>
-  <programme channel="OQEE.263" start="20260831140100 +0000" stop="20260831145000 +0000">
+  <programme channel="OQEE.263" start="20260831135900 +0000" stop="20260831144900 +0000">
     <title lang="fr">Les barons du crime - S01E01</title>
     <desc lang="fr">Trafiquant d'armes au Liban, chef de cartel mexicain, dealer à Londres : dans chaque épisode, le journaliste Ben Zand rencontre un caïd local du trafic illégal.</desc>
+  </programme>
+  <programme channel="OQEE.263" start="20260831144900 +0000" stop="20260831153800 +0000">
+    <title lang="fr">Les barons du crime - S01E02</title>
+    <desc lang="fr">Au Liban, Ben pénètre l'univers secret d'un trafiquant d'armes de haut rang, dont l'influence s'étend bien au-delà des frontières de son pays.</desc>
   </programme>
   <programme channel="OQEE.263" start="20260831145000 +0000" stop="20260831153900 +0000">
     <title lang="fr">Les barons du crime - S01E02</title>
@@ -17577,17 +17611,17 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Les barons du crime - S01E03</title>
     <desc lang="fr">Dans le nord de l'Angleterre, Ben Zand infiltre un gang de dealers de crack. Il va prendre des risques insensés pour mener à bien son enquête.</desc>
   </programme>
-  <programme channel="OQEE.263" start="20260831153800 +0000" stop="20260831163000 +0000">
-    <title lang="fr">Les barons du crime - S01E03</title>
-    <desc lang="fr">Dans le nord de l'Angleterre, Ben Zand infiltre un gang de dealers de crack. Il va prendre des risques insensés pour mener à bien son enquête.</desc>
-  </programme>
-  <programme channel="OQEE.263" start="20260831163000 +0000" stop="20260831171000 +0000">
+  <programme channel="OQEE.263" start="20260831162800 +0000" stop="20260831171200 +0000">
     <title lang="fr">Cold Justice - S06E01</title>
     <desc lang="fr">Kelly et Abbey enquêtent sur le meurtre de sang-froid d'un propriétaire de dépanneuse. Leur enquête les mène vers un monde d'abus présumés et d'infidélités.</desc>
   </programme>
-  <programme channel="OQEE.263" start="20260831171000 +0000" stop="20260831175500 +0000">
+  <programme channel="OQEE.263" start="20260831171200 +0000" stop="20260831175500 +0000">
     <title lang="fr">Cold Justice - S05E25</title>
     <desc lang="fr">Dans le Colorado, Kelly et Abbey cherchent de nouveaux indices dans l'affaire de la mort par balle d'une mère de six enfants qui avait été initialement considérée comme un suicide. Leur enquête les mène vers des secrets déchirants cachés depuis 25 ans.</desc>
+  </programme>
+  <programme channel="OQEE.263" start="20260831175500 +0000" stop="20260831184300 +0000">
+    <title lang="fr">Meurtres au poison - S01E01</title>
+    <desc lang="fr">La jalousie peut mener à tout, même au meurtre. C'est ce qu'ont découvert à leurs dépens lors d'une froide nuit de janvier 2009 Lakhvinder Cheema et sa jeune fiancée, empoisonnée par l'amante éconduite de ce dernier. Le poison fut également l'arme choisie par la femme de William Hayes dont le corps est resté intact plus de cinq années après son meurtre.</desc>
   </programme>
   <programme channel="OQEE.263" start="20260831175500 +0000" stop="20260831184200 +0000">
     <title lang="fr">Meurtres au poison - S01E01</title>
@@ -17605,9 +17639,9 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Elmyr de Hory, le faussaire du siècle - S01E01</title>
     <desc lang="fr">A travers les errances du faussaire Elmyr de Hory, de New York à Paris, de Miami à Ibiza, une histoire fascinante qui a transformé à jamais le marché de l'art.</desc>
   </programme>
-  <programme channel="OQEE.263" start="20260831193500 +0000" stop="20260831203000 +0000">
-    <title lang="fr">Elmyr de Hory, le faussaire du siècle - S01E01</title>
-    <desc lang="fr">A travers les errances du faussaire Elmyr de Hory, de New York à Paris, de Miami à Ibiza, une histoire fascinante qui a transformé à jamais le marché de l'art.</desc>
+  <programme channel="OQEE.263" start="20260831203100 +0000" stop="20260831212400 +0000">
+    <title lang="fr">Section scientifique - S01E03</title>
+    <desc lang="fr">Au mois d'avril 2003, la police est avertie de la disparition inquiétante depuis une semaine de toute une famille du Grand-Bornand. La piste de l'accident, d'abord privilégiée par les enquêteurs, ne débouchant sur rien, les techniciens en identification criminelle investissent le chalet de la famille Flactif. Les premiers éléments qu'ils recueillent font présager le pire. Le chalet étant très vaste et l'enquête délicate, les enquêteurs font appel à l'Institut de recherche criminelle de la gendarmerie nationale (IRCGN). La fixation de la scène de crime est la première priorité de ces spécialistes.</desc>
   </programme>
   <programme channel="OQEE.263" start="20260831203000 +0000" stop="20260831212300 +0000">
     <title lang="fr">Section scientifique - S01E03</title>
@@ -17625,14 +17659,6 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Enquête chrono - S01E15</title>
     <desc lang="fr">Le 24 janvier 2013, Jamel Zammit appelle la police vers 18h40 pour signaler la disparition de sa femme Jouda, âgée de 34 ans. Elle était partie de son domicile à Nîmes et n'est jamais rentrée. C'est finalement le chien d'un militaire de la gendarmerie qui découvre le corps de la jeune femme dans des fourrés à proximité de son domicile. Retour sur le déroulement de l'enquête.</desc>
   </programme>
-  <programme channel="OQEE.263" start="20260831230000 +0000" stop="20260831234400 +0000">
-    <title lang="fr">Enquête chrono - S01E15</title>
-    <desc lang="fr">Le 24 janvier 2013, Jamel Zammit appelle la police vers 18h40 pour signaler la disparition de sa femme Jouda, âgée de 34 ans. Elle était partie de son domicile à Nîmes et n'est jamais rentrée. C'est finalement le chien d'un militaire de la gendarmerie qui découvre le corps de la jeune femme dans des fourrés à proximité de son domicile. Retour sur le déroulement de l'enquête.</desc>
-  </programme>
-  <programme channel="OQEE.263" start="20260831234400 +0000" stop="20260901004300 +0000">
-    <title lang="fr">Les faits Karl Zéro - S01E64</title>
-    <desc lang="fr">Retour sur le meurtre de Corinne Beidl survenu à Marseille en 2004. Le cadavre de la jeune femme est retrouvé dans un sac de sport. Jean-Baptiste Rambla a reconnu l'avoir étranglée à la suite d'un différend professionnel. Ce dernier retrouve, ainsi, les assises d'Aix-en-Provence, mais cette fois-ci du côté des accusés, après avoir vécu le procès de Christian Ranucci pour le meurtre de sa soeur en 1974.</desc>
-  </programme>
   <programme channel="OQEE.263" start="20260831234300 +0000" stop="20260901004100 +0000">
     <title lang="fr">Les faits Karl Zéro - S01E64</title>
     <desc lang="fr">Retour sur le meurtre de Corinne Beidl survenu à Marseille en 2004. Le cadavre de la jeune femme est retrouvé dans un sac de sport. Jean-Baptiste Rambla a reconnu l'avoir étranglée à la suite d'un différend professionnel. Ce dernier retrouve, ainsi, les assises d'Aix-en-Provence, mais cette fois-ci du côté des accusés, après avoir vécu le procès de Christian Ranucci pour le meurtre de sa soeur en 1974.</desc>
@@ -17644,6 +17670,10 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.263" start="20260901004300 +0000" stop="20260901020100 +0000">
     <title lang="fr">Les faits Karl Zéro</title>
     <desc lang="fr">En mai 2014, la richissime Monégasque Hélène Pastor et son majordome tombent dans un guet-apens, à Nice. Son gendre est vite suspecté d'être le commanditaire de l'assassinat, sans doute pour mettre la main sur l'héritage promis à sa fille. Wojciech Janowski, 64 ans, consul honoraire de Pologne à Monaco, aurait payé Pascal Dauriac, son coach sportif, pour qu'il supprime sa belle-mère. Mais comment cet homme, décrit comme équilibré, sain et sportif, a-t-il pu accepter de participer à une telle entreprise criminelle ? C'est l'une des nombreuses questions posées par cette affaire délicate.</desc>
+  </programme>
+  <programme channel="OQEE.263" start="20260901020100 +0000" stop="20260901034900 +0000">
+    <title lang="fr">Les faits Karl Zéro</title>
+    <desc lang="fr">Le 24 mai 2014, un tueur abat quatre personnes au musée juif de Bruxelles : un couple d'Israéliens, une bénévole française et un employé belge. Quelques jours plus tard, Mehdi Nemmouche, un Français de 29 ans originaire de Roubaix, est arrêté à Marseille, en possession d'armes lourdes. Il venait de passer plus d'un an en Syrie et était fiché par la DGSI. Le procureur a précisé que Mehdi Nemmouche s'est radicalisé lors de ses séjours successifs en prison. Condamné à sept reprises et incarcéré cinq fois, il s'était illustré par son prosélytisme extrémiste et l'appel à la prière collective en promenade.</desc>
   </programme>
   <programme channel="OQEE.263" start="20260901020000 +0000" stop="20260901034800 +0000">
     <title lang="fr">Les faits Karl Zéro</title>
@@ -17660,6 +17690,14 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.263" start="20260901054500 +0000" stop="20260901063200 +0000">
     <title lang="fr">Enquête chrono - S01E16</title>
     <desc lang="fr">Le 4 avril 2018, peu avant 21h00, Jordan David, 21 ans, s'est rendu chez Marie-Hélène Di Francesca, 45 ans, dans la commune de Saint-Léger, car ils avaient rendez-vous. Mais le ton est vite monté entre le futur militaire et la femme, en arrêt de travail en raison de soucis de santé. Son corps est retrouvé dans un bois près des lacs de l'Eau d'Heure, entre Chimay et Charleroi.</desc>
+  </programme>
+  <programme channel="OQEE.263" start="20260901054600 +0000" stop="20260901063300 +0000">
+    <title lang="fr">Enquête chrono - S01E16</title>
+    <desc lang="fr">Le 4 avril 2018, peu avant 21h00, Jordan David, 21 ans, s'est rendu chez Marie-Hélène Di Francesca, 45 ans, dans la commune de Saint-Léger, car ils avaient rendez-vous. Mais le ton est vite monté entre le futur militaire et la femme, en arrêt de travail en raison de soucis de santé. Son corps est retrouvé dans un bois près des lacs de l'Eau d'Heure, entre Chimay et Charleroi.</desc>
+  </programme>
+  <programme channel="OQEE.263" start="20260901063300 +0000" stop="20260901071900 +0000">
+    <title lang="fr">Cult of Personality - S01E03</title>
+    <desc lang="fr">Jim Jones, gourou américain de la secte du Temple du peuple, a poussé au suicide plus de 900 fidèles dans la commune reculée de Jonestown, en Guyana.</desc>
   </programme>
   <programme channel="OQEE.263" start="20260901063200 +0000" stop="20260901071800 +0000">
     <title lang="fr">Cult of Personality - S01E03</title>
@@ -25505,43 +25543,51 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Kaeloo - S05E01</title>
     <desc lang="fr">Kaeloo laisse place à BadK pour jouer à 1, 2, 3 Soleil. Mais pendant ce temps, la Règle du Jeu fait irruption. Il n'est plus possible d'arranger les règles à sa manière ou de tricher, sinon les gages tombent. Les Zamis aimeraient contourner les nouvelles règles et ils vont devoir agir ensemble dans ce but s'ils veulent continuer à s'amuser.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831160300 +0000" stop="20260831160900 +0000">
+  <programme channel="OQEE.1080" start="20260831155800 +0000" stop="20260831160500 +0000">
+    <title lang="fr">Kaeloo - S05E01</title>
+    <desc lang="fr">Kaeloo laisse place à BadK pour jouer à 1, 2, 3 Soleil. Mais pendant ce temps, la Règle du Jeu fait irruption. Il n'est plus possible d'arranger les règles à sa manière ou de tricher, sinon les gages tombent. Les Zamis aimeraient contourner les nouvelles règles et ils vont devoir agir ensemble dans ce but s'ils veulent continuer à s'amuser.</desc>
+  </programme>
+  <programme channel="OQEE.1080" start="20260831160500 +0000" stop="20260831161200 +0000">
     <title lang="fr">Kaeloo - S05E02</title>
     <desc lang="fr">Monsieur Chat a une attitude gentille et cela le surprend plus que quiconque d'autre. Ce changement provoque chez lui une véritable crise existentielle, et il se demande qui il est réellement. Il souhaite se rendre chez le Psy pour trouver la question à ses interrogations, mais il se fait poursuivre par Moignon et Kaeloo. Il veut absolument les éviter.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831160900 +0000" stop="20260831161600 +0000">
+  <programme channel="OQEE.1080" start="20260831161200 +0000" stop="20260831161800 +0000">
     <title lang="fr">Kaeloo - S05E03</title>
     <desc lang="fr">Moignon présente Vitamine, une de ses soeurs dont la particularité est d'être hyperactive, à tel point qu'elle ne peut interagir avec le monde normal.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831161600 +0000" stop="20260831162400 +0000">
+  <programme channel="OQEE.1080" start="20260831161800 +0000" stop="20260831162400 +0000">
     <title lang="fr">Kaeloo - S05E04</title>
     <desc lang="fr">Moignon a besoin d'aide pour ses devoirs, ses amis essaient de l'aider en se servant de ce qu'il affectionne le plus au monde : les jeux vidéo.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831162400 +0000" stop="20260831165200 +0000">
-    <title lang="fr">High Hoops - S02E01</title>
-    <desc lang="fr">Aoife O'Neill a emménagé dans une nouvelle ville avec sa famille. Cette miss catastrophe envisage ce changement comme une opportunité de devenir une fille cool, qui se fond dans la masse. Mais dans sa nouvelle école, le seul endroit où l'ado peut trouver sa place est l'équipe de basketball des outsiders. Malgré tout, Aoife est déterminée à faire des joueurs des gagnants. Parviendra-t-elle à marquer le panier de la victoire qui ferait autant de bien à l'équipe qu'à elle-même ?</desc>
+  <programme channel="OQEE.1080" start="20260831162400 +0000" stop="20260831163200 +0000">
+    <title lang="fr">Kaeloo - S05E05</title>
+    <desc lang="fr">La RdJ cherche à réguler le goût des pâturages et Kaeloo la convainc de demander leur avis aux moutons. Mais les propositions de Moignon ne sont pas appréciées des moutons.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831165200 +0000" stop="20260831170300 +0000">
+  <programme channel="OQEE.1080" start="20260831163200 +0000" stop="20260831170000 +0000">
+    <title lang="fr">High Hoops - S02E01</title>
+    <desc lang="fr">La joie d'Aoife d'être capitaine des Vipers est de courte durée : Holt la remplace par Jessica. Aoife doit alors se battre pour récupérer son poste.</desc>
+  </programme>
+  <programme channel="OQEE.1080" start="20260831170000 +0000" stop="20260831171100 +0000">
     <title lang="fr">La méthode Flore - S05E01</title>
     <desc lang="fr">Flore et ses camarades de classe sont très contrariés d'apprendre qu'une nouvelle bénévole va préparer le déjeuner scolaire. La nourriture est si mauvaise que Flore essaie désespérément de trouver un moyen de ne plus y manger.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831170300 +0000" stop="20260831171200 +0000">
+  <programme channel="OQEE.1080" start="20260831171100 +0000" stop="20260831172000 +0000">
     <title lang="fr">La méthode Flore - S05E02</title>
     <desc lang="fr">La famille découvre les coûts élevés de son jacuzzi et décide de réduire sa consommation d'électricité, mais certains membres sont réticents.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831171200 +0000" stop="20260831172300 +0000">
+  <programme channel="OQEE.1080" start="20260831172000 +0000" stop="20260831173100 +0000">
     <title lang="fr">La méthode Flore - S05E03</title>
     <desc lang="fr">Flore et Chris se retrouvent dans la même classe d'anglais au collège. Chris cherche à passer en classe supérieure pour éviter d'être avec elle.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831172300 +0000" stop="20260831174400 +0000">
+  <programme channel="OQEE.1080" start="20260831173100 +0000" stop="20260831175300 +0000">
     <title lang="fr">Sherwood - S01E01</title>
     <desc lang="fr">En 2270, dans un Londres dévasté par les eaux, la jeune hackeuse Robin trouve un mystérieux gantelet ayant appartenu à son père. Elle rejoint un groupe de renégats luttant contre le tyrannique shérif de Nottingham et ses robots. En cherchant la vérité sur sa famille, elle découvre des secrets bouleversants qui pourraient changer le destin de la ville...</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831174400 +0000" stop="20260831175100 +0000">
+  <programme channel="OQEE.1080" start="20260831175300 +0000" stop="20260831175900 +0000">
     <title lang="fr">Le lexique des dyslexiques - S01E01</title>
     <desc lang="fr">Réprimandée par sa mère pour ses fautes d'orthographe, une fillette invoque le djinn Stéphane, qui lui enseigne à visualiser les mots comme des images.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831175100 +0000" stop="20260831175800 +0000">
+  <programme channel="OQEE.1080" start="20260831175900 +0000" stop="20260831180600 +0000">
     <title lang="fr">Kaeloo - S05E01</title>
     <desc lang="fr">Kaeloo laisse place à BadK pour jouer à 1, 2, 3 Soleil. Mais pendant ce temps, la Règle du Jeu fait irruption. Il n'est plus possible d'arranger les règles à sa manière ou de tricher, sinon les gages tombent. Les Zamis aimeraient contourner les nouvelles règles et ils vont devoir agir ensemble dans ce but s'ils veulent continuer à s'amuser.</desc>
   </programme>
@@ -25581,17 +25627,17 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Esport, les nouveaux dieux du stade</title>
     <desc lang="fr">Glutonny est le meilleur joueur français de Smash, mais aussi le numéro 1 européen. Il raconte ses exploits dans les compétitions américaines. A Los Angeles, Toucouille attaque les choses sérieuses avec son équipe FlyQuest dans le championnat américain de League of Legends. Le jeune midlaner français évoque la maladie des os de verre dont il est atteint, mais qui ne l'empêche pas d'être l'un des meilleurs midlaners au monde.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831194100 +0000" stop="20260831200400 +0000">
-    <title lang="fr">Esport, les nouveaux dieux du stade</title>
-    <desc lang="fr">Glutonny est le meilleur joueur français de Smash, mais aussi le numéro 1 européen. Il raconte ses exploits dans les compétitions américaines. A Los Angeles, Toucouille attaque les choses sérieuses avec son équipe FlyQuest dans le championnat américain de League of Legends. Le jeune midlaner français évoque la maladie des os de verre dont il est atteint, mais qui ne l'empêche pas d'être l'un des meilleurs midlaners au monde.</desc>
-  </programme>
-  <programme channel="OQEE.1080" start="20260831200400 +0000" stop="20260831202400 +0000">
+  <programme channel="OQEE.1080" start="20260831201300 +0000" stop="20260831203300 +0000">
     <title lang="fr">Esport, les nouveaux dieux du stade</title>
     <desc lang="fr">L'Esport est difficile à expliquer aux parents. Laure Valée est une joueuse professionnelle soutenue par sa maman. Nikof, ancien joueur de Fortnite, parle de l'impact de sa carrière. Glutonny aide les jeunes à se lancer dans le métier. Raflow est son ami et meilleur élève. Certains joueurs professionnels ont réussi à faire de l'Esport une carrière passionnante, malgré les inquiétudes des parents. Glutonny joue un rôle de mentor pour les jeunes aspirants. Raflow est un talent prometteur et proche de Glutonny.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831202400 +0000" stop="20260831204700 +0000">
+  <programme channel="OQEE.1080" start="20260831203300 +0000" stop="20260831205600 +0000">
     <title lang="fr">Esport, les nouveaux dieux du stade</title>
     <desc lang="fr">L'univers de l'Esport, où les joueurs s'affrontent dans des compétitions de jeux vidéos, est similaire à d'autres disciplines sportives. L'industrie de l'Esport fonctionne avec exigence et entraînements intensifs. La France est reconnue sur la scène internationale de l'Esport. Les joueurs professionnels, tels que Raflow, Vatira et Toucouille, ont pour ambition de remporter le championnat du monde et de devenir les meilleurs joueurs du monde. Laure Valée, journaliste spécialisée dans l'Esport, se distingue dans ce monde très masculin.</desc>
+  </programme>
+  <programme channel="OQEE.1080" start="20260831205600 +0000" stop="20260831211800 +0000">
+    <title lang="fr">Esport, les nouveaux dieux du stade</title>
+    <desc lang="fr">L'esport fait voyager les passionnés de compétition en compétition à travers le monde. Suivez Laure Valée en Suède, à Malmö, pour la grande finale des championnats d'Europe de League of Legends. De son côté, Nikof est aussi en Suède, à Jönköping, pour encadrer l'équipe Vitality lors d'un tournoi de Fortnite. Enfin, la communauté Smash se réunit à Genève pour le très célèbre événement du Caribana.</desc>
   </programme>
   <programme channel="OQEE.1080" start="20260831204700 +0000" stop="20260831210900 +0000">
     <title lang="fr">Esport, les nouveaux dieux du stade</title>
@@ -25645,49 +25691,49 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Antoine l'Aventure, les régions de France - S03E02</title>
     <desc lang="fr">Véritable patrimoine alsacien, la cigogne est le symbole de la région Grand-Est. Ornant les toits des maisons à colombages, cet oiseau de bon augure occupe une grande place dans la vie locale de cette région, devenue une espèce protégée.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831225700 +0000" stop="20260831231000 +0000">
-    <title lang="fr">Antoine l'Aventure, les régions de France - S03E02</title>
-    <desc lang="fr">Véritable patrimoine alsacien, la cigogne est le symbole de la région Grand-Est. Ornant les toits des maisons à colombages, cet oiseau de bon augure occupe une grande place dans la vie locale de cette région, devenue une espèce protégée.</desc>
-  </programme>
-  <programme channel="OQEE.1080" start="20260831231000 +0000" stop="20260831232100 +0000">
+  <programme channel="OQEE.1080" start="20260831230200 +0000" stop="20260831231200 +0000">
     <title lang="fr">Comment ratatiner en LSF - S01E01</title>
     <desc lang="fr">Spouki et Chloé se taquinent sur leur courage. Spouki pense pouvoir effrayer facilement, tandis que Chloé prétend ne pas avoir peur du tout.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831232100 +0000" stop="20260831233000 +0000">
+  <programme channel="OQEE.1080" start="20260831231200 +0000" stop="20260831232100 +0000">
     <title lang="fr">Comment ratatiner en LSF - S01E02</title>
     <desc lang="fr">Spouki et Chloé se lancent un défi pour effrayer les autres. Julie les contacte pour obtenir de l'aide face à un monstre caché sous son lit.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831233000 +0000" stop="20260831233900 +0000">
+  <programme channel="OQEE.1080" start="20260831232100 +0000" stop="20260831233000 +0000">
     <title lang="fr">Comment ratatiner en LSF - S01E03</title>
     <desc lang="fr">Chloé explique son retard à Spouki, qui sait qu'elle a peur du monstre des placards. Eli et Lou les appellent car ils sont entourés par les loups.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831233900 +0000" stop="20260831234000 +0000">
+  <programme channel="OQEE.1080" start="20260831233000 +0000" stop="20260831233200 +0000">
     <title lang="fr">Manger, bouger, dormir - S02E01</title>
     <desc lang="fr">Mirabelle sort Marcus de son canapé et l'invite à se dépenser pour retrouver toute l'énergie nécessaire à une bonne journée.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831234000 +0000" stop="20260831234200 +0000">
+  <programme channel="OQEE.1080" start="20260831233200 +0000" stop="20260831233300 +0000">
     <title lang="fr">Manger, bouger, dormir - S02E02</title>
     <desc lang="fr">Marcus aide Mirabelle à arroser son potager et découvre qu'il faut cultiver son goût pour le naturel et manger des aliments non transformés.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831234200 +0000" stop="20260831234300 +0000">
+  <programme channel="OQEE.1080" start="20260831233300 +0000" stop="20260831233400 +0000">
     <title lang="fr">Manger, bouger, dormir - S02E03</title>
     <desc lang="fr">Marcus mange n'importe quoi, reste des heures sur son canapé, et dort trop peu. Toute son éducation est à refaire. Il est là pour sensibiliser les enfants à une bonne hygiène de vie grâce à des comportements alimentaires, des activités physiques et une bonne qualité de sommeil.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831234300 +0000" stop="20260831234600 +0000">
+  <programme channel="OQEE.1080" start="20260831233400 +0000" stop="20260831233700 +0000">
     <title lang="fr">Nos mots nomades - S01E01</title>
     <desc lang="fr">Comment Esteban a-t-il pu oublier les croissants pour le petit déjeuner ! Juliane et Simon nous font voyager dans le temps pour nous raconter l'origine de ce mot.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831234600 +0000" stop="20260831235000 +0000">
+  <programme channel="OQEE.1080" start="20260831233700 +0000" stop="20260831234000 +0000">
     <title lang="fr">Nos mots nomades - S01E02</title>
     <desc lang="fr">Le mot "baba", tout en rondeur et en douceur, nous est raconté par Juliane, Simon et Esteban… qui en raffole !</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831235000 +0000" stop="20260831235600 +0000">
+  <programme channel="OQEE.1080" start="20260831234000 +0000" stop="20260831234700 +0000">
     <title lang="fr">Kaeloo - S03E01</title>
     <desc lang="fr">Kaeloo, Moignon et Coincoin ont décidé de faire un vide-greniers. Toutes les techniques sont mises en oeuvre pour attirer le client, mais lorsque que Monsieur Chat souhaite vendre les fleurs du Pays Trop Mignon, Bad Kaeloo débarque.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260831235600 +0000" stop="20260901000300 +0000">
+  <programme channel="OQEE.1080" start="20260831234700 +0000" stop="20260831235300 +0000">
     <title lang="fr">Kaeloo - S03E02</title>
     <desc lang="fr">Mr Chat joue les banquiers et tente de convaincre CoinCoin et Moignon de lui confier leur bien. Mais entourloupes et tromperies sont au rendez-vous.</desc>
+  </programme>
+  <programme channel="OQEE.1080" start="20260831235300 +0000" stop="20260831235900 +0000">
+    <title lang="fr">Kaeloo - S03E03</title>
+    <desc lang="fr">Les zamis cherchent à savoir quelle espèce est supérieure aux autres. Bien sûr, une occasion rêvée pour Mr Chat qui vante la célèbrité des matous.</desc>
   </programme>
   <programme channel="OQEE.1080" start="20260831235900 +0000" stop="20260901000600 +0000">
     <title lang="fr">Kaeloo - S03E04</title>
@@ -25737,23 +25783,31 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Zouk - S01E01</title>
     <desc lang="fr">Pour aider sa maman à rendre le ciel bleu, Zouk doit se rendre au Pays du Bleu fantastique, accompagnée de Nono, M. Potiron et Noyau... </desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901020500 +0000" stop="20260901021500 +0000">
+  <programme channel="OQEE.1080" start="20260901015300 +0000" stop="20260901020600 +0000">
+    <title lang="fr">Arthur et les enfants de la Table ronde - S02E09</title>
+    <desc lang="fr">Henwen, le sanglier géant qui détruit tout par le feu, avance droit vers Camelot. Uther veut l'exterminer sur le champ. Arthur cherche plutôt les raisons de cette menace.</desc>
+  </programme>
+  <programme channel="OQEE.1080" start="20260901020600 +0000" stop="20260901021700 +0000">
+    <title lang="fr">Zouk - S01E01</title>
+    <desc lang="fr">Pour aider sa maman à rendre le ciel bleu, Zouk doit se rendre au Pays du Bleu fantastique, accompagnée de Nono, M. Potiron et Noyau... </desc>
+  </programme>
+  <programme channel="OQEE.1080" start="20260901021700 +0000" stop="20260901022700 +0000">
     <title lang="fr">Zouk - S01E02</title>
     <desc lang="fr">Zouk découvre que des ogres arrachent les arbres du parc pour satisfaire l'appétit de leur chef, Mister Ogre. Déterminée à empêcher la destruction du parc et des habitats des animaux, la petite sorcière décide d'aller affronter directement le terrible ogre, en espérant ne pas finir en repas.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901021500 +0000" stop="20260901022600 +0000">
+  <programme channel="OQEE.1080" start="20260901022700 +0000" stop="20260901023800 +0000">
     <title lang="fr">Zouk - S01E03</title>
     <desc lang="fr">C'est aujourd'hui le premier jour de l'été-sorcier. Direction la plage pour Zouk et ses amis. Mais une fois sur place, les chamailleries de Noyau et Potiron dégénèrent...</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901022600 +0000" stop="20260901023600 +0000">
+  <programme channel="OQEE.1080" start="20260901023800 +0000" stop="20260901024800 +0000">
     <title lang="fr">Zouk - S01E04</title>
     <desc lang="fr">Zouk a invité son amie Galathée à venir faire une soirée pyjama au Manoir. Elle fait tout pour que son Manoir hanté soit le moins épouvantable possible...</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901023600 +0000" stop="20260901024700 +0000">
+  <programme channel="OQEE.1080" start="20260901024800 +0000" stop="20260901025900 +0000">
     <title lang="fr">Zouk - S01E05</title>
     <desc lang="fr">Saluléga et Salsepareille sont emballés car ils ont retrouvé la baguette de leur trisaïeul. Ils n'ont plus qu'une envie : partir dans la montagne pour aller l'essayer...</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901024700 +0000" stop="20260901025800 +0000">
+  <programme channel="OQEE.1080" start="20260901025900 +0000" stop="20260901030900 +0000">
     <title lang="fr">Zouk - S01E06</title>
     <desc lang="fr">Ce matin, Zouk a besoin d'un stylo effaceur pour le dessin qu'elle doit fait au pied levé pour l'école. Mr Potiron lui reproche de s'y prendre à la dernière minute...</desc>
   </programme>
@@ -25825,29 +25879,33 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Les Minus - S01E03</title>
     <desc lang="fr">Quand la théière de Bella disparaît, tous les soupçons se portent sur Titus ! Oli et Titus mènent l'enquête, mais les Astro-Héros sont à leur trousses et compliquent l'affaire.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901060000 +0000" stop="20260901061100 +0000">
+  <programme channel="OQEE.1080" start="20260901055900 +0000" stop="20260901061000 +0000">
     <title lang="fr">Les Minus - S01E04</title>
     <desc lang="fr">Barbe Verte use de flatteries pour convaincre P'tit Rex de voler les habitants de Minusville pendant qu'il les distrait. Oli et Titus découvrent la supercherie.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901061100 +0000" stop="20260901062200 +0000">
+  <programme channel="OQEE.1080" start="20260901061000 +0000" stop="20260901062100 +0000">
     <title lang="fr">Ki &amp; Hi - S01E04</title>
     <desc lang="fr">Ki et Hi sèment le chaos en se disputant, mais Mi reste anormalement calme. Les frères enquêtent, craignant que leur mère ne soit en réalité un sosie.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901062200 +0000" stop="20260901063300 +0000">
+  <programme channel="OQEE.1080" start="20260901062100 +0000" stop="20260901063200 +0000">
     <title lang="fr">Ki &amp; Hi - S01E05</title>
     <desc lang="fr">Ki et Hi, en vogue sur les réseaux pour leurs farces, se lassent de leur fausse rivalité et cherchent à sortir de ce piège médiatique sans perdre leurs fans.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901063300 +0000" stop="20260901064500 +0000">
+  <programme channel="OQEE.1080" start="20260901063200 +0000" stop="20260901064400 +0000">
     <title lang="fr">Ki &amp; Hi - S01E06</title>
     <desc lang="fr">Ki et Hi doivent secourir le grillon de Mamie Dang, captif dans une pâte, avant que le Roi Panda ne la déguste lors de la fête des raviolis.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901064500 +0000" stop="20260901065200 +0000">
+  <programme channel="OQEE.1080" start="20260901064400 +0000" stop="20260901065100 +0000">
     <title lang="fr">Tom-Tom et Nana - S01E04</title>
     <desc lang="fr">Madame Mochu, une des habituées du restaurant, confie son bébé à la famille Dubouchon pour quelques heures. Yvonne et Adrien vont douloureusement se rappeler ce que c'est de s'occuper d'un nourrisson. De plus, ils ne peuvent pas compter sur leurs enfants qui n'ont pas la moindre idée de ce qu'on fait d'un bébé...</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901065200 +0000" stop="20260901065900 +0000">
+  <programme channel="OQEE.1080" start="20260901065100 +0000" stop="20260901065800 +0000">
     <title lang="fr">Tom-Tom et Nana - S01E05</title>
     <desc lang="fr">Tom-Tom et Nana jouent au Monopoly, mais la partie ne dure pas longtemps. Comme à chaque fois, ils se chamaillent et finissent par mettre le jeu en pièces. Après avoir été menacés de représailles par une Marie-Lou excédée par leurs cris, ils finissent pas se calmer et se lancent dans la fabrication d'un jeu...</desc>
+  </programme>
+  <programme channel="OQEE.1080" start="20260901065800 +0000" stop="20260901070400 +0000">
+    <title lang="fr">Tom-Tom et Nana - S01E06</title>
+    <desc lang="fr">Tom-Tom et Nana sont à la plage avec tante Roberte. Dès qu'elle plonge dans l'eau, celle-ci perd la culotte de son maillot de bain. Tom-Tom et Nana cherchent alors une solution pour lui permettre de sortir de l'eau en cachant sa nudité. Mais tante Roberte repousse toutes leurs suggestions...</desc>
   </programme>
   <programme channel="OQEE.1080" start="20260901065900 +0000" stop="20260901070600 +0000">
     <title lang="fr">Tom-Tom et Nana - S01E06</title>
@@ -25969,37 +26027,45 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Grisù - S01E04</title>
     <desc lang="fr">Le tournage du film "Le monstre de la vallée", réalisé par le célèbre Quintin Ratatino, se passe mal. Un incendie a détruit son monstre mécanique et son équipe de tournage a déserté les lieux.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901120100 +0000" stop="20260901121200 +0000">
+  <programme channel="OQEE.1080" start="20260901115500 +0000" stop="20260901120600 +0000">
     <title lang="fr">Grisù - S01E05</title>
     <desc lang="fr">Grisù est chargé d'emmener une des ruches de Monsieur Guellec dans un champ de fleurs. Suite à un incident, il a besoin des flammes de son papa, mais ce dernier a trop mal à la gorge pour cracher du feu.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901121200 +0000" stop="20260901122300 +0000">
+  <programme channel="OQEE.1080" start="20260901120600 +0000" stop="20260901121700 +0000">
     <title lang="fr">Grisù - S01E06</title>
     <desc lang="fr">Grisou part en mission sur la calotte glaciaire pour aider Madame Naturella à équiper un ours polaire d'un G.P.S pour pouvoir étudier son comportement.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901122300 +0000" stop="20260901123000 +0000">
+  <programme channel="OQEE.1080" start="20260901121700 +0000" stop="20260901122400 +0000">
     <title lang="fr">Odo - S01E03</title>
     <desc lang="fr">Odo et Doodle se déguisent en "Inspecteur Oodle" pour que le Camp puisse gagner le Grand Prix du Gland d'Or...</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901123000 +0000" stop="20260901123700 +0000">
+  <programme channel="OQEE.1080" start="20260901122400 +0000" stop="20260901123100 +0000">
     <title lang="fr">Odo - S01E04</title>
     <desc lang="fr">Odo aide Doodle à trouver son chant... </desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901123700 +0000" stop="20260901124200 +0000">
+  <programme channel="OQEE.1080" start="20260901123100 +0000" stop="20260901123600 +0000">
     <title lang="fr">Max et Lapin - S01E05</title>
     <desc lang="fr">Max écrase accidentellement des framboises récoltées avec Philomène. Heureusement, Lapin a l'idée d'en faire de la confiture et Max invite Philo à la déguster afin de se faire pardonner.</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901124200 +0000" stop="20260901124700 +0000">
+  <programme channel="OQEE.1080" start="20260901123600 +0000" stop="20260901124000 +0000">
     <title lang="fr">Max et Lapin - S01E06</title>
     <desc lang="fr">Max et Lapin entrent dans le poulailler de chez Ginger pour voir si la poule Coquette a pondu un oeuf, mais celle-ci s'échappe. Après une course poursuite, ils la rattrapent juste avant le retour de Ginger...</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901124700 +0000" stop="20260901125200 +0000">
+  <programme channel="OQEE.1080" start="20260901124000 +0000" stop="20260901124500 +0000">
     <title lang="fr">Max et Lapin - S01E07</title>
     <desc lang="fr">Après une dispute entre Philo et Raoul, Max tente de les réconcilier, sans succès. En simulant un accident avec Lapin qui joue le comédien, il les rassemble, et tous trois reconstruisent une cabane-hôpital, et leur amitié...</desc>
   </programme>
-  <programme channel="OQEE.1080" start="20260901125200 +0000" stop="20260901125700 +0000">
+  <programme channel="OQEE.1080" start="20260901124500 +0000" stop="20260901125000 +0000">
     <title lang="fr">Max et Lapin - S01E08</title>
     <desc lang="fr">Vexé que Ginger joue avec Philo, Max se sent rejeté mais ne cède pas aux mauvais conseils de Lapin pour attirer l'attention de son amie.</desc>
+  </programme>
+  <programme channel="OQEE.1080" start="20260901125000 +0000" stop="20260901125600 +0000">
+    <title lang="fr">Miffy et ses amis - S01E05</title>
+    <desc lang="fr">Aujourd'hui, Miffy accompagne Maman au travail. Elle va apprendre au fur et à mesure de la journée ce que signifie réellement qu'être maire.</desc>
+  </programme>
+  <programme channel="OQEE.1080" start="20260901125600 +0000" stop="20260901130300 +0000">
+    <title lang="fr">Miffy et ses amis - S01E06</title>
+    <desc lang="fr">Miffy est au parc pour jouer à la balle avec Snuffy, mais quand ses amis commencent une partie de foot, elle dit au petit chien qu'elle ne peut plus jouer.</desc>
   </programme>
   <programme channel="OQEE.1080" start="20260901125700 +0000" stop="20260901130400 +0000">
     <title lang="fr">Miffy et ses amis - S01E05</title>
@@ -28117,10 +28183,6 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <desc lang="fr">Tour du monde en bref et en images des dernières actualités importantes tous sports confondus dans le JT d'Infosport+. </desc>
   </programme>
   <programme channel="OQEE.1101" start="20260831143000 +0000" stop="20260831152700 +0000">
-    <title lang="fr">Moto 3 : Grand Prix d'Aragon</title>
-    <desc lang="fr">Diffusion du Grand Prix d'Aragon, une course disputée dans le cadre du championnat du monde de moto 3. Le circuit du Motorland accueille chaque année les coureurs sur les 5,344 km de piste, qui s'y déplacent avec pour objectif la victoire et le maximum de points en vue du titre suprême. </desc>
-  </programme>
-  <programme channel="OQEE.1101" start="20260831143000 +0000" stop="20260831152700 +0000">
     <title lang="fr">Moto 3 : Grand Prix d'Aragon - Grand Prix d'Aragon</title>
     <desc lang="fr">Diffusion du Grand Prix d'Aragon, une course disputée dans le cadre du championnat du monde de moto 3. Le circuit du Motorland accueille chaque année les coureurs sur les 5,344 km de piste, qui s'y déplacent avec pour objectif la victoire et le maximum de points en vue du titre suprême. </desc>
   </programme>
@@ -28151,6 +28213,10 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.1101" start="20260831190700 +0000" stop="20260831204100 +0000">
     <title lang="fr">Rallye : WRC, Rallye du Paraguay - Rallye du Paraguay</title>
     <desc lang="fr">Quel pilote s'imposera dans ce Rallye du Paraguay à l'issue de cette 22e spéciale disputée à Encarnación ? Longue de 10,26 km, cette ultime Power Stage doit livrer le verdict d'une épreuve intense et piégeuse. Après trois jours de compétition, les derniers kilomètres pourraient encore faire basculer la course.</desc>
+  </programme>
+  <programme channel="OQEE.1101" start="20260831204100 +0000" stop="20260831213000 +0000">
+    <title lang="fr">Moto GP : Grand Prix d'Aragon - La course des Moto GP</title>
+    <desc lang="fr">Après la Grande-Bretagne et Silverstone, direction le circuit Motorland Aragon pour une nouvelle manche du championnat du monde Moto GP. Raul Fernandez s'est imposé en Angleterre, va-t-il doubler la mise en Espagne ? Au classement général, Jorge Martin est toujours largement en tête, devant Marco Bezzecchi.</desc>
   </programme>
   <programme channel="OQEE.1101" start="20260831204100 +0000" stop="20260831213000 +0000">
     <title lang="fr">Moto GP : Grand Prix d'Aragon - Grand Prix d'Aragon</title>
@@ -28238,6 +28304,10 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   </programme>
   <programme channel="OQEE.1100" start="20260831130300 +0000" stop="20260831144800 +0000">
     <title lang="fr">Football : Premier League - Chelsea - Brighton &amp; Hove Albion</title>
+    <desc lang="fr">Les Blues de Chelsea disputent leur premier match officiel de la saison à Stamford Bridge, face aux Seagulls du Brighton &amp; Hove Albion Football Club. Après un premier déplacement à Fulham, les hommes de Xabi Alonso comptent bien remporter leurs trois premiers points de la saison à domicile.</desc>
+  </programme>
+  <programme channel="OQEE.1100" start="20260831130300 +0000" stop="20260831144800 +0000">
+    <title lang="fr">Football : Premier League - Chelsea / Brighton &amp; Hove Albion</title>
     <desc lang="fr">Les Blues de Chelsea disputent leur premier match officiel de la saison à Stamford Bridge, face aux Seagulls du Brighton &amp; Hove Albion Football Club. Après un premier déplacement à Fulham, les hommes de Xabi Alonso comptent bien remporter leurs trois premiers points de la saison à domicile.</desc>
   </programme>
   <programme channel="OQEE.1100" start="20260831144800 +0000" stop="20260831163300 +0000">
@@ -33392,7 +33462,15 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Fin des programmes</title>
     <desc lang="fr">Fermeture de l'antenne à la fin des diffusions de la journée.</desc>
   </programme>
+  <programme channel="OQEE.1164" start="20260901013000 +0000" stop="20260901051800 +0000">
+    <title lang="fr">Fin des programmes</title>
+    <desc lang="fr">Fermeture de l'antenne à la fin des diffusions de la journée.</desc>
+  </programme>
   <programme channel="OQEE.1164" start="20260901052000 +0000" stop="20260901072300 +0000">
+    <title lang="fr">Alpha</title>
+    <desc lang="fr">Années 1980. Alpha, 13 ans, vit seule avec sa mère, médecin dans un service hospitalier qui accueille des patients atteints d'un mystérieux virus. Le monde s'écroule le jour où Alpha rentre de l'école avec un tatouage sur le bras. Alors que son propre frère, un toxicomane, semble frappé à son tour par cette nouvelle maladie qui se répand, la mère de l'adolescente ne peut cacher son inquiétude pour sa fille, ignorant dans quelles conditions d'hygiène le tatoueur a oeuvré...</desc>
+  </programme>
+  <programme channel="OQEE.1164" start="20260901051800 +0000" stop="20260901072200 +0000">
     <title lang="fr">Alpha</title>
     <desc lang="fr">Années 1980. Alpha, 13 ans, vit seule avec sa mère, médecin dans un service hospitalier qui accueille des patients atteints d'un mystérieux virus. Le monde s'écroule le jour où Alpha rentre de l'école avec un tatouage sur le bras. Alors que son propre frère, un toxicomane, semble frappé à son tour par cette nouvelle maladie qui se répand, la mère de l'adolescente ne peut cacher son inquiétude pour sa fille, ignorant dans quelles conditions d'hygiène le tatoueur a oeuvré...</desc>
   </programme>
@@ -33435,9 +33513,29 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.1162" start="20260831050000 +0000" stop="20260831170000 +0000">
     <title lang="fr">L'actu du média</title>
   </programme>
-  <programme channel="OQEE.1162" start="20260831170000 +0000" stop="20260831180000 +0000">
-    <title lang="fr">Toujours debout</title>
-    <desc lang="fr">"Toujours debout !", c'est l'émission quotidienne du Média diffusée en direct qui décrypte l'actualité en présence de nombreux invité.e.s !</desc>
+  <programme channel="OQEE.1162" start="20260831155000 +0000" stop="20260831160100 +0000">
+    <title lang="fr">Les reportages</title>
+    <desc lang="fr">Le Média et ses équipes se mobilisent au plus près du terrain pour vous permettre de suivre et de comprendre les événements et les tendances de fond qui touchent et transforment la France et le monde.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260831160100 +0000" stop="20260831160800 +0000">
+    <title lang="fr">L'heure des briques</title>
+    <desc lang="fr">Une fois par semaine, on rigole avec les briques de Gwen, en mode "parodie" d'une émission diffusée sur une célèbre chaine d'info de la TNT.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260831160800 +0000" stop="20260831162600 +0000">
+    <title lang="fr">L'entretien</title>
+    <desc lang="fr">Parler en ayant le temps de développer, sans courir le risque d'être (trop) interrompu entre deux tunnels publicitaires. L'espace idéal pour exposer des idées nouvelles et/ou dissidentes, rapporter des informations de la plus grande importance, réagir à une actualité trépidante.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260831162600 +0000" stop="20260831165000 +0000">
+    <title lang="fr">Les reportages</title>
+    <desc lang="fr">Le Média et ses équipes se mobilisent au plus près du terrain pour vous permettre de suivre et de comprendre les événements et les tendances de fond qui touchent et transforment la France et le monde.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260831165000 +0000" stop="20260831174400 +0000">
+    <title lang="fr">Le fauteuil</title>
+    <desc lang="fr">Un entretien long format avec une personnalité artistique, médiatique ou politique, où le récit d'un parcours individuel devient une manière d'interroger une époque, des choix de société et les grands enjeux contemporains.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260831174400 +0000" stop="20260831181600 +0000">
+    <title lang="fr">Les reportages</title>
+    <desc lang="fr">Le Média et ses équipes se mobilisent au plus près du terrain pour vous permettre de suivre et de comprendre les événements et les tendances de fond qui touchent et transforment la France et le monde.</desc>
   </programme>
   <programme channel="OQEE.1162" start="20260831180000 +0000" stop="20260831182000 +0000">
     <title lang="fr">L'instant Porcher</title>
@@ -33458,12 +33556,17 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Géostratégix</title>
     <desc lang="fr">Avec Géostratégix, présenté par Sara Trabi, Le Média lance un nouveau rendez-vous consacré à l'actualité internationale, aux côtés du géopolitologue Pascal Boniface. L'ambition est claire : rendre lisible une actualité mondiale souvent complexe, en croisant regard journalistique et analyse experte.</desc>
   </programme>
-  <programme channel="OQEE.1162" start="20260831200000 +0000" stop="20260831202000 +0000">
-    <title lang="fr">Le récap</title>
-    <desc lang="fr">Le Récap, c'est la pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, on passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  <programme channel="OQEE.1162" start="20260831200400 +0000" stop="20260831203500 +0000">
+    <title lang="fr">L'entretien</title>
+    <desc lang="fr">Parler en ayant le temps de développer, sans courir le risque d'être (trop) interrompu entre deux tunnels publicitaires. L'espace idéal pour exposer des idées nouvelles et/ou dissidentes, rapporter des informations de la plus grande importance, réagir à une actualité trépidante.</desc>
   </programme>
-  <programme channel="OQEE.1162" start="20260831202000 +0000" stop="20260831210000 +0000">
-    <title lang="fr">L'actu du média</title>
+  <programme channel="OQEE.1162" start="20260831203500 +0000" stop="20260831204500 +0000">
+    <title lang="fr">Les reportages</title>
+    <desc lang="fr">Le Média et ses équipes se mobilisent au plus près du terrain pour vous permettre de suivre et de comprendre les événements et les tendances de fond qui touchent et transforment la France et le monde.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260831204500 +0000" stop="20260831210500 +0000">
+    <title lang="fr">La chronique</title>
+    <desc lang="fr">La vidéaste Gwen Guirette revient sur les trajectoires de personnalités politiques ou les grandes périodes qui ont marqué l'histoire contemporaine afin de déconstruire les récits nostalgiques et éclairer les réalités sociales, politiques et culturelles de leur époque.</desc>
   </programme>
   <programme channel="OQEE.1162" start="20260831210000 +0000" stop="20260831212000 +0000">
     <title lang="fr">Le récap</title>
@@ -33481,18 +33584,6 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Les nuits du Média</title>
     <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
   </programme>
-  <programme channel="OQEE.1162" start="20260831222000 +0000" stop="20260831230600 +0000">
-    <title lang="fr">Les nuits du Média</title>
-    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
-  </programme>
-  <programme channel="OQEE.1162" start="20260831230600 +0000" stop="20260831235100 +0000">
-    <title lang="fr">La grande H.</title>
-    <desc lang="fr">\" L'histoire avec sa grande hache \" : l'écrivain Georges Pérec, avec ce jeu de mots, a désigné ce qui a tranché dans son histoire personnelle en le privant de ses parents dès l'enfance. Avec cette émission, Le Média vous propose de nous tourner vers le passé, récent ou plus éloigné, en compagnie de celles et ceux qui l'explorent et qui le font connaître.</desc>
-  </programme>
-  <programme channel="OQEE.1162" start="20260831235100 +0000" stop="20260901001500 +0000">
-    <title lang="fr">Paris, capitale du crime politique</title>
-    <desc lang="fr">Le documentaire que vous vous préparez à regarder a été tourné il y a déjà quelques années. C'est en réalité le premier épisode d'une série qui pour l'essentiel reste à parachever. Une série baptisée \"&amp;#160;Paris capitale du crime politique&amp;#160;\" qui entendait et entend raconter ce Paris auquel on ne pense pas spontanément quand on arpente les rues de notre capitale. Et pourtant, à Paris, ville-lumière, ville touristique, ville de la mode et des arts… ont été assassinés un grand nombre d'activistes et de politiques qui ont compté dans l'histoire contemporaine. Parmi eux, Jean Jaurès, figure tutélaire de la gauche française. C'était un 31 juillet. Le 31 juillet 1914. Pourquoi&amp;#160;? Comment&amp;#160;? Quel est l'enchaînement de faits qui ont conduit à ce crime politique&amp;#160;?</desc>
-  </programme>
   <programme channel="OQEE.1162" start="20260901000000 +0000" stop="20260901002000 +0000">
     <title lang="fr">Le récap</title>
     <desc lang="fr">Le Récap, c'est la pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, on passe en revue l'actualité sans filtre et sans langue de bois.</desc>
@@ -33501,9 +33592,16 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Les nuits du Média</title>
     <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
   </programme>
-  <programme channel="OQEE.1162" start="20260901020000 +0000" stop="20260901022000 +0000">
-    <title lang="fr">Le récap</title>
-    <desc lang="fr">Le Récap, c'est la pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, on passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  <programme channel="OQEE.1162" start="20260901015900 +0000" stop="20260901023000 +0000">
+    <title lang="fr">On s'autorise à penser</title>
+    <desc lang="fr">Parce qu'il n'est plus possible que seuls "les milieux autorisés" soient autorisés à penser notre monde, ses réalités et ses combats. Cette émission se veut le carrefour des intellectuel·le·s, penseuses·eurs et actrices·eurs des luttes sociales dissident·e·s et/ou invisibilisé·e·s.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260901023000 +0000" stop="20260901025400 +0000">
+    <title lang="fr">On sort les dossiers</title>
+  </programme>
+  <programme channel="OQEE.1162" start="20260901025400 +0000" stop="20260901030900 +0000">
+    <title lang="fr">Les enquêtes</title>
+    <desc lang="fr">Dans une société où la transparence est sur toutes les lèvres, la culture du secret n'en finit pas de se développer, Le Média traque les dysfonctionnements de services publics pris au piège de l'argent-roi, mais plus largement les mensonges d'Etat et les infractions des multinationales.</desc>
   </programme>
   <programme channel="OQEE.1162" start="20260901022000 +0000" stop="20260901040000 +0000">
     <title lang="fr">Les nuits du Média</title>
@@ -33519,6 +33617,14 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   </programme>
   <programme channel="OQEE.1162" start="20260901050000 +0000" stop="20260901180000 +0000">
     <title lang="fr">L'actu du média</title>
+  </programme>
+  <programme channel="OQEE.1162" start="20260901055600 +0000" stop="20260901064500 +0000">
+    <title lang="fr">La grande H.</title>
+    <desc lang="fr">\" L'histoire avec sa grande hache \" : l'écrivain Georges Pérec, avec ce jeu de mots, a désigné ce qui a tranché dans son histoire personnelle en le privant de ses parents dès l'enfance. Avec cette émission, Le Média vous propose de nous tourner vers le passé, récent ou plus éloigné, en compagnie de celles et ceux qui l'explorent et qui le font connaître.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260901064500 +0000" stop="20260901071600 +0000">
+    <title lang="fr">L'entretien</title>
+    <desc lang="fr">Parler en ayant le temps de développer, sans courir le risque d'être (trop) interrompu entre deux tunnels publicitaires. L'espace idéal pour exposer des idées nouvelles et/ou dissidentes, rapporter des informations de la plus grande importance, réagir à une actualité trépidante.</desc>
   </programme>
   <programme channel="OQEE.1162" start="20260901092800 +0000" stop="20260901100700 +0000">
     <title lang="fr">On s'autorise à penser</title>
@@ -33539,6 +33645,21 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.1162" start="20260901105000 +0000" stop="20260901110000 +0000">
     <title lang="fr">Les reportages</title>
     <desc lang="fr">Le Média et ses équipes se mobilisent au plus près du terrain pour vous permettre de suivre et de comprendre les événements et les tendances de fond qui touchent et transforment la France et le monde.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260901115400 +0000" stop="20260901120300 +0000">
+    <title lang="fr">Les reportages</title>
+    <desc lang="fr">Le Média et ses équipes se mobilisent au plus près du terrain pour vous permettre de suivre et de comprendre les événements et les tendances de fond qui touchent et transforment la France et le monde.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260901120300 +0000" stop="20260901123700 +0000">
+    <title lang="fr">On s'autorise à penser</title>
+    <desc lang="fr">Parce qu'il n'est plus possible que seuls "les milieux autorisés" soient autorisés à penser notre monde, ses réalités et ses combats. Cette émission se veut le carrefour des intellectuel·le·s, penseuses·eurs et actrices·eurs des luttes sociales dissident·e·s et/ou invisibilisé·e·s.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260901123700 +0000" stop="20260901124700 +0000">
+    <title lang="fr">Les reportages</title>
+    <desc lang="fr">Le Média et ses équipes se mobilisent au plus près du terrain pour vous permettre de suivre et de comprendre les événements et les tendances de fond qui touchent et transforment la France et le monde.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20260901124700 +0000" stop="20260901134100 +0000">
+    <title lang="fr">Symptômes critiques</title>
   </programme>
   <programme channel="OQEE.1163" start="20260831130000 +0000" stop="20260831134500 +0000">
     <title lang="fr">The Fountain of Ancient Wisdom</title>
@@ -35462,14 +35583,11 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.1210" start="20260831153200 +0000" stop="20260831165500 +0000">
     <title lang="fr">CSE</title>
   </programme>
-  <programme channel="OQEE.1210" start="20260831165500 +0000" stop="20260831171100 +0000">
-    <title lang="fr">En attente</title>
+  <programme channel="OQEE.1210" start="20260831160000 +0000" stop="20260831174600 +0000">
+    <title lang="fr">Masterclass de l'Apôtre</title>
   </programme>
-  <programme channel="OQEE.1210" start="20260831171100 +0000" stop="20260831174600 +0000">
-    <title lang="fr">Dis-moi Apôtre</title>
-  </programme>
-  <programme channel="OQEE.1210" start="20260831174600 +0000" stop="20260831175000 +0000">
-    <title lang="fr">CSE</title>
+  <programme channel="OQEE.1210" start="20260831174600 +0000" stop="20260831180000 +0000">
+    <title lang="fr">Pub Spéciale</title>
   </programme>
   <programme channel="OQEE.1210" start="20260831175000 +0000" stop="20260831232300 +0000">
     <title lang="fr">Versets bibliques</title>
@@ -35486,8 +35604,17 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.1210" start="20260831193700 +0000" stop="20260831200000 +0000">
     <title lang="fr">Pub Spéciale</title>
   </programme>
-  <programme channel="OQEE.1210" start="20260831210000 +0000" stop="20260831232300 +0000">
-    <title lang="fr">En attente</title>
+  <programme channel="OQEE.1210" start="20260831200000 +0000" stop="20260831201600 +0000">
+    <title lang="fr">Journal intime d'une femme</title>
+  </programme>
+  <programme channel="OQEE.1210" start="20260831201600 +0000" stop="20260831202900 +0000">
+    <title lang="fr">Pub Spéciale</title>
+  </programme>
+  <programme channel="OQEE.1210" start="20260831202900 +0000" stop="20260831203000 +0000">
+    <title lang="fr">Pub Spéciale</title>
+  </programme>
+  <programme channel="OQEE.1210" start="20260831203000 +0000" stop="20260831210000 +0000">
+    <title lang="fr">Gene Prophétique - S01E04</title>
   </programme>
   <programme channel="OQEE.1210" start="20260831232300 +0000" stop="20260901002700 +0000">
     <title lang="fr">CSE</title>
@@ -37887,23 +38014,23 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Ayumu Seko, joueur à tout faire</title>
     <desc lang="fr">Il sait tout faire. Défenseur central, milieu de terrain, Ayumu Seko est l'un des joueurs les plus polyvalents et réguliers du championnat. Découverte du Japonais du Havre AC.</desc>
   </programme>
-  <programme channel="OQEE.1327" start="20260831160000 +0000" stop="20260831175000 +0000">
+  <programme channel="OQEE.1327" start="20260831160000 +0000" stop="20260831174900 +0000">
     <title lang="fr">Football : Ligue 1 McDonald's - Lyon / Le Havre</title>
     <desc lang="fr">1ère période du match de la Journée 2 du Championnat de France de Ligue 1 McDonald's 2026/27 opposant Olympique Lyonnais et Havre AC</desc>
   </programme>
-  <programme channel="OQEE.1327" start="20260831175000 +0000" stop="20260831175600 +0000">
+  <programme channel="OQEE.1327" start="20260831174900 +0000" stop="20260831175500 +0000">
     <title lang="fr">Best of Ligue 1 - S01E13</title>
     <desc lang="fr">Les 20 plus beaux buts en Ligue 1 de Mario Balotelli</desc>
   </programme>
-  <programme channel="OQEE.1327" start="20260831175600 +0000" stop="20260831180000 +0000">
+  <programme channel="OQEE.1327" start="20260831175500 +0000" stop="20260831175900 +0000">
     <title lang="fr">Best of Ligue 1 - S01E27</title>
     <desc lang="fr">Retrouvez les 10 plus beaux buts de Frédéric Da Rocha en Ligue 1 McDonald's</desc>
   </programme>
-  <programme channel="OQEE.1327" start="20260831180000 +0000" stop="20260831192800 +0000">
+  <programme channel="OQEE.1327" start="20260831175900 +0000" stop="20260831191300 +0000">
     <title lang="fr">Le Club</title>
     <desc lang="fr">Le Club - Journée 2 du Championnat de France de Ligue 1 McDonald's 2026/27 - Partie 1</desc>
   </programme>
-  <programme channel="OQEE.1327" start="20260831175900 +0000" stop="20260831191300 +0000">
+  <programme channel="OQEE.1327" start="20260831180000 +0000" stop="20260831192800 +0000">
     <title lang="fr">Le Club</title>
     <desc lang="fr">Le Club - Journée 2 du Championnat de France de Ligue 1 McDonald's 2026/27 - Partie 1</desc>
   </programme>
@@ -37927,15 +38054,15 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Football : Ligue 1 McDonald's - Brest / Toulouse</title>
     <desc lang="fr">1ère période du match de la Journée 2 du Championnat de France de Ligue 1 McDonald's 2026/27 opposant Stade Brestois 29 et Toulouse FC</desc>
   </programme>
-  <programme channel="OQEE.1327" start="20260831223500 +0000" stop="20260901002300 +0000">
-    <title lang="fr">Football : Ligue 1 McDonald's - Brest / Toulouse</title>
-    <desc lang="fr">1ère période du match de la Journée 2 du Championnat de France de Ligue 1 McDonald's 2026/27 opposant Stade Brestois 29 et Toulouse FC</desc>
-  </programme>
   <programme channel="OQEE.1327" start="20260901004000 +0000" stop="20260901013300 +0000">
     <title lang="fr">Best of Ligue 1</title>
     <desc lang="fr">Retrouvez le meilleur du Ligue 1 Show de la saison 2025/2026 en Ligue 1 McDonald's.</desc>
   </programme>
   <programme channel="OQEE.1327" start="20260901013300 +0000" stop="20260901030000 +0000">
+    <title lang="fr">Best of Ligue 1</title>
+    <desc lang="fr">Retrouvez le meilleur du Ligue 1 Show de la saison 2025/2026 en Ligue 1 McDonald's.</desc>
+  </programme>
+  <programme channel="OQEE.1327" start="20260901011600 +0000" stop="20260901030000 +0000">
     <title lang="fr">Best of Ligue 1</title>
     <desc lang="fr">Retrouvez le meilleur du Ligue 1 Show de la saison 2025/2026 en Ligue 1 McDonald's.</desc>
   </programme>
@@ -38826,11 +38953,11 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">FBI : portés disparus - S02E16</title>
     <desc lang="fr">Jessica Raab est portée disparue depuis quatre ans. Agée de 18 ans à l'époque, elle avait été vue pour la dernière fois dans le café où elle travaillait. Le seul indice consistait en une empreinte digitale non identifiée sur la porte de son appartement. Depuis, aucun nouvel élément n'a pu être versé au dossier. Quatre ans après, grâce à la vigilance de Vivian, une empreinte identique est retrouvée sur une scène de crime. Il s'agit de celle d'un fugitif, qui a récemment attaqué une femme dans un motel. Vivian persuade Jack et ses collègues de s'occuper à nouveau du dossier Jessica Raab. Mais est-elle encore vivante ?...</desc>
   </programme>
-  <programme channel="OQEE.1333" start="20260831160100 +0000" stop="20260831165500 +0000">
+  <programme channel="OQEE.1333" start="20260831160000 +0000" stop="20260831165400 +0000">
     <title lang="fr">FBI : portés disparus - S02E17</title>
     <desc lang="fr">Kevin Grant, un soldat américain blessé en Irak, est de retour chez lui. Alors qu'il est encore en convalescence, il disparaît sans laisser de traces. L'équipe du FBI est chargée de le retrouver. Les agents apprennent qu'à son retour d'Irak, Grant avait dû faire face à deux nouvelles difficiles : l'entreprise qu'il dirigeait venait de faire faillite et la maison qu'il partageait avec Sara, sa fiancée, était mise en vente. Au cours de l'enquête, Jack remarque que des zones d'ombre subsistent au sujet de l'embuscade dont Kevin a été victime près de Tikrit. Pour tenter d'en savoir plus, Danny et lui se rendent sur place...</desc>
   </programme>
-  <programme channel="OQEE.1333" start="20260831165500 +0000" stop="20260831174900 +0000">
+  <programme channel="OQEE.1333" start="20260831165400 +0000" stop="20260831174900 +0000">
     <title lang="fr">FBI : portés disparus - S02E18</title>
     <desc lang="fr">L'équipe recherche un chômeur qui a disparu en revenant de la banque, où il devait faire des opérations pour le compte du salon de coiffure de son épouse. Il venait de déposer les recettes de la journée. Depuis qu'il avait quitté son emploi, l'homme donnait quelques coups de main au salon. Les enquêteurs interrogent sa famille et découvrent que le disparu se disputait souvent avec sa femme et avec leur fils de 19 ans. Dans le même temps, Danny hésite à témoigner en faveur de son frère emprisonné lors d'une audition, tandis que Martin est replongé dans des souvenirs perturbants concernant l'affaire Reyes...</desc>
   </programme>
@@ -38882,11 +39009,15 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Foudre - S03E16</title>
     <desc lang="fr">Maxine et Léo voient débarquer Victoria qui affirme être la petite amie de Sam. Mais Léo en doute et ne veut plus être manipulé...</desc>
   </programme>
-  <programme channel="OQEE.1333" start="20260901021000 +0000" stop="20260901023300 +0000">
+  <programme channel="OQEE.1333" start="20260901014700 +0000" stop="20260901021000 +0000">
+    <title lang="fr">Foudre - S03E16</title>
+    <desc lang="fr">Maxine et Léo voient débarquer Victoria qui affirme être la petite amie de Sam. Mais Léo en doute et ne veut plus être manipulé...</desc>
+  </programme>
+  <programme channel="OQEE.1333" start="20260901021000 +0000" stop="20260901023200 +0000">
     <title lang="fr">Foudre - S03E17</title>
     <desc lang="fr">Dans la tribu de Tchamba, la tension est à son comble : Maxine, Léo, Clara et Victoria ont débarqué. Le spectacle de Victoria avec Sam a dévasté Alice...</desc>
   </programme>
-  <programme channel="OQEE.1333" start="20260901023300 +0000" stop="20260901025500 +0000">
+  <programme channel="OQEE.1333" start="20260901023200 +0000" stop="20260901025500 +0000">
     <title lang="fr">Foudre - S03E18</title>
     <desc lang="fr">Sur les conseils d'Umba, Alice a précipitamment quitté la tribu avec Guiloux. Elle est partie attendre, sur les terres de son enfance, l'arrivée d'un objet coutumier : "un animal magique, vivant et mort à la fois"...</desc>
   </programme>
@@ -47049,7 +47180,7 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   </programme>
   <programme channel="OQEE.273" start="20260831165500 +0000" stop="20260831173000 +0000">
     <title lang="fr">Voyage en cuisine</title>
-    <desc lang="fr">Voyage à la découverte des recettes traditionnelles de la Sicile. Les boulettes de riz siciliennes : les arancine - À Palerme, Antoine Leclaire fait ses emplettes dans les commerces qui se sont ligués contre la mafia.</desc>
+    <desc lang="fr">Après la découverte de la recette des arancine, des boulettes de riz siciliennes, à Palerme, Antoine Leclaire fait ses emplettes de produits locaux.</desc>
   </programme>
   <programme channel="OQEE.273" start="20260831173000 +0000" stop="20260831174500 +0000">
     <title lang="fr">Le dessous des images</title>
@@ -48855,6 +48986,14 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Royal Garage - S01E12</title>
     <desc lang="fr">Nous avons construit ce Bronco Roadster 72 pour un homme nommé Todd qui a vendu son Bronco bien-aimé pour accompagner sa petite amie au Rwanda afin de tourner un documentaire sur le génocide rwandais. ROYL Garage est entré dans l'histoire avec ce Bronco : c'était la première fois que le moteur Godzilla de Ford était monté sur un Bronco classique, un exploit presque impossible.</desc>
   </programme>
+  <programme channel="OQEE.291" start="20260831134000 +0000" stop="20260831142500 +0000">
+    <title lang="fr">Royal Garage - S01E12</title>
+    <desc lang="fr">Nous avons construit ce Bronco Roadster 72 pour un homme nommé Todd qui a vendu son Bronco bien-aimé pour accompagner sa petite amie au Rwanda afin de tourner un documentaire sur le génocide rwandais. ROYL Garage est entré dans l'histoire avec ce Bronco : c'était la première fois que le moteur Godzilla de Ford était monté sur un Bronco classique, un exploit presque impossible.</desc>
+  </programme>
+  <programme channel="OQEE.291" start="20260831142500 +0000" stop="20260831154000 +0000">
+    <title lang="fr">High Side : Le Meilleur - S01E11</title>
+    <desc lang="fr">Tom Barrer, un spécialiste du Trail a eu 3 jours pour faire découvrir et faire aimer le Trail à Bader. Direction de l'Espagne, où Bader va pouvoir parfaire sa pratique du off-road en se confrontant à toutes les difficultés que ces chemins de terre ont ...</desc>
+  </programme>
   <programme channel="OQEE.291" start="20260831142700 +0000" stop="20260831151600 +0000">
     <title lang="fr">High Side : Le Meilleur - S01E11</title>
     <desc lang="fr">Tom Barrer, un spécialiste du Trail a eu 3 jours pour faire découvrir et faire aimer le Trail à Bader. Direction de l'Espagne, où Bader va pouvoir parfaire sa pratique du off-road en se confrontant à toutes les difficultés que ces chemins de terre ont ...</desc>
@@ -48863,13 +49002,13 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">High Side : Le Meilleur - S01E12</title>
     <desc lang="fr">SOS High Side est de retour pour une deuxième saison ! L'équipe de High Side et de Thorn Bikes vont de nouveau aider un ou une motarde dans le besoin à entretenir leur moto. Cette année, c'est la moto de Sarah, une Honda Hornet 600 de 2002 qui a été ...</desc>
   </programme>
-  <programme channel="OQEE.291" start="20260831154000 +0000" stop="20260831165500 +0000">
-    <title lang="fr">High Side : Le Meilleur - S01E12</title>
-    <desc lang="fr">SOS High Side est de retour pour une deuxième saison ! L'équipe de High Side et de Thorn Bikes vont de nouveau aider un ou une motarde dans le besoin à entretenir leur moto. Cette année, c'est la moto de Sarah, une Honda Hornet 600 de 2002 qui a été ...</desc>
-  </programme>
-  <programme channel="OQEE.291" start="20260831165500 +0000" stop="20260831175500 +0000">
+  <programme channel="OQEE.291" start="20260831165700 +0000" stop="20260831175600 +0000">
     <title lang="fr">Flipping Bangers : voitures à tout prix - S03E01</title>
     <desc lang="fr">L'équipe déniche la pire MGF du pays, en piteux état sur un parking de concession. La voiture ne roule pas, mais c'est une option abordable pour une décapotable sportive britannique. Avec des fuites importantes et des ailes si décolorées qu'elles sont ...</desc>
+  </programme>
+  <programme channel="OQEE.291" start="20260831175600 +0000" stop="20260831185900 +0000">
+    <title lang="fr">Flipping Bangers : voitures à tout prix - S03E04</title>
+    <desc lang="fr">L'équipe sait que la BMW Mini est une voiture appréciée et performante. Mais avec autant de modèles en circulation, il est difficile d'en créer une qui se démarque et rapporte de l'argent. La voiture choisie pour cet épisode est un modèle qui ...</desc>
   </programme>
   <programme channel="OQEE.291" start="20260831175500 +0000" stop="20260831185500 +0000">
     <title lang="fr">Flipping Bangers : voitures à tout prix - S03E04</title>
@@ -48887,9 +49026,9 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">La route de l'enfer : Canada - S14E02</title>
     <desc lang="fr">Les tempêtes hivernales sèment le chaos alors qu'Al, John, Jamie et Rob luttent contre des tête-à-queue, des déversements et des pannes sur la Coquihalla et la Transcanadienne.</desc>
   </programme>
-  <programme channel="OQEE.291" start="20260831195500 +0000" stop="20260831205000 +0000">
-    <title lang="fr">La route de l'enfer : Canada - S14E02</title>
-    <desc lang="fr">Les tempêtes hivernales sèment le chaos alors qu'Al, John, Jamie et Rob luttent contre des tête-à-queue, des déversements et des pannes sur la Coquihalla et la Transcanadienne.</desc>
+  <programme channel="OQEE.291" start="20260831204700 +0000" stop="20260831214400 +0000">
+    <title lang="fr">Wheeler Dealers France - S01E01</title>
+    <desc lang="fr">Gerry convoite une Citroen 2CV, la voiture mythique des années 60 qui détonne par son prix et son innovation technologique. Pour dénicher une "deudeuche", il a un budget de 4 500 euros. Le challenge est de taille pour Aurélien, l'expert mécanicien. Parviendra-t-il à redonner toute son charme à cette voiture historique née en 1948?</desc>
   </programme>
   <programme channel="OQEE.291" start="20260831205000 +0000" stop="20260831215000 +0000">
     <title lang="fr">Wheeler Dealers France - S01E01</title>
@@ -48899,12 +49038,8 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Wheeler Dealers France - S01E02</title>
     <desc lang="fr">C'est une perle rare que Gerry rapporte aujourd'hui à Aurélien : une BMW M3 de 1994, considérée par les puristes comme la meilleure sportive de tous les temps.</desc>
   </programme>
-  <programme channel="OQEE.291" start="20260831224300 +0000" stop="20260831233500 +0000">
+  <programme channel="OQEE.291" start="20260831230000 +0000" stop="20260901000000 +0000">
     <title lang="fr">V6 - S01E03</title>
-    <desc lang="fr">Anthony Beltoise et Thomas de la chaîne Youtube WorldSupercars vous emmènent dans l'univers des marques automobiles les plus sportives. Essais de supercars, visite chez le constructeur, tests des versions de course : les passionnés apprécieront ! Au menu de cette nouvelle saison : Lamborghini, Maserati, Ferrari, Aston Martin et Alpine : que du lourd !</desc>
-  </programme>
-  <programme channel="OQEE.291" start="20260831233500 +0000" stop="20260901002000 +0000">
-    <title lang="fr">V6 - S01E02</title>
     <desc lang="fr">Anthony Beltoise et Thomas de la chaîne Youtube WorldSupercars vous emmènent dans l'univers des marques automobiles les plus sportives. Essais de supercars, visite chez le constructeur, tests des versions de course : les passionnés apprécieront ! Au menu de cette nouvelle saison : Lamborghini, Maserati, Ferrari, Aston Martin et Alpine : que du lourd !</desc>
   </programme>
   <programme channel="OQEE.291" start="20260901000000 +0000" stop="20260901010000 +0000">
@@ -48916,10 +49051,6 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <desc lang="fr">A la Belle Epoque, "Lorraine-Dietrich" incarne le luxe et l'audace, pionnière des 100km/h et double vainqueur au Mans, symbole du génie industriel français.</desc>
   </programme>
   <programme channel="OQEE.291" start="20260901011300 +0000" stop="20260901030000 +0000">
-    <title lang="fr">Sa Majesté Morgan - S01E01</title>
-    <desc lang="fr">Ce documentaire, à la croisée des sciences et des techniques, s'intéresse à ce bâtiment emblématique de la flotte britannique, surnommé " Sa Majesté Morgan ".</desc>
-  </programme>
-  <programme channel="OQEE.291" start="20260901020000 +0000" stop="20260901030000 +0000">
     <title lang="fr">Sa Majesté Morgan - S01E01</title>
     <desc lang="fr">Ce documentaire, à la croisée des sciences et des techniques, s'intéresse à ce bâtiment emblématique de la flotte britannique, surnommé " Sa Majesté Morgan ".</desc>
   </programme>
@@ -51843,7 +51974,7 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   </programme>
   <programme channel="OQEE.333" start="20260831174000 +0000" stop="20260831181500 +0000">
     <title lang="fr">De jeunes Allemands engagés pour la démocratie</title>
-    <desc lang="fr">Le Land de Saxe-Anhalt avant les élections régionales : Max, 17 ans, se bat pour une société ouverte ; Hannes, étudiant en droit, documente le virage politique à droite de sa région natale tandis qu'Alexandra, esthéticienne, mesure chaque jour la fracture politique au sein de sa clientèle. Portrait de trois jeunes à l'approche d'un scrutin suivi de près par tout le pays.</desc>
+    <desc lang="fr">Portrait de trois jeunes Allemands à l'approche d'un scrutin suivi de près par tout le pays : les élections régionales dans le Land de Saxe-Anhalt.</desc>
   </programme>
   <programme channel="OQEE.333" start="20260831181500 +0000" stop="20260831195500 +0000">
     <title lang="fr">L'arme à gauche</title>
@@ -56390,18 +56521,6 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Reazione a catena</title>
     <desc lang="fr">Un gioco di associazione logica che sfida la padronanza della lingua tra squadre di tre persone. Vince chi sa completare catene di parole e capirsi al volo. Iscriviti su www.rai.it/raicasting</desc>
   </programme>
-  <programme channel="OQEE.368" start="20260831220000 +0000" stop="20260831231000 +0000">
-    <title lang="fr">Cose Nostre</title>
-    <desc lang="fr">Emilia Brandari racconta la vita di uomini e donne che si sono opposti alla violenza delle mafie pagando un prezzo altissimo, senza mai smettere di compiere il proprio dovere. Storie di coraggio. Regia di Davide Frasnelli</desc>
-  </programme>
-  <programme channel="OQEE.368" start="20260831231000 +0000" stop="20260831231500 +0000">
-    <title lang="fr">Che tempo fa</title>
-    <desc lang="fr">L'appuntamento con le previsioni del tempo gestito dall'Aeronautica militare.</desc>
-  </programme>
-  <programme channel="OQEE.368" start="20260831231500 +0000" stop="20260901003000 +0000">
-    <title lang="fr">Reazione a catena</title>
-    <desc lang="fr">Un gioco di associazione logica che sfida la padronanza della lingua tra squadre di tre persone. Vince chi sa completare catene di parole e capirsi al volo. Iscriviti su www.rai.it/raicasting</desc>
-  </programme>
   <programme channel="OQEE.368" start="20260901000500 +0000" stop="20260901014500 +0000">
     <title lang="fr">Provaci ancora prof - S04E03</title>
     <desc lang="fr">Camilla Baudino è un'insegnante di Lettere con istinto da detective che collabora con la Polizia per risolvere gialli. Tra Roma e Torino, si divide tra scuola, indagini, famiglia e nuovi amori.</desc>
@@ -56410,9 +56529,13 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Provaci ancora prof - S04E03</title>
     <desc lang="fr">Camilla Baudino è un'insegnante di Lettere con istinto da detective che collabora con la Polizia per risolvere gialli. Tra Roma e Torino, si divide tra scuola, indagini, famiglia e nuovi amori.</desc>
   </programme>
-  <programme channel="OQEE.368" start="20260901014500 +0000" stop="20260901023000 +0000">
+  <programme channel="OQEE.368" start="20260901020500 +0000" stop="20260901025000 +0000">
     <title lang="fr">Rex, chien flic - S09E04</title>
     <desc lang="fr">En route pour son travail, une jeune femme avale un cachet de vitamines. Peu après, la malheureuse est retrouvée morte. Un homme décède également dans les mêmes circonstances. Dans les deux cas, les vitamines ont été empoisonnées. Marc est convaincu qu'il s'agit d'un moyen de faire pression sur la firme qui distribue le produit et de tenter de le faire interdire. Il mène son enquête sur les sociétés concurrentes qui pourraient avoir intérêt à voir ces vitamines disparaître du marché. Accompagné de Rex, son fidèle collègue à quatre pattes, il remonte une piste sérieuse, qui n'est pas sans danger...</desc>
+  </programme>
+  <programme channel="OQEE.368" start="20260901025000 +0000" stop="20260901040000 +0000">
+    <title lang="fr">RAInews24</title>
+    <desc lang="fr">Aggiornamento continuo su politica, economia, esteri, sport e cronaca, con notizie in tempo reale, approfondimenti, rubriche tematiche, meteo e servizi utili. Un canale sempre acceso che offre informazione immediata e completa 24 ore su 24.</desc>
   </programme>
   <programme channel="OQEE.368" start="20260901023000 +0000" stop="20260901040000 +0000">
     <title lang="fr">RAInews24</title>
@@ -57245,8 +57368,12 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.382" start="20260831150000 +0000" stop="20260831160000 +0000">
     <title lang="fr">One World</title>
   </programme>
-  <programme channel="OQEE.382" start="20260831160000 +0000" stop="20260831170000 +0000">
+  <programme channel="OQEE.382" start="20260831160000 +0000" stop="20260831164500 +0000">
     <title lang="fr">One World</title>
+  </programme>
+  <programme channel="OQEE.382" start="20260831164500 +0000" stop="20260831170000 +0000">
+    <title lang="fr">African Voices</title>
+    <desc lang="fr">Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo.</desc>
   </programme>
   <programme channel="OQEE.382" start="20260831170000 +0000" stop="20260831180000 +0000">
     <title lang="fr">Amanpour</title>
@@ -57291,7 +57418,7 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   </programme>
   <programme channel="OQEE.382" start="20260901020000 +0000" stop="20260901030000 +0000">
     <title lang="fr">CNN NewsNight</title>
-    <desc lang="fr">Abby Phillip delivers a smart, sharp approach to the day's biggest stories.</desc>
+    <desc lang="fr">Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
   </programme>
   <programme channel="OQEE.382" start="20260901030000 +0000" stop="20260901040000 +0000">
     <title lang="fr">Laura Coates Live</title>
@@ -60690,21 +60817,25 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Ghayal</title>
     <desc lang="fr">Amateur Boxer Ajay returns from New Delhi, only to find that his brother is missing. His inquiries and a police complaint only lead to frustration.</desc>
   </programme>
+  <programme channel="OQEE.446" start="20260831201500 +0000" stop="20260831232500 +0000">
+    <title lang="fr">Simmba</title>
+    <desc lang="fr">Sangram Bhalerao est un orphelin. Depuis tout petit, il a envie de devenir flic. Mais pas pour les raisons qu'on croit.</desc>
+  </programme>
   <programme channel="OQEE.446" start="20260831201500 +0000" stop="20260831230000 +0000">
     <title lang="fr">Simmba</title>
     <desc lang="fr">Sangram Bhalerao est un orphelin. Depuis tout petit, il a envie de devenir flic. Mais pas pour les raisons qu'on croit.</desc>
   </programme>
-  <programme channel="OQEE.446" start="20260831201500 +0000" stop="20260831232500 +0000">
-    <title lang="fr">Simmba</title>
-    <desc lang="fr">Sangram Bhalerao est un orphelin. Depuis tout petit, il a envie de devenir flic. Mais pas pour les raisons qu'on croit.</desc>
+  <programme channel="OQEE.446" start="20260831230000 +0000" stop="20260901020000 +0000">
+    <title lang="fr">Kantara A Legend : Chapter 1</title>
+    <desc lang="fr">Inde, au XIXe siècle. Guidé par ses convictions, un jeune homme s'engage dans un combat contre les membres malfaisants d'une puissante dynastie.</desc>
   </programme>
   <programme channel="OQEE.446" start="20260831232500 +0000" stop="20260901025500 +0000">
     <title lang="fr">Kantara A Legend : Chapter 1</title>
     <desc lang="fr">Inde, au XIXe siècle. Guidé par ses convictions, un jeune homme s'engage dans un combat contre les membres malfaisants d'une puissante dynastie.</desc>
   </programme>
-  <programme channel="OQEE.446" start="20260831230000 +0000" stop="20260901020000 +0000">
-    <title lang="fr">Kantara A Legend : Chapter 1</title>
-    <desc lang="fr">Inde, au XIXe siècle. Guidé par ses convictions, un jeune homme s'engage dans un combat contre les membres malfaisants d'une puissante dynastie.</desc>
+  <programme channel="OQEE.446" start="20260901025500 +0000" stop="20260901050000 +0000">
+    <title lang="fr">420 IPC</title>
+    <desc lang="fr">CA Keswani is arrested for bank fraud and forgery. Keswani hires Birbal, a lawyer, to fight his case, but Birbal realises that there's more to it than meets the eye.</desc>
   </programme>
   <programme channel="OQEE.446" start="20260901020000 +0000" stop="20260901050000 +0000">
     <title lang="fr">420 IPC</title>
@@ -62395,13 +62526,9 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Júlia - S09E137</title>
     <desc lang="fr">Júlia Pinheiro vai revelar histórias de vida extraordinárias que tocam, inspiram e prometem instalar-se na memória dos portugueses. Chegou a altura de dar voz a testemunhos inéditos, com rosto... e nome próprio.</desc>
   </programme>
-  <programme channel="OQEE.505" start="20260831143500 +0000" stop="20260831144500 +0000">
-    <title lang="fr">Expresso Imobiliário - S02E30</title>
-    <desc lang="fr">O que de melhor se faz ao nível da arquitetura, decoração e do imobiliário em geral, de norte a sul do país.</desc>
-  </programme>
-  <programme channel="OQEE.505" start="20260831144500 +0000" stop="20260831160000 +0000">
-    <title lang="fr">Passadeira Vermelha - S13E160</title>
-    <desc lang="fr">"Passadeira Vermelha" faz a análise de tudo o que de importante se passou no mundo dos famosos e olha à lupa todas as suas ações. Os comentários não são consensuais e estão longe de ser pacíficos... Mas uma coisa é prometida – nada vai ficar por dizer!</desc>
+  <programme channel="OQEE.505" start="20260831133000 +0000" stop="20260831150000 +0000">
+    <title lang="fr">Júlia - S09E137</title>
+    <desc lang="fr">Júlia Pinheiro vai revelar histórias de vida extraordinárias que tocam, inspiram e prometem instalar-se na memória dos portugueses. Chegou a altura de dar voz a testemunhos inéditos, com rosto... e nome próprio.</desc>
   </programme>
   <programme channel="OQEE.505" start="20260831150000 +0000" stop="20260831151500 +0000">
     <title lang="fr">Expresso Imobiliário - S02E30</title>
@@ -62411,7 +62538,7 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Passadeira Vermelha - S13E160</title>
     <desc lang="fr">"Passadeira Vermelha" faz a análise de tudo o que de importante se passou no mundo dos famosos e olha à lupa todas as suas ações. Os comentários não são consensuais e estão longe de ser pacíficos... Mas uma coisa é prometida – nada vai ficar por dizer!</desc>
   </programme>
-  <programme channel="OQEE.505" start="20260831164500 +0000" stop="20260831180000 +0000">
+  <programme channel="OQEE.505" start="20260831160000 +0000" stop="20260831180000 +0000">
     <title lang="fr">Tudo em Família - S02E11</title>
     <desc lang="fr">"Tudo em Família" apresenta duas famílias que competem para nomear as respostas mais populares às perguntas da pesquisa, para ganhar dinheiro e prémios. César Mourão promete arrancar muitas gargalhadas neste novo desafio.</desc>
   </programme>
@@ -62435,10 +62562,6 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Contas poupança - S12E21</title>
     <desc lang="fr">"Contas Poupança" é uma rubrica semanal do Jornal da Noite que propõe pequenas (em alguns casos, grandes) poupanças no orçamento mensal das famílias. O dinheiro ganha outro valor, com as reportagens do jornalista Pedro Andersson. São debatidos em estúdio temas do interesse do consumidor e dadas respostas às suas dúvidas.</desc>
   </programme>
-  <programme channel="OQEE.505" start="20260831230000 +0000" stop="20260901005000 +0000">
-    <title lang="fr">Jornal da meia noite</title>
-    <desc lang="fr">Os acontecimentos mais relevantes do dia no Jornal da Meia-Noite.</desc>
-  </programme>
   <programme channel="OQEE.505" start="20260831230000 +0000" stop="20260901004500 +0000">
     <title lang="fr">Jornal da meia noite</title>
     <desc lang="fr">Os acontecimentos mais relevantes do dia no Jornal da Meia-Noite.</desc>
@@ -62454,6 +62577,10 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.505" start="20260901013000 +0000" stop="20260901023000 +0000">
     <title lang="fr">Páginas da Vida - S02E136</title>
     <desc lang="fr">Helena é levada pela polícia por suspeitas na morte de Dora, enquanto Diogo fica dividido entre o medo e a culpa. Gil afasta-se da AAMA após o escândalo que o envolve, sem saber quem o incriminou. Gisele tenta salvar a relação com Salvador depois da traição de Anabela.</desc>
+  </programme>
+  <programme channel="OQEE.505" start="20260901023000 +0000" stop="20260901043500 +0000">
+    <title lang="fr">Tudo em Família - S02E11</title>
+    <desc lang="fr">"Tudo em Família" apresenta duas famílias que competem para nomear as respostas mais populares às perguntas da pesquisa, para ganhar dinheiro e prémios. César Mourão promete arrancar muitas gargalhadas neste novo desafio.</desc>
   </programme>
   <programme channel="OQEE.505" start="20260901023000 +0000" stop="20260901034500 +0000">
     <title lang="fr">Tudo em Família - S02E11</title>
@@ -63142,7 +63269,7 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   </programme>
   <programme channel="OQEE.536" start="20260831160000 +0000" stop="20260831163000 +0000">
     <title lang="fr">Familles nombreuses : la vie en XXL</title>
-    <desc lang="fr">Chez les Baudrand, Maé enfile le tablier de coiffeuse pour colorer les cheveux de Julia, qui profite de l'adolescence pour faire des expérimentations capillaires. Chez les Sarroca, le week-end rime avec soirée loto entre copines pour Charline, un rendez-vous hebdomadaire sacré. Enfin, du côté des Pe...</desc>
+    <desc lang="fr">Chez les Baudrand, Maé teint les cheveux de Julia. Charline Sarroca s'offre sa soirée loto sacrée. Valérie, la mère d'Axelle Perronnet, ouvre un second centre esthétique</desc>
   </programme>
   <programme channel="OQEE.536" start="20260831163000 +0000" stop="20260831171000 +0000">
     <title lang="fr">Ici tout commence - S07E1513</title>
@@ -73079,6 +73206,10 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
     <title lang="fr">Fikir Meydanı</title>
     <desc lang="fr">Türkiye ve dünya gündemindeki en önemli meseleler, Fikir Meydanı'nda masaya yatırılıyor. "Seslerin değil fikirlerin yükseldiği" programda, siyasetten ekonomiye, dış politikadan toplumsal olaylara kadar her konu, alanında uzman konukların objektif ve sağduyulu analizleriyle izleyiciye aktarılıyor.</desc>
   </programme>
+  <programme channel="OQEE.773" start="20260831200000 +0000" stop="20260831210000 +0000">
+    <title lang="fr">Haber Turu</title>
+    <desc lang="fr">Haber Turu ile günün öne çıkan başlıklarını tek durakta yakalayın. Siyasi olaylar, ekonomi piyasaları, uluslararası gelişmeler, güvenlik haberleri, deprem ve afet durumu, spor sonuçları hızlıca özetleniyor. Canlı bağlantılar, kısa analizler, uzman yorumları, millî menfaat odaklı bakışla zenginleştiriliyor.</desc>
+  </programme>
   <programme channel="OQEE.773" start="20260831200000 +0000" stop="20260901080000 +0000">
     <title lang="fr">Haber Turu</title>
     <desc lang="fr">Haber Turu ile günün öne çıkan başlıklarını tek durakta yakalayın. Siyasi olaylar, ekonomi piyasaları, uluslararası gelişmeler, güvenlik haberleri, deprem ve afet durumu, spor sonuçları hızlıca özetleniyor. Canlı bağlantılar, kısa analizler, uzman yorumları, millî menfaat odaklı bakışla zenginleştiriliyor.</desc>
@@ -73086,6 +73217,10 @@ Table à cartes dans un jacuzzi, terrain de boules à côté des machines à sou
   <programme channel="OQEE.773" start="20260831210000 +0000" stop="20260901043000 +0000">
     <title lang="fr">Tekrar Yayın</title>
     <desc lang="fr">Ekranların ilgiyle takip edilen yapımı, en sevilen sahneleri ve çarpıcı bölümleriyle bir kez daha izleyici karşısına çıkıyor. Kaçıranlar, tekrar izlemekten keyif alanlar ve en ince detayları yakalamak isteyenler için hazırlanan bu yayında; haftaya damgasını vuran olaylar, duygu yüklü anlar ve merakla beklenen tüm gelişmeler bir arada.</desc>
+  </programme>
+  <programme channel="OQEE.773" start="20260901043000 +0000" stop="20260901080000 +0000">
+    <title lang="fr">Günaydın Türkiye</title>
+    <desc lang="fr">Günaydın Türkiye ile sabahınızı güçlü ve güncel kılın. Gece boyu gelişen olaylar, siyasi açıklamalar, ekonomi verileri, uluslararası haberler, deprem ve afet durumu hızlıca özetleniyor. Canlı bağlantılar, uzman yorumları, trafik ve hava tahmini, pratik sabah bilgileri samimi bir anlatımla sunuluyor.</desc>
   </programme>
   <programme channel="OQEE.773" start="20260901080000 +0000" stop="20260901090000 +0000">
     <title lang="fr">Tekrar Yayın</title>
