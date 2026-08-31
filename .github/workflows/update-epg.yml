@@ -28,6 +28,7 @@ jobs:
           python3 oqee_ducktv.py
           python3 tunisiatv_watania.py
           python3 samsung_adn.py
+          python3 oqee_all.py
 
       - name: Verify generated files
         run: |
@@ -36,6 +37,7 @@ jobs:
           test -s duck-tv.xml
           test -s watania-officiel.xml
           test -s adn.xml
+          test -s guide-free.xml
 
           ls -lh \
             pitchoun-kids.xml \
@@ -43,6 +45,7 @@ jobs:
             duck-tv.xml \
             watania-officiel.xml \
             adn.xml
+            guide-free.xml
 
       - name: Merge generated EPG into guide.xml
         run: |
@@ -169,7 +172,7 @@ jobs:
 
       - name: Commit updated guide
         run: |
-          if git diff --quiet guide.xml; then
+          if git diff --quiet guide.xml guide-free.xml; then
             echo "No change in guide.xml"
             exit 0
           fi
@@ -177,6 +180,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add guide.xml
+          git add guide.xml guide-free.xml
           git commit -m "Mise à jour automatique EPG"
           git push
