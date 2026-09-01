@@ -30,6 +30,7 @@ jobs:
           python3 samsung_adn.py
           python3 oqee_all.py
           python3 sqool_tv.py
+          python3 motorvision_plus.py
           python3 esprit_sorcier.py
 
       - name: Verify generated files
@@ -41,6 +42,7 @@ jobs:
           test -s adn.xml
           test -s guide-free.xml
           test -s sqool-tv.xml
+          test -s motorvision-plus.xml
           test -s esprit-sorcier.xml
 
           ls -lh \
@@ -51,6 +53,7 @@ jobs:
             adn.xml \
             guide-free.xml \
             sqool-tv.xml \
+            motorvision-plus.xml \
             esprit-sorcier.xml
 
       - name: Merge generated EPG into guide.xml
@@ -67,6 +70,7 @@ jobs:
               "watania-officiel.xml",
               "adn.xml",
               "sqool-tv.xml",
+              "motorvision-plus.xml",
               "esprit-sorcier.xml",
           ]
 
@@ -77,6 +81,7 @@ jobs:
               "Watania1.tn",
               "ADN.fr",
               "SQOOLTV.fr",
+              "MotorVisionTV.fr",
               "LEspritSorcierTV.fr",
           }
 
@@ -165,6 +170,7 @@ jobs:
               "Watania1.tn",
               "ADN.fr",
               "SQOOLTV.fr",
+              "MotorVisionTV.fr",
               "LEspritSorcierTV.fr",
           ]
 
