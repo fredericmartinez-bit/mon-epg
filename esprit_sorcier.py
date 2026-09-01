@@ -3,6 +3,7 @@ import html
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 INDEX_URL = "https://caraibe.orange.fr/tv/programme"
 BASE_URL = "https://caraibe.orange.fr"
@@ -105,7 +106,7 @@ for pid, image, title, date_text, info in pattern.findall(page):
 programmes.sort(key=lambda x: x[0])
 
 # Fallback officiel si Orange ne fournit plus de grille actuelle.
-now = datetime.now()
+now = datetime.now(ZoneInfo("Europe/Paris")).replace(tzinfo=None)
 
 latest_stop = max((x[1] for x in programmes), default=None)
 
