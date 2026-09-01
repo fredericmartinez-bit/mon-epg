@@ -4,8 +4,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 
-INDEX_URL = "https://caraibe.orange.fr/tv/programme"
-BASE_URL = "https://caraibe.orange.fr"
+URL = "https://www.sqooltv.com/grille-des-programmes/"
 CHANNEL_ID = "SQOOLTV.fr"
 
 def download(url):
@@ -16,107 +15,112 @@ def download(url):
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read().decode("utf-8", errors="replace")
 
-index = download(INDEX_URL)
+page = download(URL)
 
-pos = index.find('data-channel="3767"')
-if pos == -1:
-    raise SystemExit("SQOOL TV (3767) introuvable")
+today = datetime.now()
 
-# On reste uniquement dans le bloc SQOOL.
-end = index.find('data-channel="', pos + 20)
-block = index[pos:end if end != -1 else None]
+# Lundi-vendredi = pills-1
+# Samedi = pills-2
+# Dimanche = pills-3
+if today.weekday() <= 4:
+    tab_id = "pills-1"
+elif today.weekday() == 5:
+    tab_id = "pills-2"
+else:
+    tab_id = "pills-3"
 
-m = re.search(r'href="(/tv/programme/[^"]+)"', block)
-if not m:
-    raise SystemExit("Aucun programme SQOOL TV trouvé")
+start_marker = f'id="{tab_id}"'
+start_pos = page.find(start_marker)
 
-url = BASE_URL + html.unescape(m.group(1))
-print("Page SQOOL :", url)
+if start_pos == -1:
+    raise SystemExit(f"Bloc {tab_id} introuvable")
 
-page = download(url)
+next_tab = page.find('class="timeline tab-pane', start_pos + 20)
+block = page[start_pos:next_tab if next_tab != -1 else None]
 
 tv = ET.Element("tv")
 
 channel = ET.SubElement(tv, "channel", id=CHANNEL_ID)
-ET.SubElement(channel, "display-name").text = "SQOOL TV"
-ET.SubElement(
-    channel,
-    "icon",
-    src="https://orange-caraibe.twic.pics/medias/logo_tvchaine/3767_rect.png"
-)
+ET.SubElement(channel, "display-name", lang="fr").text = "SQOOL TV"
 
 pattern = re.compile(
-    r'<button[^>]+data-id="(\d+)"[^>]*>.*?'
-    r'<img[^>]+src="([^"]+)"[^>]+alt="([^"]*)".*?'
-    r'<p class="font-bold">([^<]+)</p>\s*'
-    r'<p>([^<]+)</p>',
+    r'<div class="row timeline-item.*?'
+    r'<div class="col-6 h3 schedule">\s*'
+    r'(\d{2})H(\d{2})\s*-\s*(\d{2})H(\d{2}).*?'
+    r'<div class="col-6 h3 text-end novel">\s*(.*?)\s*</div>.*?'
+    r'<h4 class="[^"]*title[^"]*">(.*?)</h4>.*?'
+    r'(?:<div class="speaker[^"]*">(.*?)</div>)?.*?'
+    r'<img class="img-fluid" src="([^"]+)">.*?'
+    r'((?:<span class="badge[^>]*>.*?</span>\s*)+).*?'
+    r'<p class="mt-1">\s*(.*?)\s*</p>',
     re.S
 )
 
-months = {
-    "janvier": 1, "février": 2, "mars": 3, "avril": 4,
-    "mai": 5, "juin": 6, "juillet": 7, "août": 8,
-    "septembre": 9, "octobre": 10, "novembre": 11, "décembre": 12
-}
-
-seen = set()
 count = 0
 
-for pid, image, title, date_text, info in pattern.findall(page):
-    title = html.unescape(title).strip()
-    date_text = html.unescape(date_text).strip()
-    info = html.unescape(info).strip()
+for sh, sm, eh, em, status, title, speaker, image, badges, desc in pattern.findall(block):
+    title = html.unescape(re.sub(r"<[^>]+>", "", title)).strip()
+    status = html.unescape(re.sub(r"<[^>]+>", "", status)).strip()
+    desc = html.unescape(re.sub(r"<[^>]+>", "", desc)).strip()
 
-    m = re.search(
-        r'\w+\s+(\d{1,2})\s+([^\s]+)\s+(\d{4})\s+(\d{2})h(\d{2})',
-        date_text
+    speaker = html.unescape(
+        re.sub(r"<br\s*/?>", " ", speaker, flags=re.I)
     )
-    if not m:
-        continue
+    speaker = re.sub(r"<[^>]+>", "", speaker).strip()
 
-    day, month_name, year, hour, minute = m.groups()
-    month = months.get(month_name.lower())
-    if not month:
-        continue
+    categories = [
+        html.unescape(re.sub(r"<[^>]+>", "", x)).strip()
+        for x in re.findall(r"<span[^>]*>(.*?)</span>", badges, re.S)
+    ]
 
-    dm = re.search(r'(\d+)\s*mn', info)
-    if not dm:
-        continue
-
-    duration = int(dm.group(1))
-
-    start = datetime(
-        int(year), month, int(day),
-        int(hour), int(minute)
+    start = today.replace(
+        hour=int(sh),
+        minute=int(sm),
+        second=0,
+        microsecond=0
     )
-    stop = start + timedelta(minutes=duration)
 
-    key = (start, stop, title)
-    if key in seen:
-        continue
-    seen.add(key)
+    stop = today.replace(
+        hour=int(eh),
+        minute=int(em),
+        second=0,
+        microsecond=0
+    )
+
+    if stop <= start:
+        stop += timedelta(days=1)
 
     programme = ET.SubElement(
         tv,
         "programme",
-        start=start.strftime("%Y%m%d%H%M%S") + " -0400",
-        stop=stop.strftime("%Y%m%d%H%M%S") + " -0400",
+        start=start.strftime("%Y%m%d%H%M%S") + " +0200",
+        stop=stop.strftime("%Y%m%d%H%M%S") + " +0200",
         channel=CHANNEL_ID
     )
 
     ET.SubElement(programme, "title", lang="fr").text = title
 
-    category = info.split(",")[0].strip()
-    if category:
-        ET.SubElement(programme, "category", lang="fr").text = category
+    if desc:
+        ET.SubElement(programme, "desc", lang="fr").text = desc
+
+    for category in categories:
+        if category:
+            ET.SubElement(programme, "category", lang="fr").text = category
+
+    if status:
+        ET.SubElement(programme, "category", lang="fr").text = status.title()
+
+    if speaker:
+        ET.SubElement(programme, "credits").text = speaker
 
     if image:
-        ET.SubElement(programme, "icon", src=html.unescape(image))
+        ET.SubElement(programme, "icon", src=image)
 
     count += 1
 
 tree = ET.ElementTree(tv)
 ET.indent(tree, space="  ")
+
 tree.write(
     "sqool-tv.xml",
     encoding="utf-8",
@@ -124,4 +128,5 @@ tree.write(
 )
 
 print("SQOOL TV :", count, "programmes")
+print("Grille :", tab_id)
 print("Fichier : sqool-tv.xml")

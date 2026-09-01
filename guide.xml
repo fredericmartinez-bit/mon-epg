@@ -1285,10 +1285,6 @@
   <channel id="PitchounKidsMusic.fr">
     <display-name>Pitchoun Kids Music</display-name>
   </channel>
-  <channel id="SQOOLTV.fr">
-    <display-name>SQOOL TV</display-name>
-    <icon src="https://orange-caraibe.twic.pics/medias/logo_tvchaine/3767_rect.png" />
-  </channel>
   <channel id="TVPitchoun.fr">
     <display-name>TV Pitchoun</display-name>
   </channel>
@@ -130419,111 +130415,6 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20260831060000 -0400" stop="20260831063000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">La matinale</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F96fe0f30d98d410a9c40ff8be5a413ba.jpg" />
-  </programme>
-  <programme start="20260831063000 -0400" stop="20260831070000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">L'école du futur</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F9b16a046e00d47338cee5816d14a6032.jpg" />
-  </programme>
-  <programme start="20260831070000 -0400" stop="20260831073000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F1a150597561e4c87bc87c1046febd33a.jpg" />
-  </programme>
-  <programme start="20260831073000 -0400" stop="20260831080000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">La matinale</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F96fe0f30d98d410a9c40ff8be5a413ba.jpg" />
-  </programme>
-  <programme start="20260831080000 -0400" stop="20260831090000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">Le grand JT de l'éducation</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F66fb75c6dffc4b719db1fca23905209c.jpg" />
-  </programme>
-  <programme start="20260831090000 -0400" stop="20260831093000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">L'école du futur</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F9b16a046e00d47338cee5816d14a6032.jpg" />
-  </programme>
-  <programme start="20260831093000 -0400" stop="20260831100000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">La matinale</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F96fe0f30d98d410a9c40ff8be5a413ba.jpg" />
-  </programme>
-  <programme start="20260831100000 -0400" stop="20260831103000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F1a150597561e4c87bc87c1046febd33a.jpg" />
-  </programme>
-  <programme start="20260831103000 -0400" stop="20260831110000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">L'école du futur</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F9b16a046e00d47338cee5816d14a6032.jpg" />
-  </programme>
-  <programme start="20260831110000 -0400" stop="20260831120000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">Le grand JT de l'éducation</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F66fb75c6dffc4b719db1fca23905209c.jpg" />
-  </programme>
-  <programme start="20260831120000 -0400" stop="20260831123000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">La matinale</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F96fe0f30d98d410a9c40ff8be5a413ba.jpg" />
-  </programme>
-  <programme start="20260831123000 -0400" stop="20260831130000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F1a150597561e4c87bc87c1046febd33a.jpg" />
-  </programme>
-  <programme start="20260831130000 -0400" stop="20260831133000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">L'école du futur</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F9b16a046e00d47338cee5816d14a6032.jpg" />
-  </programme>
-  <programme start="20260831133000 -0400" stop="20260831140000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F1a150597561e4c87bc87c1046febd33a.jpg" />
-  </programme>
-  <programme start="20260831140000 -0400" stop="20260831143000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">L'école du futur</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F9b16a046e00d47338cee5816d14a6032.jpg" />
-  </programme>
-  <programme start="20260831143000 -0400" stop="20260831153000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">Le grand JT de l'éducation</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F66fb75c6dffc4b719db1fca23905209c.jpg" />
-  </programme>
-  <programme start="20260831153000 -0400" stop="20260831160000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F1a150597561e4c87bc87c1046febd33a.jpg" />
-  </programme>
-  <programme start="20260831160000 -0400" stop="20260831163000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">L'école du futur</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F9b16a046e00d47338cee5816d14a6032.jpg" />
-  </programme>
-  <programme start="20260831163000 -0400" stop="20260831173000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">Le grand JT de l'éducation</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F66fb75c6dffc4b719db1fca23905209c.jpg" />
-  </programme>
-  <programme start="20260831173000 -0400" stop="20260831180000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">La matinale</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F96fe0f30d98d410a9c40ff8be5a413ba.jpg" />
-  </programme>
-  <programme start="20260831180000 -0400" stop="20260831183000 -0400" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <category lang="fr">Magazine</category>
-    <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F1a150597561e4c87bc87c1046febd33a.jpg" />
-  </programme>
   <programme start="20260831010000 -0400" stop="20260831070000 -0400" channel="LEspritSorcierTV.fr">
     <title lang="fr">Programmes de la nuit</title>
     <category lang="fr">Autre</category>
@@ -130553,5 +130444,320 @@
     <title lang="fr">L'esprit curieux</title>
     <category lang="fr">Magazine</category>
     <icon src="https://proxymedia.woopic.com/api/v1/images/1870%2Fepg%2F48921c234b9547c5ac40991f849192b2.jpg" />
+  </programme>
+  <channel id="SQOOLTV.fr">
+    <display-name lang="fr">SQOOL TV</display-name>
+  </channel>
+  <programme start="20260901000000 +0200" stop="20260901003000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20260901003000 +0200" stop="20260901013000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LE GRAND JT DE L’ÉDUCATION</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20260901013000 +0200" stop="20260901020000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901020000 +0200" stop="20260901030000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LE GRAND JT DE L’ÉDUCATION</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20260901030000 +0200" stop="20260901033000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LA MATINALE</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/01/La-Matinale.png" />
+  </programme>
+  <programme start="20260901033000 +0200" stop="20260901040000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20260901040000 +0200" stop="20260901043000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901043000 +0200" stop="20260901053000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LE GRAND JT DE L’ÉDUCATION</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20260901053000 +0200" stop="20260901060000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LA MATINALE</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/01/La-Matinale.png" />
+  </programme>
+  <programme start="20260901060000 +0200" stop="20260901063000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20260901063000 +0200" stop="20260901070000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901070000 +0200" stop="20260901080000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LE GRAND JT DE L’ÉDUCATION</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20260901080000 +0200" stop="20260901083000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LA MATINALE</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Inédit</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/01/La-Matinale.png" />
+  </programme>
+  <programme start="20260901083000 +0200" stop="20260901090000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20260901090000 +0200" stop="20260901093000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901093000 +0200" stop="20260901103000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LE GRAND JT DE L’ÉDUCATION</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20260901103000 +0200" stop="20260901110000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LA MATINALE</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/01/La-Matinale.png" />
+  </programme>
+  <programme start="20260901110000 +0200" stop="20260901113000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20260901113000 +0200" stop="20260901120000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901120000 +0200" stop="20260901123000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LA MATINALE</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/01/La-Matinale.png" />
+  </programme>
+  <programme start="20260901123000 +0200" stop="20260901130000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Inédit</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901130000 +0200" stop="20260901133000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20260901133000 +0200" stop="20260901140000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LA MATINALE</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/01/La-Matinale.png" />
+  </programme>
+  <programme start="20260901140000 +0200" stop="20260901150000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LE GRAND JT DE L’ÉDUCATION</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20260901150000 +0200" stop="20260901153000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901153000 +0200" stop="20260901160000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LA MATINALE</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/01/La-Matinale.png" />
+  </programme>
+  <programme start="20260901160000 +0200" stop="20260901163000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20260901163000 +0200" stop="20260901170000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901170000 +0200" stop="20260901180000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LE GRAND JT DE L’ÉDUCATION</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20260901180000 +0200" stop="20260901183000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LA MATINALE</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/01/La-Matinale.png" />
+  </programme>
+  <programme start="20260901183000 +0200" stop="20260901190000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20260901190000 +0200" stop="20260901193000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901193000 +0200" stop="20260901200000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20260901200000 +0200" stop="20260901203000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901203000 +0200" stop="20260901213000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LE GRAND JT DE L’ÉDUCATION</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Inédit</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20260901213000 +0200" stop="20260901220000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20260901220000 +0200" stop="20260901223000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’ÉCOLE DU FUTUR</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20260901223000 +0200" stop="20260901233000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LE GRAND JT DE L’ÉDUCATION</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2025/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20260901233000 +0200" stop="20260902000000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">LA MATINALE</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/01/La-Matinale.png" />
   </programme>
 </tv>
