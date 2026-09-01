@@ -97316,41 +97316,6 @@
     <title lang="fr">La playlist des Pitchouns</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20260901220000 +0000" stop="20260901220300 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Danse de Pitchoun</title>
-    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
-  </programme>
-  <programme start="20260901220300 +0000" stop="20260901220500 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">L'Agenda des Pitchouns</title>
-    <desc lang="fr">Toutes les sorties à faire en famille dans les jours qui viennent, ainsi que des bons plans à retrouver partout en France.</desc>
-    <category lang="fr">Magazine</category>
-    <category lang="fr">Magazine de société</category>
-    <icon src="https://img2.oqee.net/pictures/5039881/wide_generic/h640" />
-  </programme>
-  <programme start="20260901220500 +0000" stop="20260901221800 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Molang YouTuber</title>
-    <desc lang="fr">Molang et Piu Piu sont désormais des YouTubers ! Pincos, pour être encore plus à vos côtés, les deux meilleurs amis postent CHAQUE SEMAINE de nouveaux contenus, comme des vidéos "réaction", du gaming, de l'ASMR, des challenges, et bien plus encore</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/5039883/wide_generic/h640" />
-  </programme>
-  <programme start="20260901221800 +0000" stop="20260901224000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Pirata &amp; Capitano</title>
-    <desc lang="fr">Pirata &amp; Capitano : Embarquez avec Pirata, son équipage et son meilleur ami Capitano ! Chaque virée en mer est l'occasion de chercher un trésor, de porter secours à une espèce en danger, de rencontrer de nouveaux amis ou de découvrir des îles mystérieuses. Une série sur l'entraide et le bien vivre ensemble en voguant sur le grand océan…alors, hissez les voiles et levez l'ancre, en route pour l'aventure !</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/491742/wide_generic/h640" />
-  </programme>
-  <programme start="20260901224000 +0000" stop="20260901230000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Le monde de Simsala Grimm</title>
-    <desc lang="fr">Yoyo et Doc Croc sont deux jouets qui ont été abandonnés dans un grenier. Un jour, un livre de conte de fées doté de pouvoirs magiques leur donne vie. Depuis ce jour, ils vivent de belles aventures à la découverte des contes de fées de notre enfance dans la joie et la bonne humeur !</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img2.oqee.net/pictures/4494423/wide_generic/h640" />
-  </programme>
   <programme start="20260901230000 +0000" stop="20260901230300 +0000" channel="TVPitchoun.fr">
     <title lang="fr">Danse de Pitchoun</title>
     <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
@@ -102691,6 +102656,41 @@
     <category lang="fr">Série</category>
     <category lang="fr">Série d'animation</category>
     <icon src="https://img2.oqee.net/pictures/4369649/wide_generic/h640" />
+  </programme>
+  <programme start="20260908220000 +0000" stop="20260908220300 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Danse de Pitchoun</title>
+    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
+  </programme>
+  <programme start="20260908220300 +0000" stop="20260908220500 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">L'Agenda des Pitchouns</title>
+    <desc lang="fr">Toutes les sorties à faire en famille dans les jours qui viennent, ainsi que des bons plans à retrouver partout en France.</desc>
+    <category lang="fr">Magazine</category>
+    <category lang="fr">Magazine de société</category>
+    <icon src="https://img2.oqee.net/pictures/5039881/wide_generic/h640" />
+  </programme>
+  <programme start="20260908220500 +0000" stop="20260908221800 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Molang YouTuber</title>
+    <desc lang="fr">Molang et Piu Piu sont désormais des YouTubers ! Pincos, pour être encore plus à vos côtés, les deux meilleurs amis postent CHAQUE SEMAINE de nouveaux contenus, comme des vidéos "réaction", du gaming, de l'ASMR, des challenges, et bien plus encore</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/5039883/wide_generic/h640" />
+  </programme>
+  <programme start="20260908221800 +0000" stop="20260908224000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Pirata &amp; Capitano</title>
+    <desc lang="fr">Pirata &amp; Capitano : Embarquez avec Pirata, son équipage et son meilleur ami Capitano ! Chaque virée en mer est l'occasion de chercher un trésor, de porter secours à une espèce en danger, de rencontrer de nouveaux amis ou de découvrir des îles mystérieuses. Une série sur l'entraide et le bien vivre ensemble en voguant sur le grand océan…alors, hissez les voiles et levez l'ancre, en route pour l'aventure !</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/491742/wide_generic/h640" />
+  </programme>
+  <programme start="20260908224000 +0000" stop="20260908230000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Le monde de Simsala Grimm</title>
+    <desc lang="fr">Yoyo et Doc Croc sont deux jouets qui ont été abandonnés dans un grenier. Un jour, un livre de conte de fées doté de pouvoirs magiques leur donne vie. Depuis ce jour, ils vivent de belles aventures à la découverte des contes de fées de notre enfance dans la joie et la bonne humeur !</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <icon src="https://img2.oqee.net/pictures/4494423/wide_generic/h640" />
   </programme>
   <programme start="20260901225900 +0000" stop="20260901230100 +0000" channel="DuckTV.fr">
     <title lang="fr">Bonshommes en légumes</title>
@@ -130340,22 +130340,6 @@
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bRGRhUKH.jpg" />
   </programme>
-  <programme channel="ADN.fr" start="20260901220000 +0000" stop="20260901223000 +0000">
-    <title>My Hero Academia</title>
-    <desc>L'épreuve finale du championnat de Yuei a commencé. Pour ce premier combat, Izuku va devoir affro…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_942065478_0_20250602T173225149Z_154_imageprocessorclient-tvplus-linear-retry-8555696997-dmwtp.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260901223000 +0000" stop="20260901224500 +0000">
-    <title>My Hero Academia</title>
-    <desc>Les duels de l'épreuve finale des seconde se poursuivent. C'est à présent au tour de Tenya de mon…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1010010884_0_20250626T192543920Z_57_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-65qt5.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="ADN.fr" start="20260901224500 +0000" stop="20260901231500 +0000">
     <title>My Hero Academia</title>
     <desc>Le tournoi bat son plein au championnat annuel de Yuei. Ochaco se prépare à monter sur le ring po…</desc>
@@ -130456,6 +130440,22 @@
     <title>My Hero Academia</title>
     <desc>La fin du premier trimestre approche, ainsi que l'examen qui va avec. Examen qui se déroulera en …</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_989124023_0_20250618T185954259Z_30_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260902043000 +0000" stop="20260902050000 +0000">
+    <title>My Hero Academia</title>
+    <desc>L'épreuve pratique des examens trimestriels a commencé ! Cette année, il y a eu des améliorations…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_989200530_0_20250618T185954260Z_60_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260902050000 +0000" stop="20260902051500 +0000">
+    <title>My Hero Academia</title>
+    <desc>La partie pratique de l'examen trimestriel bat son plein pour la seconde A. Certains s'en sortent…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_989124024_0_20250618T185954260Z_47_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -133296,22 +133296,6 @@
     <category lang="fr">Sport mécanique</category>
     <icon src="https://images.voomotion.be/Events/2025/12/02/23/2642789_A.jpg" />
   </programme>
-  <programme start="20260901070000 +0200" stop="20260901080000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20260901173000 +0200" stop="20260901183000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20260901190000 +0200" stop="20260901200000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Le Live</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20260901211000 +0200" stop="20260901235900 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Soirée thématique</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
   <programme start="20260902070000 +0200" stop="20260902080000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">Jeunesse</title>
     <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
@@ -133405,6 +133389,22 @@
     <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
   </programme>
   <programme start="20260907211000 +0200" stop="20260907235900 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Soirée thématique</title>
+    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  </programme>
+  <programme start="20260908070000 +0200" stop="20260908080000 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Jeunesse</title>
+    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  </programme>
+  <programme start="20260908173000 +0200" stop="20260908183000 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Jeunesse</title>
+    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  </programme>
+  <programme start="20260908190000 +0200" stop="20260908200000 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Le Live</title>
+    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  </programme>
+  <programme start="20260908211000 +0200" stop="20260908235900 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">Soirée thématique</title>
     <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
   </programme>
