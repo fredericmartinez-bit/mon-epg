@@ -9,6 +9,7 @@ BASE_URL = "https://caraibe.orange.fr"
 ORANGE_CHANNEL_ID = "13561"
 CHANNEL_ID = "LEspritSorcierTV.fr"
 OUTPUT = "esprit-sorcier.xml"
+OFFICIAL_URL = "https://lespritsorcier.tv/programmes.php"
 
 def download(url):
     req = urllib.request.Request(
@@ -103,12 +104,63 @@ for pid, image, title, date_text, info in pattern.findall(page):
 
 programmes.sort(key=lambda x: x[0])
 
+# Fallback officiel si Orange ne fournit plus de grille actuelle.
+now = datetime.now()
+
+latest_stop = max((x[1] for x in programmes), default=None)
+
+if latest_stop is None or latest_stop.date() < now.date():
+    official = download(OFFICIAL_URL)
+
+    if (
+        "17h30" in official
+        and ("19h00" in official or "19h" in official)
+        and "21h10" in official
+    ):
+        print("Orange périmé : fallback officiel activé")
+
+        programmes = []
+        seen = set()
+        fallback_official = True
+
+        # Créneaux annoncés officiellement par L'Esprit Sorcier TV.
+        slots = [
+            (7, 0, 8, 0, "Jeunesse"),
+            (17, 30, 18, 30, "Jeunesse"),
+            (19, 0, 20, 0, "Le Live"),
+            (21, 10, 23, 59, "Soirée thématique"),
+        ]
+
+        for offset in range(7):
+            day = now + timedelta(days=offset)
+
+            for sh, sm, eh, em, title in slots:
+                start = datetime(
+                    day.year, day.month, day.day, sh, sm
+                )
+                stop = datetime(
+                    day.year, day.month, day.day, eh, em
+                )
+
+                programmes.append(
+                    (
+                        start,
+                        stop,
+                        title,
+                        "Programme officiel L'Esprit Sorcier TV",
+                        ""
+                    )
+                )
+
+        programmes.sort(key=lambda x: x[0])
+
+
 for start, stop, title, info, image in programmes:
     programme = ET.SubElement(
         tv,
         "programme",
-        start=start.strftime("%Y%m%d%H%M%S") + " -0400",
-        stop=stop.strftime("%Y%m%d%H%M%S") + " -0400",
+        start=start.strftime("%Y%m%d%H%M%S") + (" +0200" if globals().get("fallback_official") else " -0400"),
+        stop=stop.strftime("%Y%m%d%H%M%S") + (" +0200" if globals().get("fallback_official") else " -0400"),
         channel=CHANNEL_ID
     )
 
