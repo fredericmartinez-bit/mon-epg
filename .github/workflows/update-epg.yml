@@ -21,6 +21,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install Python dependencies
+        run: python3 -m pip install pypdf
+
       - name: Generate custom EPG files
         run: |
           python3 orange_pitchoun.py
@@ -32,6 +35,7 @@ jobs:
           python3 sqool_tv.py
           python3 motorvision_plus.py
           python3 esprit_sorcier.py
+          python3 mxgp_tv.py
 
       - name: Verify generated files
         run: |
@@ -44,6 +48,7 @@ jobs:
           test -s sqool-tv.xml
           test -s motorvision-plus.xml
           test -s esprit-sorcier.xml
+          test -s mxgp-tv.xml
 
           ls -lh \
             pitchoun-kids.xml \
@@ -54,7 +59,8 @@ jobs:
             guide-free.xml \
             sqool-tv.xml \
             motorvision-plus.xml \
-            esprit-sorcier.xml
+            esprit-sorcier.xml \
+            mxgp-tv.xml
 
       - name: Merge generated EPG into guide.xml
         run: |
@@ -72,6 +78,7 @@ jobs:
               "sqool-tv.xml",
               "motorvision-plus.xml",
               "esprit-sorcier.xml",
+              "mxgp-tv.xml",
           ]
 
           TARGET_IDS = {
@@ -83,6 +90,7 @@ jobs:
               "SQOOLTV.fr",
               "MotorVisionTV.fr",
               "LEspritSorcierTV.fr",
+              "MXGPTV.fr",
           }
 
           tree = ET.parse(GUIDE)
@@ -172,6 +180,7 @@ jobs:
               "SQOOLTV.fr",
               "MotorVisionTV.fr",
               "LEspritSorcierTV.fr",
+              "MXGPTV.fr",
           ]
 
           counts = Counter(
