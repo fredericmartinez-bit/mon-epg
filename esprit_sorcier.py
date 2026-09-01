@@ -109,7 +109,7 @@ now = datetime.now()
 
 latest_stop = max((x[1] for x in programmes), default=None)
 
-if latest_stop is None or latest_stop.date() < now.date():
+if latest_stop is None or latest_stop < now:
     official = download(OFFICIAL_URL)
 
     if (
