@@ -168,6 +168,9 @@ jobs:
           print("Merged programmes:", len(programmes))
           PY
 
+      - name: Fill EPG gaps
+        run: python3 fill_epg_gaps.py
+
       - name: Validate guide.xml
         run: |
           python3 - <<'PY'
