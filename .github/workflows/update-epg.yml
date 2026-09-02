@@ -37,6 +37,7 @@ jobs:
           python3 esprit_sorcier.py
           python3 mxgp_tv.py
           python3 f1tv.py
+          python3 nessma.py
 
       - name: Verify generated files
         run: |
@@ -83,6 +84,7 @@ jobs:
               "esprit-sorcier.xml",
               "mxgp-tv.xml",
               "f1tv.xml",
+              "nessma.xml",
           ]
 
           TARGET_IDS = {
@@ -96,6 +98,7 @@ jobs:
               "LEspritSorcierTV.fr",
               "MXGPTV.fr",
               "F1TV1.fr",
+              "Nessma.tn",
           }
 
           tree = ET.parse(GUIDE)
@@ -190,6 +193,7 @@ jobs:
               "LEspritSorcierTV.fr",
               "MXGPTV.fr",
               "F1TV1.fr",
+              "Nessma.tn",
           ]
 
           counts = Counter(

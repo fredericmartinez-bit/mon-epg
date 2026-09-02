@@ -8,6 +8,7 @@ CHANNELS = {
     "F1TV1.fr": "F1TV 1",
     "MXGPTV.fr": "MXGP-TV",
     "LEspritSorcierTV.fr": "L'Esprit Sorcier TV",
+    "Nessma.tn": "Nessma",
 }
 
 PARIS = ZoneInfo("Europe/Paris")
