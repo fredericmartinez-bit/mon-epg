@@ -1296,6 +1296,9 @@
     <display-name>MotorVision TV</display-name>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuEKF4mLTy1d2W3Jw4NQR47ODPSzbhQkjli_roOyw8xlF7pJsf-8jbcXwY3iI&amp;amp;s" />
   </channel>
+  <channel id="Nessma.tn">
+    <display-name lang="fr">Nessma</display-name>
+  </channel>
   <channel id="PitchounKidsMusic.fr">
     <display-name>Pitchoun Kids Music</display-name>
   </channel>
@@ -102692,181 +102695,6 @@
     <category lang="fr">Série d'animation</category>
     <icon src="https://img2.oqee.net/pictures/4494447/wide_generic/h640" />
   </programme>
-  <programme start="20260902185900 +0000" stop="20260902190200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Pompiers</title>
-    <desc lang="fr">Trois pompiers magnifiques aident à résoudre aux habitants de la ville les problèmes quotidiens. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4990633/wide_generic/h640" />
-  </programme>
-  <programme start="20260902190200 +0000" stop="20260902190500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde à Mimo</title>
-    <desc lang="fr">Mimo, panda préférée, et son meilleur ami, Bobo, rencontrent les amis de la série Bébé Didi. Il se lancent dans de nouvelles aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985078/wide_generic/h640" />
-  </programme>
-  <programme start="20260902190500 +0000" stop="20260902190700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mimo et Bobo</title>
-    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
-  </programme>
-  <programme start="20260902190700 +0000" stop="20260902191000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20260902191000 +0000" stop="20260902191200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Bonshommes en légumes</title>
-    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2017</date>
-    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
-  </programme>
-  <programme start="20260902191200 +0000" stop="20260902191400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Holiday</title>
-    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
-  </programme>
-  <programme start="20260902191400 +0000" stop="20260902191700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20260902191700 +0000" stop="20260902192000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Holiday</title>
-    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
-  </programme>
-  <programme start="20260902192000 +0000" stop="20260902192200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20260902192200 +0000" stop="20260902192400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Aventures de canards</title>
-    <desc lang="fr">Every day is a different adventure for Ducky! This animated show for very young children lets toddlers and pre-schoolers to join Ducky and learn through daily activities. This series is brought to you by DuckTV, which works with child psychologists in creating programmes for babies and toddlers. Ducky Adventures has been designed to help your child develop their observational skills whilst also letting them use their imagination and creativity. This cartoon can be used as a conversation starter for the little ones in your life: you can talk to toddlers about their thoughts and opinions on the activities you've seen in the programme or the things that happen in your toddler's life.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img2.oqee.net/pictures/4261653/wide_generic/h640" />
-  </programme>
-  <programme start="20260902192400 +0000" stop="20260902192700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde à Mimo</title>
-    <desc lang="fr">Mimo, panda préférée, et son meilleur ami, Bobo, rencontrent les amis de la série Bébé Didi. Il se lancent dans de nouvelles aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985078/wide_generic/h640" />
-  </programme>
-  <programme start="20260902192700 +0000" stop="20260902193000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Pompiers</title>
-    <desc lang="fr">Trois pompiers magnifiques aident à résoudre aux habitants de la ville les problèmes quotidiens. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4990633/wide_generic/h640" />
-  </programme>
-  <programme start="20260902193000 +0000" stop="20260902193200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Sippi Sappi</title>
-    <desc lang="fr">Les histoires pleines de détente des deux petits animaux sur les rollers.</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4244909/wide_generic/h640" />
-  </programme>
-  <programme start="20260902193200 +0000" stop="20260902193400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cactus Hipp-hopp</title>
-    <desc lang="fr">Que font les abeilles et ses amies fleurs folâtres quand il n'y a personne à la maison? </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990580/wide_generic/h640" />
-  </programme>
-  <programme start="20260902193400 +0000" stop="20260902193700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20260902193700 +0000" stop="20260902194000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Bonshommes en légumes</title>
-    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2017</date>
-    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
-  </programme>
-  <programme start="20260902194000 +0000" stop="20260902194300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20260902194300 +0000" stop="20260902194500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Bonshommes en légumes</title>
-    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2017</date>
-    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
-  </programme>
-  <programme start="20260902194500 +0000" stop="20260902194800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Holiday</title>
-    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
-  </programme>
-  <programme start="20260902194800 +0000" stop="20260902195100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Holiday</title>
-    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
-  </programme>
-  <programme start="20260902195100 +0000" stop="20260902195300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lola et les nombres</title>
-    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
-  </programme>
-  <programme start="20260902195300 +0000" stop="20260902195500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Art à Leon</title>
-    <desc lang="fr">Duck tv has a strong educational aspect. Each series stimulates imagination and creativity thanks to fun characters, colorful graphics, and attention-getting rhythms to entertain the little viewers. Join Leon, the bear as he draws and paints friends for himself to play with. What are his painted friends today? The bear helps to encourage imagination and develop basic visual and motor skills. A whole family can paint together for the perfect bonding activity of parents and children.</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2015</date>
-    <icon src="https://img1.oqee.net/pictures/4274044/wide_generic/h640" />
-  </programme>
-  <programme start="20260902195500 +0000" stop="20260902195800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Hubbi s'en charge</title>
-    <desc lang="fr">Où que nos trois bricoleurs aillent, ils travaillent de façon assidue. Aucun travail ne fait peur à Hubbiho le Rhinoceros, Matti le castor et son ami Milo. Ils obtiennent toujours le meilleur résultat sans prendre en compte leur adresse. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990636/wide_generic/h640" />
-  </programme>
-  <programme start="20260902195800 +0000" stop="20260902200000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Zoo</title>
-    <desc lang="fr">One friendly zoo keeper wants you to come along and meet all the exciting animals he's looking after, and learn a few things on the way, too! This cartoon for young children, encourages them to recognise and name a variety of animals, acquire basic vocabulary, and associate the sounds animals with the sounds that they make.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985095/wide_generic/h640" />
-  </programme>
   <programme start="20260902200000 +0000" stop="20260902200300 +0000" channel="DuckTV.fr">
     <title lang="fr">Toby McFly</title>
     <desc lang="fr">Petit chien pilote, Toby McFly nous montre comment se présente le monde vu de dessus. Il survole de beaux paysages naturels, des animaux, des personnes et divers endroits intéressants. Après les avoir admirés depuis les altitudes, il atterrit avec son avion pour nous montrer de près ce qu'il a vu de là-haut. </desc>
@@ -130153,6 +129981,186 @@
     <category lang="fr">Emission jeunesse</category>
     <icon src="https://img1.oqee.net/pictures/4990580/wide_generic/h640" />
   </programme>
+  <programme start="20260909190000 +0000" stop="20260909190100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Les Lutins-nature</title>
+    <desc lang="fr">Les Lutins-nature expliquent le changement des saisons mais aussi comment les animaux et les plantes profitent de la météo et de la nature tout au long de l'année. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985070/wide_generic/h640" />
+  </programme>
+  <programme start="20260909190100 +0000" stop="20260909190300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Sons autour de nous</title>
+    <desc lang="fr">Le monde est plein de bruits bizarres ou étranges. Liza et Ben, les jumeaux elfe nous aident à identifier les sources de sons que nous entendons de jour en jour. Que ce soit quelque chose d'une cloche de vélo à travers le bip d'un dispositif pour les fissures drôles sur le nettoyage des vitres. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990611/wide_generic/h640" />
+  </programme>
+  <programme start="20260909190300 +0000" stop="20260909190500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Poupées</title>
+    <desc lang="fr">Les poupées en fleurs, petit ours et petit kangourou vont vous apprendre quelque chose sur la nature. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990622/wide_generic/h640" />
+  </programme>
+  <programme start="20260909190500 +0000" stop="20260909190800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Bonshommes en légumes</title>
+    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2017</date>
+    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
+  </programme>
+  <programme start="20260909190800 +0000" stop="20260909191000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Holiday</title>
+    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
+  </programme>
+  <programme start="20260909191000 +0000" stop="20260909191300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20260909191300 +0000" stop="20260909191600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Holiday</title>
+    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
+  </programme>
+  <programme start="20260909191600 +0000" stop="20260909191800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Bonshommes en légumes</title>
+    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2017</date>
+    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
+  </programme>
+  <programme start="20260909191800 +0000" stop="20260909192100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20260909192100 +0000" stop="20260909192400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde à Mimo</title>
+    <desc lang="fr">Mimo, panda préférée, et son meilleur ami, Bobo, rencontrent les amis de la série Bébé Didi. Il se lancent dans de nouvelles aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985078/wide_generic/h640" />
+  </programme>
+  <programme start="20260909192400 +0000" stop="20260909192600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cubie</title>
+    <desc lang="fr">Cubie est le chef de chantier. Il a toujours d'excellentes idées de nouvelles constructions. Ses camarades sont des chats joueurs et joyeux, qui aiment construire et aussi beaucoup inventer. Ils ont parfois besoin d'aide et le scrupuleux Cubie n'est donc pas très loin. Il conseille les chats et ils maîtrisent ensemble chaque édifice. Et vous, y arriverez-vous? </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2020</date>
+    <icon src="https://img1.oqee.net/pictures/4270642/wide_generic/h640" />
+  </programme>
+  <programme start="20260909192600 +0000" stop="20260909192900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Afrique</title>
+    <desc lang="fr">Nous allons nous présenter les animaux venant de l'Afrique et nous allons jouer avec eux. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990585/wide_generic/h640" />
+  </programme>
+  <programme start="20260909192900 +0000" stop="20260909193100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Mimo et Bobo</title>
+    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
+  </programme>
+  <programme start="20260909193100 +0000" stop="20260909193400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cubie</title>
+    <desc lang="fr">Cubie est le chef de chantier. Il a toujours d'excellentes idées de nouvelles constructions. Ses camarades sont des chats joueurs et joyeux, qui aiment construire et aussi beaucoup inventer. Ils ont parfois besoin d'aide et le scrupuleux Cubie n'est donc pas très loin. Il conseille les chats et ils maîtrisent ensemble chaque édifice. Et vous, y arriverez-vous? </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2020</date>
+    <icon src="https://img1.oqee.net/pictures/4270642/wide_generic/h640" />
+  </programme>
+  <programme start="20260909193400 +0000" stop="20260909193700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Holiday</title>
+    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
+  </programme>
+  <programme start="20260909193700 +0000" stop="20260909193900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20260909193900 +0000" stop="20260909194100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Bonshommes en légumes</title>
+    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2017</date>
+    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
+  </programme>
+  <programme start="20260909194100 +0000" stop="20260909194400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Holiday</title>
+    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
+  </programme>
+  <programme start="20260909194400 +0000" stop="20260909194600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Holiday</title>
+    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
+  </programme>
+  <programme start="20260909194600 +0000" stop="20260909194800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Holiday</title>
+    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
+  </programme>
+  <programme start="20260909194800 +0000" stop="20260909195200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Holiday</title>
+    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
+  </programme>
+  <programme start="20260909195200 +0000" stop="20260909195400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20260909195400 +0000" stop="20260909195600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde à Mimo</title>
+    <desc lang="fr">Mimo, panda préférée, et son meilleur ami, Bobo, rencontrent les amis de la série Bébé Didi. Il se lancent dans de nouvelles aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985078/wide_generic/h640" />
+  </programme>
+  <programme start="20260909195600 +0000" stop="20260909195900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Mimo et Bobo</title>
+    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
+  </programme>
+  <programme start="20260909195900 +0000" stop="20260909200200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Toby McFly</title>
+    <desc lang="fr">Petit chien pilote, Toby McFly nous montre comment se présente le monde vu de dessus. Il survole de beaux paysages naturels, des animaux, des personnes et divers endroits intéressants. Après les avoir admirés depuis les altitudes, il atterrit avec son avion pour nous montrer de près ce qu'il a vu de là-haut. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985061/wide_generic/h640" />
+  </programme>
   <programme start="20260902060000 +0100" stop="20260902060200 +0100" channel="Watania1.tn">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
@@ -133748,7 +133756,116 @@
     <desc lang="fr">Grand Prix d'Abou Dabi - Programme officiel Formula 1.</desc>
     <category lang="fr">Formule 1</category>
   </programme>
-  <programme start="20260902210000 +0200" stop="20260904123000 +0200" channel="F1TV1.fr">
+  <programme start="20260905060000 +0000" stop="20260905061500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20260905061500 +0000" stop="20260905070000 +0000" channel="Nessma.tn">
+    <title lang="fr">Le grand Zapping</title>
+  </programme>
+  <programme start="20260905070000 +0000" stop="20260905071500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash Info</title>
+  </programme>
+  <programme start="20260905071500 +0000" stop="20260905081500 +0000" channel="Nessma.tn">
+    <title lang="fr">Le grand Zapping</title>
+  </programme>
+  <programme start="20260905081500 +0000" stop="20260905090000 +0000" channel="Nessma.tn">
+    <title lang="fr">Ena weldek ya Baba</title>
+    <desc lang="fr">This popular drama from Turkey follows the story of young shoemaker Maher (Salah Apic) as he battles to free his father from a death sentence for a murder that he did not commit. Donning the guise of a trainee lawyer in order to defend his father in court, Maher falls in love with the judge, Farida Chad Oglu. However, when Farida disocvers Maher's true identity and the motives behind his actions, their romance runs aground. </desc>
+  </programme>
+  <programme start="20260905090000 +0000" stop="20260905091500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20260905091500 +0000" stop="20260905094500 +0000" channel="Nessma.tn">
+    <title lang="fr">Reporters</title>
+  </programme>
+  <programme start="20260905094500 +0000" stop="20260905100000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905101500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20260905101500 +0000" stop="20260905110000 +0000" channel="Nessma.tn">
+    <title lang="fr">Prière du vendredi</title>
+    <desc lang="fr">La retransmission en direct de la prière du vendredi depuis une mosquée du Maroc. Sermon et prière collective se déroulent dans le respect des rites islamiques.</desc>
+  </programme>
+  <programme start="20260905110000 +0000" stop="20260905111500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20260905111500 +0000" stop="20260905120000 +0000" channel="Nessma.tn">
+    <title lang="fr">The Newsroom</title>
+    <desc lang="fr">Get the latest information about most important up-to-date world affairs. Keep up with top stories and key events that affect each and everyone from a valuable global perspective. Top events and breaking news regarding science, politics, health care, global business are covered live.</desc>
+  </programme>
+  <programme start="20260905120000 +0000" stop="20260905121500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20260905121500 +0000" stop="20260905130000 +0000" channel="Nessma.tn">
+    <title lang="fr">The Newsroom</title>
+    <desc lang="fr">Get the latest information about most important up-to-date world affairs. Keep up with top stories and key events that affect each and everyone from a valuable global perspective. Top events and breaking news regarding science, politics, health care, global business are covered live.</desc>
+  </programme>
+  <programme start="20260905130000 +0000" stop="20260905131500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20260905131500 +0000" stop="20260905140000 +0000" channel="Nessma.tn">
+    <title lang="fr">Wartha W Sleyef</title>
+  </programme>
+  <programme start="20260905140000 +0000" stop="20260905141500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20260905141500 +0000" stop="20260905150000 +0000" channel="Nessma.tn">
+    <title lang="fr">Le grand Zapping</title>
+  </programme>
+  <programme start="20260905150000 +0000" stop="20260905153000 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20260905153000 +0000" stop="20260905160000 +0000" channel="Nessma.tn">
+    <title lang="fr">Future maintenant</title>
+  </programme>
+  <programme start="20260905160000 +0000" stop="20260905164500 +0000" channel="Nessma.tn">
+    <title lang="fr">Le Journal (Nessma)</title>
+    <desc lang="fr">Bouclez l'émission "Le journal" et restez informés de l'actualité. </desc>
+  </programme>
+  <programme start="20260905164500 +0000" stop="20260905170000 +0000" channel="Nessma.tn">
+    <title lang="fr">Tsawak w tdhawak</title>
+  </programme>
+  <programme start="20260905170000 +0000" stop="20260905174500 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessma Weekend Sport</title>
+  </programme>
+  <programme start="20260905174500 +0000" stop="20260905180000 +0000" channel="Nessma.tn">
+    <title lang="fr">Journal Sport</title>
+  </programme>
+  <programme start="20260905180000 +0000" stop="20260905181500 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20260905181500 +0000" stop="20260905183000 +0000" channel="Nessma.tn">
+    <title lang="fr">Kattouset Errmed</title>
+    <desc lang="fr">This Turkish drama follows the story of Siwar, a young girl who lives with her mother, Nourhen, her father, Ilyes, and her little sister Kalthoum. Although Siwar leads a quiet unassuming life, working as a waitress in a local restaurant, there is a dark decret in her past. Unbeknownst to Siwar, she is actually the daughter of one of Turkey's most successful businessmen. However, when she was born, her grandfather paid his assitant Ilyes to raise her as his own child. </desc>
+  </programme>
+  <programme start="20260905183000 +0000" stop="20260905191000 +0000" channel="Nessma.tn">
+    <title lang="fr">News</title>
+  </programme>
+  <programme start="20260905191000 +0000" stop="20260905195000 +0000" channel="Nessma.tn">
+    <title lang="fr">Dar Louzir</title>
+    <desc lang="fr">This sitcom from Tunisia follows the exploits of the Minister of the Environment, Ismail Bourigua, who, after being dismissed from the government and having his property confiscated by the state, ends up having to move back in to his mother's villa. Unfortunate Ismail finds himslef having to navigate his way through many tricky relationships with his mother, his new wife, his daughter from his frist marriage, and the household staff. </desc>
+  </programme>
+  <programme start="20260905195000 +0000" stop="20260905204500 +0000" channel="Nessma.tn">
+    <title lang="fr">El Hob Eli Kweni</title>
+    <desc lang="fr">Set in a seaside suburb of Istanbul, this social drama tells the story of the division between two separate worlds that are so close and yet so far away from each other. Kamel is the son of an aspirational middle-class family who is studying to be a mining engineer and whose dreams are limited to his future work and career. Imen, on the other hand, is a sensitive and empathetic artist whose ambitions are more ethereal. Although she has been promised to arrogant and manipulative Amir, she and Kamel fall in love with each other in the hope that the strength of their feelings will overcome the many obstacles they face. Will the course of true love run smoothly for Imen and Kamel? </desc>
+  </programme>
+  <programme start="20260905204500 +0000" stop="20260905210000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20260905210000 +0000" stop="20260905223000 +0000" channel="Nessma.tn">
+    <title lang="fr">Errih Fel Barrima</title>
+    <desc lang="fr">Follow the story of Hanin who appears to have a happy family life, married to a successful and wealthy husband and with two adoring children. However, one day her husband disappears along with their fortune and Hanin has to summon all of her courage to reclaim her possessions and find true love. After moving to a poor neighbourhood, Hanin discovers that her husband has left her for a younger woman and that the whole scenario was engineered by her jealous best friend. </desc>
+  </programme>
+  <programme start="20260905223000 +0000" stop="20260905231500 +0000" channel="Nessma.tn">
+    <title lang="fr">Bin Narin</title>
+  </programme>
+  <programme start="20260905231500 +0000" stop="20260906060000 +0000" channel="Nessma.tn">
+    <title lang="fr">Ward wa Chawk</title>
+    <desc lang="fr">This drama series from Egypt stars Emy Mostafa, Nour Helmy, Abir Monir, Naser Osman, Awwad Suliman, and Hosam Al-Gendy in a moralistic tale which depicts two contradictory viewpoints on capitalism. The story unfolds through the eyes of a man who is left to raise his three daughters on his own after his wife dies. However, things become easier when he falls in love with another woman and eventually marries her. But when he suffers ill health and cannot cope so easily any more, he leaves a lot of responsibility for his new wife to take care of. She proves to be adept at handling the family matters and becomes emotionally close to her three stepdaughters. </desc>
+  </programme>
+  <programme start="20260902220000 +0200" stop="20260904123000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
   <programme start="20260904133000 +0200" stop="20260904160000 +0200" channel="F1TV1.fr">
@@ -133763,10 +133880,10 @@
   <programme start="20260905170000 +0200" stop="20260906150000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
-  <programme start="20260906170000 +0200" stop="20260909210000 +0200" channel="F1TV1.fr">
+  <programme start="20260906170000 +0200" stop="20260909220000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
-  <programme start="20260902210000 +0200" stop="20260905092000 +0200" channel="MXGPTV.fr">
+  <programme start="20260902220000 +0200" stop="20260905092000 +0200" channel="MXGPTV.fr">
     <title lang="fr">MXGP-TV</title>
   </programme>
   <programme start="20260905094500 +0200" stop="20260905100000 +0200" channel="MXGPTV.fr">
@@ -133802,11 +133919,8 @@
   <programme start="20260906155000 +0200" stop="20260906161000 +0200" channel="MXGPTV.fr">
     <title lang="fr">MXGP-TV</title>
   </programme>
-  <programme start="20260906165000 +0200" stop="20260909210000 +0200" channel="MXGPTV.fr">
+  <programme start="20260906165000 +0200" stop="20260909220000 +0200" channel="MXGPTV.fr">
     <title lang="fr">MXGP-TV</title>
-  </programme>
-  <programme start="20260902210000 +0200" stop="20260902211000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
   <programme start="20260902235900 +0200" stop="20260903070000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
@@ -133880,7 +133994,13 @@
   <programme start="20260908200000 +0200" stop="20260908211000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
-  <programme start="20260908235900 +0200" stop="20260909210000 +0200" channel="LEspritSorcierTV.fr">
+  <programme start="20260908235900 +0200" stop="20260909220000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
+  </programme>
+  <programme start="20260902220000 +0200" stop="20260905080000 +0200" channel="Nessma.tn">
+    <title lang="fr">Nessma</title>
+  </programme>
+  <programme start="20260906080000 +0200" stop="20260909220000 +0200" channel="Nessma.tn">
+    <title lang="fr">Nessma</title>
   </programme>
 </tv>
