@@ -259,4 +259,5 @@ jobs:
 
           git add guide.xml guide-free.xml
           git commit -m "Mise à jour automatique EPG"
+          git pull --rebase origin main
           git push
