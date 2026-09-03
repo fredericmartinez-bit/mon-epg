@@ -37,7 +37,7 @@ jobs:
           python3 esprit_sorcier.py
           python3 mxgp_tv.py
           python3 f1tv.py
-          python3 nessma.py
+          python3 nessma_canal.py
 
       - name: Verify generated files
         run: |
@@ -52,6 +52,7 @@ jobs:
           test -s esprit-sorcier.xml
           test -s mxgp-tv.xml
           test -s f1tv.xml
+          test -s nessma.xml
 
           ls -lh \
             pitchoun-kids.xml \
@@ -64,7 +65,8 @@ jobs:
             motorvision-plus.xml \
             esprit-sorcier.xml \
             mxgp-tv.xml \
-            f1tv.xml
+            f1tv.xml \
+            nessma.xml
 
       - name: Merge generated EPG into guide.xml
         run: |
