@@ -26,7 +26,7 @@ subprocess.run(
         "--channels",
         "nessma-canal.channels.xml",
         "--days",
-        "7",
+        "4",
         "--output",
         "nessma-canal-7days.xml",
     ],
