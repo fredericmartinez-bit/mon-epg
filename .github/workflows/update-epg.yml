@@ -188,6 +188,7 @@ jobs:
           python3 - <<'PY'
           import xml.etree.ElementTree as ET
           from collections import Counter
+          from datetime import datetime, timezone
 
           root = ET.parse("guide.xml").getroot()
 
@@ -217,6 +218,36 @@ jobs:
               print(cid, counts[cid])
               if counts[cid] == 0:
                   raise SystemExit(f"No programmes found for {cid}")
+
+          # Vérifie que les EPG sensibles ne sont pas périmés
+          freshness_ids = {
+              "Watania2.tn",
+              "ADN.fr",
+          }
+
+          now = datetime.now(timezone.utc)
+
+          for cid in freshness_ids:
+              items = [
+                  p for p in root.findall("programme")
+                  if p.get("channel") == cid and p.get("stop")
+              ]
+
+              latest = max(
+                  datetime.strptime(p.get("stop"), "%Y%m%d%H%M%S %z")
+                  for p in items
+              )
+
+              print(
+                  f"{cid}: {len(items)} programmes, "
+                  f"latest stop = {latest.isoformat()}"
+              )
+
+              if latest <= now:
+                  raise SystemExit(
+                      f"Stale EPG for {cid}: "
+                      f"last programme ended at {latest.isoformat()}"
+                  )
           PY
 
       - name: Commit updated guide
