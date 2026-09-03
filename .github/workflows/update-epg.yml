@@ -219,11 +219,8 @@ jobs:
               if counts[cid] == 0:
                   raise SystemExit(f"No programmes found for {cid}")
 
-          # Vérifie que les EPG sensibles ne sont pas périmés
-          freshness_ids = {
-              "Watania2.tn",
-              "ADN.fr",
-          }
+          # Vérifie que tous les EPG ne sont pas périmés
+          freshness_ids = ids
 
           now = datetime.now(timezone.utc)
 
