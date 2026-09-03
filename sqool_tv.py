@@ -59,7 +59,7 @@ pattern = re.compile(
 count = 0
 
 for sh, sm, eh, em, status, title, speaker, image, badges, desc in pattern.findall(block):
-    title = html.unescape(re.sub(r"<[^>]+>", "", title)).strip()
+    title = html.unescape(re.sub(r"<[^>]+>", "", title)).strip().lower().capitalize()
     status = html.unescape(re.sub(r"<[^>]+>", "", status)).strip()
     desc = html.unescape(re.sub(r"<[^>]+>", "", desc)).strip()
 
