@@ -561,9 +561,6 @@
   <channel id="#1188">
     <display-name>ECHOROUK TV</display-name>
   </channel>
-  <channel id="#1189">
-    <display-name>NESSMA TV</display-name>
-  </channel>
   <channel id="#1190">
     <display-name>SAMIRA TV</display-name>
   </channel>
@@ -42734,110 +42731,6 @@
   </programme>
   <programme start="20260830230000 +0000" stop="20260831000000 +0000" channel="#1188">
     <title lang="fr">Chaîne généraliste algérienne privée</title>
-  </programme>
-  <programme start="20260830060000 +0000" stop="20260830061500 +0000" channel="#1189">
-    <title lang="fr">Flash News</title>
-  </programme>
-  <programme start="20260830061500 +0000" stop="20260830070000 +0000" channel="#1189">
-    <title lang="fr">Le grand Zapping</title>
-  </programme>
-  <programme start="20260830070000 +0000" stop="20260830071500 +0000" channel="#1189">
-    <title lang="fr">Flash Info</title>
-  </programme>
-  <programme start="20260830071500 +0000" stop="20260830081500 +0000" channel="#1189">
-    <title lang="fr">Le grand Zapping</title>
-  </programme>
-  <programme start="20260830081500 +0000" stop="20260830090000 +0000" channel="#1189">
-    <title lang="fr">Prière du vendredi</title>
-    <desc lang="fr">La retransmission en direct de la prière du vendredi depuis une mosquée du Maroc. Sermon et prière collective se déroulent dans le respect des rites islamiques.</desc>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/4803/4803a05975b14b95928612cfb85633a9</image>
-  </programme>
-  <programme start="20260830090000 +0000" stop="20260830091500 +0000" channel="#1189">
-    <title lang="fr">Flash News</title>
-  </programme>
-  <programme start="20260830091500 +0000" stop="20260830094500 +0000" channel="#1189">
-    <title lang="fr">Reporters</title>
-  </programme>
-  <programme start="20260830094500 +0000" stop="20260830100000 +0000" channel="#1189">
-    <title lang="fr">Khalil Tounes</title>
-  </programme>
-  <programme start="20260830100000 +0000" stop="20260830101500 +0000" channel="#1189">
-    <title lang="fr">Flash News</title>
-  </programme>
-  <programme start="20260830101500 +0000" stop="20260830110000 +0000" channel="#1189">
-    <title lang="fr">Tsawak w tdhawak</title>
-  </programme>
-  <programme start="20260830110000 +0000" stop="20260830111500 +0000" channel="#1189">
-    <title lang="fr">Flash News</title>
-  </programme>
-  <programme start="20260830111500 +0000" stop="20260830120000 +0000" channel="#1189">
-    <title lang="fr">The Newsroom</title>
-    <desc lang="fr">Get the latest information about most important up-to-date world affairs. Keep up with top stories and key events that affect each and everyone from a valuable global perspective. Top events and breaking news regarding science, politics, health care, global business are covered live.</desc>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/ba57/ba570043809140288fa38525a5c42a34</image>
-  </programme>
-  <programme start="20260830120000 +0000" stop="20260830121500 +0000" channel="#1189">
-    <title lang="fr">Flash News</title>
-  </programme>
-  <programme start="20260830121500 +0000" stop="20260830130000 +0000" channel="#1189">
-    <title lang="fr">The Newsroom</title>
-    <desc lang="fr">Get the latest information about most important up-to-date world affairs. Keep up with top stories and key events that affect each and everyone from a valuable global perspective. Top events and breaking news regarding science, politics, health care, global business are covered live.</desc>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/ba57/ba570043809140288fa38525a5c42a34</image>
-  </programme>
-  <programme start="20260830130000 +0000" stop="20260830131500 +0000" channel="#1189">
-    <title lang="fr">Flash News</title>
-  </programme>
-  <programme start="20260830131500 +0000" stop="20260830140000 +0000" channel="#1189">
-    <title lang="fr">Wartha W Sleyef</title>
-  </programme>
-  <programme start="20260830140000 +0000" stop="20260830141500 +0000" channel="#1189">
-    <title lang="fr">Flash News</title>
-  </programme>
-  <programme start="20260830141500 +0000" stop="20260830150000 +0000" channel="#1189">
-    <title lang="fr">Le grand Zapping</title>
-  </programme>
-  <programme start="20260830150000 +0000" stop="20260830153000 +0000" channel="#1189">
-    <title lang="fr">Flash News</title>
-  </programme>
-  <programme start="20260830153000 +0000" stop="20260830160000 +0000" channel="#1189">
-    <title lang="fr">Future maintenant</title>
-  </programme>
-  <programme start="20260830160000 +0000" stop="20260830170000 +0000" channel="#1189">
-    <title lang="fr">Le Journal (Nessma)</title>
-    <desc lang="fr">Bouclez l'émission "Le journal" et restez informés de l'actualité.</desc>
-  </programme>
-  <programme start="20260830170000 +0000" stop="20260830174500 +0000" channel="#1189">
-    <title lang="fr">Nessma Weekend Sport</title>
-  </programme>
-  <programme start="20260830174500 +0000" stop="20260830180000 +0000" channel="#1189">
-    <title lang="fr">Journal Sport</title>
-  </programme>
-  <programme start="20260830180000 +0000" stop="20260830181500 +0000" channel="#1189">
-    <title lang="fr">Khalil Tounes</title>
-  </programme>
-  <programme start="20260830181500 +0000" stop="20260830183000 +0000" channel="#1189">
-    <title lang="fr">Kattouset Errmed</title>
-    <desc lang="fr">This Turkish drama follows the story of Siwar, a young girl who lives with her mother, Nourhen, her father, Ilyes, and her little sister Kalthoum. Although Siwar leads a quiet unassuming life, working as a waitress in a local restaurant, there is a dark decret in her past. Unbeknownst to Siwar, she is actually the daughter of one of Turkey's most successful businessmen. However, when she was born, her grandfather paid his assitant Ilyes to raise her as his own child.</desc>
-  </programme>
-  <programme start="20260830183000 +0000" stop="20260830191000 +0000" channel="#1189">
-    <title lang="fr">News</title>
-  </programme>
-  <programme start="20260830191000 +0000" stop="20260830195000 +0000" channel="#1189">
-    <title lang="fr">Dar Louzir</title>
-    <desc lang="fr">This Tunisian sitcom follows the exploits of the Minister of the Environment, Ismail Bourigua, who, after being dismissed from the government and having his property confiscated, ends up having to move back in to his mother's villa.</desc>
-  </programme>
-  <programme start="20260830195000 +0000" stop="20260830204500 +0000" channel="#1189">
-    <title lang="fr">El Hob Eli Kweni</title>
-    <desc lang="fr">Set in a seaside suburb of Istanbul, this drama tells the story of Kamel, the son of an aspirational middle-class family, and Imen, a sensitive and empathetic artist. Will the course of true love run smoothly for them?</desc>
-  </programme>
-  <programme start="20260830204500 +0000" stop="20260830210000 +0000" channel="#1189">
-    <title lang="fr">Khalil Tounes</title>
-  </programme>
-  <programme start="20260830210000 +0000" stop="20260830223000 +0000" channel="#1189">
-    <title lang="fr">Ena weldek ya Baba</title>
-    <desc lang="fr">This Turkish drama follows the story of young shoemaker Maher as he battles to free his father from a death sentence for a murder he did not commit. Posing as a trainee lawyer in order to defend his father, he falls in love with the judge.</desc>
-  </programme>
-  <programme start="20260830223000 +0000" stop="20260830233000 +0000" channel="#1189">
-    <title lang="fr">Bin Narin</title>
   </programme>
   <programme start="20260830050000 +0000" stop="20260830080000 +0000" channel="#1190">
     <title lang="fr">Chaîne culinaire algérienne</title>
