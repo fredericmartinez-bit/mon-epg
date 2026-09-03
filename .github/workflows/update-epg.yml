@@ -24,6 +24,12 @@ jobs:
       - name: Install Python dependencies
         run: python3 -m pip install pypdf
 
+      - name: Setup IPTV-ORG EPG
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git epg-source
+          cd epg-source
+          npm install
+
       - name: Generate custom EPG files
         run: |
           python3 orange_pitchoun.py
