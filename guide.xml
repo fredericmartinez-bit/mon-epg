@@ -134221,7 +134221,7 @@
   <programme start="20260906223000 +0000" stop="20260906233000 +0000" channel="Nessma.tn">
     <title lang="fr">Bin Narin</title>
   </programme>
-  <programme start="20260903140000 +0200" stop="20260904123000 +0200" channel="F1TV1.fr">
+  <programme start="20260903150000 +0200" stop="20260904123000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
   <programme start="20260904133000 +0200" stop="20260904160000 +0200" channel="F1TV1.fr">
@@ -134236,10 +134236,10 @@
   <programme start="20260905170000 +0200" stop="20260906150000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
-  <programme start="20260906170000 +0200" stop="20260910140000 +0200" channel="F1TV1.fr">
+  <programme start="20260906170000 +0200" stop="20260910150000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
-  <programme start="20260903140000 +0200" stop="20260905092000 +0200" channel="MXGPTV.fr">
+  <programme start="20260903150000 +0200" stop="20260905092000 +0200" channel="MXGPTV.fr">
     <title lang="fr">MXGP-TV</title>
   </programme>
   <programme start="20260905094500 +0200" stop="20260905100000 +0200" channel="MXGPTV.fr">
@@ -134275,10 +134275,10 @@
   <programme start="20260906155000 +0200" stop="20260906161000 +0200" channel="MXGPTV.fr">
     <title lang="fr">MXGP-TV</title>
   </programme>
-  <programme start="20260906165000 +0200" stop="20260910140000 +0200" channel="MXGPTV.fr">
+  <programme start="20260906165000 +0200" stop="20260910150000 +0200" channel="MXGPTV.fr">
     <title lang="fr">MXGP-TV</title>
   </programme>
-  <programme start="20260903140000 +0200" stop="20260903173000 +0200" channel="LEspritSorcierTV.fr">
+  <programme start="20260903150000 +0200" stop="20260903173000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
   <programme start="20260903183000 +0200" stop="20260903190000 +0200" channel="LEspritSorcierTV.fr">
@@ -134359,7 +134359,7 @@
   <programme start="20260909200000 +0200" stop="20260909211000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
-  <programme start="20260909235900 +0200" stop="20260910140000 +0200" channel="LEspritSorcierTV.fr">
+  <programme start="20260909235900 +0200" stop="20260910150000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
   <programme start="20260904014500 +0200" stop="20260904080000 +0200" channel="Nessma.tn">
@@ -134371,7 +134371,7 @@
   <programme start="20260906021500 +0200" stop="20260906080000 +0200" channel="Nessma.tn">
     <title lang="fr">Nessma</title>
   </programme>
-  <programme start="20260907013000 +0200" stop="20260910140000 +0200" channel="Nessma.tn">
+  <programme start="20260907013000 +0200" stop="20260910150000 +0200" channel="Nessma.tn">
     <title lang="fr">Nessma</title>
   </programme>
 </tv>
