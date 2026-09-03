@@ -1268,9 +1268,6 @@
     <display-name>XXL</display-name>
     <icon src="https://i.imgur.com/TEuLkeQ.png" />
   </channel>
-  <channel id="Watania2.tn">
-    <display-name lang="fr">Watania 2</display-name>
-  </channel>
   <channel id="ADN.fr">
     <display-name>ADN</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png" />
@@ -96539,131 +96536,6 @@
     </rating>
     <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/50083/canal-ouah/GEN169/XXL-oaET</image>
   </programme>
-  <programme start="20260831060000 +0100" stop="20260831060200 +0100" channel="Watania2.tn">
-    <title lang="ar">النشيد الرسمي</title>
-    <desc lang="ar">النشيد الرسمي</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-TWugUrC7.jpg" />
-  </programme>
-  <programme start="20260831060200 +0100" stop="20260831062000 +0100" channel="Watania2.tn">
-    <title lang="ar">القرآن الكريم</title>
-    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-3Bte7UvD.jpg" />
-  </programme>
-  <programme start="20260831062000 +0100" stop="20260831063000 +0100" channel="Watania2.tn">
-    <title lang="ar">ابتهالات</title>
-    <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-n5fHi64u.jpg" />
-  </programme>
-  <programme start="20260831063000 +0100" stop="20260831070000 +0100" channel="Watania2.tn">
-    <title lang="ar">فقرة انشادية: حاتم الفرشيشي</title>
-    <desc lang="ar">فقرة انشادية: حاتم الفرشيشي</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-GCPUDmv2.jpg" />
-  </programme>
-  <programme start="20260831070000 +0100" stop="20260831080000 +0100" channel="Watania2.tn">
-    <title lang="ar">تبّعني</title>
-    <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Xw7JZHJy.jpg" />
-  </programme>
-  <programme start="20260831080000 +0100" stop="20260831084500 +0100" channel="Watania2.tn">
-    <title lang="ar">مسلسل ماطوس</title>
-    <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-XSTZnMCr.jpg" />
-  </programme>
-  <programme start="20260831084500 +0100" stop="20260831091500 +0100" channel="Watania2.tn">
-    <title lang="ar">خيوط الذاكرة ....سوق القماش</title>
-    <desc lang="ar">في قلب المدينة العتيقة، حيث يمتزج عبق الأزقة بصخب الحياة، يروي سوق القماش حكاية زمنٍ حيّ لم ينقطع. هذا الوثائقي يغوص في تاريخ السوق وعلاقته بـجامع الزيتونة المعمور، حيث كان الأئمة من روّاده، في تداخل فريد بين العلم والتجارة. وبمرافقة باحث في الأنثروبولوجيا، نكتشف كيف ظلّ السوق يحافظ على روحه، رابطًا بين ذاكرة الماضي وتحولات الحاضر.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bh4KUHa6.jpg" />
-  </programme>
-  <programme start="20260831091500 +0100" stop="20260831101500 +0100" channel="Watania2.tn">
-    <title lang="ar">مسلسل أقفاص بلا طيور</title>
-    <desc lang="ar">مسلسل أقفاص بلا طيور</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Hb2BMCk9.jpg" />
-  </programme>
-  <programme start="20260831101500 +0100" stop="20260831110000 +0100" channel="Watania2.tn">
-    <title lang="ar">تونس المزيانة</title>
-    <desc lang="ar">تونس المزيانة</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VFD1QTNQ.jpg" />
-  </programme>
-  <programme start="20260831110000 +0100" stop="20260831113000 +0100" channel="Watania2.tn">
-    <title lang="ar">للا سندريلا</title>
-    <desc lang="ar">للا سندريلا</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-C2RcnhGI.jpg" />
-  </programme>
-  <programme start="20260831113000 +0100" stop="20260831130000 +0100" channel="Watania2.tn">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-8QQRIXRa.jpg" />
-  </programme>
-  <programme start="20260831130000 +0100" stop="20260831134000 +0100" channel="Watania2.tn">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">شوفلي حل</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VmbGmZ9y.jpg" />
-  </programme>
-  <programme start="20260831134000 +0100" stop="20260831143000 +0100" channel="Watania2.tn">
-    <title lang="ar">مسلسل الدوار</title>
-    <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-IQniO3qJ.jpg" />
-  </programme>
-  <programme start="20260831143000 +0100" stop="20260831150000 +0100" channel="Watania2.tn">
-    <title lang="ar">دار الخلاعة</title>
-    <desc lang="ar">كريّم، خبير محاسب، يقرر قضاء عطلته الصيفية مع زوجته الجديدة حياة، التي تصغره سنًا. يدعو شقيقتي حياة، هادية وهناء، لقضاء العطلة معهما في منزل على البحر في منطقة الوطن القبلي، رفقة عائلاتهما.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-sycoeskd.jpg" />
-  </programme>
-  <programme start="20260831150000 +0100" stop="20260831170000 +0100" channel="Watania2.tn">
-    <title lang="ar">في الذاكرة الرياضية</title>
-    <desc lang="ar">في الذاكرة الرياضية</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bA0A37iC.jpg" />
-  </programme>
-  <programme start="20260831170000 +0100" stop="20260831174500 +0100" channel="Watania2.tn">
-    <title lang="ar">مسلسل نص يوم</title>
-    <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها. لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-g9Wvs8A7.jpg" />
-  </programme>
-  <programme start="20260831174500 +0100" stop="20260831183000 +0100" channel="Watania2.tn">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">صور متحركة</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-8QQRIXRa.jpg" />
-  </programme>
-  <programme start="20260831183000 +0100" stop="20260831190000 +0100" channel="Watania2.tn">
-    <title lang="ar">صحة برو</title>
-    <desc lang="ar">كوميديا يومية من قلب الحي ...بشبش يقرّر تغيير حياته… ويجدد صالون الحلاقة من الأرض إلى السقف. لكن المرايا الجديدة تعكس نفس الفوضى والزبائن</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-F0UWINQA.jpg" />
-  </programme>
-  <programme start="20260831190000 +0100" stop="20260831193000 +0100" channel="Watania2.tn">
-    <title lang="ar">أحكيلي عليها</title>
-    <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر. تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-RQ1BskZy.jpg" />
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831203000 +0100" channel="Watania2.tn">
-    <title lang="ar">مسلسل أقفاص بلا طيور</title>
-    <desc lang="ar">مسلسل أقفاص بلا طيور</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Hb2BMCk9.jpg" />
-  </programme>
-  <programme start="20260831203000 +0100" stop="20260831211500 +0100" channel="Watania2.tn">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">شوفلي حل</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VmbGmZ9y.jpg" />
-  </programme>
-  <programme start="20260831211500 +0100" stop="20260831221500 +0100" channel="Watania2.tn">
-    <title lang="ar">مسلسل الدوار</title>
-    <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-IQniO3qJ.jpg" />
-  </programme>
-  <programme start="20260831221500 +0100" stop="20260831230000 +0100" channel="Watania2.tn">
-    <title lang="ar">مسلسل ماطوس</title>
-    <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-XSTZnMCr.jpg" />
-  </programme>
-  <programme start="20260831230000 +0100" stop="20260831234500 +0100" channel="Watania2.tn">
-    <title lang="ar">مسلسل نص يوم</title>
-    <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها. لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-g9Wvs8A7.jpg" />
-  </programme>
-  <programme start="20260831234500 +0100" stop="20260901000000 +0100" channel="Watania2.tn">
-    <title lang="ar">في الذاكرة الرياضية</title>
-    <desc lang="ar">في الذاكرة الرياضية</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bA0A37iC.jpg" />
-  </programme>
   <programme start="20260902000000 -0400" stop="20260902020000 -0400" channel="PitchounKidsMusic.fr">
     <title lang="fr">La playlist des Pitchouns</title>
     <category lang="fr">Clips</category>
@@ -134266,5 +134138,138 @@
   </programme>
   <programme start="20260907013000 +0200" stop="20260910150000 +0200" channel="Nessma.tn">
     <title lang="fr">Nessma</title>
+  </programme>
+  <channel id="Watania2.tn">
+    <display-name lang="fr">Watania 2</display-name>
+  </channel>
+  <programme start="20260903060000 +0100" stop="20260903060200 +0100" channel="Watania2.tn">
+    <title lang="ar">النشيد الرسمي</title>
+    <desc lang="ar">النشيد الرسمي</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-TWugUrC7.jpg" />
+  </programme>
+  <programme start="20260903060200 +0100" stop="20260903061900 +0100" channel="Watania2.tn">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">تلاوة لما تيسر من آيات الذكر الحكيم</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-3Bte7UvD.jpg" />
+  </programme>
+  <programme start="20260903061900 +0100" stop="20260903063000 +0100" channel="Watania2.tn">
+    <title lang="ar">ابتهالات</title>
+    <desc lang="ar">لحظات روحانية مع ابتهالات خاشعة تلامس القلوب وتُحلّق بالأرواح نحو السمو. بكلمات مناجية وأصوات صادقة،… حيث ترتقي الأرواح وتطمئن القلوب.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-n5fHi64u.jpg" />
+  </programme>
+  <programme start="20260903063000 +0100" stop="20260903070000 +0100" channel="Watania2.tn">
+    <title lang="ar">مقتطفات من حفل فيروز</title>
+    <desc lang="ar">مقتطفات من حفل فيروز</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-c3X2hHVv.jpg" />
+  </programme>
+  <programme start="20260903070000 +0100" stop="20260903080000 +0100" channel="Watania2.tn">
+    <title lang="ar">تبّعني</title>
+    <desc lang="ar">دعوة لاكتشاف تونس بعيون جديدة، حيث تتقاطع الطبيعة مع التاريخ في لوحات نابضة بالحياة. من الشواطئ الساحرة إلى الجبال والواحات، ومن المدن العريقة إلى القرى الهادئة، يعرّفكم البرنامج على أبرز الوجهات السياحية وأجمل المناطق الطبيعية، ويكشف خفايا أماكن قد لا يعرفها الكثيرون</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Xw7JZHJy.jpg" />
+  </programme>
+  <programme start="20260903080000 +0100" stop="20260903084500 +0100" channel="Watania2.tn">
+    <title lang="ar">قصص من الأرض</title>
+    <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bRGRhUKH.jpg" />
+  </programme>
+  <programme start="20260903084500 +0100" stop="20260903091500 +0100" channel="Watania2.tn">
+    <title lang="ar">صنعة إيديك</title>
+    <desc lang="ar">صنعة إيديك</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-jHri5pNr.jpg" />
+  </programme>
+  <programme start="20260903091500 +0100" stop="20260903101500 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل عشقة وحكايات</title>
+    <desc lang="ar">تعيش عائلة مكونة من أم وثلاثة ابناء في منزل واحد، يحاول كل منهم البحث عن ذاته، وتبدأ الأمور في التغير حينما يأتي خالهم لزيارتهم. ﺗﺄﻟﻴﻒ: علي اللواتي ﺇﺧﺮاﺝ: صلاح الدين الصيد</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VSjpVOt6.jpg" />
+  </programme>
+  <programme start="20260903101500 +0100" stop="20260903110000 +0100" channel="Watania2.tn">
+    <title lang="ar">شريط وثائقي: قرطاج أرض الحضارات وذاكرة الانسانية</title>
+    <desc lang="ar">شريط وثائقي: قرطاج أرض الحضارات وذاكرة الانسانية</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-6DO2eVhg.jpg" />
+  </programme>
+  <programme start="20260903110000 +0100" stop="20260903113000 +0100" channel="Watania2.tn">
+    <title lang="ar">صحة برو</title>
+    <desc lang="ar">كوميديا يومية من قلب الحي ...بشبش يقرّر تغيير حياته… ويجدد صالون الحلاقة من الأرض إلى السقف. لكن المرايا الجديدة تعكس نفس الفوضى والزبائن</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-F0UWINQA.jpg" />
+  </programme>
+  <programme start="20260903113000 +0100" stop="20260903130000 +0100" channel="Watania2.tn">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-8QQRIXRa.jpg" />
+  </programme>
+  <programme start="20260903130000 +0100" stop="20260903134000 +0100" channel="Watania2.tn">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">شوفلي حل</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VmbGmZ9y.jpg" />
+  </programme>
+  <programme start="20260903134000 +0100" stop="20260903143000 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل الدوار</title>
+    <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-IQniO3qJ.jpg" />
+  </programme>
+  <programme start="20260903143000 +0100" stop="20260903150000 +0100" channel="Watania2.tn">
+    <title lang="ar">دار الخلاعة</title>
+    <desc lang="ar">كريّم، خبير محاسب، يقرر قضاء عطلته الصيفية مع زوجته الجديدة حياة، التي تصغره سنًا. يدعو شقيقتي حياة، هادية وهناء، لقضاء العطلة معهما في منزل على البحر في منطقة الوطن القبلي، رفقة عائلاتهما.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-sycoeskd.jpg" />
+  </programme>
+  <programme start="20260903150000 +0100" stop="20260903160000 +0100" channel="Watania2.tn">
+    <title lang="ar">شريط وثائقي: نجوم يحلون بتونس</title>
+    <desc lang="ar">شريط وثائقي: نجوم يحلون بتونس</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-lMFK8RLY.jpg" />
+  </programme>
+  <programme start="20260903160000 +0100" stop="20260903170000 +0100" channel="Watania2.tn">
+    <title lang="ar">سيتكوم: سفينة رحيم</title>
+    <desc lang="ar">سيتكوم: سفينة رحيم</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-XcEvVhrY.jpg" />
+  </programme>
+  <programme start="20260903170000 +0100" stop="20260903174500 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل نص يوم</title>
+    <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها. لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-g9Wvs8A7.jpg" />
+  </programme>
+  <programme start="20260903174500 +0100" stop="20260903183000 +0100" channel="Watania2.tn">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">صور متحركة</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-8QQRIXRa.jpg" />
+  </programme>
+  <programme start="20260903183000 +0100" stop="20260903190000 +0100" channel="Watania2.tn">
+    <title lang="ar">صحة برو</title>
+    <desc lang="ar">كوميديا يومية من قلب الحي ...بشبش يقرّر تغيير حياته… ويجدد صالون الحلاقة من الأرض إلى السقف. لكن المرايا الجديدة تعكس نفس الفوضى والزبائن</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-F0UWINQA.jpg" />
+  </programme>
+  <programme start="20260903190000 +0100" stop="20260903193000 +0100" channel="Watania2.tn">
+    <title lang="ar">أحكيلي عليها</title>
+    <desc lang="ar">برنامجنا الجديد على الوطنية الأولى بمناسبة شهر رمضان المعظم سوف يأخذنا في جولات داخل الأحياء(الحوم جمع حومة) وفي كل حي أو مدينة سوف تتحدث عن الماضي و الحاضر. تذكر بما كان يرويه الأسلاف من حكايات في شكل خرافات حتى نربط الماضي بالحاضر.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-RQ1BskZy.jpg" />
+  </programme>
+  <programme start="20260903193000 +0100" stop="20260903203000 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل عشقة وحكايات</title>
+    <desc lang="ar">تعيش عائلة مكونة من أم وثلاثة ابناء في منزل واحد، يحاول كل منهم البحث عن ذاته، وتبدأ الأمور في التغير حينما يأتي خالهم لزيارتهم. ﺗﺄﻟﻴﻒ: علي اللواتي ﺇﺧﺮاﺝ: صلاح الدين الصيد</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VSjpVOt6.jpg" />
+  </programme>
+  <programme start="20260903203000 +0100" stop="20260903211500 +0100" channel="Watania2.tn">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">شوفلي حل</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-VmbGmZ9y.jpg" />
+  </programme>
+  <programme start="20260903211500 +0100" stop="20260903221500 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل الدوار</title>
+    <desc lang="ar">تدور أحداث المسلسل في قرية صغيرة اسمه الدوار تابعة لمدينة توزر بالجنوب التونسي، يتحكم في هذه القرية رجل ظالم تزوج أرملة طمعًا في مالها وأصبح يتحكم فيه بدلا من ابنها وابنتها ويعاملهم معاملة قاسية.</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-IQniO3qJ.jpg" />
+  </programme>
+  <programme start="20260903221500 +0100" stop="20260903230000 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل ماطوس</title>
+    <desc lang="ar">تدور أحداث المسلسل في قرية «ماطوس» في نهاية القرن السابع عشر بالجنوب الشرقي التونسي، و التي يعيش متساكنوها في كنف الأمن والرخاء، إذ يعمرون تلك الأراضي الصحراوية القاحلة و يحولونها إلى واحات خضراء، لكن سرعان ما تنقلب الأمور رأسا على عقب عندما تتم مهاجمتها و مهاجمة سكانها من طرف بعض قطاع الطرق لتنقلب الموازين</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-XSTZnMCr.jpg" />
+  </programme>
+  <programme start="20260903230000 +0100" stop="20260903234500 +0100" channel="Watania2.tn">
+    <title lang="ar">مسلسل نص يوم</title>
+    <desc lang="ar">تبدأ أحداث العمل بوفاة رجل لديه إقطاعية زيتون واسعة، فيعود ابنه المغترب (ميار) إلى البلاد لإنهاء كل الالتزامات المهنية والعائلية للسفر من جديد، إلا أنهيقع شاب في حب يارا، الفتاة الجميلة التي تأسر قلبه وتدفعه إلى تغيير خططه والتخلي عن السفر، مفضّلًا البقاء إلى جانبها. لكن ما يبدو في البداية قصة حب واعدة سرعان ما يتحوّل إلى رحلة مليئة بالغموض والمفاجآت، حين يكتشف أن يارا تخفي وراء سحرها أسرارًا كثيرة</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-g9Wvs8A7.jpg" />
+  </programme>
+  <programme start="20260903234500 +0100" stop="20260904000000 +0100" channel="Watania2.tn">
+    <title lang="ar">فقرة غنائية: أم كلثوم</title>
+    <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
+    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-gqhUqA7F.jpg" />
   </programme>
 </tv>
