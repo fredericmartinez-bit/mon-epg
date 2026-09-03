@@ -1268,10 +1268,6 @@
     <display-name>XXL</display-name>
     <icon src="https://i.imgur.com/TEuLkeQ.png" />
   </channel>
-  <channel id="ADN.fr">
-    <display-name>ADN</display-name>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png" />
-  </channel>
   <channel id="DuckTV.fr">
     <display-name>Duck TV</display-name>
   </channel>
@@ -130099,134 +130095,6 @@
     <desc lang="ar">رحلة استكشافية حول أعظم وأطول الأنهار في العالم، والتي كانت مهداً للحضارات وشريان الحياة لملايين الكائنات</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-bRGRhUKH.jpg" />
   </programme>
-  <programme channel="ADN.fr" start="20260903104500 +0000" stop="20260903111500 +0000">
-    <title>My Hero Academia</title>
-    <desc>Après avoir vécu une expérience terrifiante en affrontant Stain, Izuku, Tenya et Shoto se retrouv…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_986276549_0_20250617T173316600Z_47_imageprocessorclient-tvplus-linear-5db7c6bc99-kqq7k.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903111500 +0000" stop="20260903114500 +0000">
-    <title>My Hero Academia</title>
-    <desc>Pendant qu'Izuku est encore hospitalisé, les élèves de seconde A du lycée Yuei poursuivent leur s…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_986230506_0_20250617T173316343Z_90_imageprocessorclient-tvplus-linear-5db7c6bc99-kqq7k.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903114500 +0000" stop="20260903120000 +0000">
-    <title>My Hero Academia</title>
-    <desc>Après des expériences en agence de super-héros plus ou moins intéressantes, les élèves du lycée Y…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_986276550_0_20250617T173321664Z_33_imageprocessorclient-tvplus-linear-5db7c6bc99-kqq7k.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903120000 +0000" stop="20260903123000 +0000">
-    <title>My Hero Academia</title>
-    <desc>La fin du premier trimestre approche, ainsi que l'examen qui va avec. Examen qui se déroulera en …</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_989124023_0_20250618T185954259Z_30_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903123000 +0000" stop="20260903124500 +0000">
-    <title>My Hero Academia</title>
-    <desc>L'épreuve pratique des examens trimestriels a commencé ! Cette année, il y a eu des améliorations…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_989200530_0_20250618T185954260Z_60_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903124500 +0000" stop="20260903131500 +0000">
-    <title>My Hero Academia</title>
-    <desc>La partie pratique de l'examen trimestriel bat son plein pour la seconde A. Certains s'en sortent…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_989124024_0_20250618T185954260Z_47_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903131500 +0000" stop="20260903134500 +0000">
-    <title>My Hero Academia</title>
-    <desc>Cette fois, c'est bel et bien le tour d'Izuku et Katsuki de passer l'épreuve. Et ils ont un adver…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_989149377_0_20250618T185954259Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903134500 +0000" stop="20260903140000 +0000">
-    <title>My Hero Academia</title>
-    <desc>L'examen trimestriel est terminé ! Mais certains sont persuadés d'avoir échoué à la pratique. Et …</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_989187012_0_20250618T185954259Z_32_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903140000 +0000" stop="20260903143000 +0000">
-    <title>My Hero Academia</title>
-    <desc>Dans un monde où la majorité possède des pouvoirs, Izuku Midoriya, né sans Alter, rêve de devenir…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_926033601_0_20250528T092258564Z_45_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903143000 +0000" stop="20260903150000 +0000">
-    <title>Les conditions au métier de héros</title>
-    <desc>Izuku vient de rencontrer son idole, All Might, en chair et en os. Mais le super-héros a très peu…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1204524105_0_20250920T030532399Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-rfqr2.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903150000 +0000" stop="20260903153000 +0000">
-    <title>My Hero Academia</title>
-    <desc>Une lueur d'espoir renaît chez le jeune Izuku Midoriya grâce à l'intervention de son idole de tou…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_926034967_0_20250528T092308821Z_45_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903153000 +0000" stop="20260903154500 +0000">
-    <title>My Hero Academia</title>
-    <desc>Devant le terrain B de l'examen pratique de Yuei, Izuku doit prouver qu'il peut maîtriser son nou…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_926034968_0_20250528T092310799Z_51_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903154500 +0000" stop="20260903161500 +0000">
-    <title>My Hero Academia</title>
-    <desc>C'est le premier jour de cours pour les nouveaux élèves du lycée Yuei, mais une surprise attend I…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_926021255_0_20250528T092258484Z_121_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903161500 +0000" stop="20260903164500 +0000">
-    <title>My Hero Academia</title>
-    <desc>Les cours ont commencé au lycée Yuei, l'académie des super-héros. Hélas pour Izuku, qui vient à p…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_926009623_0_20250528T092259518Z_31_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903164500 +0000" stop="20260903170000 +0000">
-    <title>My Hero Academia</title>
-    <desc>Voilà Izuku à son premier cours d'apprentissage au métier de super-héros. Pour ce premier exercic…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_926009624_0_20250528T092310800Z_122_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20260903170000 +0000" stop="20260903173000 +0000">
-    <title>My Hero Academia</title>
-    <desc>Izuku n'a pas eu le choix : Katsuki était trop remonté contre lui et a complètement oublié le suj…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_926059166_0_20250528T092259757Z_107_imageprocessorclient-tvplus-linear-6fb5b47f79-bq75x.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme start="20260903060000 +0200" stop="20260903063000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">SOUVENIRS D'ÉCOLIER</title>
     <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
@@ -134271,5 +134139,137 @@
     <title lang="ar">فقرة غنائية: أم كلثوم</title>
     <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-gqhUqA7F.jpg" />
+  </programme>
+  <channel id="ADN.fr">
+    <display-name>ADN</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20260721T035849SQUARE.png" />
+  </channel>
+  <programme channel="ADN.fr" start="20260903184500 +0000" stop="20260903191500 +0000">
+    <title>My Hero Academia</title>
+    <desc>Alors que la situation était désespérée pour les élèves de seconde A du lycée Yuei, leur sauveur,…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_942018981_0_20250602T173225258Z_19_imageprocessorclient-tvplus-linear-retry-8555696997-dmwtp.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903191500 +0000" stop="20260903193000 +0000">
+    <title>My Hero Academia</title>
+    <desc>All Might est arrivé à temps et s'est débarrassé de Brainless. Mais son intervention à un coût : …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_942065476_0_20250602T193336248Z_115_imageprocessorclient-tvplus-linear-retry-8555696997-dmwtp.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903193000 +0000" stop="20260903200000 +0000">
+    <title>My Hero Academia</title>
+    <desc>Après la violente attaque du SCA par l'Alliance des super-vilains, les élèves de seconde A du lyc…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_941994273_0_20250602T173235931Z_95_imageprocessorclient-tvplus-linear-retry-8555696997-dmwtp.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903200000 +0000" stop="20260903201500 +0000">
+    <title>My Hero Academia</title>
+    <desc>Le professeur principal de la seconde A, M. Aizawa, vient de l'annoncer… Le championnat sportif d…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_942065477_0_20250602T173225148Z_95_imageprocessorclient-tvplus-linear-retry-8555696997-dmwtp.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903201500 +0000" stop="20260903204500 +0000">
+    <title>My Hero Academia</title>
+    <desc>Le championnat démarre sur les chapeaux de roue avec l'épreuve de la course d'obstacles ! Les par…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_942054259_0_20250602T173226371Z_3_imageprocessorclient-tvplus-linear-retry-8555696997-dmwtp.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903204500 +0000" stop="20260903211500 +0000">
+    <title>My Hero Academia</title>
+    <desc>Contre toute attente, Izuku passe les éliminatoires avec brio, sans même avoir eu besoin d'utilis…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_942030675_0_20250602T173225149Z_181_imageprocessorclient-tvplus-linear-retry-8555696997-dmwtp.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903211500 +0000" stop="20260903213000 +0000">
+    <title>My Hero Academia</title>
+    <desc>L'épreuve des cavaliers bat son plein, mais Izuku est la cible de toutes les autres équipes. Et p…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_942018982_0_20250602T193336248Z_1_imageprocessorclient-tvplus-linear-retry-8555696997-dmwtp.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903213000 +0000" stop="20260903220000 +0000">
+    <title>My Hero Academia</title>
+    <desc>Après sa qualification pour l'épreuve finale, Izuku est une nouvelle fois interpellé par Shoto. P…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_942030676_0_20250602T173225624Z_111_imageprocessorclient-tvplus-linear-retry-8555696997-dmwtp.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903220000 +0000" stop="20260903223000 +0000">
+    <title>My Hero Academia</title>
+    <desc>L'épreuve finale du championnat de Yuei a commencé. Pour ce premier combat, Izuku va devoir affro…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_942065478_0_20250602T173225149Z_154_imageprocessorclient-tvplus-linear-retry-8555696997-dmwtp.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903223000 +0000" stop="20260903224500 +0000">
+    <title>My Hero Academia</title>
+    <desc>Les duels de l'épreuve finale des seconde se poursuivent. C'est à présent au tour de Tenya de mon…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1010010884_0_20250626T192543920Z_57_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-65qt5.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903224500 +0000" stop="20260903231500 +0000">
+    <title>My Hero Academia</title>
+    <desc>Le tournoi bat son plein au championnat annuel de Yuei. Ochaco se prépare à monter sur le ring po…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1009921481_0_20250626T192543920Z_99_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-65qt5.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903231500 +0000" stop="20260903234500 +0000">
+    <title>My Hero Academia</title>
+    <desc>zuku et Shoto montent sur le ring pour le premier duel du deuxième tour. Ce sont les deux partici…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1009963981_0_20250626T192543918Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-65qt5.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260903234500 +0000" stop="20260904001500 +0000">
+    <title>My Hero Academia</title>
+    <desc>Le duel entre Izuku et Shoto a fait gronder le stade. Même le ring s'en souvient. Il faut à prése…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1026027556_0_20250702T172434628Z_34_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-rfqr2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260904001500 +0000" stop="20260904003000 +0000">
+    <title>My Hero Academia</title>
+    <desc>C'est la grande finale du championnat de Yuei pour les élèves de seconde. Les deux champions qui …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1025967269_0_20250702T172434628Z_1_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-rfqr2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260904003000 +0000" stop="20260904010000 +0000">
+    <title>My Hero Academia</title>
+    <desc>À peine remis d'un championnat mouvementé, les jeunes élèves de Yuei reprennent les cours et doiv…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_971565323_0_20250613T013154472Z_30_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20260904010000 +0000" stop="20260904013000 +0000">
+    <title>My Hero Academia</title>
+    <desc>C'est le premier jour de stage pour les élèves de seconde du lycée Yuei. Izuku se dirige vers la …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_971528415_0_20250613T013154170Z_27_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-ts2z2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
 </tv>
