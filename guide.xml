@@ -96539,66 +96539,6 @@
     </rating>
     <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/50083/canal-ouah/GEN169/XXL-oaET</image>
   </programme>
-  <programme start="20261008000000 -0400" stop="20261008020000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">La playlist des Pitchouns</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20261008020000 -0400" stop="20261008040000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">Planète africaine</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20261008040000 -0400" stop="20261008060000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">La playlist des Pitchouns</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20261008060000 -0400" stop="20261008090000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">1,2,3 Comptines</title>
-    <category lang="fr">Dessins Animés</category>
-  </programme>
-  <programme start="20261008090000 -0400" stop="20261008110000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">Le monde en Musique</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20261008110000 -0400" stop="20261008120000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">Planète africaine</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20261008120000 -0400" stop="20261008130000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">1,2,3 Comptines</title>
-    <category lang="fr">Dessins Animés</category>
-  </programme>
-  <programme start="20261008130000 -0400" stop="20261008140000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">Le top des Pitchouns</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20261008140000 -0400" stop="20261008150000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">1,2,3 Comptines</title>
-    <category lang="fr">Dessins Animés</category>
-  </programme>
-  <programme start="20261008150000 -0400" stop="20261008160000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">Planète africaine</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20261008160000 -0400" stop="20261008170000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">Planète Francophone</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20261008170000 -0400" stop="20261008180000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">Le monde en Musique</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20261008180000 -0400" stop="20261008190000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">Le top des Pitchouns</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20261008190000 -0400" stop="20261008220000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">1,2,3 Comptines</title>
-    <category lang="fr">Dessins Animés</category>
-  </programme>
-  <programme start="20261008220000 -0400" stop="20261009000000 -0400" channel="PitchounKidsMusic.fr">
-    <title lang="fr">La playlist des Pitchouns</title>
-    <category lang="fr">Clips</category>
-  </programme>
   <programme start="20261009000000 -0400" stop="20261009020000 -0400" channel="PitchounKidsMusic.fr">
     <title lang="fr">La playlist des Pitchouns</title>
     <category lang="fr">Clips</category>
@@ -97091,68 +97031,69 @@
     <title lang="fr">Pitchoun Party</title>
     <category lang="fr">Mag. Musique</category>
   </programme>
-  <programme start="20261009200000 +0000" stop="20261009200300 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Danse de Pitchoun</title>
-    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
+  <programme start="20261017000000 -0400" stop="20261017020000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">La playlist des Pitchouns</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20261009200300 +0000" stop="20261009201600 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Molang YouTuber</title>
-    <desc lang="fr">Molang et Piu Piu sont désormais des YouTubers ! Pincos, pour être encore plus à vos côtés, les deux meilleurs amis postent CHAQUE SEMAINE de nouveaux contenus, comme des vidéos "réaction", du gaming, de l'ASMR, des challenges, et bien plus encore…</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/5039883/wide_generic/h640" />
+  <programme start="20261017020000 -0400" stop="20261017040000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">Planète africaine</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20261009201600 +0000" stop="20261009203800 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Pirata &amp; Capitano</title>
-    <desc lang="fr">Pirata &amp; Capitano : Embarquez avec Pirata, son équipage et son meilleur ami Capitano ! Chaque virée en mer est l'occasion de chercher un trésor, de porter secours à une espèce en danger, de rencontrer de nouveaux amis ou de découvrir des îles mystérieuses. Une série sur l'entraide et le bien vivre ensemble en voguant sur le grand océan…alors, hissez les voiles et levez l'ancre, en route pour l'aventure !</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/491742/wide_generic/h640" />
+  <programme start="20261017040000 -0400" stop="20261017060000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">La playlist des Pitchouns</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20261009203800 +0000" stop="20261009204900 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Nasredine</title>
-    <desc lang="fr">Nasredine est un personnage mythique de la culture orientale, un individu rusé qui adore jouer des tours. Par sa logique imprévisible, Nasredine tourne en ridicule les vicissitudes de ce monde avec esprit et humour.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img2.oqee.net/pictures/1149299/wide_generic/h640" />
+  <programme start="20261017060000 -0400" stop="20261017090000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">1,2,3 Comptines</title>
+    <category lang="fr">Dessins Animés</category>
   </programme>
-  <programme start="20261009204900 +0000" stop="20261009210000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Bienvenue à Paper Port</title>
-    <desc lang="fr">Mathilde est une jeune fille exceptionnelle ! Chaque matin, elle se réveille avec un nouveau pouvoir étonnant qui disparaît le lendemain... Il n'y a que Charlie, son meilleur ami, qui connait son secret. Ensemble, ils vont vivre d'incroyables aventures dans la ville portuaire de Paper Port.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/4494444/wide_generic/h640" />
+  <programme start="20261017090000 -0400" stop="20261017110000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">Le monde en Musique</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20261009210000 +0000" stop="20261009210300 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Danse de Pitchoun</title>
-    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
+  <programme start="20261017110000 -0400" stop="20261017120000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">Planète africaine</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20261009210300 +0000" stop="20261009211500 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">L'abécédaire des animaux</title>
-    <desc lang="fr">Accompagnée et commentée par Guillaume, une découverte des animaux qui peuplent les différents milieux et les différentes régions de la planète Terre, en suivant l'alphabet.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4820914/wide_generic/h640" />
+  <programme start="20261017120000 -0400" stop="20261017130000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">1,2,3 Comptines</title>
+    <category lang="fr">Dessins Animés</category>
   </programme>
-  <programme start="20261009211500 +0000" stop="20261009213500 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Corneil et Bernie</title>
-    <desc lang="fr">Corneil, un petit chien surdoué. Tout bascule le jour où ses riches propriétaires décident d'engager Bernie, un adolescent drôle et excentrique, comme \" dogsitter \". Celui-ci ne va pas tarder à découvrir le don de Corneil et le mettre à profit pour mener à bien ses plans les plus farfelus.</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img1.oqee.net/pictures/205516/wide_generic/h640" />
+  <programme start="20261017130000 -0400" stop="20261017140000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">Le top des Pitchouns</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20261009213500 +0000" stop="20261009220000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Mon robot et moi</title>
-    <desc lang="fr">Eugène est un génie de la robotique qui a construit son propre robot appelé C.H.I.P. Accompagnés de ses meilleurs amis, Maia et Joseph, ils vivent ensemble des aventures rocambolesques dans leur école de robotique.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img2.oqee.net/pictures/4369649/wide_generic/h640" />
+  <programme start="20261017140000 -0400" stop="20261017150000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">1,2,3 Comptines</title>
+    <category lang="fr">Dessins Animés</category>
+  </programme>
+  <programme start="20261017150000 -0400" stop="20261017160000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">Planète africaine</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20261017160000 -0400" stop="20261017170000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">Planète Francophone</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20261017170000 -0400" stop="20261017180000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">Le monde en Musique</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20261017180000 -0400" stop="20261017190000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">Le top des Pitchouns</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20261017190000 -0400" stop="20261017220000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">1,2,3 Comptines</title>
+    <category lang="fr">Dessins Animés</category>
+  </programme>
+  <programme start="20261017220000 -0400" stop="20261017230000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">Planète africaine</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20261017230000 -0400" stop="20261018000000 -0400" channel="PitchounKidsMusic.fr">
+    <title lang="fr">Pitchoun Party</title>
+    <category lang="fr">Mag. Musique</category>
   </programme>
   <programme start="20261009220000 +0000" stop="20261009220300 +0000" channel="TVPitchoun.fr">
     <title lang="fr">Danse de Pitchoun</title>
@@ -102467,331 +102408,68 @@
     <category lang="fr">Dessin animé</category>
     <icon src="https://img1.oqee.net/pictures/205516/wide_generic/h640" />
   </programme>
-  <programme start="20261009200000 +0000" stop="20261009200200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Pompiers</title>
-    <desc lang="fr">Trois pompiers magnifiques aident à résoudre aux habitants de la ville les problèmes quotidiens. </desc>
+  <programme start="20261016200000 +0000" stop="20261016200300 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Danse de Pitchoun</title>
+    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4990633/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
   </programme>
-  <programme start="20261009200200 +0000" stop="20261009200500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Petit train</title>
-    <desc lang="fr">Le conducteur de train et son train conduisent chacun dans sa destination. </desc>
+  <programme start="20261016200300 +0000" stop="20261016201600 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Molang YouTuber</title>
+    <desc lang="fr">Molang et Piu Piu sont désormais des YouTubers ! Pincos, pour être encore plus à vos côtés, les deux meilleurs amis postent CHAQUE SEMAINE de nouveaux contenus, comme des vidéos "réaction", du gaming, de l'ASMR, des challenges, et bien plus encore…</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990623/wide_generic/h640" />
+    <icon src="https://img2.oqee.net/pictures/5039883/wide_generic/h640" />
   </programme>
-  <programme start="20261009200500 +0000" stop="20261009200800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Risto Gusto</title>
-    <desc lang="fr">Venons ensemble au restaurant Basila, Yama, Oregana et découvrons les friandises fabriquées dans la cuisine Risto Gusto. Il est sans importance ce qui est bon ou non pour notre santé, nos amis vous offrent toujours le meilleur. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985097/wide_generic/h640" />
-  </programme>
-  <programme start="20261009200800 +0000" stop="20261009201000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Salle de bain</title>
-    <desc lang="fr">Un petit canard jaune et son grand ami l'éléphant s'amusent énormément lorsqu'ils éclaboussent de l'eau dans la baignoire.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983245/wide_generic/h640" />
-  </programme>
-  <programme start="20261009201000 +0000" stop="20261009201300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lieux miraculeux</title>
-    <desc lang="fr">Figures géométriques en couleur tournent et se déplacent accompagnées par une musique agréable en fond. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983243/wide_generic/h640" />
-  </programme>
-  <programme start="20261009201300 +0000" stop="20261009201500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde aquatique</title>
-    <desc lang="fr">Nous nous figurons les divers animaux exotiques tels que nous ne pouvons pas voir autour de notre maison.</desc>
+  <programme start="20261016201600 +0000" stop="20261016203800 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Pirata &amp; Capitano</title>
+    <desc lang="fr">Pirata &amp; Capitano : Embarquez avec Pirata, son équipage et son meilleur ami Capitano ! Chaque virée en mer est l'occasion de chercher un trésor, de porter secours à une espèce en danger, de rencontrer de nouveaux amis ou de découvrir des îles mystérieuses. Une série sur l'entraide et le bien vivre ensemble en voguant sur le grand océan…alors, hissez les voiles et levez l'ancre, en route pour l'aventure !</desc>
     <category lang="fr">Série</category>
-    <category lang="fr">Série jeunesse</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4257175/wide_generic/h640" />
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/491742/wide_generic/h640" />
   </programme>
-  <programme start="20261009201500 +0000" stop="20261009201700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Bonshommes en légumes</title>
-    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2017</date>
-    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
-  </programme>
-  <programme start="20261009201700 +0000" stop="20261009202100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Amis</title>
-    <desc lang="fr">Les amis, un petit singe et un petit ours jouent les jeux les plus variés. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985049/wide_generic/h640" />
-  </programme>
-  <programme start="20261009202100 +0000" stop="20261009202400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde des animaux</title>
-    <desc lang="fr">Les enfants prennent connaissance des animaux domestiques et sauvages pour apprendre à les reconnaître lors de leur visites du ZOO ou d'une ferme. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985045/wide_generic/h640" />
-  </programme>
-  <programme start="20261009202400 +0000" stop="20261009202700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Le monde des jouets</title>
-    <desc lang="fr">Nous nous rendons dans le monde des jouets, où nous pouvons vivre ensemble une aventure fantastique ou s'exercer les doigts et créer comme par enchantement de superbes bijoux artistiques. Nous n'avons besoin d'aucun mode d'emploi pour cela. Nous nous créons notre propre histoire unique et découvrons de nouvelles possibilités pour vivre les moments passés ensemble.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4995439/wide_generic/h640" />
-  </programme>
-  <programme start="20261009202700 +0000" stop="20261009202900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Petit train</title>
-    <desc lang="fr">Le conducteur de train et son train conduisent chacun dans sa destination. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990623/wide_generic/h640" />
-  </programme>
-  <programme start="20261009202900 +0000" stop="20261009203300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Gambadeurs interplanétaires</title>
-    <desc lang="fr">Luna and her family travel through space, exploring the wonderful new worlds, planets and technologies they come across, whilst embarking on many fantastic space adventures.</desc>
+  <programme start="20261016203800 +0000" stop="20261016204900 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Nasredine</title>
+    <desc lang="fr">Nasredine est un personnage mythique de la culture orientale, un individu rusé qui adore jouer des tours. Par sa logique imprévisible, Nasredine tourne en ridicule les vicissitudes de ce monde avec esprit et humour.</desc>
     <category lang="fr">Série</category>
-    <category lang="fr">Série jeunesse</category>
-    <date>2020</date>
-    <icon src="https://img1.oqee.net/pictures/4259398/wide_generic/h640" />
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/1149299/wide_generic/h640" />
   </programme>
-  <programme start="20261009203300 +0000" stop="20261009203600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Zoo</title>
-    <desc lang="fr">One friendly zoo keeper wants you to come along and meet all the exciting animals he's looking after, and learn a few things on the way, too! This cartoon for young children, encourages them to recognise and name a variety of animals, acquire basic vocabulary, and associate the sounds animals with the sounds that they make.</desc>
+  <programme start="20261016204900 +0000" stop="20261016210000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Bienvenue à Paper Port</title>
+    <desc lang="fr">Mathilde est une jeune fille exceptionnelle ! Chaque matin, elle se réveille avec un nouveau pouvoir étonnant qui disparaît le lendemain... Il n'y a que Charlie, son meilleur ami, qui connait son secret. Ensemble, ils vont vivre d'incroyables aventures dans la ville portuaire de Paper Port.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/4494444/wide_generic/h640" />
+  </programme>
+  <programme start="20261016210000 +0000" stop="20261016210300 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Danse de Pitchoun</title>
+    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985095/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
   </programme>
-  <programme start="20261009203600 +0000" stop="20261009204000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Amis</title>
-    <desc lang="fr">Les amis, un petit singe et un petit ours jouent les jeux les plus variés. </desc>
+  <programme start="20261016210300 +0000" stop="20261016211500 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">L'abécédaire des animaux</title>
+    <desc lang="fr">Accompagnée et commentée par Guillaume, une découverte des animaux qui peuplent les différents milieux et les différentes régions de la planète Terre, en suivant l'alphabet.</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985049/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/4820914/wide_generic/h640" />
   </programme>
-  <programme start="20261009204000 +0000" stop="20261009204300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Ecoutez cela</title>
-    <desc lang="fr">Les enfants mettent en pair les divers animaux et instruments de musique en fonction des sons que ces derniers émettent.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985017/wide_generic/h640" />
-  </programme>
-  <programme start="20261009204300 +0000" stop="20261009204600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Safari</title>
-    <desc lang="fr">Prise des connaissances de l'environnement où vivent les petits animaux.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983259/wide_generic/h640" />
-  </programme>
-  <programme start="20261009204600 +0000" stop="20261009204800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Moyens de transport</title>
-    <desc lang="fr">Voitures, bateaux, montgolfière, ovnis- tous cela s'anime dans nos histoires.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983255/wide_generic/h640" />
-  </programme>
-  <programme start="20261009204800 +0000" stop="20261009205100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mes jeux, mes amis</title>
-    <desc lang="fr">Regardez les histoires d'un petit ours et de ses jouets.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983268/wide_generic/h640" />
-  </programme>
-  <programme start="20261009205100 +0000" stop="20261009205300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lola et les nombres</title>
-    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
-  </programme>
-  <programme start="20261009205300 +0000" stop="20261009205700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Dotty et Kitty</title>
-    <desc lang="fr">Le crayon Dotty pointille le dessin, le petit chat Kitty les relie.</desc>
+  <programme start="20261016211500 +0000" stop="20261016213500 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Corneil et Bernie</title>
+    <desc lang="fr">Corneil, un petit chien surdoué. Tout bascule le jour où ses riches propriétaires décident d'engager Bernie, un adolescent drôle et excentrique, comme \" dogsitter \". Celui-ci ne va pas tarder à découvrir le don de Corneil et le mettre à profit pour mener à bien ses plans les plus farfelus.</desc>
     <category lang="fr">Dessin animé</category>
     <category lang="fr">Dessin animé</category>
-    <icon src="https://img2.oqee.net/pictures/4252201/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/205516/wide_generic/h640" />
   </programme>
-  <programme start="20261009205700 +0000" stop="20261009205800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Les formettes</title>
-    <desc lang="fr">Au cours de leurs aventures, les protagonistes des Formettes nous familiarisent avec l'univers des formes. Ils montrent où les formes peuvent s'introduire, à quels objets elles ressemblent, en quoi elles se transforment ensemble et comment elles forment des histoires complètes. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990605/wide_generic/h640" />
-  </programme>
-  <programme start="20261009205800 +0000" stop="20261009210100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Modelage</title>
-    <desc lang="fr">Les figures sympathiques souriantes, se présente par l'intermédiaire de la création des figures les plus variées. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img2.oqee.net/pictures/4244905/wide_generic/h640" />
-  </programme>
-  <programme start="20261009210100 +0000" stop="20261009210300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mini mélodies</title>
-    <desc lang="fr">Venons reconnaître les plus belles chansons anglaises pour les enfants avec nos personnages préférés. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990604/wide_generic/h640" />
-  </programme>
-  <programme start="20261009210300 +0000" stop="20261009210700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Dotty et Kitty</title>
-    <desc lang="fr">Le crayon Dotty pointille le dessin, le petit chat Kitty les relie.</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img2.oqee.net/pictures/4252201/wide_generic/h640" />
-  </programme>
-  <programme start="20261009210700 +0000" stop="20261009210900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mini mélodies</title>
-    <desc lang="fr">Venons reconnaître les plus belles chansons anglaises pour les enfants avec nos personnages préférés. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990604/wide_generic/h640" />
-  </programme>
-  <programme start="20261009210900 +0000" stop="20261009211100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mimo et Bobo</title>
-    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
-  </programme>
-  <programme start="20261009211100 +0000" stop="20261009211400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Quelle est ta profession ?</title>
-    <desc lang="fr">Nous vous présentons les diverses professions. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983275/wide_generic/h640" />
-  </programme>
-  <programme start="20261009211400 +0000" stop="20261009211600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Ecoutez cela</title>
-    <desc lang="fr">Les enfants mettent en pair les divers animaux et instruments de musique en fonction des sons que ces derniers émettent.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985017/wide_generic/h640" />
-  </programme>
-  <programme start="20261009211600 +0000" stop="20261009211800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Ensembles</title>
-    <desc lang="fr">L'ami le renard va vous apprendre à faire les ensembles sur la base des similitudes.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983271/wide_generic/h640" />
-  </programme>
-  <programme start="20261009211800 +0000" stop="20261009212100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Miracle en couleurs</title>
-    <desc lang="fr">Nous apprenons à reconnaître les couleurs.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985058/wide_generic/h640" />
-  </programme>
-  <programme start="20261009212100 +0000" stop="20261009212400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20261009212400 +0000" stop="20261009212600 +0000" channel="DuckTV.fr">
-    <title lang="fr">DuckSchool, école en jeux</title>
-    <desc lang="fr">Dans une école maternelle dans la forêt, les animaux, les petits habitant de la forêt, apprennent les bases de la langue anglaise de leur institutrice, la fée Soleil. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990593/wide_generic/h640" />
-  </programme>
-  <programme start="20261009212600 +0000" stop="20261009212800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Histoires à Henry</title>
-    <desc lang="fr">Henry loves telling stories, but he needs your help to make sure it's all in the correct order. Follow Henry in these silent animated shorts as he constructs stories with the help of his handy picture cards. Teach your children about logical thinking and deductive reasoning as you narrate the sequences together and solve his picture puzzles to see the story come to life.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990600/wide_generic/h640" />
-  </programme>
-  <programme start="20261009212800 +0000" stop="20261009212900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Un nid douillet</title>
-    <desc lang="fr">Dans les contes d'Un nid douillet on rencontre les petits animaux bien connus des bambins, les héros découvrent leur entourage pour retourner à leurs familles et y câliner leurs proches bien aimés. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990614/wide_generic/h640" />
-  </programme>
-  <programme start="20261009212900 +0000" stop="20261009213000 +0000" channel="DuckTV.fr">
-    <title lang="fr">C'est sur quel arbre</title>
-    <desc lang="fr">C'est sur quel arbre explique comment poussent les fruits, les légumes et les autres plantes. Des grains se développent les plants, puis c'est la danse des fleurs, des feuilles et des fruits pour vous amuser. Avant de vous dire au revoir, les plantes vont vous montrer comment nous, les humains profitons de leurs odeurs et de leurs arômes. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990619/wide_generic/h640" />
-  </programme>
-  <programme start="20261009213000 +0000" stop="20261009213200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mini mélodies</title>
-    <desc lang="fr">Venons reconnaître les plus belles chansons anglaises pour les enfants avec nos personnages préférés. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990604/wide_generic/h640" />
-  </programme>
-  <programme start="20261009213200 +0000" stop="20261009213600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Je veux savoir, moi aussi!</title>
-    <desc lang="fr">Deux amis, Kiteko la girafe folle et Umi la sarigue joueuse découvrent la vie quotidienne des tout petits enfants. Ils peuvent apprendre beaucoup de leur part: les activités quotidiennes, les excursions d'aventure et la création de la distraction en jouant. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985071/wide_generic/h640" />
-  </programme>
-  <programme start="20261009213600 +0000" stop="20261009213800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mini mélodies</title>
-    <desc lang="fr">Venons reconnaître les plus belles chansons anglaises pour les enfants avec nos personnages préférés. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990604/wide_generic/h640" />
-  </programme>
-  <programme start="20261009213800 +0000" stop="20261009214000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Ensembles</title>
-    <desc lang="fr">L'ami le renard va vous apprendre à faire les ensembles sur la base des similitudes.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983271/wide_generic/h640" />
-  </programme>
-  <programme start="20261009214000 +0000" stop="20261009214200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Panni et Fanni</title>
-    <desc lang="fr">Chaque fée est capable de faire un dessin de manière complètement différente.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985055/wide_generic/h640" />
-  </programme>
-  <programme start="20261009214200 +0000" stop="20261009214500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Miracle en couleurs</title>
-    <desc lang="fr">Nous apprenons à reconnaître les couleurs.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985058/wide_generic/h640" />
-  </programme>
-  <programme start="20261009214500 +0000" stop="20261009214800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Miyu et Litto</title>
-    <desc lang="fr">Nous allons vous apprendre à reconnaître les couleurs et nous allons jouer les jeux formidables.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4984948/wide_generic/h640" />
-  </programme>
-  <programme start="20261009214800 +0000" stop="20261009215100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Au musée</title>
-    <desc lang="fr">Où se cachent les animaux des tableaux connus du musée ?</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985051/wide_generic/h640" />
-  </programme>
-  <programme start="20261009215100 +0000" stop="20261009215400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20261009215400 +0000" stop="20261009215700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Sport, sport, sport</title>
-    <desc lang="fr">Prenez connaissance des divers sports. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985048/wide_generic/h640" />
-  </programme>
-  <programme start="20261009215700 +0000" stop="20261009215900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde des animaux</title>
-    <desc lang="fr">Les enfants prennent connaissance des animaux domestiques et sauvages pour apprendre à les reconnaître lors de leur visites du ZOO ou d'une ferme. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985045/wide_generic/h640" />
+  <programme start="20261016213500 +0000" stop="20261016220000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Mon robot et moi</title>
+    <desc lang="fr">Eugène est un génie de la robotique qui a construit son propre robot appelé C.H.I.P. Accompagnés de ses meilleurs amis, Maia et Joseph, ils vivent ensemble des aventures rocambolesques dans leur école de robotique.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/4369649/wide_generic/h640" />
   </programme>
   <programme start="20261009215900 +0000" stop="20261009220200 +0000" channel="DuckTV.fr">
     <title lang="fr">Quelle est ta profession ?</title>
@@ -129877,6 +129555,331 @@
     <category lang="fr">Emission jeunesse</category>
     <icon src="https://img1.oqee.net/pictures/4995430/wide_generic/h640" />
   </programme>
+  <programme start="20261016200100 +0000" stop="20261016200400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Art à Leon</title>
+    <desc lang="fr">Duck tv has a strong educational aspect. Each series stimulates imagination and creativity thanks to fun characters, colorful graphics, and attention-getting rhythms to entertain the little viewers. Join Leon, the bear as he draws and paints friends for himself to play with. What are his painted friends today? The bear helps to encourage imagination and develop basic visual and motor skills. A whole family can paint together for the perfect bonding activity of parents and children.</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2015</date>
+    <icon src="https://img1.oqee.net/pictures/4274044/wide_generic/h640" />
+  </programme>
+  <programme start="20261016200400 +0000" stop="20261016200600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Pompiers</title>
+    <desc lang="fr">Trois pompiers magnifiques aident à résoudre aux habitants de la ville les problèmes quotidiens. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <date>2016</date>
+    <icon src="https://img2.oqee.net/pictures/4990633/wide_generic/h640" />
+  </programme>
+  <programme start="20261016200600 +0000" stop="20261016201000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Paffy et Tabby</title>
+    <desc lang="fr">Deux cobayes toujours affamés cherchent plus de nourriture et découvrent la petite maison dans laquelle ils vivent.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983257/wide_generic/h640" />
+  </programme>
+  <programme start="20261016201000 +0000" stop="20261016201300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Comment nous voyageons</title>
+    <desc lang="fr">Nous suivons les divers voitures, comment elles fonctionnent, nous reconnaissons leur différentes parties ou nous écoutons les sons qu'elles émettent. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983227/wide_generic/h640" />
+  </programme>
+  <programme start="20261016201300 +0000" stop="20261016201600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petits castors</title>
+    <desc lang="fr">Venez voir comment vit une famille des castors. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983230/wide_generic/h640" />
+  </programme>
+  <programme start="20261016201600 +0000" stop="20261016201800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Moyens de transport</title>
+    <desc lang="fr">Voitures, bateaux, montgolfière, ovnis- tous cela s'anime dans nos histoires.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983255/wide_generic/h640" />
+  </programme>
+  <programme start="20261016201800 +0000" stop="20261016202100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petits castors</title>
+    <desc lang="fr">Venez voir comment vit une famille des castors. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983230/wide_generic/h640" />
+  </programme>
+  <programme start="20261016202100 +0000" stop="20261016202500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Dino Milo</title>
+    <desc lang="fr">Le petit dinosaure Milo vie sa vie avec sa famille et ses amis dans l'ère du Mésozoïque. Viens rejoindre ses aventures, et profites-en pour tout découvrir sur les dinosaures et les temps où ils vivaient.</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2020</date>
+    <icon src="https://img2.oqee.net/pictures/4261659/wide_generic/h640" />
+  </programme>
+  <programme start="20261016202500 +0000" stop="20261016202800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Village ensoleillé : Journées de sport</title>
+    <desc lang="fr">Les habitants de la Ville Ensoleillée (Monsieur Bouc, la famille de Raton Laveur, le petit Chat, un Cochon amical) assistent aux journées du sport. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985083/wide_generic/h640" />
+  </programme>
+  <programme start="20261016202800 +0000" stop="20261016203000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petit train</title>
+    <desc lang="fr">Le conducteur de train et son train conduisent chacun dans sa destination. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990623/wide_generic/h640" />
+  </programme>
+  <programme start="20261016203000 +0000" stop="20261016203200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Mimo et Bobo</title>
+    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
+  </programme>
+  <programme start="20261016203200 +0000" stop="20261016203500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Prée gaie</title>
+    <desc lang="fr">Venez voir avec nous nos petits amis. Deux lapins gais Sari et Nati vivent beaucoup de distraction. Et avec eux, il y aura deux beaux merles de la joyeuse prée qui vont se présenter. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990615/wide_generic/h640" />
+  </programme>
+  <programme start="20261016203500 +0000" stop="20261016203900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Amis</title>
+    <desc lang="fr">Les amis, un petit singe et un petit ours jouent les jeux les plus variés. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985049/wide_generic/h640" />
+  </programme>
+  <programme start="20261016203900 +0000" stop="20261016204300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Aventures spatiales</title>
+    <desc lang="fr">Les divers personnages fantastiques volant dans l'univers aident à construire la capacité de reconnaissance des enfants. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983263/wide_generic/h640" />
+  </programme>
+  <programme start="20261016204300 +0000" stop="20261016204500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Mes jeux, mes amis</title>
+    <desc lang="fr">Regardez les histoires d'un petit ours et de ses jouets.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983268/wide_generic/h640" />
+  </programme>
+  <programme start="20261016204500 +0000" stop="20261016204900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Maintenant, nous jouons</title>
+    <desc lang="fr">Nous jouons avec les membres et objets les plus proches de notre famille: mère et père, enfants sur l'aire de jeu, dessins et coloriage. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983241/wide_generic/h640" />
+  </programme>
+  <programme start="20261016204900 +0000" stop="20261016205100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261016205100 +0000" stop="20261016205300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Modelage</title>
+    <desc lang="fr">Les figures sympathiques souriantes, se présente par l'intermédiaire de la création des figures les plus variées. </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <icon src="https://img2.oqee.net/pictures/4244905/wide_generic/h640" />
+  </programme>
+  <programme start="20261016205300 +0000" stop="20261016205500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Les formettes</title>
+    <desc lang="fr">Au cours de leurs aventures, les protagonistes des Formettes nous familiarisent avec l'univers des formes. Ils montrent où les formes peuvent s'introduire, à quels objets elles ressemblent, en quoi elles se transforment ensemble et comment elles forment des histoires complètes. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990605/wide_generic/h640" />
+  </programme>
+  <programme start="20261016205500 +0000" stop="20261016205700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261016205700 +0000" stop="20261016205800 +0000" channel="DuckTV.fr">
+    <title lang="fr">C'est sur quel arbre</title>
+    <desc lang="fr">C'est sur quel arbre explique comment poussent les fruits, les légumes et les autres plantes. Des grains se développent les plants, puis c'est la danse des fleurs, des feuilles et des fruits pour vous amuser. Avant de vous dire au revoir, les plantes vont vous montrer comment nous, les humains profitons de leurs odeurs et de leurs arômes. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990619/wide_generic/h640" />
+  </programme>
+  <programme start="20261016205800 +0000" stop="20261016210100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Mimo et Bobo</title>
+    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
+  </programme>
+  <programme start="20261016210100 +0000" stop="20261016210300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Aventures de canards</title>
+    <desc lang="fr">Every day is a different adventure for Ducky! This animated show for very young children lets toddlers and pre-schoolers to join Ducky and learn through daily activities. This series is brought to you by DuckTV, which works with child psychologists in creating programmes for babies and toddlers. Ducky Adventures has been designed to help your child develop their observational skills whilst also letting them use their imagination and creativity. This cartoon can be used as a conversation starter for the little ones in your life: you can talk to toddlers about their thoughts and opinions on the activities you've seen in the programme or the things that happen in your toddler's life.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/4261653/wide_generic/h640" />
+  </programme>
+  <programme start="20261016210300 +0000" stop="20261016210500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Clara Couleur</title>
+    <desc lang="fr">Clara est une fille caméléon extraordinaire. Elle vit dans la jungle dans sa petite maison et en changeant sa couleur, elle redonne la bonne teinte de couleur et objets faussement créatures vivantes. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990601/wide_generic/h640" />
+  </programme>
+  <programme start="20261016210500 +0000" stop="20261016210700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Ma famille d'animaux de compagnie</title>
+    <desc lang="fr">Pets are part of the family! In My Pet Family, the preschooler Tony shows us how much joy, love and responsibility comes with owning pets. Molly, the cat and Lucas, the puppy give Tony all their love while they learn, play, eat, bath and share adventures together.Stories are backed by psychological research on how owning a pet is beneficial for children. While enjoying My Pet Family your children will receive support in understanding responsibilities and that animals are to be respected, protected and loved.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/4995437/wide_generic/h640" />
+  </programme>
+  <programme start="20261016210700 +0000" stop="20261016211100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Coin d'instruction</title>
+    <desc lang="fr">Nous regardons et apprenons: comment construire une petite maison et comment l'on fait du miel.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985053/wide_generic/h640" />
+  </programme>
+  <programme start="20261016211100 +0000" stop="20261016211300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Au musée</title>
+    <desc lang="fr">Où se cachent les animaux des tableaux connus du musée ?</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985051/wide_generic/h640" />
+  </programme>
+  <programme start="20261016211300 +0000" stop="20261016211600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Quelle est ta profession ?</title>
+    <desc lang="fr">Nous vous présentons les diverses professions. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983275/wide_generic/h640" />
+  </programme>
+  <programme start="20261016211600 +0000" stop="20261016211800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20261016211800 +0000" stop="20261016212100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Ensembles</title>
+    <desc lang="fr">L'ami le renard va vous apprendre à faire les ensembles sur la base des similitudes.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983271/wide_generic/h640" />
+  </programme>
+  <programme start="20261016212100 +0000" stop="20261016212300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261016212300 +0000" stop="20261016212600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Je veux savoir, moi aussi!</title>
+    <desc lang="fr">Deux amis, Kiteko la girafe folle et Umi la sarigue joueuse découvrent la vie quotidienne des tout petits enfants. Ils peuvent apprendre beaucoup de leur part: les activités quotidiennes, les excursions d'aventure et la création de la distraction en jouant. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985071/wide_generic/h640" />
+  </programme>
+  <programme start="20261016212600 +0000" stop="20261016212700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Un nid douillet</title>
+    <desc lang="fr">Dans les contes d'Un nid douillet on rencontre les petits animaux bien connus des bambins, les héros découvrent leur entourage pour retourner à leurs familles et y câliner leurs proches bien aimés. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990614/wide_generic/h640" />
+  </programme>
+  <programme start="20261016212700 +0000" stop="20261016213000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Je veux savoir, moi aussi!</title>
+    <desc lang="fr">Deux amis, Kiteko la girafe folle et Umi la sarigue joueuse découvrent la vie quotidienne des tout petits enfants. Ils peuvent apprendre beaucoup de leur part: les activités quotidiennes, les excursions d'aventure et la création de la distraction en jouant. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985071/wide_generic/h640" />
+  </programme>
+  <programme start="20261016213000 +0000" stop="20261016213200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Un nid douillet</title>
+    <desc lang="fr">Dans les contes d'Un nid douillet on rencontre les petits animaux bien connus des bambins, les héros découvrent leur entourage pour retourner à leurs familles et y câliner leurs proches bien aimés. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990614/wide_generic/h640" />
+  </programme>
+  <programme start="20261016213200 +0000" stop="20261016213300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Pixie 2</title>
+    <desc lang="fr">Le petit génie - le magicien vous apprend quelques mots court en anglais. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990595/wide_generic/h640" />
+  </programme>
+  <programme start="20261016213300 +0000" stop="20261016213500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Ma famille d'animaux de compagnie</title>
+    <desc lang="fr">Pets are part of the family! In My Pet Family, the preschooler Tony shows us how much joy, love and responsibility comes with owning pets. Molly, the cat and Lucas, the puppy give Tony all their love while they learn, play, eat, bath and share adventures together.Stories are backed by psychological research on how owning a pet is beneficial for children. While enjoying My Pet Family your children will receive support in understanding responsibilities and that animals are to be respected, protected and loved.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/4995437/wide_generic/h640" />
+  </programme>
+  <programme start="20261016213500 +0000" stop="20261016213700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Aventures de canards</title>
+    <desc lang="fr">Every day is a different adventure for Ducky! This animated show for very young children lets toddlers and pre-schoolers to join Ducky and learn through daily activities. This series is brought to you by DuckTV, which works with child psychologists in creating programmes for babies and toddlers. Ducky Adventures has been designed to help your child develop their observational skills whilst also letting them use their imagination and creativity. This cartoon can be used as a conversation starter for the little ones in your life: you can talk to toddlers about their thoughts and opinions on the activities you've seen in the programme or the things that happen in your toddler's life.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/4261653/wide_generic/h640" />
+  </programme>
+  <programme start="20261016213700 +0000" stop="20261016214000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Ecoutez cela</title>
+    <desc lang="fr">Les enfants mettent en pair les divers animaux et instruments de musique en fonction des sons que ces derniers émettent.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985017/wide_generic/h640" />
+  </programme>
+  <programme start="20261016214000 +0000" stop="20261016214300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20261016214300 +0000" stop="20261016214500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Ecoutez cela</title>
+    <desc lang="fr">Les enfants mettent en pair les divers animaux et instruments de musique en fonction des sons que ces derniers émettent.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985017/wide_generic/h640" />
+  </programme>
+  <programme start="20261016214500 +0000" stop="20261016214900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Miracle en couleurs</title>
+    <desc lang="fr">Nous apprenons à reconnaître les couleurs.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985058/wide_generic/h640" />
+  </programme>
+  <programme start="20261016214900 +0000" stop="20261016215200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Quelle est ta profession ?</title>
+    <desc lang="fr">Nous vous présentons les diverses professions. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983275/wide_generic/h640" />
+  </programme>
+  <programme start="20261016215200 +0000" stop="20261016215500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Entraînons-nous !</title>
+    <desc lang="fr">Nous ne devrions être uniquement assis devant la télé. Allez debout et l'on se met au mouvement. Langi, Rundi et Rendi s'entraînent en imitant les mouvement de la nature. Entrainons-nous avec eux pour améliorer nos conditions physiques, rendons notre santé plus forte.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983238/wide_generic/h640" />
+  </programme>
+  <programme start="20261016215500 +0000" stop="20261016215700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Sport, sport, sport</title>
+    <desc lang="fr">Prenez connaissance des divers sports. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985048/wide_generic/h640" />
+  </programme>
+  <programme start="20261016215700 +0000" stop="20261016220100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde des animaux</title>
+    <desc lang="fr">Les enfants prennent connaissance des animaux domestiques et sauvages pour apprendre à les reconnaître lors de leur visites du ZOO ou d'une ferme. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985045/wide_generic/h640" />
+  </programme>
   <programme start="20261009060000 +0100" stop="20261009060200 +0100" channel="Watania1.tn">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
@@ -130182,54 +130185,6 @@
     <desc lang="ar">وثائقي ميلاد التلفزة التونسية: الدراما... التمثيلات...والروايات ج 2</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-CggvGFwv.jpg" />
   </programme>
-  <programme channel="ADN.fr" start="20261009191500 +0000" stop="20261009194500 +0000">
-    <title>Witch Watch</title>
-    <desc>Morihito annonce soudain qu'il va laver son jean qu'il a porté un an sans le passer à la machine.…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1284182417_0_20251027T133702373Z_33_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-hx9np.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261009194500 +0000" stop="20261009201500 +0000">
-    <title>Witch Watch</title>
-    <desc>Le festival du lycée commence ! La classe de Nico va tenir un café hanté, où les serveurs et serv…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1284240240_0_20251027T133702374Z_81_imageprocessorclient-tvplus-linear-retry-69bdc5c75f-hx9np.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261009201500 +0000" stop="20261009204500 +0000">
-    <title>BTOOOM!</title>
-    <desc>Un nouveau membre rejoint l'équipe de Ryôta, mais son passé sombre soulève des interrogations. Le…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1287627371_0_20251029T014815821Z_41_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261009204500 +0000" stop="20261009210000 +0000">
-    <title>BTOOOM!</title>
-    <desc>Les connexions secrètes entre les joueurs se dévoilent peu à peu, tandis qu'un médecin mystérieux…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1289990753_1_20251030T013106470Z_56_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261009210000 +0000" stop="20261009213000 +0000">
-    <title>BTOOOM!</title>
-    <desc>Avec Ryôta temporairement écarté, Himiko devient une cible facile pour les autres participants.…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1292023658_0_20251031T015236822Z_72_imageprocessorclient-tvplus-linear-5db7c6bc99-7sngq.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261009213000 +0000" stop="20261009220000 +0000">
-    <title>BTOOOM!</title>
-    <desc>Bien qu'il souhaite éviter toute confrontation, Ryôta n'a d'autre choix que de se défendre lorsqu…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1294332795_0_20251101T015401667Z_125_imageprocessorclient-tvplus-linear-5db7c6bc99-w59hm.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="ADN.fr" start="20261009220000 +0000" stop="20261009223000 +0000">
     <title>Strike the Blood</title>
     <desc>Aya Tokoyogi a pris le contrôle de l'académie Saikai et dévoile l'immense pouvoir du Grimoire du …</desc>
@@ -130302,7 +130257,55 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20261009060000 +0200" stop="20261009063000 +0200" channel="SQOOLTV.fr">
+  <programme channel="ADN.fr" start="20261010014500 +0000" stop="20261010021500 +0000">
+    <title>Puniru is a Kawaii Slime</title>
+    <desc>Gelée revient en force, bien déterminée à gagner l'amour de Kotarô. En même temps, elle gagne rap…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2249284696_0_20261003T020511710Z_23_imageprocessorclient-tvplus-linear-b5879c6c6-dxx2l.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261010021500 +0000" stop="20261010024500 +0000">
+    <title>Puniru is a Kawaii Slime</title>
+    <desc>Le parc Runrune d'Alice ouvre en plein été. Avec la chaleur, les visiteurs vont se bousculer pour…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2249198186_0_20261003T020512704Z_62_imageprocessorclient-tvplus-linear-b5879c6c6-dxx2l.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261010024500 +0000" stop="20261010030000 +0000">
+    <title>Puniru is a Kawaii Slime</title>
+    <desc>Gelée est dévastée par le rejet de Kotarô et noie son chagrin dans la boisson. Devant ce spectacl…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2249156135_0_20261003T020512704Z_28_imageprocessorclient-tvplus-linear-b5879c6c6-dxx2l.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261010030000 +0000" stop="20261010033000 +0000">
+    <title>Spy Classroom</title>
+    <desc>Après avoir inutilement sacrifié l'une de leurs camarades, l'Étincelle tombe sur une occasion en …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_492716918_3_20240516T173301186Z_95.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261010033000 +0000" stop="20261010040000 +0000">
+    <title>Spy Classroom</title>
+    <desc>Un autre jour, un autre plan ambitieux pour vaincre Klaus ! À la différence qu'aujourd'hui, le pl…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_492716827_1_20240516T173301190Z_48.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261010040000 +0000" stop="20261010043000 +0000">
+    <title>Spy Classroom</title>
+    <desc>De retour de vacances après le succès de la mission impossible, Lily et ses collègues font face à…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_492716897_1_20240516T173301190Z_139.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20261010060000 +0200" stop="20261010063000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">Souvenirs d'écolier</title>
     <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
     <category lang="fr">Émission</category>
@@ -130310,7 +130313,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
   </programme>
-  <programme start="20261009063000 +0200" stop="20261009070000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010063000 +0200" stop="20261010070000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">L’école du futur</title>
     <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130318,7 +130321,15 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
   </programme>
-  <programme start="20261009070000 +0200" stop="20261009080000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010070000 +0200" stop="20261010073000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">La matinale</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
+  </programme>
+  <programme start="20261010073000 +0200" stop="20261010083000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">Le grand jt de l’éducation</title>
     <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
     <category lang="fr">Émission</category>
@@ -130326,31 +130337,23 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
   </programme>
-  <programme start="20261009080000 +0200" stop="20261009083000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">La matinale</title>
-    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+  <programme start="20261010083000 +0200" stop="20261010090000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Souvenirs d'écolier</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
     <category lang="fr">Émission</category>
     <category lang="fr">Info</category>
     <category lang="fr">Inédit</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
-  </programme>
-  <programme start="20261009083000 +0200" stop="20261009090000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
-    <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
-    <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
   </programme>
-  <programme start="20261009090000 +0200" stop="20261009093000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">L’école du futur</title>
-    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+  <programme start="20261010090000 +0200" stop="20261010093000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">La matinale</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
     <category lang="fr">Émission</category>
     <category lang="fr">Info</category>
     <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
   </programme>
-  <programme start="20261009093000 +0200" stop="20261009103000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010093000 +0200" stop="20261010103000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">Le grand jt de l’éducation</title>
     <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
     <category lang="fr">Émission</category>
@@ -130358,23 +130361,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
   </programme>
-  <programme start="20261009103000 +0200" stop="20261009110000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">La matinale</title>
-    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
-    <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
-    <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
-  </programme>
-  <programme start="20261009110000 +0200" stop="20261009113000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
-    <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
-    <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
-  </programme>
-  <programme start="20261009113000 +0200" stop="20261009120000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010103000 +0200" stop="20261010110000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">L’école du futur</title>
     <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130382,7 +130369,15 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
   </programme>
-  <programme start="20261009120000 +0200" stop="20261009123000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010110000 +0200" stop="20261010113000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Souvenirs d'écolier</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20261010113000 +0200" stop="20261010120000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">La matinale</title>
     <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130390,23 +130385,30 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
   </programme>
-  <programme start="20261009123000 +0200" stop="20261009130000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">L’école du futur</title>
-    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+  <programme start="20261010120000 +0200" stop="20261010121500 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Campus stories</title>
+    <desc lang="fr">On parle du quotidien des étudiants sans filtre. Le stress, la pression, les galères. Chaque semaine sur YouTube, à travers un épisode d'une quinzaine de minutes, retrouve des témoignages forts et des conseils concrets. Pour dire tout haut ce que tu penses tout bas.</desc>
     <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
     <category lang="fr">Inédit</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Campus-Stories.png" />
   </programme>
-  <programme start="20261009130000 +0200" stop="20261009133000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+  <programme start="20261010121500 +0200" stop="20261010131500 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Le grand jt de l’éducation</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
     <category lang="fr">Émission</category>
     <category lang="fr">Info</category>
     <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
   </programme>
-  <programme start="20261009133000 +0200" stop="20261009140000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010131500 +0200" stop="20261010134500 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’école du futur</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20261010134500 +0200" stop="20261010141500 +0200" channel="SQOOLTV.fr">
     <title lang="fr">La matinale</title>
     <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130414,15 +130416,15 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
   </programme>
-  <programme start="20261009140000 +0200" stop="20261009150000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">Le grand jt de l’éducation</title>
-    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+  <programme start="20261010141500 +0200" stop="20261010144500 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Souvenirs d'écolier</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
     <category lang="fr">Émission</category>
     <category lang="fr">Info</category>
     <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
   </programme>
-  <programme start="20261009150000 +0200" stop="20261009153000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010144500 +0200" stop="20261010151500 +0200" channel="SQOOLTV.fr">
     <title lang="fr">L’école du futur</title>
     <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130430,7 +130432,15 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
   </programme>
-  <programme start="20261009153000 +0200" stop="20261009160000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010151500 +0200" stop="20261010161500 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Le grand jt de l’éducation</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20261010161500 +0200" stop="20261010164500 +0200" channel="SQOOLTV.fr">
     <title lang="fr">La matinale</title>
     <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130438,7 +130448,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
   </programme>
-  <programme start="20261009160000 +0200" stop="20261009163000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010164500 +0200" stop="20261010171500 +0200" channel="SQOOLTV.fr">
     <title lang="fr">Souvenirs d'écolier</title>
     <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
     <category lang="fr">Émission</category>
@@ -130446,7 +130456,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
   </programme>
-  <programme start="20261009163000 +0200" stop="20261009170000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010171500 +0200" stop="20261010174500 +0200" channel="SQOOLTV.fr">
     <title lang="fr">L’école du futur</title>
     <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130454,15 +130464,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
   </programme>
-  <programme start="20261009170000 +0200" stop="20261009180000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">Le grand jt de l’éducation</title>
-    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
-    <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
-    <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
-  </programme>
-  <programme start="20261009180000 +0200" stop="20261009183000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010174500 +0200" stop="20261010181500 +0200" channel="SQOOLTV.fr">
     <title lang="fr">La matinale</title>
     <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130470,15 +130472,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
   </programme>
-  <programme start="20261009183000 +0200" stop="20261009190000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
-    <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
-    <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
-  </programme>
-  <programme start="20261009190000 +0200" stop="20261009193000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010181500 +0200" stop="20261010184500 +0200" channel="SQOOLTV.fr">
     <title lang="fr">L’école du futur</title>
     <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130486,47 +130480,14 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
   </programme>
-  <programme start="20261009193000 +0200" stop="20261009200000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+  <programme start="20261010184500 +0200" stop="20261010190000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Campus stories</title>
+    <desc lang="fr">On parle du quotidien des étudiants sans filtre. Le stress, la pression, les galères. Chaque semaine sur YouTube, à travers un épisode d'une quinzaine de minutes, retrouve des témoignages forts et des conseils concrets. Pour dire tout haut ce que tu penses tout bas.</desc>
     <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
     <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Campus-Stories.png" />
   </programme>
-  <programme start="20261009200000 +0200" stop="20261009203000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">L’école du futur</title>
-    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
-    <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
-    <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
-  </programme>
-  <programme start="20261009203000 +0200" stop="20261009213000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">Le grand jt de l’éducation</title>
-    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
-    <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
-    <category lang="fr">Inédit</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
-  </programme>
-  <programme start="20261009213000 +0200" stop="20261009220000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">Souvenirs d'écolier</title>
-    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
-    <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
-    <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
-  </programme>
-  <programme start="20261009220000 +0200" stop="20261009223000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">L’école du futur</title>
-    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
-    <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
-    <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
-  </programme>
-  <programme start="20261009223000 +0200" stop="20261009233000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010190000 +0200" stop="20261010200000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">Le grand jt de l’éducation</title>
     <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
     <category lang="fr">Émission</category>
@@ -130534,7 +130495,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
   </programme>
-  <programme start="20261009233000 +0200" stop="20261010000000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010200000 +0200" stop="20261010203000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">La matinale</title>
     <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130542,7 +130503,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
   </programme>
-  <programme start="20261009000000 +0200" stop="20261009003000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010203000 +0200" stop="20261010210000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">Souvenirs d'écolier</title>
     <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
     <category lang="fr">Émission</category>
@@ -130550,15 +130511,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
   </programme>
-  <programme start="20261009003000 +0200" stop="20261009013000 +0200" channel="SQOOLTV.fr">
-    <title lang="fr">Le grand jt de l’éducation</title>
-    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
-    <category lang="fr">Émission</category>
-    <category lang="fr">Info</category>
-    <category lang="fr">Rediffusion</category>
-    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
-  </programme>
-  <programme start="20261009013000 +0200" stop="20261009020000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010210000 +0200" stop="20261010213000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">L’école du futur</title>
     <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130566,7 +130519,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
   </programme>
-  <programme start="20261009020000 +0200" stop="20261009030000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010213000 +0200" stop="20261010223000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">Le grand jt de l’éducation</title>
     <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
     <category lang="fr">Émission</category>
@@ -130574,7 +130527,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
   </programme>
-  <programme start="20261009030000 +0200" stop="20261009033000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010223000 +0200" stop="20261010230000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">La matinale</title>
     <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130582,7 +130535,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
   </programme>
-  <programme start="20261009033000 +0200" stop="20261009040000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010230000 +0200" stop="20261010233000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">Souvenirs d'écolier</title>
     <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
     <category lang="fr">Émission</category>
@@ -130590,7 +130543,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
   </programme>
-  <programme start="20261009040000 +0200" stop="20261009043000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010233000 +0200" stop="20261011000000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">L’école du futur</title>
     <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
     <category lang="fr">Émission</category>
@@ -130598,7 +130551,7 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
   </programme>
-  <programme start="20261009043000 +0200" stop="20261009053000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010000000 +0200" stop="20261010010000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">Le grand jt de l’éducation</title>
     <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
     <category lang="fr">Émission</category>
@@ -130606,13 +130559,69 @@
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
   </programme>
-  <programme start="20261009053000 +0200" stop="20261009060000 +0200" channel="SQOOLTV.fr">
+  <programme start="20261010010000 +0200" stop="20261010013000 +0200" channel="SQOOLTV.fr">
     <title lang="fr">La matinale</title>
     <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
     <category lang="fr">Émission</category>
     <category lang="fr">Info</category>
     <category lang="fr">Rediffusion</category>
     <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
+  </programme>
+  <programme start="20261010013000 +0200" stop="20261010020000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Souvenirs d'écolier</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20261010020000 +0200" stop="20261010023000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’école du futur</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20261010023000 +0200" stop="20261010033000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Le grand jt de l’éducation</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
+  </programme>
+  <programme start="20261010033000 +0200" stop="20261010040000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">L’école du futur</title>
+    <desc lang="fr">Tous les jours, L'École du futur et ses experts vous présentent, décryptent et testent pour vous les technologies mises au service de l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Ecole-du-futur.png" />
+  </programme>
+  <programme start="20261010040000 +0200" stop="20261010043000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">La matinale</title>
+    <desc lang="fr">Experts, parents, élèves, associations… Chaque matin, dans "La Matinale", Patrice Boisfer met en lumière celles et ceux qui font bouger l’éducation.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/La-Matinale.png" />
+  </programme>
+  <programme start="20261010043000 +0200" stop="20261010050000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Souvenirs d'écolier</title>
+    <desc lang="fr">Artiste, chanteur, comédien, sportif… Chaque semaine, Malika Ménard reçoit une personnalité pour partager ses souvenirs d’écolier et sa vision de l’école d’aujourd’hui.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Souvenirs-decolier.png" />
+  </programme>
+  <programme start="20261010050000 +0200" stop="20261010060000 +0200" channel="SQOOLTV.fr">
+    <title lang="fr">Le grand jt de l’éducation</title>
+    <desc lang="fr">Tous les soirs, Virginie Guilhaume vous donne rendez-vous pour débriefer l’actualité de l’éducation, débattre et se questionner sur l’avenir de nos enfants à l’école.</desc>
+    <category lang="fr">Émission</category>
+    <category lang="fr">Info</category>
+    <category lang="fr">Rediffusion</category>
+    <icon src="https://www.sqooltv.com/app/uploads/2026/09/Grand-JT-de-leducation.png" />
   </programme>
   <programme start="20261008000000 +0200" stop="20261008005000 +0200" channel="MotorVisionTV.fr">
     <title lang="fr">Sport mécanique : Le Mans Series</title>
@@ -132985,22 +132994,6 @@
     <title lang="fr">NZ Rally Championship</title>
     <category lang="fr">Sport mécanique</category>
   </programme>
-  <programme start="20261009070000 +0200" stop="20261009080000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261009173000 +0200" stop="20261009183000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261009190000 +0200" stop="20261009200000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Le Live</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261009211000 +0200" stop="20261009235900 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Soirée thématique</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
   <programme start="20261010070000 +0200" stop="20261010080000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">Jeunesse</title>
     <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
@@ -133094,6 +133087,22 @@
     <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
   </programme>
   <programme start="20261015211000 +0200" stop="20261015235900 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Soirée thématique</title>
+    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  </programme>
+  <programme start="20261016070000 +0200" stop="20261016080000 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Jeunesse</title>
+    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  </programme>
+  <programme start="20261016173000 +0200" stop="20261016183000 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Jeunesse</title>
+    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  </programme>
+  <programme start="20261016190000 +0200" stop="20261016200000 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Le Live</title>
+    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  </programme>
+  <programme start="20261016211000 +0200" stop="20261016235900 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">Soirée thématique</title>
     <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
   </programme>
@@ -133646,7 +133655,6 @@
   </programme>
   <programme start="20261012121500 +0000" stop="20261012130000 +0000" channel="Nessma.tn">
     <title lang="fr">Het Esshih</title>
-    <desc lang="fr">Presented by Wafa Trabelsi, Mondher Thabet and Mondher Bedhiafi, this two-hour-long current affairs magazine program provides an in-depth analysis of local, regional, national, and international news. Expert guests and specialists review and examine the latest events happening near and far and a 'live' right to speak contributes idscussion, opinion, and information on the topics of the day.</desc>
   </programme>
   <programme start="20261012130000 +0000" stop="20261012131500 +0000" channel="Nessma.tn">
     <title lang="fr">Flash News</title>
@@ -133659,7 +133667,6 @@
   </programme>
   <programme start="20261012141500 +0000" stop="20261012150000 +0000" channel="Nessma.tn">
     <title lang="fr">Nessmet aachiya</title>
-    <desc lang="fr">This Hindi language drama follows the story of two cousins, uneducated, shy and innocent Gopi Kapadia and educated, lively and cunning Rashi Shah as they get married, have children and endure many troubles. Will there be a happy ending?</desc>
   </programme>
   <programme start="20261012150000 +0000" stop="20261012151500 +0000" channel="Nessma.tn">
     <title lang="fr">Flash News</title>
@@ -133698,7 +133705,6 @@
   </programme>
   <programme start="20261012195000 +0000" stop="20261012204000 +0000" channel="Nessma.tn">
     <title lang="fr">El Hob Eli Kweni</title>
-    <desc lang="fr">Set in a seaside suburb of Istanbul, this drama tells the story of Kamel, the son of an aspirational middle-class family, and Imen, a sensitive and empathetic artist. Will the course of true love run smoothly for them?</desc>
   </programme>
   <programme start="20261012204000 +0000" stop="20261012214500 +0000" channel="Nessma.tn">
     <title lang="fr">Ena weldek ya Baba</title>
@@ -133714,7 +133720,7 @@
     <title lang="fr">Ward wa Chawk</title>
     <desc lang="fr">This drama series from Egypt follows the story of a man who is left to raise his three daughters on his own after his wife dies. However, things become easier when he falls in love with another woman and eventually marries her.</desc>
   </programme>
-  <programme start="20261009220000 +0200" stop="20261010110000 +0200" channel="F1TV1.fr">
+  <programme start="20261010000000 +0200" stop="20261010110000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
   <programme start="20261010120000 +0200" stop="20261010150000 +0200" channel="F1TV1.fr">
@@ -133723,13 +133729,13 @@
   <programme start="20261010160000 +0200" stop="20261011140000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
-  <programme start="20261011160000 +0200" stop="20261016220000 +0200" channel="F1TV1.fr">
+  <programme start="20261011160000 +0200" stop="20261017000000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
-  <programme start="20261009220000 +0200" stop="20261016220000 +0200" channel="MXGPTV.fr">
+  <programme start="20261010000000 +0200" stop="20261017000000 +0200" channel="MXGPTV.fr">
     <title lang="fr">MXGP-TV</title>
   </programme>
-  <programme start="20261009235900 +0200" stop="20261010070000 +0200" channel="LEspritSorcierTV.fr">
+  <programme start="20261010000000 +0200" stop="20261010070000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
   <programme start="20261010080000 +0200" stop="20261010173000 +0200" channel="LEspritSorcierTV.fr">
@@ -133801,7 +133807,19 @@
   <programme start="20261015200000 +0200" stop="20261015211000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
-  <programme start="20261015235900 +0200" stop="20261016220000 +0200" channel="LEspritSorcierTV.fr">
+  <programme start="20261015235900 +0200" stop="20261016070000 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">L'Esprit Sorcier TV</title>
+  </programme>
+  <programme start="20261016080000 +0200" stop="20261016173000 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">L'Esprit Sorcier TV</title>
+  </programme>
+  <programme start="20261016183000 +0200" stop="20261016190000 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">L'Esprit Sorcier TV</title>
+  </programme>
+  <programme start="20261016200000 +0200" stop="20261016211000 +0200" channel="LEspritSorcierTV.fr">
+    <title lang="fr">L'Esprit Sorcier TV</title>
+  </programme>
+  <programme start="20261016235900 +0200" stop="20261017000000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
   <programme start="20261010014500 +0200" stop="20261010080000 +0200" channel="Nessma.tn">
@@ -133813,7 +133831,7 @@
   <programme start="20261012013000 +0200" stop="20261012080000 +0200" channel="Nessma.tn">
     <title lang="fr">Nessma</title>
   </programme>
-  <programme start="20261013014500 +0200" stop="20261016220000 +0200" channel="Nessma.tn">
+  <programme start="20261013014500 +0200" stop="20261017000000 +0200" channel="Nessma.tn">
     <title lang="fr">Nessma</title>
   </programme>
 </tv>
