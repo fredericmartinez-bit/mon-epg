@@ -3,6 +3,7 @@ import html
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 URL = "https://www.sqooltv.com/grille-des-programmes/"
 CHANNEL_ID = "SQOOLTV.fr"
@@ -17,7 +18,7 @@ def download(url):
 
 page = download(URL)
 
-today = datetime.now()
+today = datetime.now(ZoneInfo("Europe/Paris"))
 
 # Lundi-vendredi = pills-1
 # Samedi = pills-2
@@ -93,8 +94,8 @@ for sh, sm, eh, em, status, title, speaker, image, badges, desc in pattern.finda
     programme = ET.SubElement(
         tv,
         "programme",
-        start=start.strftime("%Y%m%d%H%M%S") + " +0200",
-        stop=stop.strftime("%Y%m%d%H%M%S") + " +0200",
+        start=start.strftime("%Y%m%d%H%M%S %z"),
+        stop=stop.strftime("%Y%m%d%H%M%S %z"),
         channel=CHANNEL_ID
     )
 
