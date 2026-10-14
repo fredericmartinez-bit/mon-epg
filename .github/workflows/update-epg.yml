@@ -22,7 +22,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install Python dependencies
-        run: python3 -m pip install pypdf
+        run: python3 -m pip install pypdf beautifulsoup4
 
       - name: Setup IPTV-ORG EPG
         run: |
@@ -44,6 +44,7 @@ jobs:
           python3 mxgp_tv.py
           python3 f1tv.py
           python3 nessma_canal.py
+          python3 aljazeera2.py || echo "Al Jazeera 2 indisponible"
 
       - name: Verify generated files
         run: |
@@ -59,6 +60,7 @@ jobs:
           test -s mxgp-tv.xml
           test -s f1tv.xml
           test -s nessma.xml
+          test -s aljazeera2.xml || echo "EPG Al Jazeera 2 absent"
 
           ls -lh \
             pitchoun-kids.xml \
@@ -93,6 +95,7 @@ jobs:
               "mxgp-tv.xml",
               "f1tv.xml",
               "nessma.xml",
+              "aljazeera2.xml",
           ]
 
           TARGET_IDS = {
@@ -108,22 +111,30 @@ jobs:
               "MXGPTV.fr",
               "F1TV1.fr",
               "Nessma.tn",
+              "AlJazeera2",
           }
 
           tree = ET.parse(GUIDE)
           root = tree.getroot()
 
           for elem in list(root):
-              if elem.tag == "channel" and elem.get("id") in TARGET_IDS:
-                  root.remove(elem)
-              elif elem.tag == "programme" and elem.get("channel") in TARGET_IDS:
-                  root.remove(elem)
+              cid = elem.get("id") if elem.tag == "channel" else elem.get("channel")
+              if elem.tag in ("channel", "programme") and cid in TARGET_IDS:
+                  if cid != "AlJazeera2":
+                      root.remove(elem)
 
           channels = {}
           programmes = []
 
           for source in SOURCES:
-              src_root = ET.parse(source).getroot()
+              if source.startswith("aljazeera2"):
+                  try:
+                      src_root = ET.parse(source).getroot()
+                  except (OSError, ET.ParseError):
+                      print("Al Jazeera 2 indisponible : fusion ignorée")
+                      continue
+              else:
+                  src_root = ET.parse(source).getroot()
 
               for elem in src_root:
                   if elem.tag == "channel":
@@ -136,7 +147,7 @@ jobs:
                       if cid in TARGET_IDS:
                           programmes.append(elem)
 
-          missing = TARGET_IDS - set(channels)
+          missing = (TARGET_IDS - {"AlJazeera2"}) - set(channels)
 
           if missing:
               raise SystemExit(
@@ -150,6 +161,17 @@ jobs:
 
           for e in list(root):
               root.remove(e)
+
+          # Remplacer Al Jazeera 2 uniquement si une nouvelle grille existe
+          if any(p.get("channel") == "AlJazeera2" for p in programmes):
+              existing_channels = [
+                  c for c in existing_channels
+                  if c.get("id") != "AlJazeera2"
+              ]
+              existing_programmes = [
+                  p for p in existing_programmes
+                  if p.get("channel") != "AlJazeera2"
+              ]
 
           existing_channel_ids = {e.get("id") for e in existing_channels}
 
