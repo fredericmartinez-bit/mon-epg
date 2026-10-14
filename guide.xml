@@ -1293,6 +1293,9 @@
     <display-name>MotorVision TV</display-name>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuEKF4mLTy1d2W3Jw4NQR47ODPSzbhQkjli_roOyw8xlF7pJsf-8jbcXwY3iI&amp;amp;s" />
   </channel>
+  <channel id="MotorvisionPlus.fr">
+    <display-name>Motorvision+</display-name>
+  </channel>
   <channel id="Nessma.tn">
     <display-name>NESSMA TV</display-name>
   </channel>
@@ -97090,13 +97093,6 @@
     <title lang="fr">La playlist des Pitchouns</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20261014140300 +0000" stop="20261014160000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Le club des Pitchouns</title>
-    <desc lang="fr">Guillaume et ses amis vous invitent dans le Club des Pitchouns pour un moment de détente et de rire : gags, quizz et interviews sont aux rendez-vous !</desc>
-    <category lang="fr">Magazine</category>
-    <category lang="fr">Magazine jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/5044873/wide_generic/h640" />
-  </programme>
   <programme start="20261014160000 +0000" stop="20261014160300 +0000" channel="TVPitchoun.fr">
     <title lang="fr">Danse de Pitchoun</title>
     <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
@@ -102472,182 +102468,6 @@
     <category lang="fr">Magazine</category>
     <category lang="fr">Magazine jeunesse</category>
     <icon src="https://img2.oqee.net/pictures/5044873/wide_generic/h640" />
-  </programme>
-  <programme start="20261014145800 +0000" stop="20261014150100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mimo et Bobo</title>
-    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
-  </programme>
-  <programme start="20261014150100 +0000" stop="20261014150300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Canard et ses amis</title>
-    <desc lang="fr">Dans notre série "Canard et ses amis" toutes les aventures de Ducky sont partagées par ses amis Lola, Henry et Toby. Des pédopsychologues contribuent à la réalisation des histoires de sorte que ces dernières aident les enfants à trouver le moyen de négocier, d'argumenter et de s'adapter lors des jeux en commun, tout en leur démontrant combien la découverte du monde, vécue ensemble avec leurs amis, peut leur procurer de la joie et de la satisfaction. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990597/wide_generic/h640" />
-  </programme>
-  <programme start="20261014150300 +0000" stop="20261014150500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Hop-hop</title>
-    <desc lang="fr">Nous sautons tout autour avec une famille gentille des lapins. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985063/wide_generic/h640" />
-  </programme>
-  <programme start="20261014150500 +0000" stop="20261014150800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mimo et Bobo</title>
-    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
-  </programme>
-  <programme start="20261014150800 +0000" stop="20261014151100 +0000" channel="DuckTV.fr">
-    <title lang="fr">DuckSchool, école en jeux</title>
-    <desc lang="fr">Dans une école maternelle dans la forêt, les animaux, les petits habitant de la forêt, apprennent les bases de la langue anglaise de leur institutrice, la fée Soleil. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990593/wide_generic/h640" />
-  </programme>
-  <programme start="20261014151100 +0000" stop="20261014151300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Où suis-je, je suis là, je te vois !</title>
-    <desc lang="fr">Où suis-je, je suis là, je te vois ! montre les aventures de deux amis imaginaires Kukuk-Rose et Kukuk-Bleu qui jouent à cache-cache. Leur vie est pleine de jeux et de sourire. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985065/wide_generic/h640" />
-  </programme>
-  <programme start="20261014151300 +0000" stop="20261014151500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mimo et Bobo</title>
-    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
-  </programme>
-  <programme start="20261014151500 +0000" stop="20261014151800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Raul</title>
-    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
-  </programme>
-  <programme start="20261014151800 +0000" stop="20261014152200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mimo et Bobo PLUS</title>
-    <desc lang="fr">Les caractères iconiques de ducktv tant aimés, Mimo et Bobo ont grandi et vivent la vie joyeuse et insouciante de l'âge préscolaire. Profitez de leurs aventures tout en permettant à vos enfants de développer leurs compétences sociales pendant qu'ils s'amusent à leur guise! </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2020</date>
-    <icon src="https://img2.oqee.net/pictures/4261695/wide_generic/h640" />
-  </programme>
-  <programme start="20261014152200 +0000" stop="20261014152400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Entraînons-nous !</title>
-    <desc lang="fr">Nous ne devrions être uniquement assis devant la télé. Allez debout et l'on se met au mouvement. Langi, Rundi et Rendi s'entraînent en imitant les mouvement de la nature. Entrainons-nous avec eux pour améliorer nos conditions physiques, rendons notre santé plus forte.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983238/wide_generic/h640" />
-  </programme>
-  <programme start="20261014152400 +0000" stop="20261014152700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Raul</title>
-    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
-  </programme>
-  <programme start="20261014152700 +0000" stop="20261014152900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Afrique</title>
-    <desc lang="fr">Nous allons nous présenter les animaux venant de l'Afrique et nous allons jouer avec eux. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990585/wide_generic/h640" />
-  </programme>
-  <programme start="20261014152900 +0000" stop="20261014153100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Canard et ses amis</title>
-    <desc lang="fr">Dans notre série "Canard et ses amis" toutes les aventures de Ducky sont partagées par ses amis Lola, Henry et Toby. Des pédopsychologues contribuent à la réalisation des histoires de sorte que ces dernières aident les enfants à trouver le moyen de négocier, d'argumenter et de s'adapter lors des jeux en commun, tout en leur démontrant combien la découverte du monde, vécue ensemble avec leurs amis, peut leur procurer de la joie et de la satisfaction. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990597/wide_generic/h640" />
-  </programme>
-  <programme start="20261014153100 +0000" stop="20261014153300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Afrique</title>
-    <desc lang="fr">Nous allons nous présenter les animaux venant de l'Afrique et nous allons jouer avec eux. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990585/wide_generic/h640" />
-  </programme>
-  <programme start="20261014153300 +0000" stop="20261014153600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mimo et Bobo</title>
-    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
-  </programme>
-  <programme start="20261014153600 +0000" stop="20261014153800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Raul</title>
-    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
-  </programme>
-  <programme start="20261014153800 +0000" stop="20261014154100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Où suis-je, je suis là, je te vois !</title>
-    <desc lang="fr">Où suis-je, je suis là, je te vois ! montre les aventures de deux amis imaginaires Kukuk-Rose et Kukuk-Bleu qui jouent à cache-cache. Leur vie est pleine de jeux et de sourire. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985065/wide_generic/h640" />
-  </programme>
-  <programme start="20261014154100 +0000" stop="20261014154300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lola et les nombres</title>
-    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
-  </programme>
-  <programme start="20261014154300 +0000" stop="20261014154600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Dotty et Kitty</title>
-    <desc lang="fr">Le crayon Dotty pointille le dessin, le petit chat Kitty les relie.</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img2.oqee.net/pictures/4252201/wide_generic/h640" />
-  </programme>
-  <programme start="20261014154600 +0000" stop="20261014154800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Modelage</title>
-    <desc lang="fr">Les figures sympathiques souriantes, se présente par l'intermédiaire de la création des figures les plus variées. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img2.oqee.net/pictures/4244905/wide_generic/h640" />
-  </programme>
-  <programme start="20261014154800 +0000" stop="20261014155100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Finn et Fianna</title>
-    <desc lang="fr">Nos deux petits elfes Finn et Fianna découvrent leur environnement avec curiosité. Ils obtiennent de nouvelles connaissances en jouant et en percevant. Découvrons et connaissons d'essentielles propriétés des éléments et ses opposés dans notre milieu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4995434/wide_generic/h640" />
-  </programme>
-  <programme start="20261014155100 +0000" stop="20261014155200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Les Lutins-nature</title>
-    <desc lang="fr">Les Lutins-nature expliquent le changement des saisons mais aussi comment les animaux et les plantes profitent de la météo et de la nature tout au long de l'année. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985070/wide_generic/h640" />
-  </programme>
-  <programme start="20261014155200 +0000" stop="20261014155400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Histoires à Henry</title>
-    <desc lang="fr">Henry loves telling stories, but he needs your help to make sure it's all in the correct order. Follow Henry in these silent animated shorts as he constructs stories with the help of his handy picture cards. Teach your children about logical thinking and deductive reasoning as you narrate the sequences together and solve his picture puzzles to see the story come to life.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990600/wide_generic/h640" />
-  </programme>
-  <programme start="20261014155400 +0000" stop="20261014155600 +0000" channel="DuckTV.fr">
-    <title lang="fr">DuckSchool, école en jeux</title>
-    <desc lang="fr">Dans une école maternelle dans la forêt, les animaux, les petits habitant de la forêt, apprennent les bases de la langue anglaise de leur institutrice, la fée Soleil. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990593/wide_generic/h640" />
-  </programme>
-  <programme start="20261014155600 +0000" stop="20261014160000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Prée gaie</title>
-    <desc lang="fr">Venez voir avec nous nos petits amis. Deux lapins gais Sari et Nati vivent beaucoup de distraction. Et avec eux, il y aura deux beaux merles de la joyeuse prée qui vont se présenter. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990615/wide_generic/h640" />
   </programme>
   <programme start="20261014160000 +0000" stop="20261014160300 +0000" channel="DuckTV.fr">
     <title lang="fr">Finn et Fianna</title>
@@ -129881,6 +129701,175 @@
     <category lang="fr">Emission jeunesse</category>
     <icon src="https://img2.oqee.net/pictures/4985065/wide_generic/h640" />
   </programme>
+  <programme start="20261021150100 +0000" stop="20261021150400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Margo et Felix</title>
+    <desc lang="fr">Découvrez la vie quotidienne de deux marionnettes animales adorables. Deux amis ont une belle maison avec un petit jardin autour de laquelle ils travaillent comme le font les parents et jouent comme le font nos petits téléspectateurs. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985074/wide_generic/h640" />
+  </programme>
+  <programme start="20261021150400 +0000" stop="20261021150700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Raul</title>
+    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
+  </programme>
+  <programme start="20261021150700 +0000" stop="20261021151000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde à Mimo</title>
+    <desc lang="fr">Mimo, panda préférée, et son meilleur ami, Bobo, rencontrent les amis de la série Bébé Didi. Il se lancent dans de nouvelles aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985078/wide_generic/h640" />
+  </programme>
+  <programme start="20261021151000 +0000" stop="20261021151300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Zack et Ziggy</title>
+    <desc lang="fr">Le compte Zack and Ziggy vous apprend le concept de base de la grandeur via les aventures d'un garçon , bûcheur, Zack et son ami fidèle, Ziggyle chien. Ils comparent, trient et font les groupes en fonction de la grandeur. </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2016</date>
+    <icon src="https://img2.oqee.net/pictures/4244913/wide_generic/h640" />
+  </programme>
+  <programme start="20261021151300 +0000" stop="20261021151600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Je veux savoir, moi aussi!</title>
+    <desc lang="fr">Deux amis, Kiteko la girafe folle et Umi la sarigue joueuse découvrent la vie quotidienne des tout petits enfants. Ils peuvent apprendre beaucoup de leur part: les activités quotidiennes, les excursions d'aventure et la création de la distraction en jouant. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985071/wide_generic/h640" />
+  </programme>
+  <programme start="20261021151600 +0000" stop="20261021151800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Afrique</title>
+    <desc lang="fr">Nous allons nous présenter les animaux venant de l'Afrique et nous allons jouer avec eux. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990585/wide_generic/h640" />
+  </programme>
+  <programme start="20261021151800 +0000" stop="20261021152000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261021152000 +0000" stop="20261021152200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Mimo et Bobo</title>
+    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
+  </programme>
+  <programme start="20261021152200 +0000" stop="20261021152500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Raul</title>
+    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
+  </programme>
+  <programme start="20261021152500 +0000" stop="20261021152800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261021152800 +0000" stop="20261021153100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Mimo et Bobo</title>
+    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
+  </programme>
+  <programme start="20261021153100 +0000" stop="20261021153300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Afrique</title>
+    <desc lang="fr">Nous allons nous présenter les animaux venant de l'Afrique et nous allons jouer avec eux. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990585/wide_generic/h640" />
+  </programme>
+  <programme start="20261021153300 +0000" stop="20261021153500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261021153500 +0000" stop="20261021153700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Afrique</title>
+    <desc lang="fr">Nous allons nous présenter les animaux venant de l'Afrique et nous allons jouer avec eux. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990585/wide_generic/h640" />
+  </programme>
+  <programme start="20261021153700 +0000" stop="20261021154000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Raul</title>
+    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
+  </programme>
+  <programme start="20261021154000 +0000" stop="20261021154200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261021154200 +0000" stop="20261021154500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Modelage</title>
+    <desc lang="fr">Les figures sympathiques souriantes, se présente par l'intermédiaire de la création des figures les plus variées. </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <icon src="https://img2.oqee.net/pictures/4244905/wide_generic/h640" />
+  </programme>
+  <programme start="20261021154500 +0000" stop="20261021154700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Mini mélodies</title>
+    <desc lang="fr">Venons reconnaître les plus belles chansons anglaises pour les enfants avec nos personnages préférés. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990604/wide_generic/h640" />
+  </programme>
+  <programme start="20261021154700 +0000" stop="20261021155000 +0000" channel="DuckTV.fr">
+    <title lang="fr">ABC : duckBC</title>
+    <desc lang="fr">Savez-vous qui habite le bureau ? Stylo, Crayon, Cachet, Gomme et Pinceau qui rivalisent en écriture des petites lettres. Pendant que nos nouveaux amis nous montrent les divers styles d'écriture, nous reconnaissons les lettres de l'alphabet latin. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990610/wide_generic/h640" />
+  </programme>
+  <programme start="20261021155000 +0000" stop="20261021155300 +0000" channel="DuckTV.fr">
+    <title lang="fr">DuckSchool, école en jeux</title>
+    <desc lang="fr">Dans une école maternelle dans la forêt, les animaux, les petits habitant de la forêt, apprennent les bases de la langue anglaise de leur institutrice, la fée Soleil. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990593/wide_generic/h640" />
+  </programme>
+  <programme start="20261021155300 +0000" stop="20261021155500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261021155500 +0000" stop="20261021155600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Pixie 2</title>
+    <desc lang="fr">Le petit génie - le magicien vous apprend quelques mots court en anglais. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990595/wide_generic/h640" />
+  </programme>
+  <programme start="20261021155600 +0000" stop="20261021155800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261021155800 +0000" stop="20261021160100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Prée gaie</title>
+    <desc lang="fr">Venez voir avec nous nos petits amis. Deux lapins gais Sari et Nati vivent beaucoup de distraction. Et avec eux, il y aura deux beaux merles de la joyeuse prée qui vont se présenter. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990615/wide_generic/h640" />
+  </programme>
   <programme start="20261014060000 +0100" stop="20261014060200 +0100" channel="Watania1.tn">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
@@ -129986,25 +129975,15 @@
     <desc lang="ar">برنامج "اصل الحكاية " وراء كل شخصية استثنائية حكاية، ووراء كل حدث كبير تفاصيل لا نعرفها. في "أصل الحكاية "نذهب إلى ما وراء العناوين لنروي القصة من داخلها. احيانا يكون ضيفنا هو بطل الحكاية، صاحب تجربة ومسيرة تستحق أن تروى . وأحيانا تكون الحكاية حدثا وطنيا أو دوليا صنع لحظة فارقة، فنستضيف من شارك فيه، أو كان شاهدا عليه، أو خبيرا يساعدنا على فهم ما جرى وما وراءه. أصل الحكاية لأن لكل حكاية اصلا، وأفضل من يرويها من عاشها. اعداد وتقديم هدى الزغدودي اخراج نبيل بالسيدة.</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-Tla0ER4s.jpg" />
   </programme>
-  <programme start="20261014220000 +0100" stop="20261014221500 +0100" channel="Watania1.tn">
+  <programme start="20261014220000 +0100" stop="20261014232000 +0100" channel="Watania1.tn">
     <title lang="ar">أوبيرات "نحبك يا شعب"</title>
     <desc lang="ar">أوبيرات "نحبك يا شعب"</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-8nNJmT61.jpg" />
   </programme>
-  <programme start="20261014221500 +0100" stop="20261014230500 +0100" channel="Watania1.tn">
+  <programme start="20261014232000 +0100" stop="20261015000000 +0100" channel="Watania1.tn">
     <title lang="ar">المايسترو</title>
     <desc lang="ar">المايسترو</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-6irz4iH1.jpg" />
-  </programme>
-  <programme start="20261014230500 +0100" stop="20261014231000 +0100" channel="Watania1.tn">
-    <title lang="ar">النشيد التونسي: لطفي بوشناق+ أمينة فاخت+صابر الرباعي</title>
-    <desc lang="ar">شريط وثائقي: عيد الشهداء أنبل من في الدنيا وأكرم بني البشر</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-2TdCaXWS.jpg" />
-  </programme>
-  <programme start="20261014231000 +0100" stop="20261015000000 +0100" channel="Watania1.tn">
-    <title lang="ar">مسلسل خمسة ونص</title>
-    <desc lang="ar">تتناول أحداث المسلسل قصة حب غير مألوفة بين حبيبين غمار الغانم (قصي خولي) والدكتورة بيان نجم الدين (نادين نسيب نجيم)، تحاول فيها المرأة ترويض حبيب يشتهي مجد المال ويعاني من الحقد وصراعات على السلطة، وقدرتها على لعب دور نافذ في حياته.</desc>
-    <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-n3pxqLnT.jpg" />
   </programme>
   <programme start="20261014000000 +0100" stop="20261014001500 +0100" channel="Watania1.tn">
     <title lang="ar">نشرة منتصف الليل للأخبار</title>
@@ -130166,38 +130145,6 @@
     <desc lang="ar">سهرة من الأرشيف</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-6eqn298n.jpg" />
   </programme>
-  <programme channel="ADN.fr" start="20261014141500 +0000" stop="20261014144500 +0000">
-    <title>Monster</title>
-    <desc>Martin écoute ce que dit le jeune homme mystérieux qui se trouvait avec l'homme à lunettes et déc…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_491524634_6_20240506T140935372Z_72.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261014144500 +0000" stop="20261014151500 +0000">
-    <title>Monster</title>
-    <desc>Nina arrive à Prague avec Dieter. A la recherche de ses souvenirs, elle se rend dans la chambre s…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_491523504_4_20240506T140935386Z_32.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261014151500 +0000" stop="20261014154500 +0000">
-    <title>Monster</title>
-    <desc>Juste avant de mourir, le garde du corps d'Eva, Martin, apprend à Tenma qu'un homme appelé Peter …</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_491525678_0_20240506T140935287Z_44.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261014154500 +0000" stop="20261014160000 +0000">
-    <title>Monster</title>
-    <desc>Weissbach, un inspecteur de police proche de la retraite, effectue sa dernière mission : le trans…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_494618442_11_20240606T162348527Z_55.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="ADN.fr" start="20261014160000 +0000" stop="20261014163000 +0000">
     <title>Monster</title>
     <desc>Le Bébé, parrain de l'extrême droite de Francfort, est inquiet. Il se demande si son nouveau patr…</desc>
@@ -130282,6 +130229,38 @@
     <title>GTO</title>
     <desc>Suite à la dernière opération manquée de Miyabi pour faire renvoyer Onizuka, Tomoko Nomura se fai…</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_504855494_0_20240912T092606517Z_96_imageprocessorclient-tvplus-linear-7cd5d896cc-lfx5z.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261014204500 +0000" stop="20261014210000 +0000">
+    <title>GTO</title>
+    <desc>Le concours de beauté a enfin débuté et Tomoko a une adversaire de taille : Miyabi, dont la prest…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_504855495_0_20240912T092607516Z_109_imageprocessorclient-tvplus-linear-7cd5d896cc-lfx5z.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261014210000 +0000" stop="20261014213000 +0000">
+    <title>GTO</title>
+    <desc>Mademoiselle Fuyutsuki est épiée dans ses moindres faits et gestes dans l'ombre par Teshigawara, …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_504855496_0_20240912T092602917Z_76_imageprocessorclient-tvplus-linear-7cd5d896cc-lfx5z.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261014213000 +0000" stop="20261014220000 +0000">
+    <title>GTO</title>
+    <desc>Teshigawara donne des cours particuliers à la fille de madame Ota, qui est la présidente de la so…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_504888032_0_20240912T162258649Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-zljw4.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261014220000 +0000" stop="20261014223000 +0000">
+    <title>Hajime no Ippo : The Fighting!</title>
+    <desc>Après son combat contre Hayami, Ippo a pour ordre de se reposer, mais il ne tient pas en place et…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_499702835_0_20240725T002448316Z_91.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -133046,6 +133025,1497 @@
     <category lang="fr">Documentaire</category>
     <icon src="https://images.voomotion.be/Events/2025/12/31/45/2651308_A.jpg" />
   </programme>
+  <programme start="20261012234000 +0000" stop="20261013002500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge Asia 2026</title>
+    <sub-title lang="en">Mandalika International Circuit, Indonesia</sub-title>
+    <desc lang="en">The GT World Challenge Asia is back for another season with five scheduled events for the season. Unlike its European and North American counterparts, GT World Challenge Asia also features GT4 entries.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BD70065C060D85044182243925ABC295.jpg</image>
+  </programme>
+  <programme start="20261013002500 +0000" stop="20261013005000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Monster Jam Championship 2025</title>
+    <sub-title lang="en">Anaheim, California</sub-title>
+    <desc lang="en">Monster Jam is an American monster truck series where drivers have to perform stunts and race against each other</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_8FFA11215594079D9A7B65625799AA37.jpg</image>
+  </programme>
+  <programme start="20261013005000 +0000" stop="20261013013500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Australian Drag Racing Championship</title>
+    <sub-title lang="en">Nitro Funny Cars Round 5, Sydney</sub-title>
+    <desc lang="en">The "Australian Drag Racing Championship" is a regional motorsport series for top fuel dragsters that exceed speeds of roughly 300 mp/h in under 5 seconds</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.16.0/1</episode-num>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_30E2721D91358D7272640448777F31A5.jpg</image>
+  </programme>
+  <programme start="20261013013500 +0000" stop="20261013020000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Icelandic Formula Offroad</title>
+    <sub-title lang="en">Icelandic Formula Offroad 2025</sub-title>
+    <desc lang="en">The Icelandic Formula Off-Road is one of the most extreme racing series in the world and demands everything from the teams and their specially built vehicles. Nearly vertical cliffs have to be climbed, demanding time challenges have to be solved or spectacular aquaplaning stunts have to be performed.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_6709CE0740A3EE58E56CF3FF3A3A3DA9.jpg</image>
+  </programme>
+  <programme start="20261013020000 +0000" stop="20261013022500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Icelandic Formula Offroad</title>
+    <sub-title lang="en">Akureyri, Part 1</sub-title>
+    <desc lang="en">The Icelandic Formula Off-Road is one of the most extreme racing series in the world and demands everything from the teams and their specially built vehicles. Nearly vertical cliffs have to be climbed, demanding time challenges have to be solved or spectacular aquaplaning stunts have to be performed.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_6709CE0740A3EE58E56CF3FF3A3A3DA9.jpg</image>
+  </programme>
+  <programme start="20261013022500 +0000" stop="20261013025000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">EMX Quad European Championship 2025</title>
+    <sub-title lang="en">Vesoul, France</sub-title>
+    <desc lang="en">The 2025 European Motocross Championship is the 37th European Motocross Championship season since it was revived in 1988. It includes 16 events and 6 different classes. It will start in Spain on 16 March and will end in Turkey on 7 September. All rounds will act as support classes at the European rounds of the 2025 MXGP.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_B8B9E4E964D47F067272EC8074AC9EAA.jpg</image>
+  </programme>
+  <programme start="20261013025000 +0000" stop="20261013031500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM Sidecarcross World Championship</title>
+    <sub-title lang="en">FIM Quadcross World Championship 2026</sub-title>
+    <desc lang="en">The FIM QuadCross World Championship (formerly EMX Quad European Championship) is the premier international competition for quad bike motocross.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_DBF5F9BA9152815A942F3FECF644A7A4.jpg</image>
+  </programme>
+  <programme start="20261013031500 +0000" stop="20261013040000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">All Wheel Drive Safari Challenge</title>
+    <sub-title lang="en">Round 5, Minehead</sub-title>
+    <desc lang="en">The "AWDC" is a british offorad event where drivers have to tackle tight and twisty roads filled with mud und gravel</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_CE3794EE21C5E9A763A787B4DB06F2FB.jpg</image>
+  </programme>
+  <programme start="20261013040000 +0000" stop="20261013043000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">Compact Little Racing Tools</sub-title>
+    <desc lang="en">Cruising on the motorways is so boring. Then off-road you go! 4x4 shows how sporty and elegant SUVs really are, and which vehicles can make your day on exciting off-road tracks.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.71.0/1</episode-num>
+    <episode-num system="onscreen">S01E72</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261013043000 +0000" stop="20261013045000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Tuning</title>
+    <sub-title lang="en">SKN Dyno Day</sub-title>
+    <desc lang="en">The tuning forge SKN from Benstorf is organising a Dyno Day for the second time. Also: Lorinser refines the Mercedes E 500 Coupé. And: an invitation to Raeder Motorsport.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.97.0/1</episode-num>
+    <episode-num system="onscreen">S01E98</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C11D82D15DE7CA64DE784B83168E39A3.jpg</image>
+  </programme>
+  <programme start="20261013045000 +0000" stop="20261013052000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">The Canon</sub-title>
+    <desc lang="en">The Stunt Heroes have a new car-canon in their arsenal. The canon accelerates a car in one second from zero to 70 km/h. The Stunt Heroes had something like that before. But the new canon doesn`t produce any smoke. That is a very important feature for the filmmakers - now they don`t have to digitally remove the smoke out of the stunt. In this episode the guys test the canon after shooting a wild car chase between three cops and a gangster on the autobahn.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.26.0/1</episode-num>
+    <episode-num system="onscreen">S01E27</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261013052000 +0000" stop="20261013054500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FastZone</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_7A9D567BE9F783CC152A4077938165BA.jpg</image>
+  </programme>
+  <programme start="20261013054500 +0000" stop="20261013063000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge Asia 2025</title>
+    <sub-title lang="en">Fuji Inernational Speedway, Japan</sub-title>
+    <desc lang="en">The GT World Challenge Asia is back for another season with five scheduled events for the season. Unlike its European and North American counterparts, GT World Challenge Asia also features GT4 entries.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_E5BD58F69BACE52B63BAE4D0B36D0EF6.jpg</image>
+  </programme>
+  <programme start="20261013063000 +0000" stop="20261013065500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Belgian Rally Championship</title>
+    <sub-title lang="en">Belgian Rally Championship 2026</sub-title>
+    <desc lang="en">The "BRC" is a belgian rally championship where drivers of modern rally cars compete against each other on gravel and tarmac</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_3822E8F1E17F089724E6F804E3EC72E0.jpg</image>
+  </programme>
+  <programme start="20261013065500 +0000" stop="20261013075000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">NZ Rally Championship 2025</title>
+    <sub-title lang="en">Round 2, South Canterbury</sub-title>
+    <desc lang="en">Coverage of the NZ Rally Championship 2025.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_41C51ACC911B29DAB4DF46D1C8342810.jpg</image>
+  </programme>
+  <programme start="20261013075000 +0000" stop="20261013081500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Belgian Rally Championship</title>
+    <sub-title lang="en">Scottish Rally Championship 2026</sub-title>
+    <desc lang="en">The 2026 Championship will be held over seven events, with five gravel rounds and two tarmac rounds, offering something for everyone.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_3822E8F1E17F089724E6F804E3EC72E0.jpg</image>
+  </programme>
+  <programme start="20261013081500 +0000" stop="20261013084000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Rally</title>
+    <sub-title lang="en">Rallye Isla de los Volcanes</sub-title>
+    <desc lang="en">Rally</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_359D3B255B15BB28BD7E58ED7F946F3F.jpg</image>
+  </programme>
+  <programme start="20261013084000 +0000" stop="20261013090500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Africa Eco Race 2025</title>
+    <sub-title lang="en">Africa Eco Race Documentary</sub-title>
+    <desc lang="en">The Africa Eco Race takes adventurers through Africa's deserts and wilderness, testing endurance and navigation in a grueling rally-raid from Morocco to Dakar. Epic motorsport moments await.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2687C20273ED416EBADA14173A2C3A3A.jpg</image>
+  </programme>
+  <programme start="20261013090500 +0000" stop="20261013100000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">BTRDA Rallycross</title>
+    <sub-title lang="en">Round 8, Knockhill</sub-title>
+    <desc lang="en">BTRDA is an UK-based rallycross championship where drivers compete against each other in sprint races</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_768A2A552C3F0A270C694FC93EED213F.jpg</image>
+  </programme>
+  <programme start="20261013100000 +0000" stop="20261013102500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Porsche Carrera Cup</title>
+    <sub-title lang="en">Circuit Park Zandvoort, Zandvoort, Netherlands</sub-title>
+    <desc lang="en">Watch the Porsche Carrera Cup.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_657EBDDE71D3320C4A4FD9C49474C129.jpg</image>
+  </programme>
+  <programme start="20261013102500 +0000" stop="20261013111000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge America 2026</title>
+    <sub-title lang="en">Barber Motorsports Park</sub-title>
+    <desc lang="en">GT World Challenge America is the premier North American GT series. Taking place on the best US circuits form Sonoma to Indianapolis, each of the seven race weekends features 90-min double-header races.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2C3234F53E164EC492D56C663A6B28AB.jpg</image>
+  </programme>
+  <programme start="20261013111000 +0000" stop="20261013113500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Michelin Le Mans Cup 2026</title>
+    <sub-title lang="en">Circuit de Spa-Francorchamps, Belgium</sub-title>
+    <desc lang="en">The "Le Mans Cup" is an european multiclass championship for LMP3 &amp; GT-cars and also known as the second devision to the ELMS</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_39DC2331FF05156B9CB0FD69A8989E01.jpg</image>
+  </programme>
+  <programme start="20261013113500 +0000" stop="20261013123000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">European Le Mans Endurance Series</title>
+    <sub-title lang="en">4 Hours of Le Castellet, Circuit Paul Ricard, France</sub-title>
+    <desc lang="en">The European Le Mans Series is a multiclass endurance championship with several races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C4E6E33EEF0F71C17E79F1C335BD3262.jpg</image>
+  </programme>
+  <programme start="20261013123000 +0000" stop="20261013131500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge America</title>
+    <sub-title lang="en">Road America</sub-title>
+    <desc lang="en">GT World Challenge America is the premier North American GT series. Taking place on the best US circuits form Sonoma to Indianapolis, each of the seven race weekends features 90-min double-header races.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_CD90D4756974CE05DBA3796107F2F139.jpg</image>
+  </programme>
+  <programme start="20261013131500 +0000" stop="20261013140000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fanatec GT World Challenge Europe</title>
+    <sub-title lang="en">Adelaide Street Circuit</sub-title>
+    <desc lang="en">The GT World Series Australia delivers high-octane GT3 racing Down Under. Professional drivers and top Amateurs battle wheel-to-wheel on some of Australias most challenging circuits in this fiercely competitive championship. Expect close racing, stunning machinery and passionate crowds as the worlds finest GT3 cars light up the Australian tracks.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_5812C472AFDAEC9310D8AF2EF41F0DE5.jpg</image>
+  </programme>
+  <programme start="20261013140000 +0000" stop="20261013144500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fanatec GT World Challenge Europe</title>
+    <sub-title lang="en">Nrburgring, Germany</sub-title>
+    <desc lang="en">The GT World Challenge Europe is back for another season. The schedule consists of 10 rounds at high-level circuits, split evenly between the Endurance Cup and Sprint Cup. And once again, the calendar features the Total 24 Hours of Spa as the marquee event.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.13.0/1</episode-num>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_5812C472AFDAEC9310D8AF2EF41F0DE5.jpg</image>
+  </programme>
+  <programme start="20261013144500 +0000" stop="20261013154000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Hungaroring, Hungary</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261013154000 +0000" stop="20261013160000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">US Pro Pulling 2023</title>
+    <sub-title lang="en">Mackville, Wisconsin, 4 Wheel Drive Trucks</sub-title>
+    <desc lang="en">Tractor pulling is a competitive motorsport where modified tractors or trucks pull a heavy sled along a specified distance within a track. The sport is known for its powerful machines and intense competition.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_EB7FEC6008727D247399381961873C56.jpg</image>
+  </programme>
+  <programme start="20261013160000 +0000" stop="20261013163000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">Commercial Vehicles</sub-title>
+    <desc lang="en">The Mercedes Sprinter still is one of the most popular commercial vehicles. For its third generation, the brand chose to have it manufactured in Poland. Before, this iconic van shared its production line with Volkswagen's Crafter.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.87.0/1</episode-num>
+    <episode-num system="onscreen">S01E88</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261013163000 +0000" stop="20261013165000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Tuning</title>
+    <sub-title lang="en">SLS AMG Roadster</sub-title>
+    <desc lang="en">SLS AMG Roadster is featured in this episode.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.103.0/1</episode-num>
+    <episode-num system="onscreen">S01E104</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C11D82D15DE7CA64DE784B83168E39A3.jpg</image>
+  </programme>
+  <programme start="20261013165000 +0000" stop="20261013171500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">The Examination</sub-title>
+    <desc lang="en">At today's case of precision and timing, stuntwoman newcomer Tina has to prove that she can do it. It's a spectacular, action-packed stunt test with guaranteed bruising!</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.103.0/1</episode-num>
+    <episode-num system="onscreen">S01E104</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261013171500 +0000" stop="20261013174500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fastzone 2026</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_31C95C322F699ADA9A8F0DDF18E4771E.jpg</image>
+  </programme>
+  <programme start="20261013174500 +0000" stop="20261013183500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Le Mans, Circuit de la Sarthe, France</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261013183500 +0000" stop="20261013190500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fastzone 2025</title>
+    <sub-title lang="en">Episode 16</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.15.0/1</episode-num>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BCC3394A65D0DA0D852C497B2C91588D.jpg</image>
+  </programme>
+  <programme start="20261013190500 +0000" stop="20261013193000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fastzone 2025</title>
+    <sub-title lang="en">Episode 17</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.16.0/1</episode-num>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BCC3394A65D0DA0D852C497B2C91588D.jpg</image>
+  </programme>
+  <programme start="20261013193000 +0000" stop="20261013200000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Going Pro 2026</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">Going Pro follows the journey of gentlemen drivers and talented young drivers as they take the crucial step from karting or into professional motorsport. With everything on the line, these stars face intense pressure, life-changing decisions and the harsh realities of climbing the racing ladder. An inspiring and revealing look at what it really takes to make it to the top.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_B6388D07B8238DFDCAC742A3E356FC42.jpg</image>
+  </programme>
+  <programme start="20261013200000 +0000" stop="20261013202500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Going Pro 2026</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">Going Pro follows the journey of gentlemen drivers and talented young drivers as they take the crucial step from karting or into professional motorsport. With everything on the line, these stars face intense pressure, life-changing decisions and the harsh realities of climbing the racing ladder. An inspiring and revealing look at what it really takes to make it to the top.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_B6388D07B8238DFDCAC742A3E356FC42.jpg</image>
+  </programme>
+  <programme start="20261013202500 +0000" stop="20261013205000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">2026 Gearing Up</title>
+    <sub-title lang="en">Episode 8</sub-title>
+    <desc lang="en">Start your engines, tighten your seat belts and get ready for the world's most unique motorsport competitions!</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">2025.7.0/1</episode-num>
+    <episode-num system="onscreen">S2026E08</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_30602F63D35C53AFB899E14C41418224.jpg</image>
+  </programme>
+  <programme start="20261013205000 +0000" stop="20261013211500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Go Green!</title>
+    <sub-title lang="en">EVs with Boost</sub-title>
+    <desc lang="en">Electric cars can't be sporty? Oh yes they can – at least with the right boost. The Alpine A290 is meant to carry the brand's racing DNA into the electric era. We're checking whether that works and taking a look at the legendary rally history of the French manufacturer. And the VW ID.4 GTX shows that electric SUVs can be more than just family haulers. We reveal 5 exciting facts.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">2.74.0/1</episode-num>
+    <episode-num system="onscreen">S03E75</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_35C240FF3A0A29C7BAF862312102C7B9.jpg</image>
+  </programme>
+  <programme start="20261013211500 +0000" stop="20261013214000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Perfect Ride</title>
+    <sub-title lang="en">Compact yet bold</sub-title>
+    <desc lang="en">Practical, not too big yet spacious and versatile everyone wants compact cars. Thats why manufacturers offer plenty of choice. Kia has a whole lineup of new models ready to go. We take a look at the new Sportage facelift and other vehicles from the Korean brands numeric lineup. Plus: 5 exciting facts about the VW Tiguan.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">5.104.0/1</episode-num>
+    <episode-num system="onscreen">S06E105</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_D2A3649DD2D473DF804DF0D7612D41F2.jpg</image>
+  </programme>
+  <programme start="20261013214000 +0000" stop="20261013220000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Made In</title>
+    <sub-title lang="en">Audi R8 GT Lightweight Construction Neckarsulm</sub-title>
+    <desc lang="en">Made in… is your exclusive behind-the-scenes look at the production facilities of world-famous manufacturers and car suppliers. By now, Audi has sold more than 16,000 sports cars around the world. In 2010 they upped the stakes even more and introduced the Audi R8 GT. The high performance sports car is limited on 333 units and has been designed to show Audi's expertise in the field of lightweight construction. This car, which is build in Neckarsulm in Germany, is a serious competitor for established supercars of today.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.107.0/1</episode-num>
+    <episode-num system="onscreen">S01E108</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_621C21D3ED35ACA26184464E0E1C1C84.jpg</image>
+  </programme>
+  <programme start="20261013220000 +0000" stop="20261013223000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">Compact Little Racing Tools</sub-title>
+    <desc lang="en">Cruising on the motorways is so boring. Then off-road you go! 4x4 shows how sporty and elegant SUVs really are, and which vehicles can make your day on exciting off-road tracks.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.71.0/1</episode-num>
+    <episode-num system="onscreen">S01E72</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261013223000 +0000" stop="20261013225000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Tuning</title>
+    <sub-title lang="en">SKN Dyno Day</sub-title>
+    <desc lang="en">The tuning forge SKN from Benstorf is organising a Dyno Day for the second time. Also: Lorinser refines the Mercedes E 500 Coupé. And: an invitation to Raeder Motorsport.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.97.0/1</episode-num>
+    <episode-num system="onscreen">S01E98</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C11D82D15DE7CA64DE784B83168E39A3.jpg</image>
+  </programme>
+  <programme start="20261013225000 +0000" stop="20261013232000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">The Canon</sub-title>
+    <desc lang="en">The Stunt Heroes have a new car-canon in their arsenal. The canon accelerates a car in one second from zero to 70 km/h. The Stunt Heroes had something like that before. But the new canon doesn`t produce any smoke. That is a very important feature for the filmmakers - now they don`t have to digitally remove the smoke out of the stunt. In this episode the guys test the canon after shooting a wild car chase between three cops and a gangster on the autobahn.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.26.0/1</episode-num>
+    <episode-num system="onscreen">S01E27</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261013232000 +0000" stop="20261013234500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FastZone</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_7A9D567BE9F783CC152A4077938165BA.jpg</image>
+  </programme>
+  <programme start="20261013234500 +0000" stop="20261014003000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge Asia 2025</title>
+    <sub-title lang="en">Fuji Inernational Speedway, Japan</sub-title>
+    <desc lang="en">The GT World Challenge Asia is back for another season with five scheduled events for the season. Unlike its European and North American counterparts, GT World Challenge Asia also features GT4 entries.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_E5BD58F69BACE52B63BAE4D0B36D0EF6.jpg</image>
+  </programme>
+  <programme start="20261013234500 +0000" stop="20261014003000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge Asia 2025</title>
+    <sub-title lang="en">Fuji Inernational Speedway, Japan</sub-title>
+    <desc lang="en">The GT World Challenge Asia is back for another season with five scheduled events for the season. Unlike its European and North American counterparts, GT World Challenge Asia also features GT4 entries.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_E5BD58F69BACE52B63BAE4D0B36D0EF6.jpg</image>
+  </programme>
+  <programme start="20261014003000 +0000" stop="20261014005500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Belgian Rally Championship</title>
+    <sub-title lang="en">Belgian Rally Championship 2026</sub-title>
+    <desc lang="en">The "BRC" is a belgian rally championship where drivers of modern rally cars compete against each other on gravel and tarmac</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_3822E8F1E17F089724E6F804E3EC72E0.jpg</image>
+  </programme>
+  <programme start="20261014003000 +0000" stop="20261014005500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Belgian Rally Championship</title>
+    <sub-title lang="en">Belgian Rally Championship 2026</sub-title>
+    <desc lang="en">The "BRC" is a belgian rally championship where drivers of modern rally cars compete against each other on gravel and tarmac</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_3822E8F1E17F089724E6F804E3EC72E0.jpg</image>
+  </programme>
+  <programme start="20261014005500 +0000" stop="20261014015000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">NZ Rally Championship 2025</title>
+    <sub-title lang="en">Round 2, South Canterbury</sub-title>
+    <desc lang="en">Coverage of the NZ Rally Championship 2025.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_41C51ACC911B29DAB4DF46D1C8342810.jpg</image>
+  </programme>
+  <programme start="20261014005500 +0000" stop="20261014015000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">NZ Rally Championship 2025</title>
+    <sub-title lang="en">Round 2, South Canterbury</sub-title>
+    <desc lang="en">Coverage of the NZ Rally Championship 2025.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_41C51ACC911B29DAB4DF46D1C8342810.jpg</image>
+  </programme>
+  <programme start="20261014015000 +0000" stop="20261014021500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Belgian Rally Championship</title>
+    <sub-title lang="en">Scottish Rally Championship 2026</sub-title>
+    <desc lang="en">The 2026 Championship will be held over seven events, with five gravel rounds and two tarmac rounds, offering something for everyone.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_3822E8F1E17F089724E6F804E3EC72E0.jpg</image>
+  </programme>
+  <programme start="20261014015000 +0000" stop="20261014021500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Belgian Rally Championship</title>
+    <sub-title lang="en">Scottish Rally Championship 2026</sub-title>
+    <desc lang="en">The 2026 Championship will be held over seven events, with five gravel rounds and two tarmac rounds, offering something for everyone.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_3822E8F1E17F089724E6F804E3EC72E0.jpg</image>
+  </programme>
+  <programme start="20261014021500 +0000" stop="20261014024000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Rally</title>
+    <sub-title lang="en">Rallye Isla de los Volcanes</sub-title>
+    <desc lang="en">Rally</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_359D3B255B15BB28BD7E58ED7F946F3F.jpg</image>
+  </programme>
+  <programme start="20261014021500 +0000" stop="20261014024000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Rally</title>
+    <sub-title lang="en">Rallye Isla de los Volcanes</sub-title>
+    <desc lang="en">Rally</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_359D3B255B15BB28BD7E58ED7F946F3F.jpg</image>
+  </programme>
+  <programme start="20261014024000 +0000" stop="20261014030500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Africa Eco Race 2025</title>
+    <sub-title lang="en">Africa Eco Race Documentary</sub-title>
+    <desc lang="en">The Africa Eco Race takes adventurers through Africa's deserts and wilderness, testing endurance and navigation in a grueling rally-raid from Morocco to Dakar. Epic motorsport moments await.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2687C20273ED416EBADA14173A2C3A3A.jpg</image>
+  </programme>
+  <programme start="20261014024000 +0000" stop="20261014030500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Africa Eco Race 2025</title>
+    <sub-title lang="en">Africa Eco Race Documentary</sub-title>
+    <desc lang="en">The Africa Eco Race takes adventurers through Africa's deserts and wilderness, testing endurance and navigation in a grueling rally-raid from Morocco to Dakar. Epic motorsport moments await.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2687C20273ED416EBADA14173A2C3A3A.jpg</image>
+  </programme>
+  <programme start="20261014030500 +0000" stop="20261014040000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">BTRDA Rallycross</title>
+    <sub-title lang="en">Round 8, Knockhill</sub-title>
+    <desc lang="en">BTRDA is an UK-based rallycross championship where drivers compete against each other in sprint races</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_768A2A552C3F0A270C694FC93EED213F.jpg</image>
+  </programme>
+  <programme start="20261014030500 +0000" stop="20261014040000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">BTRDA Rallycross</title>
+    <sub-title lang="en">Round 8, Knockhill</sub-title>
+    <desc lang="en">BTRDA is an UK-based rallycross championship where drivers compete against each other in sprint races</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_768A2A552C3F0A270C694FC93EED213F.jpg</image>
+  </programme>
+  <programme start="20261014040000 +0000" stop="20261014042500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Porsche Carrera Cup</title>
+    <sub-title lang="en">Circuit Park Zandvoort, Zandvoort, Netherlands</sub-title>
+    <desc lang="en">Watch the Porsche Carrera Cup.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_657EBDDE71D3320C4A4FD9C49474C129.jpg</image>
+  </programme>
+  <programme start="20261014040000 +0000" stop="20261014042500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Porsche Carrera Cup</title>
+    <sub-title lang="en">Circuit Park Zandvoort, Zandvoort, Netherlands</sub-title>
+    <desc lang="en">Watch the Porsche Carrera Cup.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_657EBDDE71D3320C4A4FD9C49474C129.jpg</image>
+  </programme>
+  <programme start="20261014042500 +0000" stop="20261014051000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge America 2026</title>
+    <sub-title lang="en">Barber Motorsports Park</sub-title>
+    <desc lang="en">GT World Challenge America is the premier North American GT series. Taking place on the best US circuits form Sonoma to Indianapolis, each of the seven race weekends features 90-min double-header races.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2C3234F53E164EC492D56C663A6B28AB.jpg</image>
+  </programme>
+  <programme start="20261014042500 +0000" stop="20261014051000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge America 2026</title>
+    <sub-title lang="en">Barber Motorsports Park</sub-title>
+    <desc lang="en">GT World Challenge America is the premier North American GT series. Taking place on the best US circuits form Sonoma to Indianapolis, each of the seven race weekends features 90-min double-header races.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2C3234F53E164EC492D56C663A6B28AB.jpg</image>
+  </programme>
+  <programme start="20261014051000 +0000" stop="20261014053500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Michelin Le Mans Cup 2026</title>
+    <sub-title lang="en">Circuit de Spa-Francorchamps, Belgium</sub-title>
+    <desc lang="en">The "Le Mans Cup" is an european multiclass championship for LMP3 &amp; GT-cars and also known as the second devision to the ELMS</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_39DC2331FF05156B9CB0FD69A8989E01.jpg</image>
+  </programme>
+  <programme start="20261014051000 +0000" stop="20261014053500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Michelin Le Mans Cup 2026</title>
+    <sub-title lang="en">Circuit de Spa-Francorchamps, Belgium</sub-title>
+    <desc lang="en">The "Le Mans Cup" is an european multiclass championship for LMP3 &amp; GT-cars and also known as the second devision to the ELMS</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_39DC2331FF05156B9CB0FD69A8989E01.jpg</image>
+  </programme>
+  <programme start="20261014053500 +0000" stop="20261014062500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">European Le Mans Endurance Series</title>
+    <sub-title lang="en">4 Hours of Le Castellet, Circuit Paul Ricard, France</sub-title>
+    <desc lang="en">The European Le Mans Series is a multiclass endurance championship with several races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C4E6E33EEF0F71C17E79F1C335BD3262.jpg</image>
+  </programme>
+  <programme start="20261014053500 +0000" stop="20261014062500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">European Le Mans Endurance Series</title>
+    <sub-title lang="en">4 Hours of Le Castellet, Circuit Paul Ricard, France</sub-title>
+    <desc lang="en">The European Le Mans Series is a multiclass endurance championship with several races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C4E6E33EEF0F71C17E79F1C335BD3262.jpg</image>
+  </programme>
+  <programme start="20261014062500 +0000" stop="20261014071000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge America</title>
+    <sub-title lang="en">Road America</sub-title>
+    <desc lang="en">GT World Challenge America is the premier North American GT series. Taking place on the best US circuits form Sonoma to Indianapolis, each of the seven race weekends features 90-min double-header races.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_CD90D4756974CE05DBA3796107F2F139.jpg</image>
+  </programme>
+  <programme start="20261014062500 +0000" stop="20261014071000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge America</title>
+    <sub-title lang="en">Road America</sub-title>
+    <desc lang="en">GT World Challenge America is the premier North American GT series. Taking place on the best US circuits form Sonoma to Indianapolis, each of the seven race weekends features 90-min double-header races.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_CD90D4756974CE05DBA3796107F2F139.jpg</image>
+  </programme>
+  <programme start="20261014071000 +0000" stop="20261014080000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fanatec GT World Challenge Europe</title>
+    <sub-title lang="en">Adelaide Street Circuit</sub-title>
+    <desc lang="en">The GT World Series Australia delivers high-octane GT3 racing Down Under. Professional drivers and top Amateurs battle wheel-to-wheel on some of Australias most challenging circuits in this fiercely competitive championship. Expect close racing, stunning machinery and passionate crowds as the worlds finest GT3 cars light up the Australian tracks.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_5812C472AFDAEC9310D8AF2EF41F0DE5.jpg</image>
+  </programme>
+  <programme start="20261014071000 +0000" stop="20261014080000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fanatec GT World Challenge Europe</title>
+    <sub-title lang="en">Adelaide Street Circuit</sub-title>
+    <desc lang="en">The GT World Series Australia delivers high-octane GT3 racing Down Under. Professional drivers and top Amateurs battle wheel-to-wheel on some of Australias most challenging circuits in this fiercely competitive championship. Expect close racing, stunning machinery and passionate crowds as the worlds finest GT3 cars light up the Australian tracks.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_5812C472AFDAEC9310D8AF2EF41F0DE5.jpg</image>
+  </programme>
+  <programme start="20261014080000 +0000" stop="20261014084500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fanatec GT World Challenge Europe</title>
+    <sub-title lang="en">Nrburgring, Germany</sub-title>
+    <desc lang="en">The GT World Challenge Europe is back for another season. The schedule consists of 10 rounds at high-level circuits, split evenly between the Endurance Cup and Sprint Cup. And once again, the calendar features the Total 24 Hours of Spa as the marquee event.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.13.0/1</episode-num>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_5812C472AFDAEC9310D8AF2EF41F0DE5.jpg</image>
+  </programme>
+  <programme start="20261014080000 +0000" stop="20261014084500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fanatec GT World Challenge Europe</title>
+    <sub-title lang="en">Nrburgring, Germany</sub-title>
+    <desc lang="en">The GT World Challenge Europe is back for another season. The schedule consists of 10 rounds at high-level circuits, split evenly between the Endurance Cup and Sprint Cup. And once again, the calendar features the Total 24 Hours of Spa as the marquee event.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.13.0/1</episode-num>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_5812C472AFDAEC9310D8AF2EF41F0DE5.jpg</image>
+  </programme>
+  <programme start="20261014084500 +0000" stop="20261014093500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Hungaroring, Hungary</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261014084500 +0000" stop="20261014093500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Hungaroring, Hungary</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261014093500 +0000" stop="20261014100000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">US Pro Pulling 2023</title>
+    <sub-title lang="en">Mackville, Wisconsin, 4 Wheel Drive Trucks</sub-title>
+    <desc lang="en">Tractor pulling is a competitive motorsport where modified tractors or trucks pull a heavy sled along a specified distance within a track. The sport is known for its powerful machines and intense competition.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_EB7FEC6008727D247399381961873C56.jpg</image>
+  </programme>
+  <programme start="20261014093500 +0000" stop="20261014100000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">US Pro Pulling 2023</title>
+    <sub-title lang="en">Mackville, Wisconsin, 4 Wheel Drive Trucks</sub-title>
+    <desc lang="en">Tractor pulling is a competitive motorsport where modified tractors or trucks pull a heavy sled along a specified distance within a track. The sport is known for its powerful machines and intense competition.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_EB7FEC6008727D247399381961873C56.jpg</image>
+  </programme>
+  <programme start="20261014100000 +0000" stop="20261014102500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">The Secret to the Success of Pickups</sub-title>
+    <desc lang="en">There are several kinds and sizes of pickups: based on passenger cars, light-duty utility vehicles or heavy-duty trucks with towing capacity up to 8.7 tons. Pickups are world-wide very successful. The Ford F-150 ranks second in the best-selling cars of all times. But why is that so? We explore the secret of success of pickups in South Africa and go on a test drive with the new VW Amarok.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.89.0/1</episode-num>
+    <episode-num system="onscreen">S01E90</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261014100000 +0000" stop="20261014102500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">The Secret to the Success of Pickups</sub-title>
+    <desc lang="en">There are several kinds and sizes of pickups: based on passenger cars, light-duty utility vehicles or heavy-duty trucks with towing capacity up to 8.7 tons. Pickups are world-wide very successful. The Ford F-150 ranks second in the best-selling cars of all times. But why is that so? We explore the secret of success of pickups in South Africa and go on a test drive with the new VW Amarok.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.89.0/1</episode-num>
+    <episode-num system="onscreen">S01E90</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261014102500 +0000" stop="20261014105000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">The White Army</sub-title>
+    <desc lang="en">The Stunt Heroes leave their headquarters and travel to a ski resort. They simulate the attack of an army of soldiers all dressed in white. As part of this scene they want to make a car explode and fly through the air.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.111.0/1</episode-num>
+    <episode-num system="onscreen">S01E112</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261014102500 +0000" stop="20261014105000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">The White Army</sub-title>
+    <desc lang="en">The Stunt Heroes leave their headquarters and travel to a ski resort. They simulate the attack of an army of soldiers all dressed in white. As part of this scene they want to make a car explode and fly through the air.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.111.0/1</episode-num>
+    <episode-num system="onscreen">S01E112</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261014105000 +0000" stop="20261014112000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fastzone 2026</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_31C95C322F699ADA9A8F0DDF18E4771E.jpg</image>
+  </programme>
+  <programme start="20261014105000 +0000" stop="20261014112000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fastzone 2026</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_31C95C322F699ADA9A8F0DDF18E4771E.jpg</image>
+  </programme>
+  <programme start="20261014112000 +0000" stop="20261014121000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Red Bull Ring, Austria</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261014112000 +0000" stop="20261014121000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Red Bull Ring, Austria</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261014121000 +0000" stop="20261014130500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Australian Superbike Championship 2024</title>
+    <sub-title lang="en">Junior, Morgan Park, Queensland</sub-title>
+    <desc lang="en">Die ASBK ist eine australische Motorradmeisterschaft mit bis zu sieben Veranstaltungen pro Saison</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_79E41E921BCDF9DE338EDF2A3D17A5D5.jpg</image>
+  </programme>
+  <programme start="20261014121000 +0000" stop="20261014130500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Australian Superbike Championship 2024</title>
+    <sub-title lang="en">Junior, Morgan Park, Queensland</sub-title>
+    <desc lang="en">Die ASBK ist eine australische Motorradmeisterschaft mit bis zu sieben Veranstaltungen pro Saison</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_79E41E921BCDF9DE338EDF2A3D17A5D5.jpg</image>
+  </programme>
+  <programme start="20261014130500 +0000" stop="20261014133000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM Supermoto World and European Championship</title>
+    <sub-title lang="en">FIM Supermoto World and European Championship 2026</sub-title>
+    <desc lang="en">The FIM Supermoto World Championship, also known as S1GP, is the premier international competition for Supermoto racing, first held in 2002. The championship focuses on the S1 class, showcasing high-speed races on mixed dirt and asphalt tracks, with riders performing jumps, slides, and fast cornering maneuvers</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_83D57B1BD06340DD0C652FD40B2AFD87.jpg</image>
+  </programme>
+  <programme start="20261014130500 +0000" stop="20261014133000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM Supermoto World and European Championship</title>
+    <sub-title lang="en">FIM Supermoto World and European Championship 2026</sub-title>
+    <desc lang="en">The FIM Supermoto World Championship, also known as S1GP, is the premier international competition for Supermoto racing, first held in 2002. The championship focuses on the S1 class, showcasing high-speed races on mixed dirt and asphalt tracks, with riders performing jumps, slides, and fast cornering maneuvers</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_83D57B1BD06340DD0C652FD40B2AFD87.jpg</image>
+  </programme>
+  <programme start="20261014133000 +0000" stop="20261014140000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM World Enduro Championship</title>
+    <sub-title lang="en">FIM Enduro World Championship 2025</sub-title>
+    <desc lang="en">The FIM EnduroGP World Championship delivers thrilling off-road action, with top riders battling on challenging courses with natural obstacles. A packed schedule showcases skill and excitement.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_DBF5F9BA9152815A942F3FECF644A7A4.jpg</image>
+  </programme>
+  <programme start="20261014133000 +0000" stop="20261014140000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM World Enduro Championship</title>
+    <sub-title lang="en">FIM Enduro World Championship 2025</sub-title>
+    <desc lang="en">The FIM EnduroGP World Championship delivers thrilling off-road action, with top riders battling on challenging courses with natural obstacles. A packed schedule showcases skill and excitement.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_DBF5F9BA9152815A942F3FECF644A7A4.jpg</image>
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014145000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM X-Trial World Championship 2025</title>
+    <sub-title lang="en">Grand Prix of Spain, Madrid</sub-title>
+    <desc lang="en">The FIM X-Trial World Championship is an international indoor motorcycle trials championship that features some of the best riders in the world competing in highly technical and challenging obstacle courses. In X-Trial events, riders navigate through a series of sections that include obstacles such as rocks, logs, and other challenging terrain, aiming to complete the course with the fewest penalties.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_94D8A496432451A62253537452385E1F.jpg</image>
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014145000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM X-Trial World Championship 2025</title>
+    <sub-title lang="en">Grand Prix of Spain, Madrid</sub-title>
+    <desc lang="en">The FIM X-Trial World Championship is an international indoor motorcycle trials championship that features some of the best riders in the world competing in highly technical and challenging obstacle courses. In X-Trial events, riders navigate through a series of sections that include obstacles such as rocks, logs, and other challenging terrain, aiming to complete the course with the fewest penalties.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_94D8A496432451A62253537452385E1F.jpg</image>
+  </programme>
+  <programme start="20261014145000 +0000" stop="20261014160000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM Sidecarcross World Championship</title>
+    <sub-title lang="en">FIM Sidecarcross World Championship 2026</sub-title>
+    <desc lang="en">The FIM Sidecarcross World Championship is an international motocross racing series featuring sidecar motorcycles. In this championship, a rider and a passenger (the "passenger" often referred to as the "passenger" or "monkey") work together to navigate challenging off-road tracks. The championship typically consists of multiple rounds held at various locations around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_DBF5F9BA9152815A942F3FECF644A7A4.jpg</image>
+  </programme>
+  <programme start="20261014145000 +0000" stop="20261014160000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM Sidecarcross World Championship</title>
+    <sub-title lang="en">FIM Sidecarcross World Championship 2026</sub-title>
+    <desc lang="en">The FIM Sidecarcross World Championship is an international motocross racing series featuring sidecar motorcycles. In this championship, a rider and a passenger (the "passenger" often referred to as the "passenger" or "monkey") work together to navigate challenging off-road tracks. The championship typically consists of multiple rounds held at various locations around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_DBF5F9BA9152815A942F3FECF644A7A4.jpg</image>
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014162500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">Business Class With All-Wheel Drive</sub-title>
+    <desc lang="en">Magazine focusing on automobiles with off-road capability and all-wheel drive.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.79.0/1</episode-num>
+    <episode-num system="onscreen">S01E80</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014162500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">Business Class With All-Wheel Drive</sub-title>
+    <desc lang="en">Magazine focusing on automobiles with off-road capability and all-wheel drive.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.79.0/1</episode-num>
+    <episode-num system="onscreen">S01E80</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261014162500 +0000" stop="20261014165000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Tuning</title>
+    <sub-title lang="en">Remus</sub-title>
+    <desc lang="en">The company Remus which was founded more than 20 years ago near Graz in Austria is featured in this episode.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.82.0/1</episode-num>
+    <episode-num system="onscreen">S01E83</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C11D82D15DE7CA64DE784B83168E39A3.jpg</image>
+  </programme>
+  <programme start="20261014162500 +0000" stop="20261014165000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Tuning</title>
+    <sub-title lang="en">Remus</sub-title>
+    <desc lang="en">The company Remus which was founded more than 20 years ago near Graz in Austria is featured in this episode.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.82.0/1</episode-num>
+    <episode-num system="onscreen">S01E83</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C11D82D15DE7CA64DE784B83168E39A3.jpg</image>
+  </programme>
+  <programme start="20261014165000 +0000" stop="20261014171500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">Car Action Highlights</sub-title>
+    <desc lang="en">Ther are million ways to destroy a car: crashes, flips and jumps.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.214.0/1</episode-num>
+    <episode-num system="onscreen">S01E215</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261014165000 +0000" stop="20261014171500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">Car Action Highlights</sub-title>
+    <desc lang="en">Ther are million ways to destroy a car: crashes, flips and jumps.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.214.0/1</episode-num>
+    <episode-num system="onscreen">S01E215</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261014171500 +0000" stop="20261014174000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FastZone</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">Motorsports magazine.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_7A9D567BE9F783CC152A4077938165BA.jpg</image>
+  </programme>
+  <programme start="20261014171500 +0000" stop="20261014174000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FastZone</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">Motorsports magazine.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_7A9D567BE9F783CC152A4077938165BA.jpg</image>
+  </programme>
+  <programme start="20261014174000 +0000" stop="20261014183500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Autdromo Internacional do Algarve, Portugal</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261014174000 +0000" stop="20261014183500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Autdromo Internacional do Algarve, Portugal</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261014183500 +0000" stop="20261014192000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Australian Circuit Boat Racing 2025</title>
+    <sub-title lang="en">National Drivers Championship, Round 2, Laidley</sub-title>
+    <desc lang="en">Australian Circuit Boat Racing offers high-speed thrills on the water, where precision and speed decide intense races on demanding courses. Spectacular competitions captivate motorsport fans across Australia.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_8BCFAC835073D3BA9018A033AF4C6219.jpg</image>
+  </programme>
+  <programme start="20261014183500 +0000" stop="20261014192000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Australian Circuit Boat Racing 2025</title>
+    <sub-title lang="en">National Drivers Championship, Round 2, Laidley</sub-title>
+    <desc lang="en">Australian Circuit Boat Racing offers high-speed thrills on the water, where precision and speed decide intense races on demanding courses. Spectacular competitions captivate motorsport fans across Australia.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_8BCFAC835073D3BA9018A033AF4C6219.jpg</image>
+  </programme>
+  <programme start="20261014192000 +0000" stop="20261014200000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Australian Circuit Boat Racing</title>
+    <sub-title lang="en">Griffith Cup, Part 1</sub-title>
+    <desc lang="en">Australian Circuit Boat Racing offers high-speed thrills on the water, where precision and speed decide intense races on demanding courses. Spectacular competitions captivate motorsport fans across Australia.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_9EA751328264555C57104512FF7EA4EE.jpg</image>
+  </programme>
+  <programme start="20261014192000 +0000" stop="20261014200000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Australian Circuit Boat Racing</title>
+    <sub-title lang="en">Griffith Cup, Part 1</sub-title>
+    <desc lang="en">Australian Circuit Boat Racing offers high-speed thrills on the water, where precision and speed decide intense races on demanding courses. Spectacular competitions captivate motorsport fans across Australia.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_9EA751328264555C57104512FF7EA4EE.jpg</image>
+  </programme>
+  <programme start="20261014200000 +0000" stop="20261014205500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">New Zealand Jetsprint Championship</title>
+    <sub-title lang="en">NZ Championship 3, Wanganui</sub-title>
+    <desc lang="en">All the action from the New Zealand Jetsprint Championship, the most important sprint boat competition in the country.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_B502564407FE2AB02870C8C927F5B21C.jpg</image>
+  </programme>
+  <programme start="20261014200000 +0000" stop="20261014205500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">New Zealand Jetsprint Championship</title>
+    <sub-title lang="en">NZ Championship 3, Wanganui</sub-title>
+    <desc lang="en">All the action from the New Zealand Jetsprint Championship, the most important sprint boat competition in the country.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_B502564407FE2AB02870C8C927F5B21C.jpg</image>
+  </programme>
+  <programme start="20261014205500 +0000" stop="20261014212000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Powerboat Racing: F1H2O UIM World Championship</title>
+    <sub-title lang="en">GP of Shanghai, China</sub-title>
+    <desc lang="en">The "F1H20 World Powerboat Championship" is the worlds' fastest boat racing championship with speeds up to 250 kp/h</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_A2426B5B177028E428B10045E63B12B5.jpg</image>
+  </programme>
+  <programme start="20261014205500 +0000" stop="20261014212000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Powerboat Racing: F1H2O UIM World Championship</title>
+    <sub-title lang="en">GP of Shanghai, China</sub-title>
+    <desc lang="en">The "F1H20 World Powerboat Championship" is the worlds' fastest boat racing championship with speeds up to 250 kp/h</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_A2426B5B177028E428B10045E63B12B5.jpg</image>
+  </programme>
+  <programme start="20261014212000 +0000" stop="20261014220000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">UIM World Championship Aquabike Racing</title>
+    <sub-title lang="en">GP of Italy, Runabout &amp; Freestyle, Olbia</sub-title>
+    <desc lang="en">Caution, danger of splashing! Since 1992, the Aquabike World Championship has been the most important racing series in the sport of jet skiing and one of the fastest competitions in water sports. On specially designed race courses or on the high seas, the participants engage in thrilling races in the ski and runabout categories and fascinate with all kinds of stunts on their more than 300 hp jet skis.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_827A3A7D5A5041B0E9052DF8A4730A39.jpg</image>
+  </programme>
+  <programme start="20261014212000 +0000" stop="20261014220000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">UIM World Championship Aquabike Racing</title>
+    <sub-title lang="en">GP of Italy, Runabout &amp; Freestyle, Olbia</sub-title>
+    <desc lang="en">Caution, danger of splashing! Since 1992, the Aquabike World Championship has been the most important racing series in the sport of jet skiing and one of the fastest competitions in water sports. On specially designed race courses or on the high seas, the participants engage in thrilling races in the ski and runabout categories and fascinate with all kinds of stunts on their more than 300 hp jet skis.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_827A3A7D5A5041B0E9052DF8A4730A39.jpg</image>
+  </programme>
+  <programme start="20261014220000 +0000" stop="20261014222500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Porsche Carrera Cup</title>
+    <sub-title lang="en">Circuit Park Zandvoort, Zandvoort, Netherlands</sub-title>
+    <desc lang="en">Watch the Porsche Carrera Cup.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_657EBDDE71D3320C4A4FD9C49474C129.jpg</image>
+  </programme>
+  <programme start="20261014220000 +0000" stop="20261014222500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Porsche Carrera Cup</title>
+    <sub-title lang="en">Circuit Park Zandvoort, Zandvoort, Netherlands</sub-title>
+    <desc lang="en">Watch the Porsche Carrera Cup.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_657EBDDE71D3320C4A4FD9C49474C129.jpg</image>
+  </programme>
+  <programme start="20261014222500 +0000" stop="20261014231500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge America 2026</title>
+    <sub-title lang="en">Barber Motorsports Park</sub-title>
+    <desc lang="en">GT World Challenge America is the premier North American GT series. Taking place on the best US circuits form Sonoma to Indianapolis, each of the seven race weekends features 90-min double-header races.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2C3234F53E164EC492D56C663A6B28AB.jpg</image>
+  </programme>
+  <programme start="20261014222500 +0000" stop="20261014231500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge America 2026</title>
+    <sub-title lang="en">Barber Motorsports Park</sub-title>
+    <desc lang="en">GT World Challenge America is the premier North American GT series. Taking place on the best US circuits form Sonoma to Indianapolis, each of the seven race weekends features 90-min double-header races.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2C3234F53E164EC492D56C663A6B28AB.jpg</image>
+  </programme>
+  <programme start="20261014231500 +0000" stop="20261014233500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Michelin Le Mans Cup 2026</title>
+    <sub-title lang="en">Circuit de Spa-Francorchamps, Belgium</sub-title>
+    <desc lang="en">The "Le Mans Cup" is an european multiclass championship for LMP3 &amp; GT-cars and also known as the second devision to the ELMS</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_39DC2331FF05156B9CB0FD69A8989E01.jpg</image>
+  </programme>
+  <programme start="20261014231500 +0000" stop="20261014233500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Michelin Le Mans Cup 2026</title>
+    <sub-title lang="en">Circuit de Spa-Francorchamps, Belgium</sub-title>
+    <desc lang="en">The "Le Mans Cup" is an european multiclass championship for LMP3 &amp; GT-cars and also known as the second devision to the ELMS</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_39DC2331FF05156B9CB0FD69A8989E01.jpg</image>
+  </programme>
+  <programme start="20261014233500 +0000" stop="20261015003000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">European Le Mans Endurance Series</title>
+    <sub-title lang="en">4 Hours of Le Castellet, Circuit Paul Ricard, France</sub-title>
+    <desc lang="en">The European Le Mans Series is a multiclass endurance championship with several races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C4E6E33EEF0F71C17E79F1C335BD3262.jpg</image>
+  </programme>
+  <programme start="20261014233500 +0000" stop="20261015003000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">European Le Mans Endurance Series</title>
+    <sub-title lang="en">4 Hours of Le Castellet, Circuit Paul Ricard, France</sub-title>
+    <desc lang="en">The European Le Mans Series is a multiclass endurance championship with several races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C4E6E33EEF0F71C17E79F1C335BD3262.jpg</image>
+  </programme>
+  <programme start="20261015003000 +0000" stop="20261015011500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge America</title>
+    <sub-title lang="en">Road America</sub-title>
+    <desc lang="en">GT World Challenge America is the premier North American GT series. Taking place on the best US circuits form Sonoma to Indianapolis, each of the seven race weekends features 90-min double-header races.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_CD90D4756974CE05DBA3796107F2F139.jpg</image>
+  </programme>
+  <programme start="20261015011500 +0000" stop="20261015020000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fanatec GT World Challenge Europe</title>
+    <sub-title lang="en">Adelaide Street Circuit</sub-title>
+    <desc lang="en">The GT World Series Australia delivers high-octane GT3 racing Down Under. Professional drivers and top Amateurs battle wheel-to-wheel on some of Australias most challenging circuits in this fiercely competitive championship. Expect close racing, stunning machinery and passionate crowds as the worlds finest GT3 cars light up the Australian tracks.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_5812C472AFDAEC9310D8AF2EF41F0DE5.jpg</image>
+  </programme>
+  <programme start="20261015020000 +0000" stop="20261015024500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fanatec GT World Challenge Europe</title>
+    <sub-title lang="en">Nrburgring, Germany</sub-title>
+    <desc lang="en">The GT World Challenge Europe is back for another season. The schedule consists of 10 rounds at high-level circuits, split evenly between the Endurance Cup and Sprint Cup. And once again, the calendar features the Total 24 Hours of Spa as the marquee event.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.13.0/1</episode-num>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_5812C472AFDAEC9310D8AF2EF41F0DE5.jpg</image>
+  </programme>
+  <programme start="20261015024500 +0000" stop="20261015034000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Hungaroring, Hungary</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261015034000 +0000" stop="20261015040000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">US Pro Pulling 2023</title>
+    <sub-title lang="en">Mackville, Wisconsin, 4 Wheel Drive Trucks</sub-title>
+    <desc lang="en">Tractor pulling is a competitive motorsport where modified tractors or trucks pull a heavy sled along a specified distance within a track. The sport is known for its powerful machines and intense competition.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_EB7FEC6008727D247399381961873C56.jpg</image>
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015042500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">The Secret to the Success of Pickups</sub-title>
+    <desc lang="en">There are several kinds and sizes of pickups: based on passenger cars, light-duty utility vehicles or heavy-duty trucks with towing capacity up to 8.7 tons. Pickups are world-wide very successful. The Ford F-150 ranks second in the best-selling cars of all times. But why is that so? We explore the secret of success of pickups in South Africa and go on a test drive with the new VW Amarok.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.89.0/1</episode-num>
+    <episode-num system="onscreen">S01E90</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261015042500 +0000" stop="20261015045000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">The White Army</sub-title>
+    <desc lang="en">The Stunt Heroes leave their headquarters and travel to a ski resort. They simulate the attack of an army of soldiers all dressed in white. As part of this scene they want to make a car explode and fly through the air.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.111.0/1</episode-num>
+    <episode-num system="onscreen">S01E112</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261015045000 +0000" stop="20261015052000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fastzone 2026</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_31C95C322F699ADA9A8F0DDF18E4771E.jpg</image>
+  </programme>
+  <programme start="20261015052000 +0000" stop="20261015061000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Red Bull Ring, Austria</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261015061000 +0000" stop="20261015070500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Australian Superbike Championship 2024</title>
+    <sub-title lang="en">Junior, Morgan Park, Queensland</sub-title>
+    <desc lang="en">Die ASBK ist eine australische Motorradmeisterschaft mit bis zu sieben Veranstaltungen pro Saison</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_79E41E921BCDF9DE338EDF2A3D17A5D5.jpg</image>
+  </programme>
+  <programme start="20261015070500 +0000" stop="20261015073000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM Supermoto World and European Championship</title>
+    <sub-title lang="en">FIM Supermoto World and European Championship 2026</sub-title>
+    <desc lang="en">The FIM Supermoto World Championship, also known as S1GP, is the premier international competition for Supermoto racing, first held in 2002. The championship focuses on the S1 class, showcasing high-speed races on mixed dirt and asphalt tracks, with riders performing jumps, slides, and fast cornering maneuvers</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_83D57B1BD06340DD0C652FD40B2AFD87.jpg</image>
+  </programme>
+  <programme start="20261015073000 +0000" stop="20261015080000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM World Enduro Championship</title>
+    <sub-title lang="en">FIM Enduro World Championship 2025</sub-title>
+    <desc lang="en">The FIM EnduroGP World Championship delivers thrilling off-road action, with top riders battling on challenging courses with natural obstacles. A packed schedule showcases skill and excitement.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_DBF5F9BA9152815A942F3FECF644A7A4.jpg</image>
+  </programme>
+  <programme start="20261015080000 +0000" stop="20261015085000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM X-Trial World Championship 2025</title>
+    <sub-title lang="en">Grand Prix of Spain, Madrid</sub-title>
+    <desc lang="en">The FIM X-Trial World Championship is an international indoor motorcycle trials championship that features some of the best riders in the world competing in highly technical and challenging obstacle courses. In X-Trial events, riders navigate through a series of sections that include obstacles such as rocks, logs, and other challenging terrain, aiming to complete the course with the fewest penalties.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_94D8A496432451A62253537452385E1F.jpg</image>
+  </programme>
+  <programme start="20261015085000 +0000" stop="20261015100000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FIM Sidecarcross World Championship</title>
+    <sub-title lang="en">FIM Sidecarcross World Championship 2026</sub-title>
+    <desc lang="en">The FIM Sidecarcross World Championship is an international motocross racing series featuring sidecar motorcycles. In this championship, a rider and a passenger (the "passenger" often referred to as the "passenger" or "monkey") work together to navigate challenging off-road tracks. The championship typically consists of multiple rounds held at various locations around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_DBF5F9BA9152815A942F3FECF644A7A4.jpg</image>
+  </programme>
+  <programme start="20261015100000 +0000" stop="20261015102500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">Commercial Vehicles</sub-title>
+    <desc lang="en">The Mercedes Sprinter still is one of the most popular commercial vehicles. For its third generation, the brand chose to have it manufactured in Poland. Before, this iconic van shared its production line with Volkswagen's Crafter.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.87.0/1</episode-num>
+    <episode-num system="onscreen">S01E88</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261015102500 +0000" stop="20261015105000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Tuning</title>
+    <sub-title lang="en">SLS AMG Roadster</sub-title>
+    <desc lang="en">SLS AMG Roadster is featured in this episode.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.103.0/1</episode-num>
+    <episode-num system="onscreen">S01E104</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C11D82D15DE7CA64DE784B83168E39A3.jpg</image>
+  </programme>
+  <programme start="20261015105000 +0000" stop="20261015111500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">The Examination</sub-title>
+    <desc lang="en">At today's case of precision and timing, stuntwoman newcomer Tina has to prove that she can do it. It's a spectacular, action-packed stunt test with guaranteed bruising!</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.103.0/1</episode-num>
+    <episode-num system="onscreen">S01E104</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261015111500 +0000" stop="20261015114500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fastzone 2026</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_31C95C322F699ADA9A8F0DDF18E4771E.jpg</image>
+  </programme>
+  <programme start="20261015114500 +0000" stop="20261015123500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Le Mans, Circuit de la Sarthe, France</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
+  <programme start="20261015123500 +0000" stop="20261015130000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fastzone 2025</title>
+    <sub-title lang="en">Episode 16</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.15.0/1</episode-num>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BCC3394A65D0DA0D852C497B2C91588D.jpg</image>
+  </programme>
+  <programme start="20261015130000 +0000" stop="20261015133000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fastzone 2025</title>
+    <sub-title lang="en">Episode 17</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.16.0/1</episode-num>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BCC3394A65D0DA0D852C497B2C91588D.jpg</image>
+  </programme>
+  <programme start="20261015133000 +0000" stop="20261015140000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Going Pro 2026</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">Going Pro follows the journey of gentlemen drivers and talented young drivers as they take the crucial step from karting or into professional motorsport. With everything on the line, these stars face intense pressure, life-changing decisions and the harsh realities of climbing the racing ladder. An inspiring and revealing look at what it really takes to make it to the top.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_B6388D07B8238DFDCAC742A3E356FC42.jpg</image>
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015142500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Going Pro 2026</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en">Going Pro follows the journey of gentlemen drivers and talented young drivers as they take the crucial step from karting or into professional motorsport. With everything on the line, these stars face intense pressure, life-changing decisions and the harsh realities of climbing the racing ladder. An inspiring and revealing look at what it really takes to make it to the top.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_B6388D07B8238DFDCAC742A3E356FC42.jpg</image>
+  </programme>
+  <programme start="20261015142500 +0000" stop="20261015145000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">2026 Gearing Up</title>
+    <sub-title lang="en">Episode 8</sub-title>
+    <desc lang="en">Start your engines, tighten your seat belts and get ready for the world's most unique motorsport competitions!</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">2025.7.0/1</episode-num>
+    <episode-num system="onscreen">S2026E08</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_30602F63D35C53AFB899E14C41418224.jpg</image>
+  </programme>
+  <programme start="20261015145000 +0000" stop="20261015151500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Go Green!</title>
+    <sub-title lang="en">EVs with Boost</sub-title>
+    <desc lang="en">Electric cars can't be sporty? Oh yes they can – at least with the right boost. The Alpine A290 is meant to carry the brand's racing DNA into the electric era. We're checking whether that works and taking a look at the legendary rally history of the French manufacturer. And the VW ID.4 GTX shows that electric SUVs can be more than just family haulers. We reveal 5 exciting facts.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">2.74.0/1</episode-num>
+    <episode-num system="onscreen">S03E75</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_35C240FF3A0A29C7BAF862312102C7B9.jpg</image>
+  </programme>
+  <programme start="20261015151500 +0000" stop="20261015154000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Perfect Ride</title>
+    <sub-title lang="en">Compact yet bold</sub-title>
+    <desc lang="en">Practical, not too big yet spacious and versatile everyone wants compact cars. Thats why manufacturers offer plenty of choice. Kia has a whole lineup of new models ready to go. We take a look at the new Sportage facelift and other vehicles from the Korean brands numeric lineup. Plus: 5 exciting facts about the VW Tiguan.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">5.104.0/1</episode-num>
+    <episode-num system="onscreen">S06E105</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_D2A3649DD2D473DF804DF0D7612D41F2.jpg</image>
+  </programme>
+  <programme start="20261015154000 +0000" stop="20261015160000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Made In</title>
+    <sub-title lang="en">Audi R8 GT Lightweight Construction Neckarsulm</sub-title>
+    <desc lang="en">Made in… is your exclusive behind-the-scenes look at the production facilities of world-famous manufacturers and car suppliers. By now, Audi has sold more than 16,000 sports cars around the world. In 2010 they upped the stakes even more and introduced the Audi R8 GT. The high performance sports car is limited on 333 units and has been designed to show Audi's expertise in the field of lightweight construction. This car, which is build in Neckarsulm in Germany, is a serious competitor for established supercars of today.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.107.0/1</episode-num>
+    <episode-num system="onscreen">S01E108</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_621C21D3ED35ACA26184464E0E1C1C84.jpg</image>
+  </programme>
+  <programme start="20261015160000 +0000" stop="20261015162500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">Powerful Estate Wagons</sub-title>
+    <desc lang="en">The new Mercedes E-Class T-Model sends its power to all four wheels, which ensures abnormal acceleration and the best dynamic handling in bends. Paired with the output of 333 hp, the AMG becomes a really powerful estate wagon with plenty of space.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.70.0/1</episode-num>
+    <episode-num system="onscreen">S01E71</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261015162500 +0000" stop="20261015165000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Tuning</title>
+    <sub-title lang="en">Desert Pros</sub-title>
+    <desc lang="en">In Ron's Garage antique scrap piles from the desert get turned into rolling pieces of art in accordance with customer specifications. If you want to cross the desert, Mercedes has the perfect vehicle. The G class converted into an ultimate survival dream: the G 63 AMG 6x6 with six driven and independently suspended wheels. The Brabus B63 based on the G 63 AMG looks almost slender in comparison.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.48.0/1</episode-num>
+    <episode-num system="onscreen">S01E49</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_C11D82D15DE7CA64DE784B83168E39A3.jpg</image>
+  </programme>
+  <programme start="20261015165000 +0000" stop="20261015171500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">Man vs. Machine</sub-title>
+    <desc lang="en">The Stunt Heroes team plan to create a clash between man and machine. For a stunt showreel one of Action Concept's stunt people will be facing a new BMW 3 series in an action-packed chase.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.219.0/1</episode-num>
+    <episode-num system="onscreen">S01E220</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261015171500 +0000" stop="20261015174000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">FastZone 2024</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">Motorsports magazine.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_E6F8973D607BD91046EC8AEB56912766.jpg</image>
+  </programme>
+  <programme start="20261015174000 +0000" stop="20261015182500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">GT World Challenge Asia 2026</title>
+    <sub-title lang="en">Sepang International Circuit, Malaysia</sub-title>
+    <desc lang="en">The GT World Challenge Asia is back for another season with five scheduled events for the season. Unlike its European and North American counterparts, GT World Challenge Asia also features GT4 entries.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BD70065C060D85044182243925ABC295.jpg</image>
+  </programme>
+  <programme start="20261015182500 +0000" stop="20261015185500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Classic Ride</title>
+    <sub-title lang="en">Design Models</sub-title>
+    <desc lang="en">Featuring classic icons, designer models and French art deco beauties.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.39.0/1</episode-num>
+    <episode-num system="onscreen">S01E40</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_E93E5825A658D07E6CF0BC632F7E106D.jpg</image>
+  </programme>
+  <programme start="20261015185500 +0000" stop="20261015192000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Belcar Endurance Championship</title>
+    <sub-title lang="en">Belcar Endurance Championship 2026</sub-title>
+    <desc lang="en">The Belcar Endurance Championship is the top-tier national endurance racing championship in Belgium. The series is sanctioned by the Royal Automobile Club of Belgium and run by Circuit Zolder.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2EA1F4AF53415CAD690D603849709A0E.jpg</image>
+  </programme>
+  <programme start="20261015192000 +0000" stop="20261015200000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Classic Races</title>
+    <sub-title lang="en">Porsche Carrera Cup 1990</sub-title>
+    <desc lang="en">1990 was a breathtaking year at the Porsche Carrera Cup.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.218.0/1</episode-num>
+    <episode-num system="onscreen">S01E219</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_51C1C884CA1D0426CE8DC86755AFCE6F.jpg</image>
+  </programme>
+  <programme start="20261015200000 +0000" stop="20261015203000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Car History</title>
+    <sub-title lang="en">40 Years BMW Art Cars</sub-title>
+    <desc lang="en">It's the fastest art collection in the world. Designed by famous artists like Andy Warhol, Roy Liechtenstein, Frank Stella or Jeef Koons, these racing artworks have been used by BMW in Le Mans for years.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.52.0/1</episode-num>
+    <episode-num system="onscreen">S01E53</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_27D48561900E958A9AAFFF422A6CB556.jpg</image>
+  </programme>
+  <programme start="20261015203000 +0000" stop="20261015205000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Car History</title>
+    <sub-title lang="en">Renault</sub-title>
+    <desc lang="en">Vive la difference: The cars of Renault designs are always unusual, the comfort always extraordinary, the ideas often avant-garde. We also show the french Volkswagen, starting with the first models up to the latest Twizy.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.19.0/1</episode-num>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_27D48561900E958A9AAFFF422A6CB556.jpg</image>
+  </programme>
+  <programme start="20261015205000 +0000" stop="20261015213500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Pikes Peak International Hill Climb</title>
+    <desc lang="en">Coverage of the Pikes Peak International Hill Climb.</desc>
+    <category lang="en">Sports</category>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_85BB6F8D375AC5867951B4997A150121.jpg</image>
+  </programme>
+  <programme start="20261015213500 +0000" stop="20261015220000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">The Racing Files</title>
+    <sub-title lang="en">The Legend of the Autodromo Nazionale of Monza</sub-title>
+    <desc lang="en">The Autodromo Nazionale Monza is famed for its speeds. A track known for low-drag set-ups, full throttle racing, and the occasional slipstream battle, Monza is a true drivers' circuit and home to some of the greatest races in motorsports history. Racing Files explores the legend of the Autodromo Nazionale of Monza.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.107.0/1</episode-num>
+    <episode-num system="onscreen">S01E108</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_4DA60C70508F0D2156F6C566EACE3937.jpg</image>
+  </programme>
+  <programme start="20261015220000 +0000" stop="20261015222500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">4x4</title>
+    <sub-title lang="en">The Secret to the Success of Pickups</sub-title>
+    <desc lang="en">There are several kinds and sizes of pickups: based on passenger cars, light-duty utility vehicles or heavy-duty trucks with towing capacity up to 8.7 tons. Pickups are world-wide very successful. The Ford F-150 ranks second in the best-selling cars of all times. But why is that so? We explore the secret of success of pickups in South Africa and go on a test drive with the new VW Amarok.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.89.0/1</episode-num>
+    <episode-num system="onscreen">S01E90</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_2E59A0EFEB7FC5D6D06D5F104D8845AD.jpg</image>
+  </programme>
+  <programme start="20261015222500 +0000" stop="20261015225500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Stunt Heroes</title>
+    <sub-title lang="en">The White Army</sub-title>
+    <desc lang="en">The Stunt Heroes leave their headquarters and travel to a ski resort. They simulate the attack of an army of soldiers all dressed in white. As part of this scene they want to make a car explode and fly through the air.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.111.0/1</episode-num>
+    <episode-num system="onscreen">S01E112</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_58A822047E894B3F6345E151AE38370D.jpg</image>
+  </programme>
+  <programme start="20261015225500 +0000" stop="20261015232000 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Fastzone 2026</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">This show brings you the best mix of national and international powersports from around the world.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_31C95C322F699ADA9A8F0DDF18E4771E.jpg</image>
+  </programme>
+  <programme start="20261015232000 +0000" stop="20261016001500 +0000" channel="MotorvisionPlus.fr">
+    <title lang="en">Ferrari Challenge Europe</title>
+    <sub-title lang="en">Red Bull Ring, Austria</sub-title>
+    <desc lang="en">The "Ferrari Challenge Europe" is an one-make series for Ferraris with seven races across Europe</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
+  </programme>
   <programme start="20261014070000 +0200" stop="20261014080000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">Jeunesse</title>
     <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
@@ -133308,6 +134778,457 @@
     <desc lang="fr">Grand Prix d'Abou Dabi - Programme officiel Formula 1.</desc>
     <category lang="fr">Formule 1</category>
   </programme>
+  <programme start="20261014060000 +0000" stop="20261014061500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261014061500 +0000" stop="20261014070000 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessmet aachiya</title>
+    <desc lang="fr">This Hindi language drama follows the story of two cousins, uneducated, shy and innocent Gopi Kapadia and educated, lively and cunning Rashi Shah as they get married, have children and endure many troubles. Will there be a happy ending?</desc>
+  </programme>
+  <programme start="20261014070000 +0000" stop="20261014071500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash Info</title>
+  </programme>
+  <programme start="20261014071500 +0000" stop="20261014081500 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessmet aachiya</title>
+    <desc lang="fr">This Hindi language drama follows the story of two cousins, uneducated, shy and innocent Gopi Kapadia and educated, lively and cunning Rashi Shah as they get married, have children and endure many troubles. Will there be a happy ending?</desc>
+  </programme>
+  <programme start="20261014081500 +0000" stop="20261014090000 +0000" channel="Nessma.tn">
+    <title lang="fr">Ena weldek ya Baba</title>
+    <desc lang="fr">This Turkish drama follows the story of young shoemaker Maher as he battles to free his father from a death sentence for a murder he did not commit. Posing as a trainee lawyer in order to defend his father, he falls in love with the judge.</desc>
+  </programme>
+  <programme start="20261014090000 +0000" stop="20261014091500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261014091500 +0000" stop="20261014094500 +0000" channel="Nessma.tn">
+    <title lang="fr">Clik</title>
+  </programme>
+  <programme start="20261014094500 +0000" stop="20261014100000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261014100000 +0000" stop="20261014104500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261014104500 +0000" stop="20261014110000 +0000" channel="Nessma.tn">
+    <title lang="fr">Coujinet Elyoum</title>
+  </programme>
+  <programme start="20261014110000 +0000" stop="20261014111500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261014111500 +0000" stop="20261014120000 +0000" channel="Nessma.tn">
+    <title lang="fr">Het Esshih</title>
+    <desc lang="fr">Presented by Wafa Trabelsi, Mondher Thabet and Mondher Bedhiafi, this two-hour-long current affairs magazine program provides an in-depth analysis of local, regional, national, and international news. Expert guests and specialists review and examine the latest events happening near and far and a 'live' right to speak contributes idscussion, opinion, and information on the topics of the day.</desc>
+  </programme>
+  <programme start="20261014120000 +0000" stop="20261014121500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261014121500 +0000" stop="20261014130000 +0000" channel="Nessma.tn">
+    <title lang="fr">Het Esshih</title>
+    <desc lang="fr">Presented by Wafa Trabelsi, Mondher Thabet and Mondher Bedhiafi, this two-hour-long current affairs magazine program provides an in-depth analysis of local, regional, national, and international news. Expert guests and specialists review and examine the latest events happening near and far and a 'live' right to speak contributes idscussion, opinion, and information on the topics of the day.</desc>
+  </programme>
+  <programme start="20261014130000 +0000" stop="20261014131500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261014131500 +0000" stop="20261014140000 +0000" channel="Nessma.tn">
+    <title lang="fr">Wartha W Sleyef</title>
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014141500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261014141500 +0000" stop="20261014150000 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessmet aachiya</title>
+    <desc lang="fr">This Hindi language drama follows the story of two cousins, uneducated, shy and innocent Gopi Kapadia and educated, lively and cunning Rashi Shah as they get married, have children and endure many troubles. Will there be a happy ending?</desc>
+  </programme>
+  <programme start="20261014150000 +0000" stop="20261014151500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261014151500 +0000" stop="20261014153000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261014153000 +0000" stop="20261014160000 +0000" channel="Nessma.tn">
+    <title lang="fr">Future maintenant</title>
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014170000 +0000" channel="Nessma.tn">
+    <title lang="fr">Le Journal (Nessma)</title>
+    <desc lang="fr">Bouclez l'émission "Le journal" et restez informés de l'actualité.</desc>
+  </programme>
+  <programme start="20261014170000 +0000" stop="20261014174500 +0000" channel="Nessma.tn">
+    <title lang="fr">Ness Nessma</title>
+  </programme>
+  <programme start="20261014174500 +0000" stop="20261014180000 +0000" channel="Nessma.tn">
+    <title lang="fr">Journal Sport</title>
+  </programme>
+  <programme start="20261014180000 +0000" stop="20261014181500 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261014181500 +0000" stop="20261014183000 +0000" channel="Nessma.tn">
+    <title lang="fr">Kattouset Errmed</title>
+    <desc lang="fr">This Turkish drama follows the story of Siwar, a young girl who lives with her mother, Nourhen, her father, Ilyes, and her little sister Kalthoum. Although Siwar leads a quiet unassuming life, working as a waitress in a local restaurant, there is a dark decret in her past. Unbeknownst to Siwar, she is actually the daughter of one of Turkey's most successful businessmen. However, when she was born, her grandfather paid his assitant Ilyes to raise her as his own child.</desc>
+  </programme>
+  <programme start="20261014183000 +0000" stop="20261014190000 +0000" channel="Nessma.tn">
+    <title lang="fr">News</title>
+  </programme>
+  <programme start="20261014190000 +0000" stop="20261014194000 +0000" channel="Nessma.tn">
+    <title lang="fr">Wartha W Sleyef</title>
+  </programme>
+  <programme start="20261014194000 +0000" stop="20261014195000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261014195000 +0000" stop="20261014204000 +0000" channel="Nessma.tn">
+    <title lang="fr">El Hob Eli Kweni</title>
+    <desc lang="fr">Set in a seaside suburb of Istanbul, this drama tells the story of Kamel, the son of an aspirational middle-class family, and Imen, a sensitive and empathetic artist. Will the course of true love run smoothly for them?</desc>
+  </programme>
+  <programme start="20261014204000 +0000" stop="20261014214500 +0000" channel="Nessma.tn">
+    <title lang="fr">Ena weldek ya Baba</title>
+    <desc lang="fr">This Turkish drama follows the story of young shoemaker Maher as he battles to free his father from a death sentence for a murder he did not commit. Posing as a trainee lawyer in order to defend his father, he falls in love with the judge.</desc>
+  </programme>
+  <programme start="20261014214500 +0000" stop="20261014220000 +0000" channel="Nessma.tn">
+    <title lang="fr">Coujinet Elyoum</title>
+  </programme>
+  <programme start="20261014220000 +0000" stop="20261014224500 +0000" channel="Nessma.tn">
+    <title lang="fr">Niran Sayfiyah</title>
+  </programme>
+  <programme start="20261014224500 +0000" stop="20261014234500 +0000" channel="Nessma.tn">
+    <title lang="fr">Ward wa Chawk</title>
+    <desc lang="fr">This drama series from Egypt follows the story of a man who is left to raise his three daughters on his own after his wife dies. However, things become easier when he falls in love with another woman and eventually marries her.</desc>
+  </programme>
+  <programme start="20261015060000 +0000" stop="20261015061500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261015061500 +0000" stop="20261015070000 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessmet aachiya</title>
+    <desc lang="fr">This Hindi language drama follows the story of two cousins, uneducated, shy and innocent Gopi Kapadia and educated, lively and cunning Rashi Shah as they get married, have children and endure many troubles. Will there be a happy ending?</desc>
+  </programme>
+  <programme start="20261015070000 +0000" stop="20261015071500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash Info</title>
+  </programme>
+  <programme start="20261015071500 +0000" stop="20261015081500 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessmet aachiya</title>
+    <desc lang="fr">This Hindi language drama follows the story of two cousins, uneducated, shy and innocent Gopi Kapadia and educated, lively and cunning Rashi Shah as they get married, have children and endure many troubles. Will there be a happy ending?</desc>
+  </programme>
+  <programme start="20261015081500 +0000" stop="20261015090000 +0000" channel="Nessma.tn">
+    <title lang="fr">Ena weldek ya Baba</title>
+    <desc lang="fr">This Turkish drama follows the story of young shoemaker Maher as he battles to free his father from a death sentence for a murder he did not commit. Posing as a trainee lawyer in order to defend his father, he falls in love with the judge.</desc>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015091500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261015091500 +0000" stop="20261015094500 +0000" channel="Nessma.tn">
+    <title lang="fr">Clik</title>
+  </programme>
+  <programme start="20261015094500 +0000" stop="20261015100000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261015100000 +0000" stop="20261015104500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261015104500 +0000" stop="20261015110000 +0000" channel="Nessma.tn">
+    <title lang="fr">Coujinet Elyoum</title>
+  </programme>
+  <programme start="20261015110000 +0000" stop="20261015111500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261015111500 +0000" stop="20261015120000 +0000" channel="Nessma.tn">
+    <title lang="fr">Het Esshih</title>
+    <desc lang="fr">Presented by Wafa Trabelsi, Mondher Thabet and Mondher Bedhiafi, this two-hour-long current affairs magazine program provides an in-depth analysis of local, regional, national, and international news. Expert guests and specialists review and examine the latest events happening near and far and a 'live' right to speak contributes idscussion, opinion, and information on the topics of the day.</desc>
+  </programme>
+  <programme start="20261015120000 +0000" stop="20261015121500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261015121500 +0000" stop="20261015130000 +0000" channel="Nessma.tn">
+    <title lang="fr">Het Esshih</title>
+    <desc lang="fr">Presented by Wafa Trabelsi, Mondher Thabet and Mondher Bedhiafi, this two-hour-long current affairs magazine program provides an in-depth analysis of local, regional, national, and international news. Expert guests and specialists review and examine the latest events happening near and far and a 'live' right to speak contributes idscussion, opinion, and information on the topics of the day.</desc>
+  </programme>
+  <programme start="20261015130000 +0000" stop="20261015131500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261015131500 +0000" stop="20261015140000 +0000" channel="Nessma.tn">
+    <title lang="fr">Wartha W Sleyef</title>
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015141500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261015141500 +0000" stop="20261015150000 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessmet aachiya</title>
+    <desc lang="fr">This Hindi language drama follows the story of two cousins, uneducated, shy and innocent Gopi Kapadia and educated, lively and cunning Rashi Shah as they get married, have children and endure many troubles. Will there be a happy ending?</desc>
+  </programme>
+  <programme start="20261015150000 +0000" stop="20261015151500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261015151500 +0000" stop="20261015153000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="Nessma.tn">
+    <title lang="fr">Future maintenant</title>
+  </programme>
+  <programme start="20261015160000 +0000" stop="20261015170000 +0000" channel="Nessma.tn">
+    <title lang="fr">Le Journal (Nessma)</title>
+    <desc lang="fr">Bouclez l'émission "Le journal" et restez informés de l'actualité.</desc>
+  </programme>
+  <programme start="20261015170000 +0000" stop="20261015174500 +0000" channel="Nessma.tn">
+    <title lang="fr">Ness Nessma</title>
+  </programme>
+  <programme start="20261015174500 +0000" stop="20261015180000 +0000" channel="Nessma.tn">
+    <title lang="fr">Journal Sport</title>
+  </programme>
+  <programme start="20261015180000 +0000" stop="20261015181500 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261015181500 +0000" stop="20261015183000 +0000" channel="Nessma.tn">
+    <title lang="fr">Kattouset Errmed</title>
+    <desc lang="fr">This Turkish drama follows the story of Siwar, a young girl who lives with her mother, Nourhen, her father, Ilyes, and her little sister Kalthoum. Although Siwar leads a quiet unassuming life, working as a waitress in a local restaurant, there is a dark decret in her past. Unbeknownst to Siwar, she is actually the daughter of one of Turkey's most successful businessmen. However, when she was born, her grandfather paid his assitant Ilyes to raise her as his own child.</desc>
+  </programme>
+  <programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="Nessma.tn">
+    <title lang="fr">News</title>
+  </programme>
+  <programme start="20261015190000 +0000" stop="20261015194000 +0000" channel="Nessma.tn">
+    <title lang="fr">Wartha W Sleyef</title>
+  </programme>
+  <programme start="20261015194000 +0000" stop="20261015195000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261015195000 +0000" stop="20261015204000 +0000" channel="Nessma.tn">
+    <title lang="fr">El Hob Eli Kweni</title>
+    <desc lang="fr">Set in a seaside suburb of Istanbul, this drama tells the story of Kamel, the son of an aspirational middle-class family, and Imen, a sensitive and empathetic artist. Will the course of true love run smoothly for them?</desc>
+  </programme>
+  <programme start="20261015204000 +0000" stop="20261015214500 +0000" channel="Nessma.tn">
+    <title lang="fr">Ena weldek ya Baba</title>
+    <desc lang="fr">This Turkish drama follows the story of young shoemaker Maher as he battles to free his father from a death sentence for a murder he did not commit. Posing as a trainee lawyer in order to defend his father, he falls in love with the judge.</desc>
+  </programme>
+  <programme start="20261015214500 +0000" stop="20261015220000 +0000" channel="Nessma.tn">
+    <title lang="fr">Coujinet Elyoum</title>
+  </programme>
+  <programme start="20261015220000 +0000" stop="20261015224500 +0000" channel="Nessma.tn">
+    <title lang="fr">Niran Sayfiyah</title>
+  </programme>
+  <programme start="20261015224500 +0000" stop="20261015234500 +0000" channel="Nessma.tn">
+    <title lang="fr">Ward wa Chawk</title>
+    <desc lang="fr">This drama series from Egypt follows the story of a man who is left to raise his three daughters on his own after his wife dies. However, things become easier when he falls in love with another woman and eventually marries her.</desc>
+  </programme>
+  <programme start="20261016060000 +0000" stop="20261016061500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261016061500 +0000" stop="20261016070000 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessmet aachiya</title>
+    <desc lang="fr">This Hindi language drama follows the story of two cousins, uneducated, shy and innocent Gopi Kapadia and educated, lively and cunning Rashi Shah as they get married, have children and endure many troubles. Will there be a happy ending?</desc>
+  </programme>
+  <programme start="20261016070000 +0000" stop="20261016071500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash Info</title>
+  </programme>
+  <programme start="20261016071500 +0000" stop="20261016081500 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessmet aachiya</title>
+    <desc lang="fr">This Hindi language drama follows the story of two cousins, uneducated, shy and innocent Gopi Kapadia and educated, lively and cunning Rashi Shah as they get married, have children and endure many troubles. Will there be a happy ending?</desc>
+  </programme>
+  <programme start="20261016081500 +0000" stop="20261016090000 +0000" channel="Nessma.tn">
+    <title lang="fr">Ena weldek ya Baba</title>
+    <desc lang="fr">This Turkish drama follows the story of young shoemaker Maher as he battles to free his father from a death sentence for a murder he did not commit. Posing as a trainee lawyer in order to defend his father, he falls in love with the judge.</desc>
+  </programme>
+  <programme start="20261016090000 +0000" stop="20261016091500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261016091500 +0000" stop="20261016094500 +0000" channel="Nessma.tn">
+    <title lang="fr">Clik</title>
+  </programme>
+  <programme start="20261016094500 +0000" stop="20261016100000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261016100000 +0000" stop="20261016104500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261016104500 +0000" stop="20261016110000 +0000" channel="Nessma.tn">
+    <title lang="fr">Coujinet Elyoum</title>
+  </programme>
+  <programme start="20261016110000 +0000" stop="20261016111500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261016111500 +0000" stop="20261016120000 +0000" channel="Nessma.tn">
+    <title lang="fr">Het Esshih</title>
+    <desc lang="fr">Presented by Wafa Trabelsi, Mondher Thabet and Mondher Bedhiafi, this two-hour-long current affairs magazine program provides an in-depth analysis of local, regional, national, and international news. Expert guests and specialists review and examine the latest events happening near and far and a 'live' right to speak contributes idscussion, opinion, and information on the topics of the day.</desc>
+  </programme>
+  <programme start="20261016120000 +0000" stop="20261016121500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261016121500 +0000" stop="20261016130000 +0000" channel="Nessma.tn">
+    <title lang="fr">Het Esshih</title>
+    <desc lang="fr">Presented by Wafa Trabelsi, Mondher Thabet and Mondher Bedhiafi, this two-hour-long current affairs magazine program provides an in-depth analysis of local, regional, national, and international news. Expert guests and specialists review and examine the latest events happening near and far and a 'live' right to speak contributes idscussion, opinion, and information on the topics of the day.</desc>
+  </programme>
+  <programme start="20261016130000 +0000" stop="20261016131500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261016131500 +0000" stop="20261016140000 +0000" channel="Nessma.tn">
+    <title lang="fr">Wartha W Sleyef</title>
+  </programme>
+  <programme start="20261016140000 +0000" stop="20261016141500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261016141500 +0000" stop="20261016150000 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessmet aachiya</title>
+    <desc lang="fr">This Hindi language drama follows the story of two cousins, uneducated, shy and innocent Gopi Kapadia and educated, lively and cunning Rashi Shah as they get married, have children and endure many troubles. Will there be a happy ending?</desc>
+  </programme>
+  <programme start="20261016150000 +0000" stop="20261016151500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261016151500 +0000" stop="20261016153000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261016153000 +0000" stop="20261016160000 +0000" channel="Nessma.tn">
+    <title lang="fr">Future maintenant</title>
+  </programme>
+  <programme start="20261016160000 +0000" stop="20261016170000 +0000" channel="Nessma.tn">
+    <title lang="fr">Le Journal (Nessma)</title>
+    <desc lang="fr">Bouclez l'émission "Le journal" et restez informés de l'actualité.</desc>
+  </programme>
+  <programme start="20261016170000 +0000" stop="20261016174500 +0000" channel="Nessma.tn">
+    <title lang="fr">Ness Nessma</title>
+  </programme>
+  <programme start="20261016174500 +0000" stop="20261016180000 +0000" channel="Nessma.tn">
+    <title lang="fr">Journal Sport</title>
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016181500 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261016181500 +0000" stop="20261016183000 +0000" channel="Nessma.tn">
+    <title lang="fr">Kattouset Errmed</title>
+    <desc lang="fr">This Turkish drama follows the story of Siwar, a young girl who lives with her mother, Nourhen, her father, Ilyes, and her little sister Kalthoum. Although Siwar leads a quiet unassuming life, working as a waitress in a local restaurant, there is a dark decret in her past. Unbeknownst to Siwar, she is actually the daughter of one of Turkey's most successful businessmen. However, when she was born, her grandfather paid his assitant Ilyes to raise her as his own child.</desc>
+  </programme>
+  <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="Nessma.tn">
+    <title lang="fr">News</title>
+  </programme>
+  <programme start="20261016190000 +0000" stop="20261016194000 +0000" channel="Nessma.tn">
+    <title lang="fr">Wartha W Sleyef</title>
+  </programme>
+  <programme start="20261016194000 +0000" stop="20261016195000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261016195000 +0000" stop="20261016204000 +0000" channel="Nessma.tn">
+    <title lang="fr">El Hob Eli Kweni</title>
+    <desc lang="fr">Set in a seaside suburb of Istanbul, this drama tells the story of Kamel, the son of an aspirational middle-class family, and Imen, a sensitive and empathetic artist. Will the course of true love run smoothly for them?</desc>
+  </programme>
+  <programme start="20261016204000 +0000" stop="20261016214500 +0000" channel="Nessma.tn">
+    <title lang="fr">Ena weldek ya Baba</title>
+    <desc lang="fr">This Turkish drama follows the story of young shoemaker Maher as he battles to free his father from a death sentence for a murder he did not commit. Posing as a trainee lawyer in order to defend his father, he falls in love with the judge.</desc>
+  </programme>
+  <programme start="20261016214500 +0000" stop="20261016220000 +0000" channel="Nessma.tn">
+    <title lang="fr">Coujinet Elyoum</title>
+  </programme>
+  <programme start="20261016220000 +0000" stop="20261016224500 +0000" channel="Nessma.tn">
+    <title lang="fr">Niran Sayfiyah</title>
+  </programme>
+  <programme start="20261016224500 +0000" stop="20261016234500 +0000" channel="Nessma.tn">
+    <title lang="fr">Ward wa Chawk</title>
+    <desc lang="fr">This drama series from Egypt follows the story of a man who is left to raise his three daughters on his own after his wife dies. However, things become easier when he falls in love with another woman and eventually marries her.</desc>
+  </programme>
+  <programme start="20261017060000 +0000" stop="20261017061500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261017061500 +0000" stop="20261017070000 +0000" channel="Nessma.tn">
+    <title lang="fr">Le grand Zapping</title>
+  </programme>
+  <programme start="20261017070000 +0000" stop="20261017071500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash Info</title>
+  </programme>
+  <programme start="20261017071500 +0000" stop="20261017081500 +0000" channel="Nessma.tn">
+    <title lang="fr">Le grand Zapping</title>
+  </programme>
+  <programme start="20261017081500 +0000" stop="20261017090000 +0000" channel="Nessma.tn">
+    <title lang="fr">Ena weldek ya Baba</title>
+    <desc lang="fr">This Turkish drama follows the story of young shoemaker Maher as he battles to free his father from a death sentence for a murder he did not commit. Posing as a trainee lawyer in order to defend his father, he falls in love with the judge.</desc>
+  </programme>
+  <programme start="20261017090000 +0000" stop="20261017091500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261017091500 +0000" stop="20261017094500 +0000" channel="Nessma.tn">
+    <title lang="fr">Reporters</title>
+  </programme>
+  <programme start="20261017094500 +0000" stop="20261017100000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261017100000 +0000" stop="20261017101500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261017101500 +0000" stop="20261017110000 +0000" channel="Nessma.tn">
+    <title lang="fr">Prière du vendredi</title>
+    <desc lang="fr">La retransmission en direct de la prière du vendredi depuis une mosquée du Maroc. Sermon et prière collective se déroulent dans le respect des rites islamiques.</desc>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/4803/4803a05975b14b95928612cfb85633a9</image>
+  </programme>
+  <programme start="20261017110000 +0000" stop="20261017111500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261017111500 +0000" stop="20261017120000 +0000" channel="Nessma.tn">
+    <title lang="fr">The Newsroom</title>
+    <desc lang="fr">Get the latest information about most important up-to-date world affairs. Keep up with top stories and key events that affect each and everyone from a valuable global perspective. Top events and breaking news regarding science, politics, health care, global business are covered live.</desc>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/ba57/ba570043809140288fa38525a5c42a34</image>
+  </programme>
+  <programme start="20261017120000 +0000" stop="20261017121500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261017121500 +0000" stop="20261017130000 +0000" channel="Nessma.tn">
+    <title lang="fr">The Newsroom</title>
+    <desc lang="fr">Get the latest information about most important up-to-date world affairs. Keep up with top stories and key events that affect each and everyone from a valuable global perspective. Top events and breaking news regarding science, politics, health care, global business are covered live.</desc>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/ba57/ba570043809140288fa38525a5c42a34</image>
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017131500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261017131500 +0000" stop="20261017140000 +0000" channel="Nessma.tn">
+    <title lang="fr">Wartha W Sleyef</title>
+  </programme>
+  <programme start="20261017140000 +0000" stop="20261017141500 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261017141500 +0000" stop="20261017150000 +0000" channel="Nessma.tn">
+    <title lang="fr">Le grand Zapping</title>
+  </programme>
+  <programme start="20261017150000 +0000" stop="20261017153000 +0000" channel="Nessma.tn">
+    <title lang="fr">Flash News</title>
+  </programme>
+  <programme start="20261017153000 +0000" stop="20261017160000 +0000" channel="Nessma.tn">
+    <title lang="fr">Future maintenant</title>
+  </programme>
+  <programme start="20261017160000 +0000" stop="20261017164500 +0000" channel="Nessma.tn">
+    <title lang="fr">Le Journal (Nessma)</title>
+    <desc lang="fr">Bouclez l'émission "Le journal" et restez informés de l'actualité.</desc>
+  </programme>
+  <programme start="20261017164500 +0000" stop="20261017170000 +0000" channel="Nessma.tn">
+    <title lang="fr">Tsawak w tdhawak</title>
+  </programme>
+  <programme start="20261017170000 +0000" stop="20261017174500 +0000" channel="Nessma.tn">
+    <title lang="fr">Nessma Weekend Sport</title>
+  </programme>
+  <programme start="20261017174500 +0000" stop="20261017180000 +0000" channel="Nessma.tn">
+    <title lang="fr">Journal Sport</title>
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017181500 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261017181500 +0000" stop="20261017183000 +0000" channel="Nessma.tn">
+    <title lang="fr">Kattouset Errmed</title>
+    <desc lang="fr">This Turkish drama follows the story of Siwar, a young girl who lives with her mother, Nourhen, her father, Ilyes, and her little sister Kalthoum. Although Siwar leads a quiet unassuming life, working as a waitress in a local restaurant, there is a dark decret in her past. Unbeknownst to Siwar, she is actually the daughter of one of Turkey's most successful businessmen. However, when she was born, her grandfather paid his assitant Ilyes to raise her as his own child.</desc>
+  </programme>
+  <programme start="20261017183000 +0000" stop="20261017191000 +0000" channel="Nessma.tn">
+    <title lang="fr">News</title>
+  </programme>
+  <programme start="20261017191000 +0000" stop="20261017195000 +0000" channel="Nessma.tn">
+    <title lang="fr">Dar Louzir</title>
+    <desc lang="fr">This Tunisian sitcom follows the exploits of the Minister of the Environment, Ismail Bourigua, who, after being dismissed from the government and having his property confiscated, ends up having to move back in to his mother's villa.</desc>
+  </programme>
+  <programme start="20261017195000 +0000" stop="20261017204500 +0000" channel="Nessma.tn">
+    <title lang="fr">El Hob Eli Kweni</title>
+    <desc lang="fr">Set in a seaside suburb of Istanbul, this drama tells the story of Kamel, the son of an aspirational middle-class family, and Imen, a sensitive and empathetic artist. Will the course of true love run smoothly for them?</desc>
+  </programme>
+  <programme start="20261017204500 +0000" stop="20261017210000 +0000" channel="Nessma.tn">
+    <title lang="fr">Khalil Tounes</title>
+  </programme>
+  <programme start="20261017210000 +0000" stop="20261017223000 +0000" channel="Nessma.tn">
+    <title lang="fr">Errih Fel Barrima</title>
+    <desc lang="fr">Hanin appears to have a happy family life, married to a successful and wealthy husband and with two adoring children. However, one day her husband disappears along with their fortune and Hanin has to fight for survival.</desc>
+  </programme>
+  <programme start="20261017223000 +0000" stop="20261017231500 +0000" channel="Nessma.tn">
+    <title lang="fr">Bin Narin</title>
+  </programme>
+  <programme start="20261017231500 +0000" stop="20261018001500 +0000" channel="Nessma.tn">
+    <title lang="fr">Ward wa Chawk</title>
+    <desc lang="fr">This drama series from Egypt follows the story of a man who is left to raise his three daughters on his own after his wife dies. However, things become easier when he falls in love with another woman and eventually marries her.</desc>
+  </programme>
   <programme start="20261014170000 +0300" stop="20261014173000 +0300" channel="AlJazeera2">
     <title lang="ar">نشرة الأخبار</title>
     <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
@@ -133351,14 +135272,11 @@
     <title lang="ar">نشرة الأخبار</title>
     <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
   </programme>
-  <programme start="20261014170000 +0200" stop="20261021170000 +0200" channel="F1TV1.fr">
+  <programme start="20261014180000 +0200" stop="20261021180000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
-  <programme start="20261014170000 +0200" stop="20261021170000 +0200" channel="MXGPTV.fr">
+  <programme start="20261014180000 +0200" stop="20261021180000 +0200" channel="MXGPTV.fr">
     <title lang="fr">MXGP-TV</title>
-  </programme>
-  <programme start="20261014170000 +0200" stop="20261014173000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
   <programme start="20261014183000 +0200" stop="20261014190000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
@@ -133438,10 +135356,19 @@
   <programme start="20261020200000 +0200" stop="20261020211000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
-  <programme start="20261020235900 +0200" stop="20261021170000 +0200" channel="LEspritSorcierTV.fr">
+  <programme start="20261020235900 +0200" stop="20261021180000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
-  <programme start="20261014170000 +0200" stop="20261021170000 +0200" channel="Nessma.tn">
+  <programme start="20261015014500 +0200" stop="20261015080000 +0200" channel="Nessma.tn">
+    <title lang="fr">Nessma</title>
+  </programme>
+  <programme start="20261016014500 +0200" stop="20261016080000 +0200" channel="Nessma.tn">
+    <title lang="fr">Nessma</title>
+  </programme>
+  <programme start="20261017014500 +0200" stop="20261017080000 +0200" channel="Nessma.tn">
+    <title lang="fr">Nessma</title>
+  </programme>
+  <programme start="20261018021500 +0200" stop="20261021180000 +0200" channel="Nessma.tn">
     <title lang="fr">Nessma</title>
   </programme>
 </tv>
