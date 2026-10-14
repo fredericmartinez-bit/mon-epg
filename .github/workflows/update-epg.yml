@@ -30,6 +30,12 @@ jobs:
           cd epg-source
           npm install
 
+      - name: Generate Motorvision+ EPG from Pickx
+        continue-on-error: true
+        run: |
+          cd epg-source
+          npm run grab -- --channels=../channels-motorvisionplus-pickx.xml --days=2 --output=../motorvisionplus-pickx.xml
+
       - name: Generate custom EPG files
         run: |
           python3 orange_pitchoun.py
@@ -91,6 +97,7 @@ jobs:
               "adn.xml",
               "sqool-tv.xml",
               "motorvision-plus.xml",
+              "motorvisionplus-pickx.xml",
               "esprit-sorcier.xml",
               "mxgp-tv.xml",
               "f1tv.xml",
@@ -107,6 +114,7 @@ jobs:
               "ADN.fr",
               "SQOOLTV.fr",
               "MotorVisionTV.fr",
+              "MotorvisionPlus.fr",
               "LEspritSorcierTV.fr",
               "MXGPTV.fr",
               "F1TV1.fr",
@@ -116,6 +124,21 @@ jobs:
 
           tree = ET.parse(GUIDE)
           root = tree.getroot()
+
+          # Conserver l'ancienne grille Motorvision+ si Pickx est vide.
+          try:
+              pickx_root = ET.parse("motorvisionplus-pickx.xml").getroot()
+              pickx_programmes = [
+                  p for p in pickx_root.findall("programme")
+                  if p.get("channel") == "MotorvisionPlus.fr"
+              ]
+          except (OSError, ET.ParseError):
+              pickx_programmes = []
+
+          if not pickx_programmes:
+              print("Pickx indisponible : ancienne grille Motorvision+ conservée")
+              TARGET_IDS.discard("MotorvisionPlus.fr")
+              SOURCES.remove("motorvisionplus-pickx.xml")
 
           for elem in list(root):
               cid = elem.get("id") if elem.tag == "channel" else elem.get("channel")
@@ -223,6 +246,7 @@ jobs:
               "ADN.fr",
               "SQOOLTV.fr",
               "MotorVisionTV.fr",
+              "MotorvisionPlus.fr",
               "LEspritSorcierTV.fr",
               "MXGPTV.fr",
               "F1TV1.fr",
@@ -237,6 +261,9 @@ jobs:
           print("TOTAL:", len(root.findall("programme")))
 
           for cid in ids:
+              if cid == "MotorvisionPlus.fr" and counts[cid] == 0:
+                  print("Motorvision+ absent : validation ignorée")
+                  continue
               print(cid, counts[cid])
               if counts[cid] == 0:
                   raise SystemExit(f"No programmes found for {cid}")
@@ -247,6 +274,8 @@ jobs:
           now = datetime.now(timezone.utc)
 
           for cid in freshness_ids:
+              if cid == "MotorvisionPlus.fr" and counts[cid] == 0:
+                  continue
               items = [
                   p for p in root.findall("programme")
                   if p.get("channel") == cid and p.get("stop")
@@ -263,6 +292,9 @@ jobs:
               )
 
               if latest <= now:
+                  if cid == "MotorvisionPlus.fr":
+                      print("⚠️ Motorvision+ périmé : ancienne grille conservée")
+                      continue
                   raise SystemExit(
                       f"Stale EPG for {cid}: "
                       f"last programme ended at {latest.isoformat()}"
