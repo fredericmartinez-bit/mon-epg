@@ -97093,174 +97093,6 @@
     <title lang="fr">La playlist des Pitchouns</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20261015160000 +0000" stop="20261015160300 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Danse de Pitchoun</title>
-    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
-  </programme>
-  <programme start="20261015160300 +0000" stop="20261015161500 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">L'abécédaire des animaux</title>
-    <desc lang="fr">Accompagnée et commentée par Guillaume, une découverte des animaux qui peuplent les différents milieux et les différentes régions de la planète Terre, en suivant l'alphabet.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4820914/wide_generic/h640" />
-  </programme>
-  <programme start="20261015161500 +0000" stop="20261015162500 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Molang</title>
-    <desc lang="fr">Milo est un petit lapin gentil et taquin qui vit des aventures amusantes, illustrant la réalité quotidienne des tout-petits. Son univers est si riche, que les enfants s'identifient avec plaisir, aux grands et petits évènements qui font la vie de Milo.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/1211356/wide_generic/h640" />
-  </programme>
-  <programme start="20261015162500 +0000" stop="20261015164700 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Pirata &amp; Capitano</title>
-    <desc lang="fr">Pirata &amp; Capitano : Embarquez avec Pirata, son équipage et son meilleur ami Capitano ! Chaque virée en mer est l'occasion de chercher un trésor, de porter secours à une espèce en danger, de rencontrer de nouveaux amis ou de découvrir des îles mystérieuses. Une série sur l'entraide et le bien vivre ensemble en voguant sur le grand océan…alors, hissez les voiles et levez l'ancre, en route pour l'aventure !</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/491742/wide_generic/h640" />
-  </programme>
-  <programme start="20261015164700 +0000" stop="20261015170000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Nasredine</title>
-    <desc lang="fr">Nasredine est un personnage mythique de la culture orientale, un individu rusé qui adore jouer des tours. Par sa logique imprévisible, Nasredine tourne en ridicule les vicissitudes de ce monde avec esprit et humour.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img2.oqee.net/pictures/1149299/wide_generic/h640" />
-  </programme>
-  <programme start="20261015170000 +0000" stop="20261015170300 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Danse de Pitchoun</title>
-    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
-  </programme>
-  <programme start="20261015170300 +0000" stop="20261015170500 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">L'Agenda des Pitchouns</title>
-    <desc lang="fr">Toutes les sorties à faire en famille dans les jours qui viennent, ainsi que des bons plans à retrouver partout en France.</desc>
-    <category lang="fr">Magazine</category>
-    <category lang="fr">Magazine de société</category>
-    <icon src="https://img2.oqee.net/pictures/5039881/wide_generic/h640" />
-  </programme>
-  <programme start="20261015170500 +0000" stop="20261015172600 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Didou</title>
-    <desc lang="fr">Didou le petit lapin et son amie Yoko la coccinelle apprennent à dessiner aux enfants. Dès que le dessin est colorié, il devient réel comme par magie et les deux amis peuvent entrer dans la maison, ou monter dans une fusée.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/4489350/wide_generic/h640" />
-  </programme>
-  <programme start="20261015172600 +0000" stop="20261015174800 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Mouk</title>
-    <desc lang="fr">Découvrez Mouk et Chavapa, les deux jeunes globe-trotters avides d'aventure qui parcourent le monde à vélo dans Mouk !</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img2.oqee.net/pictures/4494433/wide_generic/h640" />
-  </programme>
-  <programme start="20261015174800 +0000" stop="20261015180000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Mon robot et moi</title>
-    <desc lang="fr">Eugène est un génie de la robotique qui a construit son propre robot appelé C.H.I.P. Accompagnés de ses meilleurs amis, Maia et Joseph, ils vivent ensemble des aventures rocambolesques dans leur école de robotique.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img2.oqee.net/pictures/4369649/wide_generic/h640" />
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015180300 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Danse de Pitchoun</title>
-    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
-  </programme>
-  <programme start="20261015180300 +0000" stop="20261015180800 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">La fabrique ludique</title>
-    <desc lang="fr">Découpez, collez, créez avec Clara, tous les jours sur TV Pitchoun ! Apprenez à fabriquer vos objets vous-mêmes avec les tutos de Clara \" Do It Yourself \".</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/5039884/wide_generic/h640" />
-  </programme>
-  <programme start="20261015180800 +0000" stop="20261015183000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">64 rue du zoo</title>
-    <desc lang="fr">Lucie est une petite fille qui habite au 64 rue du Zoo, à quelques pas d'un zoo. Chaque nuit, elle y rejoint les animaux qui l'attendent impatiemment et écoute leurs histoires insolites de la vie sauvage.</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img1.oqee.net/pictures/4494432/wide_generic/h640" />
-  </programme>
-  <programme start="20261015183000 +0000" stop="20261015185200 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Bienvenue à Paper Port</title>
-    <desc lang="fr">Mathilde est une jeune fille exceptionnelle ! Chaque matin, elle se réveille avec un nouveau pouvoir étonnant qui disparaît le lendemain... Il n'y a que Charlie, son meilleur ami, qui connait son secret. Ensemble, ils vont vivre d'incroyables aventures dans la ville portuaire de Paper Port.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/4494444/wide_generic/h640" />
-  </programme>
-  <programme start="20261015185200 +0000" stop="20261015190000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Rocket Jo</title>
-    <desc lang="fr">Rocket Jo est un inventeur et aviateur farfelu qui ne rêve que d'une chose : voler. Pour y arriver, il a construit un jet-pack à base d'éléments récupérés. Mais ses valeureuses tentatives se soldent toutes par un échec, pour notre plus grand bonheur à tous, puisqu'elles sont autant de gags, d'explosions, de chutes en tout genre!</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img2.oqee.net/pictures/4494447/wide_generic/h640" />
-  </programme>
-  <programme start="20261015190000 +0000" stop="20261015190300 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Danse de Pitchoun</title>
-    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
-  </programme>
-  <programme start="20261015190300 +0000" stop="20261015190500 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">L'Agenda des Pitchouns</title>
-    <desc lang="fr">Toutes les sorties à faire en famille dans les jours qui viennent, ainsi que des bons plans à retrouver partout en France.</desc>
-    <category lang="fr">Magazine</category>
-    <category lang="fr">Magazine de société</category>
-    <icon src="https://img2.oqee.net/pictures/5039881/wide_generic/h640" />
-  </programme>
-  <programme start="20261015190500 +0000" stop="20261015193000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Mon robot et moi</title>
-    <desc lang="fr">Eugène est un génie de la robotique qui a construit son propre robot appelé C.H.I.P. Accompagnés de ses meilleurs amis, Maia et Joseph, ils vivent ensemble des aventures rocambolesques dans leur école de robotique.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img2.oqee.net/pictures/4369649/wide_generic/h640" />
-  </programme>
-  <programme start="20261015193000 +0000" stop="20261015200000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Corneil et Bernie</title>
-    <desc lang="fr">Corneil, un petit chien surdoué. Tout bascule le jour où ses riches propriétaires décident d'engager Bernie, un adolescent drôle et excentrique, comme \" dogsitter \". Celui-ci ne va pas tarder à découvrir le don de Corneil et le mettre à profit pour mener à bien ses plans les plus farfelus.</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img1.oqee.net/pictures/205516/wide_generic/h640" />
-  </programme>
-  <programme start="20261015200000 +0000" stop="20261015200300 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Danse de Pitchoun</title>
-    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
-  </programme>
-  <programme start="20261015200300 +0000" stop="20261015201600 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Molang YouTuber</title>
-    <desc lang="fr">Molang et Piu Piu sont désormais des YouTubers ! Pincos, pour être encore plus à vos côtés, les deux meilleurs amis postent CHAQUE SEMAINE de nouveaux contenus, comme des vidéos "réaction", du gaming, de l'ASMR, des challenges, et bien plus encore</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/5039883/wide_generic/h640" />
-  </programme>
-  <programme start="20261015201600 +0000" stop="20261015203800 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Pirata &amp; Capitano</title>
-    <desc lang="fr">Pirata &amp; Capitano : Embarquez avec Pirata, son équipage et son meilleur ami Capitano ! Chaque virée en mer est l'occasion de chercher un trésor, de porter secours à une espèce en danger, de rencontrer de nouveaux amis ou de découvrir des îles mystérieuses. Une série sur l'entraide et le bien vivre ensemble en voguant sur le grand océan…alors, hissez les voiles et levez l'ancre, en route pour l'aventure !</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/491742/wide_generic/h640" />
-  </programme>
-  <programme start="20261015203800 +0000" stop="20261015204900 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Nasredine</title>
-    <desc lang="fr">Nasredine est un personnage mythique de la culture orientale, un individu rusé qui adore jouer des tours. Par sa logique imprévisible, Nasredine tourne en ridicule les vicissitudes de ce monde avec esprit et humour.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img2.oqee.net/pictures/1149299/wide_generic/h640" />
-  </programme>
-  <programme start="20261015204900 +0000" stop="20261015210000 +0000" channel="TVPitchoun.fr">
-    <title lang="fr">Bienvenue à Paper Port</title>
-    <desc lang="fr">Mathilde est une jeune fille exceptionnelle ! Chaque matin, elle se réveille avec un nouveau pouvoir étonnant qui disparaît le lendemain... Il n'y a que Charlie, son meilleur ami, qui connait son secret. Ensemble, ils vont vivre d'incroyables aventures dans la ville portuaire de Paper Port.</desc>
-    <category lang="fr">Série</category>
-    <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/4494444/wide_generic/h640" />
-  </programme>
   <programme start="20261015210000 +0000" stop="20261015210300 +0000" channel="TVPitchoun.fr">
     <title lang="fr">Danse de Pitchoun</title>
     <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
@@ -102469,651 +102301,173 @@
     <category lang="fr">Dessin animé</category>
     <icon src="https://img1.oqee.net/pictures/4494432/wide_generic/h640" />
   </programme>
-  <programme start="20261015170000 +0000" stop="20261015170300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Zack et Ziggy</title>
-    <desc lang="fr">Le compte Zack and Ziggy vous apprend le concept de base de la grandeur via les aventures d'un garçon , bûcheur, Zack et son ami fidèle, Ziggyle chien. Ils comparent, trient et font les groupes en fonction de la grandeur. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4244913/wide_generic/h640" />
-  </programme>
-  <programme start="20261015170300 +0000" stop="20261015170500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Dinoland</title>
-    <desc lang="fr">Quatre petits dinosaures sont en découverte de leur environnement magnifique et apprennent les enfants à s'entr'aider. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2016</date>
-    <icon src="https://img1.oqee.net/pictures/4267914/wide_generic/h640" />
-  </programme>
-  <programme start="20261015170500 +0000" stop="20261015170800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Finn et Fianna</title>
-    <desc lang="fr">Nos deux petits elfes Finn et Fianna découvrent leur environnement avec curiosité. Ils obtiennent de nouvelles connaissances en jouant et en percevant. Découvrons et connaissons d'essentielles propriétés des éléments et ses opposés dans notre milieu. </desc>
+  <programme start="20261022160000 +0000" stop="20261022160300 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Danse de Pitchoun</title>
+    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4995434/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
   </programme>
-  <programme start="20261015170800 +0000" stop="20261015171100 +0000" channel="DuckTV.fr">
-    <title lang="fr">DuckSchool, école en jeux</title>
-    <desc lang="fr">Dans une école maternelle dans la forêt, les animaux, les petits habitant de la forêt, apprennent les bases de la langue anglaise de leur institutrice, la fée Soleil. </desc>
+  <programme start="20261022160300 +0000" stop="20261022161500 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">L'abécédaire des animaux</title>
+    <desc lang="fr">Accompagnée et commentée par Guillaume, une découverte des animaux qui peuplent les différents milieux et les différentes régions de la planète Terre, en suivant l'alphabet.</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990593/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/4820914/wide_generic/h640" />
   </programme>
-  <programme start="20261015171100 +0000" stop="20261015171300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Poupées</title>
-    <desc lang="fr">Les poupées en fleurs, petit ours et petit kangourou vont vous apprendre quelque chose sur la nature. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990622/wide_generic/h640" />
-  </programme>
-  <programme start="20261015171300 +0000" stop="20261015171600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cactus Hipp-hopp</title>
-    <desc lang="fr">Que font les abeilles et ses amies fleurs folâtres quand il n'y a personne à la maison? </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990580/wide_generic/h640" />
-  </programme>
-  <programme start="20261015171600 +0000" stop="20261015171900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Je veux savoir, moi aussi!</title>
-    <desc lang="fr">Deux amis, Kiteko la girafe folle et Umi la sarigue joueuse découvrent la vie quotidienne des tout petits enfants. Ils peuvent apprendre beaucoup de leur part: les activités quotidiennes, les excursions d'aventure et la création de la distraction en jouant. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985071/wide_generic/h640" />
-  </programme>
-  <programme start="20261015171900 +0000" stop="20261015172200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Raul</title>
-    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
-  </programme>
-  <programme start="20261015172200 +0000" stop="20261015172400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Dinoland</title>
-    <desc lang="fr">Quatre petits dinosaures sont en découverte de leur environnement magnifique et apprennent les enfants à s'entr'aider. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2016</date>
-    <icon src="https://img1.oqee.net/pictures/4267914/wide_generic/h640" />
-  </programme>
-  <programme start="20261015172400 +0000" stop="20261015172700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Modelage</title>
-    <desc lang="fr">Les figures sympathiques souriantes, se présente par l'intermédiaire de la création des figures les plus variées. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img2.oqee.net/pictures/4244905/wide_generic/h640" />
-  </programme>
-  <programme start="20261015172700 +0000" stop="20261015172900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Sons autour de nous</title>
-    <desc lang="fr">Le monde est plein de bruits bizarres ou étranges. Liza et Ben, les jumeaux elfe nous aident à identifier les sources de sons que nous entendons de jour en jour. Que ce soit quelque chose d'une cloche de vélo à travers le bip d'un dispositif pour les fissures drôles sur le nettoyage des vitres. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990611/wide_generic/h640" />
-  </programme>
-  <programme start="20261015172900 +0000" stop="20261015173000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Les Lutins-nature</title>
-    <desc lang="fr">Les Lutins-nature expliquent le changement des saisons mais aussi comment les animaux et les plantes profitent de la météo et de la nature tout au long de l'année. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985070/wide_generic/h640" />
-  </programme>
-  <programme start="20261015173000 +0000" stop="20261015173200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Afrique</title>
-    <desc lang="fr">Nous allons nous présenter les animaux venant de l'Afrique et nous allons jouer avec eux. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990585/wide_generic/h640" />
-  </programme>
-  <programme start="20261015173200 +0000" stop="20261015173500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cubie</title>
-    <desc lang="fr">Cubie est le chef de chantier. Il a toujours d'excellentes idées de nouvelles constructions. Ses camarades sont des chats joueurs et joyeux, qui aiment construire et aussi beaucoup inventer. Ils ont parfois besoin d'aide et le scrupuleux Cubie n'est donc pas très loin. Il conseille les chats et ils maîtrisent ensemble chaque édifice. Et vous, y arriverez-vous? </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2020</date>
-    <icon src="https://img1.oqee.net/pictures/4270642/wide_generic/h640" />
-  </programme>
-  <programme start="20261015173500 +0000" stop="20261015173600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Les Lutins-nature</title>
-    <desc lang="fr">Les Lutins-nature expliquent le changement des saisons mais aussi comment les animaux et les plantes profitent de la météo et de la nature tout au long de l'année. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985070/wide_generic/h640" />
-  </programme>
-  <programme start="20261015173600 +0000" stop="20261015173800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Dinoland</title>
-    <desc lang="fr">Quatre petits dinosaures sont en découverte de leur environnement magnifique et apprennent les enfants à s'entr'aider. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2016</date>
-    <icon src="https://img1.oqee.net/pictures/4267914/wide_generic/h640" />
-  </programme>
-  <programme start="20261015173800 +0000" stop="20261015174000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Où suis-je, je suis là, je te vois !</title>
-    <desc lang="fr">Où suis-je, je suis là, je te vois ! montre les aventures de deux amis imaginaires Kukuk-Rose et Kukuk-Bleu qui jouent à cache-cache. Leur vie est pleine de jeux et de sourire. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985065/wide_generic/h640" />
-  </programme>
-  <programme start="20261015174000 +0000" stop="20261015174300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lola et les nombres</title>
-    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
-  </programme>
-  <programme start="20261015174300 +0000" stop="20261015174600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cactus Hipp-hopp</title>
-    <desc lang="fr">Que font les abeilles et ses amies fleurs folâtres quand il n'y a personne à la maison? </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990580/wide_generic/h640" />
-  </programme>
-  <programme start="20261015174600 +0000" stop="20261015174900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Je veux savoir, moi aussi!</title>
-    <desc lang="fr">Deux amis, Kiteko la girafe folle et Umi la sarigue joueuse découvrent la vie quotidienne des tout petits enfants. Ils peuvent apprendre beaucoup de leur part: les activités quotidiennes, les excursions d'aventure et la création de la distraction en jouant. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985071/wide_generic/h640" />
-  </programme>
-  <programme start="20261015174900 +0000" stop="20261015175100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Les Lutins-nature</title>
-    <desc lang="fr">Les Lutins-nature expliquent le changement des saisons mais aussi comment les animaux et les plantes profitent de la météo et de la nature tout au long de l'année. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985070/wide_generic/h640" />
-  </programme>
-  <programme start="20261015175100 +0000" stop="20261015175400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Margo et Felix</title>
-    <desc lang="fr">Découvrez la vie quotidienne de deux marionnettes animales adorables. Deux amis ont une belle maison avec un petit jardin autour de laquelle ils travaillent comme le font les parents et jouent comme le font nos petits téléspectateurs. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985074/wide_generic/h640" />
-  </programme>
-  <programme start="20261015175400 +0000" stop="20261015175600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Zoo</title>
-    <desc lang="fr">One friendly zoo keeper wants you to come along and meet all the exciting animals he's looking after, and learn a few things on the way, too! This cartoon for young children, encourages them to recognise and name a variety of animals, acquire basic vocabulary, and associate the sounds animals with the sounds that they make.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985095/wide_generic/h640" />
-  </programme>
-  <programme start="20261015175600 +0000" stop="20261015175900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cactus Hipp-hopp</title>
-    <desc lang="fr">Que font les abeilles et ses amies fleurs folâtres quand il n'y a personne à la maison? </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990580/wide_generic/h640" />
-  </programme>
-  <programme start="20261015175900 +0000" stop="20261015180200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Zack et Ziggy</title>
-    <desc lang="fr">Le compte Zack and Ziggy vous apprend le concept de base de la grandeur via les aventures d'un garçon , bûcheur, Zack et son ami fidèle, Ziggyle chien. Ils comparent, trient et font les groupes en fonction de la grandeur. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4244913/wide_generic/h640" />
-  </programme>
-  <programme start="20261015180200 +0000" stop="20261015180500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mimo et Bobo</title>
-    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
-  </programme>
-  <programme start="20261015180500 +0000" stop="20261015180900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monika et Rudy</title>
-    <desc lang="fr">Une petite fille, Monika, apprend son perroquet Rudy à imiter les sons de la ville. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990625/wide_generic/h640" />
-  </programme>
-  <programme start="20261015180900 +0000" stop="20261015181200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Restaurant</title>
-    <desc lang="fr">Vous allez apprendre comment un restaurant fonctionne-t-il. De la préparation du plat jusqu'au lavage de la vaisselle. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2014</date>
-    <icon src="https://img2.oqee.net/pictures/4259403/wide_generic/h640" />
-  </programme>
-  <programme start="20261015181200 +0000" stop="20261015181400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Sippi Sappi</title>
-    <desc lang="fr">Les histoires pleines de détente des deux petits animaux sur les rollers.</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4244909/wide_generic/h640" />
-  </programme>
-  <programme start="20261015181400 +0000" stop="20261015181600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Sons autour de nous</title>
-    <desc lang="fr">Le monde est plein de bruits bizarres ou étranges. Liza et Ben, les jumeaux elfe nous aident à identifier les sources de sons que nous entendons de jour en jour. Que ce soit quelque chose d'une cloche de vélo à travers le bip d'un dispositif pour les fissures drôles sur le nettoyage des vitres. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990611/wide_generic/h640" />
-  </programme>
-  <programme start="20261015181600 +0000" stop="20261015181800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lola et les nombres</title>
-    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
-  </programme>
-  <programme start="20261015181800 +0000" stop="20261015182100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Où suis-je, je suis là, je te vois !</title>
-    <desc lang="fr">Où suis-je, je suis là, je te vois ! montre les aventures de deux amis imaginaires Kukuk-Rose et Kukuk-Bleu qui jouent à cache-cache. Leur vie est pleine de jeux et de sourire. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985065/wide_generic/h640" />
-  </programme>
-  <programme start="20261015182100 +0000" stop="20261015182300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Canard et ses amis</title>
-    <desc lang="fr">Dans notre série "Canard et ses amis" toutes les aventures de Ducky sont partagées par ses amis Lola, Henry et Toby. Des pédopsychologues contribuent à la réalisation des histoires de sorte que ces dernières aident les enfants à trouver le moyen de négocier, d'argumenter et de s'adapter lors des jeux en commun, tout en leur démontrant combien la découverte du monde, vécue ensemble avec leurs amis, peut leur procurer de la joie et de la satisfaction. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990597/wide_generic/h640" />
-  </programme>
-  <programme start="20261015182300 +0000" stop="20261015182700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Poupées</title>
-    <desc lang="fr">Les poupées en fleurs, petit ours et petit kangourou vont vous apprendre quelque chose sur la nature. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990622/wide_generic/h640" />
-  </programme>
-  <programme start="20261015182700 +0000" stop="20261015183000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Bébé Didy</title>
-    <desc lang="fr">Les histoires des petits animaux qui apprennent à s'entr'aider. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990587/wide_generic/h640" />
-  </programme>
-  <programme start="20261015183000 +0000" stop="20261015183300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mimo et Bobo</title>
-    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
-  </programme>
-  <programme start="20261015183300 +0000" stop="20261015183500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Poupées, équipe de secours</title>
-    <desc lang="fr">Bell et ses amis, Fido le kangourou et Lilo l'ourson, sauvent les habitants désespérés de la forêt. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990622/wide_generic/h640" />
-  </programme>
-  <programme start="20261015183500 +0000" stop="20261015183900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monika et Rudy</title>
-    <desc lang="fr">Une petite fille, Monika, apprend son perroquet Rudy à imiter les sons de la ville. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990625/wide_generic/h640" />
-  </programme>
-  <programme start="20261015183900 +0000" stop="20261015184100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Histoires à Henry</title>
-    <desc lang="fr">Henry loves telling stories, but he needs your help to make sure it's all in the correct order. Follow Henry in these silent animated shorts as he constructs stories with the help of his handy picture cards. Teach your children about logical thinking and deductive reasoning as you narrate the sequences together and solve his picture puzzles to see the story come to life.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990600/wide_generic/h640" />
-  </programme>
-  <programme start="20261015184100 +0000" stop="20261015184300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Aventures de canards</title>
-    <desc lang="fr">Every day is a different adventure for Ducky! This animated show for very young children lets toddlers and pre-schoolers to join Ducky and learn through daily activities. This series is brought to you by DuckTV, which works with child psychologists in creating programmes for babies and toddlers. Ducky Adventures has been designed to help your child develop their observational skills whilst also letting them use their imagination and creativity. This cartoon can be used as a conversation starter for the little ones in your life: you can talk to toddlers about their thoughts and opinions on the activities you've seen in the programme or the things that happen in your toddler's life.</desc>
+  <programme start="20261022161500 +0000" stop="20261022162500 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Molang</title>
+    <desc lang="fr">Milo est un petit lapin gentil et taquin qui vit des aventures amusantes, illustrant la réalité quotidienne des tout-petits. Son univers est si riche, que les enfants s'identifient avec plaisir, aux grands et petits évènements qui font la vie de Milo.</desc>
     <category lang="fr">Série</category>
     <category lang="fr">Série d'animation</category>
-    <icon src="https://img2.oqee.net/pictures/4261653/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/1211356/wide_generic/h640" />
   </programme>
-  <programme start="20261015184300 +0000" stop="20261015184600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Modelage</title>
-    <desc lang="fr">Les figures sympathiques souriantes, se présente par l'intermédiaire de la création des figures les plus variées. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <icon src="https://img2.oqee.net/pictures/4244905/wide_generic/h640" />
-  </programme>
-  <programme start="20261015184600 +0000" stop="20261015184800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lola et les nombres</title>
-    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
-  </programme>
-  <programme start="20261015184800 +0000" stop="20261015185000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Hop-hop</title>
-    <desc lang="fr">Nous sautons tout autour avec une famille gentille des lapins. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985063/wide_generic/h640" />
-  </programme>
-  <programme start="20261015185000 +0000" stop="20261015185400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Poupées, équipe de secours</title>
-    <desc lang="fr">Bell et ses amis, Fido le kangourou et Lilo l'ourson, sauvent les habitants désespérés de la forêt. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990622/wide_generic/h640" />
-  </programme>
-  <programme start="20261015185400 +0000" stop="20261015185700 +0000" channel="DuckTV.fr">
-    <title lang="fr">DuckSchool, école en jeux</title>
-    <desc lang="fr">Dans une école maternelle dans la forêt, les animaux, les petits habitant de la forêt, apprennent les bases de la langue anglaise de leur institutrice, la fée Soleil. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990593/wide_generic/h640" />
-  </programme>
-  <programme start="20261015185700 +0000" stop="20261015185900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Hubbi et ses amis</title>
-    <desc lang="fr">Hubbi - le bricoleur vit différentes aventures en réparant les chose qui sont constamment abîmées. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985067/wide_generic/h640" />
-  </programme>
-  <programme start="20261015185900 +0000" stop="20261015190100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lola et les nombres</title>
-    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
-  </programme>
-  <programme start="20261015190100 +0000" stop="20261015190400 +0000" channel="DuckTV.fr">
-    <title lang="fr">ABC : duckBC</title>
-    <desc lang="fr">Savez-vous qui habite le bureau ? Stylo, Crayon, Cachet, Gomme et Pinceau qui rivalisent en écriture des petites lettres. Pendant que nos nouveaux amis nous montrent les divers styles d'écriture, nous reconnaissons les lettres de l'alphabet latin. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990610/wide_generic/h640" />
-  </programme>
-  <programme start="20261015190400 +0000" stop="20261015190700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Holiday</title>
-    <desc lang="fr">Join the children as the enjoy their holiday visiting the lake in these silent animated shorts. Follow them as they go on exciting adventures together, exploring the lake and having fun on its sandy shorelines. Will they be enjoying an afternoon playing sports? Or will they find themselves exploring the waters in a little rowing boat with fishing rods and buckets? Learn about the different everyday objects and colours while introducing your children to new multi-sensory activities. Ask you children what games they enjoy playing, and encourage them to experiment with new toys, games and adventures.</desc>
+  <programme start="20261022162500 +0000" stop="20261022164700 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Pirata &amp; Capitano</title>
+    <desc lang="fr">Pirata &amp; Capitano : Embarquez avec Pirata, son équipage et son meilleur ami Capitano ! Chaque virée en mer est l'occasion de chercher un trésor, de porter secours à une espèce en danger, de rencontrer de nouveaux amis ou de découvrir des îles mystérieuses. Une série sur l'entraide et le bien vivre ensemble en voguant sur le grand océan…alors, hissez les voiles et levez l'ancre, en route pour l'aventure !</desc>
     <category lang="fr">Série</category>
     <category lang="fr">Série d'animation</category>
-    <icon src="https://img1.oqee.net/pictures/3647354/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/491742/wide_generic/h640" />
   </programme>
-  <programme start="20261015190700 +0000" stop="20261015190900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Petits castors</title>
-    <desc lang="fr">Venez voir comment vit une famille des castors. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983230/wide_generic/h640" />
-  </programme>
-  <programme start="20261015190900 +0000" stop="20261015191200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20261015191200 +0000" stop="20261015191400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Bonshommes en légumes</title>
-    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2017</date>
-    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
-  </programme>
-  <programme start="20261015191400 +0000" stop="20261015191700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Miyu et Litto</title>
-    <desc lang="fr">Nous allons vous apprendre à reconnaître les couleurs et nous allons jouer les jeux formidables.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4984948/wide_generic/h640" />
-  </programme>
-  <programme start="20261015191700 +0000" stop="20261015191900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Hubbi et ses amis</title>
-    <desc lang="fr">Hubbi - le bricoleur vit différentes aventures en réparant les chose qui sont constamment abîmées. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985067/wide_generic/h640" />
-  </programme>
-  <programme start="20261015191900 +0000" stop="20261015192100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Les Lutins-nature</title>
-    <desc lang="fr">Les Lutins-nature expliquent le changement des saisons mais aussi comment les animaux et les plantes profitent de la météo et de la nature tout au long de l'année. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4985070/wide_generic/h640" />
-  </programme>
-  <programme start="20261015192100 +0000" stop="20261015192400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lola et les nombres</title>
-    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
-  </programme>
-  <programme start="20261015192400 +0000" stop="20261015192700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Hubbi et ses amis</title>
-    <desc lang="fr">Hubbi - le bricoleur vit différentes aventures en réparant les chose qui sont constamment abîmées. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985067/wide_generic/h640" />
-  </programme>
-  <programme start="20261015192700 +0000" stop="20261015192900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Hubbi et ses amis</title>
-    <desc lang="fr">Hubbi - le bricoleur vit différentes aventures en réparant les chose qui sont constamment abîmées. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985067/wide_generic/h640" />
-  </programme>
-  <programme start="20261015192900 +0000" stop="20261015193200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Village ensoleillé : Journées de sport</title>
-    <desc lang="fr">Les habitants de la Ville Ensoleillée (Monsieur Bouc, la famille de Raton Laveur, le petit Chat, un Cochon amical) assistent aux journées du sport. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985083/wide_generic/h640" />
-  </programme>
-  <programme start="20261015193200 +0000" stop="20261015193500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde des animaux</title>
-    <desc lang="fr">Les enfants prennent connaissance des animaux domestiques et sauvages pour apprendre à les reconnaître lors de leur visites du ZOO ou d'une ferme. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985045/wide_generic/h640" />
-  </programme>
-  <programme start="20261015193500 +0000" stop="20261015193800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20261015193800 +0000" stop="20261015194100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20261015194100 +0000" stop="20261015194400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20261015194400 +0000" stop="20261015194700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Cercles en couleurs</title>
-    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
-  </programme>
-  <programme start="20261015194700 +0000" stop="20261015194900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lola et les nombres</title>
-    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
-  </programme>
-  <programme start="20261015194900 +0000" stop="20261015195200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Zoo</title>
-    <desc lang="fr">One friendly zoo keeper wants you to come along and meet all the exciting animals he's looking after, and learn a few things on the way, too! This cartoon for young children, encourages them to recognise and name a variety of animals, acquire basic vocabulary, and associate the sounds animals with the sounds that they make.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985095/wide_generic/h640" />
-  </programme>
-  <programme start="20261015195200 +0000" stop="20261015195400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Hubbi s'en charge</title>
-    <desc lang="fr">Où que nos trois bricoleurs aillent, ils travaillent de façon assidue. Aucun travail ne fait peur à Hubbiho le Rhinoceros, Matti le castor et son ami Milo. Ils obtiennent toujours le meilleur résultat sans prendre en compte leur adresse. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990636/wide_generic/h640" />
-  </programme>
-  <programme start="20261015195400 +0000" stop="20261015195800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Prée gaie</title>
-    <desc lang="fr">Venez voir avec nous nos petits amis. Deux lapins gais Sari et Nati vivent beaucoup de distraction. Et avec eux, il y aura deux beaux merles de la joyeuse prée qui vont se présenter. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990615/wide_generic/h640" />
-  </programme>
-  <programme start="20261015195800 +0000" stop="20261015200000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Raul</title>
-    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
-  </programme>
-  <programme start="20261015200000 +0000" stop="20261015200300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Prée gaie</title>
-    <desc lang="fr">Venez voir avec nous nos petits amis. Deux lapins gais Sari et Nati vivent beaucoup de distraction. Et avec eux, il y aura deux beaux merles de la joyeuse prée qui vont se présenter. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4990615/wide_generic/h640" />
-  </programme>
-  <programme start="20261015200300 +0000" stop="20261015200700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mimo et Bobo PLUS</title>
-    <desc lang="fr">Les caractères iconiques de ducktv tant aimés, Mimo et Bobo ont grandi et vivent la vie joyeuse et insouciante de l'âge préscolaire. Profitez de leurs aventures tout en permettant à vos enfants de développer leurs compétences sociales pendant qu'ils s'amusent à leur guise! </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2020</date>
-    <icon src="https://img2.oqee.net/pictures/4261695/wide_generic/h640" />
-  </programme>
-  <programme start="20261015200700 +0000" stop="20261015200900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mini contes</title>
-    <desc lang="fr">De courtes histoires des personnages des contes de fée: princesse, dragon, fées et petits génies. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983233/wide_generic/h640" />
-  </programme>
-  <programme start="20261015200900 +0000" stop="20261015201200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Mes jeux, mes amis</title>
-    <desc lang="fr">Regardez les histoires d'un petit ours et de ses jouets.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4983268/wide_generic/h640" />
-  </programme>
-  <programme start="20261015201200 +0000" stop="20261015201400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Ecoutez cela</title>
-    <desc lang="fr">Les enfants mettent en pair les divers animaux et instruments de musique en fonction des sons que ces derniers émettent.</desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985017/wide_generic/h640" />
-  </programme>
-  <programme start="20261015201400 +0000" stop="20261015201700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Comment nous voyageons</title>
-    <desc lang="fr">Nous suivons les divers voitures, comment elles fonctionnent, nous reconnaissons leur différentes parties ou nous écoutons les sons qu'elles émettent. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983227/wide_generic/h640" />
-  </programme>
-  <programme start="20261015201700 +0000" stop="20261015202000 +0000" channel="DuckTV.fr">
-    <title lang="fr">Maintenant, nous jouons</title>
-    <desc lang="fr">Nous jouons avec les membres et objets les plus proches de notre famille: mère et père, enfants sur l'aire de jeu, dessins et coloriage. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983241/wide_generic/h640" />
-  </programme>
-  <programme start="20261015202000 +0000" stop="20261015202200 +0000" channel="DuckTV.fr">
-    <title lang="fr">Raul</title>
-    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
-  </programme>
-  <programme start="20261015202200 +0000" stop="20261015202500 +0000" channel="DuckTV.fr">
-    <title lang="fr">Pompiers en action</title>
-    <desc lang="fr">Nos héros ont vécu diverses aventures. Dans la nouvelle série, Shorty, Roundy et Tally vont vivre de nouvelles expériences en sauvant et en aidant les autres. Découvrons une vie excitante des sapeurs-pompiers et apprenons à s'entr'aider.</desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2015</date>
-    <icon src="https://img1.oqee.net/pictures/4270646/wide_generic/h640" />
-  </programme>
-  <programme start="20261015202500 +0000" stop="20261015202800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Restaurant</title>
-    <desc lang="fr">Vous allez apprendre comment un restaurant fonctionne-t-il. De la préparation du plat jusqu'au lavage de la vaisselle. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2014</date>
-    <icon src="https://img2.oqee.net/pictures/4259403/wide_generic/h640" />
-  </programme>
-  <programme start="20261015202800 +0000" stop="20261015203100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Hubbi et ses amis</title>
-    <desc lang="fr">Hubbi - le bricoleur vit différentes aventures en réparant les chose qui sont constamment abîmées. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985067/wide_generic/h640" />
-  </programme>
-  <programme start="20261015203100 +0000" stop="20261015203400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Pompiers</title>
-    <desc lang="fr">Trois pompiers magnifiques aident à résoudre aux habitants de la ville les problèmes quotidiens. </desc>
-    <category lang="fr">Divers</category>
-    <category lang="fr">Emission jeunesse</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4990633/wide_generic/h640" />
-  </programme>
-  <programme start="20261015203400 +0000" stop="20261015203600 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde aquatique</title>
-    <desc lang="fr">Nous nous figurons les divers animaux exotiques tels que nous ne pouvons pas voir autour de notre maison.</desc>
+  <programme start="20261022164700 +0000" stop="20261022170000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Nasredine</title>
+    <desc lang="fr">Nasredine est un personnage mythique de la culture orientale, un individu rusé qui adore jouer des tours. Par sa logique imprévisible, Nasredine tourne en ridicule les vicissitudes de ce monde avec esprit et humour.</desc>
     <category lang="fr">Série</category>
-    <category lang="fr">Série jeunesse</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4257175/wide_generic/h640" />
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/1149299/wide_generic/h640" />
   </programme>
-  <programme start="20261015203600 +0000" stop="20261015203800 +0000" channel="DuckTV.fr">
-    <title lang="fr">Petits animaux</title>
-    <desc lang="fr">Venons avec nous dans une forêt, vous allez voir une partie sauvage. </desc>
-    <category lang="fr">Dessin animé</category>
-    <category lang="fr">Dessin animé</category>
-    <date>2015</date>
-    <icon src="https://img1.oqee.net/pictures/4254246/wide_generic/h640" />
-  </programme>
-  <programme start="20261015203800 +0000" stop="20261015204100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Amis</title>
-    <desc lang="fr">Les amis, un petit singe et un petit ours jouent les jeux les plus variés. </desc>
+  <programme start="20261022170000 +0000" stop="20261022170300 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Danse de Pitchoun</title>
+    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985049/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
   </programme>
-  <programme start="20261015204100 +0000" stop="20261015204400 +0000" channel="DuckTV.fr">
-    <title lang="fr">Monde aquatique</title>
-    <desc lang="fr">Nous nous figurons les divers animaux exotiques tels que nous ne pouvons pas voir autour de notre maison.</desc>
+  <programme start="20261022170300 +0000" stop="20261022170500 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">L'Agenda des Pitchouns</title>
+    <desc lang="fr">Toutes les sorties à faire en famille dans les jours qui viennent, ainsi que des bons plans à retrouver partout en France.</desc>
+    <category lang="fr">Magazine</category>
+    <category lang="fr">Magazine de société</category>
+    <icon src="https://img2.oqee.net/pictures/5039881/wide_generic/h640" />
+  </programme>
+  <programme start="20261022170500 +0000" stop="20261022172600 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Didou</title>
+    <desc lang="fr">Didou le petit lapin et son amie Yoko la coccinelle apprennent à dessiner aux enfants. Dès que le dessin est colorié, il devient réel comme par magie et les deux amis peuvent entrer dans la maison, ou monter dans une fusée.</desc>
     <category lang="fr">Série</category>
-    <category lang="fr">Série jeunesse</category>
-    <date>2016</date>
-    <icon src="https://img2.oqee.net/pictures/4257175/wide_generic/h640" />
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/4489350/wide_generic/h640" />
   </programme>
-  <programme start="20261015204400 +0000" stop="20261015204700 +0000" channel="DuckTV.fr">
-    <title lang="fr">Aventures spatiales</title>
-    <desc lang="fr">Les divers personnages fantastiques volant dans l'univers aident à construire la capacité de reconnaissance des enfants. </desc>
+  <programme start="20261022172600 +0000" stop="20261022174800 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Mouk</title>
+    <desc lang="fr">Découvrez Mouk et Chavapa, les deux jeunes globe-trotters avides d'aventure qui parcourent le monde à vélo dans Mouk !</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/4494433/wide_generic/h640" />
+  </programme>
+  <programme start="20261022174800 +0000" stop="20261022180000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Mon robot et moi</title>
+    <desc lang="fr">Eugène est un génie de la robotique qui a construit son propre robot appelé C.H.I.P. Accompagnés de ses meilleurs amis, Maia et Joseph, ils vivent ensemble des aventures rocambolesques dans leur école de robotique.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/4369649/wide_generic/h640" />
+  </programme>
+  <programme start="20261022180000 +0000" stop="20261022180300 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Danse de Pitchoun</title>
+    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4983263/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
   </programme>
-  <programme start="20261015204700 +0000" stop="20261015205100 +0000" channel="DuckTV.fr">
-    <title lang="fr">Ecoutez cela</title>
-    <desc lang="fr">Les enfants mettent en pair les divers animaux et instruments de musique en fonction des sons que ces derniers émettent.</desc>
+  <programme start="20261022180300 +0000" stop="20261022180800 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">La fabrique ludique</title>
+    <desc lang="fr">Découpez, collez, créez avec Clara, tous les jours sur TV Pitchoun ! Apprenez à fabriquer vos objets vous-mêmes avec les tutos de Clara \" Do It Yourself \".</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985017/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/5039884/wide_generic/h640" />
   </programme>
-  <programme start="20261015205100 +0000" stop="20261015205300 +0000" channel="DuckTV.fr">
-    <title lang="fr">Lola et les nombres</title>
-    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+  <programme start="20261022180800 +0000" stop="20261022183000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">64 rue du zoo</title>
+    <desc lang="fr">Lucie est une petite fille qui habite au 64 rue du Zoo, à quelques pas d'un zoo. Chaque nuit, elle y rejoint les animaux qui l'attendent impatiemment et écoute leurs histoires insolites de la vie sauvage.</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <icon src="https://img1.oqee.net/pictures/4494432/wide_generic/h640" />
+  </programme>
+  <programme start="20261022183000 +0000" stop="20261022185200 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Bienvenue à Paper Port</title>
+    <desc lang="fr">Mathilde est une jeune fille exceptionnelle ! Chaque matin, elle se réveille avec un nouveau pouvoir étonnant qui disparaît le lendemain... Il n'y a que Charlie, son meilleur ami, qui connait son secret. Ensemble, ils vont vivre d'incroyables aventures dans la ville portuaire de Paper Port.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/4494444/wide_generic/h640" />
+  </programme>
+  <programme start="20261022185200 +0000" stop="20261022190000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Rocket Jo</title>
+    <desc lang="fr">Rocket Jo est un inventeur et aviateur farfelu qui ne rêve que d'une chose : voler. Pour y arriver, il a construit un jet-pack à base d'éléments récupérés. Mais ses valeureuses tentatives se soldent toutes par un échec, pour notre plus grand bonheur à tous, puisqu'elles sont autant de gags, d'explosions, de chutes en tout genre!</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/4494447/wide_generic/h640" />
+  </programme>
+  <programme start="20261022190000 +0000" stop="20261022190300 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Danse de Pitchoun</title>
+    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
   </programme>
-  <programme start="20261015205300 +0000" stop="20261015205600 +0000" channel="DuckTV.fr">
-    <title lang="fr">ABC : duckBC</title>
-    <desc lang="fr">Savez-vous qui habite le bureau ? Stylo, Crayon, Cachet, Gomme et Pinceau qui rivalisent en écriture des petites lettres. Pendant que nos nouveaux amis nous montrent les divers styles d'écriture, nous reconnaissons les lettres de l'alphabet latin. </desc>
+  <programme start="20261022190300 +0000" stop="20261022190500 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">L'Agenda des Pitchouns</title>
+    <desc lang="fr">Toutes les sorties à faire en famille dans les jours qui viennent, ainsi que des bons plans à retrouver partout en France.</desc>
+    <category lang="fr">Magazine</category>
+    <category lang="fr">Magazine de société</category>
+    <icon src="https://img2.oqee.net/pictures/5039881/wide_generic/h640" />
+  </programme>
+  <programme start="20261022190500 +0000" stop="20261022193000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Mon robot et moi</title>
+    <desc lang="fr">Eugène est un génie de la robotique qui a construit son propre robot appelé C.H.I.P. Accompagnés de ses meilleurs amis, Maia et Joseph, ils vivent ensemble des aventures rocambolesques dans leur école de robotique.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/4369649/wide_generic/h640" />
+  </programme>
+  <programme start="20261022193000 +0000" stop="20261022200000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Corneil et Bernie</title>
+    <desc lang="fr">Corneil, un petit chien surdoué. Tout bascule le jour où ses riches propriétaires décident d'engager Bernie, un adolescent drôle et excentrique, comme \" dogsitter \". Celui-ci ne va pas tarder à découvrir le don de Corneil et le mettre à profit pour mener à bien ses plans les plus farfelus.</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <icon src="https://img1.oqee.net/pictures/205516/wide_generic/h640" />
+  </programme>
+  <programme start="20261022200000 +0000" stop="20261022200300 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Danse de Pitchoun</title>
+    <desc lang="fr">Avec Pitchoun, Juliana, Clara, Guillaume et Valentin, dans un décor gai et coloré, petits et grands apprennent à danser au rythme de la musique.</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4990610/wide_generic/h640" />
+    <icon src="https://img1.oqee.net/pictures/5039878/wide_generic/h640" />
   </programme>
-  <programme start="20261015205600 +0000" stop="20261015205900 +0000" channel="DuckTV.fr">
-    <title lang="fr">Finn et Fianna</title>
-    <desc lang="fr">Nos deux petits elfes Finn et Fianna découvrent leur environnement avec curiosité. Ils obtiennent de nouvelles connaissances en jouant et en percevant. Découvrons et connaissons d'essentielles propriétés des éléments et ses opposés dans notre milieu. </desc>
+  <programme start="20261022200300 +0000" stop="20261022201600 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Molang YouTuber</title>
+    <desc lang="fr">Molang et Piu Piu sont désormais des YouTubers ! Pincos, pour être encore plus à vos côtés, les deux meilleurs amis postent CHAQUE SEMAINE de nouveaux contenus, comme des vidéos "réaction", du gaming, de l'ASMR, des challenges, et bien plus encore</desc>
     <category lang="fr">Divers</category>
     <category lang="fr">Emission jeunesse</category>
-    <icon src="https://img1.oqee.net/pictures/4995434/wide_generic/h640" />
+    <icon src="https://img2.oqee.net/pictures/5039883/wide_generic/h640" />
+  </programme>
+  <programme start="20261022201600 +0000" stop="20261022203800 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Pirata &amp; Capitano</title>
+    <desc lang="fr">Pirata &amp; Capitano : Embarquez avec Pirata, son équipage et son meilleur ami Capitano ! Chaque virée en mer est l'occasion de chercher un trésor, de porter secours à une espèce en danger, de rencontrer de nouveaux amis ou de découvrir des îles mystérieuses. Une série sur l'entraide et le bien vivre ensemble en voguant sur le grand océan…alors, hissez les voiles et levez l'ancre, en route pour l'aventure !</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/491742/wide_generic/h640" />
+  </programme>
+  <programme start="20261022203800 +0000" stop="20261022204900 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Nasredine</title>
+    <desc lang="fr">Nasredine est un personnage mythique de la culture orientale, un individu rusé qui adore jouer des tours. Par sa logique imprévisible, Nasredine tourne en ridicule les vicissitudes de ce monde avec esprit et humour.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/1149299/wide_generic/h640" />
+  </programme>
+  <programme start="20261022204900 +0000" stop="20261022210000 +0000" channel="TVPitchoun.fr">
+    <title lang="fr">Bienvenue à Paper Port</title>
+    <desc lang="fr">Mathilde est une jeune fille exceptionnelle ! Chaque matin, elle se réveille avec un nouveau pouvoir étonnant qui disparaît le lendemain... Il n'y a que Charlie, son meilleur ami, qui connait son secret. Ensemble, ils vont vivre d'incroyables aventures dans la ville portuaire de Paper Port.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img1.oqee.net/pictures/4494444/wide_generic/h640" />
   </programme>
   <programme start="20261015205900 +0000" stop="20261015210100 +0000" channel="DuckTV.fr">
     <title lang="fr">Canard et ses amis</title>
@@ -129828,6 +129182,660 @@
     <category lang="fr">Emission jeunesse</category>
     <icon src="https://img2.oqee.net/pictures/4990625/wide_generic/h640" />
   </programme>
+  <programme start="20261022170000 +0000" stop="20261022170200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Tempo Giusto</title>
+    <desc lang="fr">Learning about time can be hard, but Tempo Giusto makes it so much fun. Go on an adventure with Henry and Lola as they introduce you to the basics concepts of time, help you develop your pre-math skills and teach you about the sequencing of events. Lola uses her love of numbers to tell the time whilst Henry uses his amazing storytelling skills to show us what kids get up to at different times of the day.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990617/wide_generic/h640" />
+  </programme>
+  <programme start="20261022170200 +0000" stop="20261022170500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cubie</title>
+    <desc lang="fr">Cubie est le chef de chantier. Il a toujours d'excellentes idées de nouvelles constructions. Ses camarades sont des chats joueurs et joyeux, qui aiment construire et aussi beaucoup inventer. Ils ont parfois besoin d'aide et le scrupuleux Cubie n'est donc pas très loin. Il conseille les chats et ils maîtrisent ensemble chaque édifice. Et vous, y arriverez-vous? </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2020</date>
+    <icon src="https://img1.oqee.net/pictures/4270642/wide_generic/h640" />
+  </programme>
+  <programme start="20261022170500 +0000" stop="20261022170700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petits, mais adroits</title>
+    <desc lang="fr">Trois petits génies construisent d'objets fantastiques à partir du bois et de la glace. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990589/wide_generic/h640" />
+  </programme>
+  <programme start="20261022170700 +0000" stop="20261022171000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cubie</title>
+    <desc lang="fr">Cubie est le chef de chantier. Il a toujours d'excellentes idées de nouvelles constructions. Ses camarades sont des chats joueurs et joyeux, qui aiment construire et aussi beaucoup inventer. Ils ont parfois besoin d'aide et le scrupuleux Cubie n'est donc pas très loin. Il conseille les chats et ils maîtrisent ensemble chaque édifice. Et vous, y arriverez-vous? </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2020</date>
+    <icon src="https://img1.oqee.net/pictures/4270642/wide_generic/h640" />
+  </programme>
+  <programme start="20261022171000 +0000" stop="20261022171200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Poupées</title>
+    <desc lang="fr">Les poupées en fleurs, petit ours et petit kangourou vont vous apprendre quelque chose sur la nature. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990622/wide_generic/h640" />
+  </programme>
+  <programme start="20261022171200 +0000" stop="20261022171400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Canard et Duveteux</title>
+    <desc lang="fr">La famille canard va se compléter d'un nouveau membre. Avec l'arrivée de son frère cadet Duveteux, Ducky est exposée à un nombre important de nouvelles situations et d'émotions. Viens jeter un coup d'oeil dans leur vie et découvre tous leurs moments heureux ou encore ceux de bagarre. Des pédopsychologues contribuent à la réalisation des histoires de sorte que ces dernières aident les enfants à s'adapter à l'arrivée d'une soeur ou d'un frère. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4995430/wide_generic/h640" />
+  </programme>
+  <programme start="20261022171400 +0000" stop="20261022171600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Hop-hop</title>
+    <desc lang="fr">Nous sautons tout autour avec une famille gentille des lapins. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985063/wide_generic/h640" />
+  </programme>
+  <programme start="20261022171600 +0000" stop="20261022171900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Margo et Felix</title>
+    <desc lang="fr">Découvrez la vie quotidienne de deux marionnettes animales adorables. Deux amis ont une belle maison avec un petit jardin autour de laquelle ils travaillent comme le font les parents et jouent comme le font nos petits téléspectateurs. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985074/wide_generic/h640" />
+  </programme>
+  <programme start="20261022171900 +0000" stop="20261022172200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petits, mais adroits</title>
+    <desc lang="fr">Trois petits génies construisent d'objets fantastiques à partir du bois et de la glace. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990589/wide_generic/h640" />
+  </programme>
+  <programme start="20261022172200 +0000" stop="20261022172500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petit train</title>
+    <desc lang="fr">Le conducteur de train et son train conduisent chacun dans sa destination. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990623/wide_generic/h640" />
+  </programme>
+  <programme start="20261022172500 +0000" stop="20261022172700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Pompiers</title>
+    <desc lang="fr">Trois pompiers magnifiques aident à résoudre aux habitants de la ville les problèmes quotidiens. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <date>2016</date>
+    <icon src="https://img2.oqee.net/pictures/4990633/wide_generic/h640" />
+  </programme>
+  <programme start="20261022172700 +0000" stop="20261022173000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Raul</title>
+    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
+  </programme>
+  <programme start="20261022173000 +0000" stop="20261022173300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261022173300 +0000" stop="20261022173500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Mimo et Bobo</title>
+    <desc lang="fr">Entre autres, une panda sympathique et son ami fidèle, un petit singe Bobo montreront aux enfants l'univers par l'intermédiaire de leurs aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990582/wide_generic/h640" />
+  </programme>
+  <programme start="20261022173500 +0000" stop="20261022173800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Raul</title>
+    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
+  </programme>
+  <programme start="20261022173800 +0000" stop="20261022174000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Où suis-je, je suis là, je te vois !</title>
+    <desc lang="fr">Où suis-je, je suis là, je te vois ! montre les aventures de deux amis imaginaires Kukuk-Rose et Kukuk-Bleu qui jouent à cache-cache. Leur vie est pleine de jeux et de sourire. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985065/wide_generic/h640" />
+  </programme>
+  <programme start="20261022174000 +0000" stop="20261022174300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Zoo</title>
+    <desc lang="fr">One friendly zoo keeper wants you to come along and meet all the exciting animals he's looking after, and learn a few things on the way, too! This cartoon for young children, encourages them to recognise and name a variety of animals, acquire basic vocabulary, and associate the sounds animals with the sounds that they make.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985095/wide_generic/h640" />
+  </programme>
+  <programme start="20261022174300 +0000" stop="20261022174500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cactus Hipp-hopp</title>
+    <desc lang="fr">Que font les abeilles et ses amies fleurs folâtres quand il n'y a personne à la maison? </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990580/wide_generic/h640" />
+  </programme>
+  <programme start="20261022174500 +0000" stop="20261022174900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Modelage</title>
+    <desc lang="fr">Les figures sympathiques souriantes, se présente par l'intermédiaire de la création des figures les plus variées. </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <icon src="https://img2.oqee.net/pictures/4244905/wide_generic/h640" />
+  </programme>
+  <programme start="20261022174900 +0000" stop="20261022175100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Sons autour de nous</title>
+    <desc lang="fr">Le monde est plein de bruits bizarres ou étranges. Liza et Ben, les jumeaux elfe nous aident à identifier les sources de sons que nous entendons de jour en jour. Que ce soit quelque chose d'une cloche de vélo à travers le bip d'un dispositif pour les fissures drôles sur le nettoyage des vitres. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990611/wide_generic/h640" />
+  </programme>
+  <programme start="20261022175100 +0000" stop="20261022175400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Restaurant</title>
+    <desc lang="fr">Vous allez apprendre comment un restaurant fonctionne-t-il. De la préparation du plat jusqu'au lavage de la vaisselle. </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2014</date>
+    <icon src="https://img2.oqee.net/pictures/4259403/wide_generic/h640" />
+  </programme>
+  <programme start="20261022175400 +0000" stop="20261022175600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Histoires à Henry</title>
+    <desc lang="fr">Henry loves telling stories, but he needs your help to make sure it's all in the correct order. Follow Henry in these silent animated shorts as he constructs stories with the help of his handy picture cards. Teach your children about logical thinking and deductive reasoning as you narrate the sequences together and solve his picture puzzles to see the story come to life.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990600/wide_generic/h640" />
+  </programme>
+  <programme start="20261022175600 +0000" stop="20261022175800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Hop-hop</title>
+    <desc lang="fr">Nous sautons tout autour avec une famille gentille des lapins. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985063/wide_generic/h640" />
+  </programme>
+  <programme start="20261022175800 +0000" stop="20261022180200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cactus Hipp-hopp</title>
+    <desc lang="fr">Que font les abeilles et ses amies fleurs folâtres quand il n'y a personne à la maison? </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990580/wide_generic/h640" />
+  </programme>
+  <programme start="20261022180200 +0000" stop="20261022180500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petit train</title>
+    <desc lang="fr">Le conducteur de train et son train conduisent chacun dans sa destination. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990623/wide_generic/h640" />
+  </programme>
+  <programme start="20261022180500 +0000" stop="20261022180700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261022180700 +0000" stop="20261022181000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Modelage</title>
+    <desc lang="fr">Les figures sympathiques souriantes, se présente par l'intermédiaire de la création des figures les plus variées. </desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <icon src="https://img2.oqee.net/pictures/4244905/wide_generic/h640" />
+  </programme>
+  <programme start="20261022181000 +0000" stop="20261022181300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Bébé Didy</title>
+    <desc lang="fr">Les histoires des petits animaux qui apprennent à s'entr'aider. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990587/wide_generic/h640" />
+  </programme>
+  <programme start="20261022181300 +0000" stop="20261022181600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Afrique</title>
+    <desc lang="fr">Nous allons nous présenter les animaux venant de l'Afrique et nous allons jouer avec eux. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990585/wide_generic/h640" />
+  </programme>
+  <programme start="20261022181600 +0000" stop="20261022181900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Zoo</title>
+    <desc lang="fr">One friendly zoo keeper wants you to come along and meet all the exciting animals he's looking after, and learn a few things on the way, too! This cartoon for young children, encourages them to recognise and name a variety of animals, acquire basic vocabulary, and associate the sounds animals with the sounds that they make.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985095/wide_generic/h640" />
+  </programme>
+  <programme start="20261022181900 +0000" stop="20261022182200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Pompiers</title>
+    <desc lang="fr">Trois pompiers magnifiques aident à résoudre aux habitants de la ville les problèmes quotidiens. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <date>2016</date>
+    <icon src="https://img2.oqee.net/pictures/4990633/wide_generic/h640" />
+  </programme>
+  <programme start="20261022182200 +0000" stop="20261022182400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Poupées, équipe de secours</title>
+    <desc lang="fr">Bell et ses amis, Fido le kangourou et Lilo l'ourson, sauvent les habitants désespérés de la forêt. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990622/wide_generic/h640" />
+  </programme>
+  <programme start="20261022182400 +0000" stop="20261022182700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petits, mais adroits</title>
+    <desc lang="fr">Trois petits génies construisent d'objets fantastiques à partir du bois et de la glace. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990589/wide_generic/h640" />
+  </programme>
+  <programme start="20261022182700 +0000" stop="20261022182900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Figures en mouvement</title>
+    <desc lang="fr">This wonderful and entertaining animated programme for babies and preschoolers reveals the amazing concept of contrast. Children are introduced to different shapes and colours through beautiful contrasting images and animations. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4995432/wide_generic/h640" />
+  </programme>
+  <programme start="20261022182900 +0000" stop="20261022183100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cactus Hipp-hopp</title>
+    <desc lang="fr">Que font les abeilles et ses amies fleurs folâtres quand il n'y a personne à la maison? </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990580/wide_generic/h640" />
+  </programme>
+  <programme start="20261022183100 +0000" stop="20261022183500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Afrique</title>
+    <desc lang="fr">Nous allons nous présenter les animaux venant de l'Afrique et nous allons jouer avec eux. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990585/wide_generic/h640" />
+  </programme>
+  <programme start="20261022183500 +0000" stop="20261022183700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Zoo</title>
+    <desc lang="fr">One friendly zoo keeper wants you to come along and meet all the exciting animals he's looking after, and learn a few things on the way, too! This cartoon for young children, encourages them to recognise and name a variety of animals, acquire basic vocabulary, and associate the sounds animals with the sounds that they make.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985095/wide_generic/h640" />
+  </programme>
+  <programme start="20261022183700 +0000" stop="20261022184000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Margo et Felix</title>
+    <desc lang="fr">Découvrez la vie quotidienne de deux marionnettes animales adorables. Deux amis ont une belle maison avec un petit jardin autour de laquelle ils travaillent comme le font les parents et jouent comme le font nos petits téléspectateurs. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985074/wide_generic/h640" />
+  </programme>
+  <programme start="20261022184000 +0000" stop="20261022184300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Je veux savoir, moi aussi!</title>
+    <desc lang="fr">Deux amis, Kiteko la girafe folle et Umi la sarigue joueuse découvrent la vie quotidienne des tout petits enfants. Ils peuvent apprendre beaucoup de leur part: les activités quotidiennes, les excursions d'aventure et la création de la distraction en jouant. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985071/wide_generic/h640" />
+  </programme>
+  <programme start="20261022184300 +0000" stop="20261022184700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Poupées</title>
+    <desc lang="fr">Les poupées en fleurs, petit ours et petit kangourou vont vous apprendre quelque chose sur la nature. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990622/wide_generic/h640" />
+  </programme>
+  <programme start="20261022184700 +0000" stop="20261022185100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Sippi Sappi</title>
+    <desc lang="fr">Les histoires pleines de détente des deux petits animaux sur les rollers.</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2016</date>
+    <icon src="https://img2.oqee.net/pictures/4244909/wide_generic/h640" />
+  </programme>
+  <programme start="20261022185100 +0000" stop="20261022185300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261022185300 +0000" stop="20261022185500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Sons autour de nous</title>
+    <desc lang="fr">Le monde est plein de bruits bizarres ou étranges. Liza et Ben, les jumeaux elfe nous aident à identifier les sources de sons que nous entendons de jour en jour. Que ce soit quelque chose d'une cloche de vélo à travers le bip d'un dispositif pour les fissures drôles sur le nettoyage des vitres. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990611/wide_generic/h640" />
+  </programme>
+  <programme start="20261022185500 +0000" stop="20261022185800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Prée gaie</title>
+    <desc lang="fr">Venez voir avec nous nos petits amis. Deux lapins gais Sari et Nati vivent beaucoup de distraction. Et avec eux, il y aura deux beaux merles de la joyeuse prée qui vont se présenter. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990615/wide_generic/h640" />
+  </programme>
+  <programme start="20261022185800 +0000" stop="20261022190000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Aventures de canards</title>
+    <desc lang="fr">Every day is a different adventure for Ducky! This animated show for very young children lets toddlers and pre-schoolers to join Ducky and learn through daily activities. This series is brought to you by DuckTV, which works with child psychologists in creating programmes for babies and toddlers. Ducky Adventures has been designed to help your child develop their observational skills whilst also letting them use their imagination and creativity. This cartoon can be used as a conversation starter for the little ones in your life: you can talk to toddlers about their thoughts and opinions on the activities you've seen in the programme or the things that happen in your toddler's life.</desc>
+    <category lang="fr">Série</category>
+    <category lang="fr">Série d'animation</category>
+    <icon src="https://img2.oqee.net/pictures/4261653/wide_generic/h640" />
+  </programme>
+  <programme start="20261022190000 +0000" stop="20261022190100 +0000" channel="DuckTV.fr">
+    <title lang="fr">C'est sur quel arbre</title>
+    <desc lang="fr">C'est sur quel arbre explique comment poussent les fruits, les légumes et les autres plantes. Des grains se développent les plants, puis c'est la danse des fleurs, des feuilles et des fruits pour vous amuser. Avant de vous dire au revoir, les plantes vont vous montrer comment nous, les humains profitons de leurs odeurs et de leurs arômes. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990619/wide_generic/h640" />
+  </programme>
+  <programme start="20261022190100 +0000" stop="20261022190200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Les Lutins-nature</title>
+    <desc lang="fr">Les Lutins-nature expliquent le changement des saisons mais aussi comment les animaux et les plantes profitent de la météo et de la nature tout au long de l'année. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4985070/wide_generic/h640" />
+  </programme>
+  <programme start="20261022190200 +0000" stop="20261022190400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Hubbi et ses amis</title>
+    <desc lang="fr">Hubbi - le bricoleur vit différentes aventures en réparant les chose qui sont constamment abîmées. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985067/wide_generic/h640" />
+  </programme>
+  <programme start="20261022190400 +0000" stop="20261022190700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Toby McFly</title>
+    <desc lang="fr">Petit chien pilote, Toby McFly nous montre comment se présente le monde vu de dessus. Il survole de beaux paysages naturels, des animaux, des personnes et divers endroits intéressants. Après les avoir admirés depuis les altitudes, il atterrit avec son avion pour nous montrer de près ce qu'il a vu de là-haut. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985061/wide_generic/h640" />
+  </programme>
+  <programme start="20261022190700 +0000" stop="20261022191000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde des animaux</title>
+    <desc lang="fr">Les enfants prennent connaissance des animaux domestiques et sauvages pour apprendre à les reconnaître lors de leur visites du ZOO ou d'une ferme. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985045/wide_generic/h640" />
+  </programme>
+  <programme start="20261022191000 +0000" stop="20261022191200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petits castors</title>
+    <desc lang="fr">Venez voir comment vit une famille des castors. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983230/wide_generic/h640" />
+  </programme>
+  <programme start="20261022191200 +0000" stop="20261022191500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Bonshommes en légumes</title>
+    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2017</date>
+    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
+  </programme>
+  <programme start="20261022191500 +0000" stop="20261022191700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Moyens de transport</title>
+    <desc lang="fr">Voitures, bateaux, montgolfière, ovnis- tous cela s'anime dans nos histoires.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983255/wide_generic/h640" />
+  </programme>
+  <programme start="20261022191700 +0000" stop="20261022192000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20261022192000 +0000" stop="20261022192300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Inde</title>
+    <desc lang="fr">Un garçon de l'Inde et son Éléphant vont vous présenter leur pays exotique. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983266/wide_generic/h640" />
+  </programme>
+  <programme start="20261022192300 +0000" stop="20261022192500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261022192500 +0000" stop="20261022192700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Hubbi et ses amis</title>
+    <desc lang="fr">Hubbi - le bricoleur vit différentes aventures en réparant les chose qui sont constamment abîmées. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985067/wide_generic/h640" />
+  </programme>
+  <programme start="20261022192700 +0000" stop="20261022192900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261022192900 +0000" stop="20261022193200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Hubbi et ses amis</title>
+    <desc lang="fr">Hubbi - le bricoleur vit différentes aventures en réparant les chose qui sont constamment abîmées. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985067/wide_generic/h640" />
+  </programme>
+  <programme start="20261022193200 +0000" stop="20261022193400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Hubbi et ses amis</title>
+    <desc lang="fr">Hubbi - le bricoleur vit différentes aventures en réparant les chose qui sont constamment abîmées. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985067/wide_generic/h640" />
+  </programme>
+  <programme start="20261022193400 +0000" stop="20261022193600 +0000" channel="DuckTV.fr">
+    <title lang="fr">C'est sur quel arbre</title>
+    <desc lang="fr">C'est sur quel arbre explique comment poussent les fruits, les légumes et les autres plantes. Des grains se développent les plants, puis c'est la danse des fleurs, des feuilles et des fruits pour vous amuser. Avant de vous dire au revoir, les plantes vont vous montrer comment nous, les humains profitons de leurs odeurs et de leurs arômes. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4990619/wide_generic/h640" />
+  </programme>
+  <programme start="20261022193600 +0000" stop="20261022193800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Moyens de transport</title>
+    <desc lang="fr">Voitures, bateaux, montgolfière, ovnis- tous cela s'anime dans nos histoires.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983255/wide_generic/h640" />
+  </programme>
+  <programme start="20261022193800 +0000" stop="20261022194100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20261022194100 +0000" stop="20261022194300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Safari</title>
+    <desc lang="fr">Prise des connaissances de l'environnement où vivent les petits animaux.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983259/wide_generic/h640" />
+  </programme>
+  <programme start="20261022194300 +0000" stop="20261022194600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20261022194600 +0000" stop="20261022194800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20261022194800 +0000" stop="20261022195200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cercles en couleurs</title>
+    <desc lang="fr">Un bébé chien utilise les couleurs afin de trouver son ami perdu. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983226/wide_generic/h640" />
+  </programme>
+  <programme start="20261022195200 +0000" stop="20261022195400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261022195400 +0000" stop="20261022195700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Raul</title>
+    <desc lang="fr">Deux bons copains - petit rhinocéros Raul et petit oiseau vivent d'incroyables aventures. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985079/wide_generic/h640" />
+  </programme>
+  <programme start="20261022195700 +0000" stop="20261022195900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Poupées</title>
+    <desc lang="fr">Les poupées en fleurs, petit ours et petit kangourou vont vous apprendre quelque chose sur la nature. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990622/wide_generic/h640" />
+  </programme>
+  <programme start="20261022195900 +0000" stop="20261022200300 +0000" channel="DuckTV.fr">
+    <title lang="fr">Hubbi s'en charge</title>
+    <desc lang="fr">Où que nos trois bricoleurs aillent, ils travaillent de façon assidue. Aucun travail ne fait peur à Hubbiho le Rhinoceros, Matti le castor et son ami Milo. Ils obtiennent toujours le meilleur résultat sans prendre en compte leur adresse. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990636/wide_generic/h640" />
+  </programme>
+  <programme start="20261022200300 +0000" stop="20261022200700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Dotty et Kitty</title>
+    <desc lang="fr">Le crayon Dotty pointille le dessin, le petit chat Kitty les relie.</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <icon src="https://img2.oqee.net/pictures/4252201/wide_generic/h640" />
+  </programme>
+  <programme start="20261022200700 +0000" stop="20261022201000 +0000" channel="DuckTV.fr">
+    <title lang="fr">Pompiers en action</title>
+    <desc lang="fr">Nos héros ont vécu diverses aventures. Dans la nouvelle série, Shorty, Roundy et Tally vont vivre de nouvelles expériences en sauvant et en aidant les autres. Découvrons une vie excitante des sapeurs-pompiers et apprenons à s'entr'aider.</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2015</date>
+    <icon src="https://img1.oqee.net/pictures/4270646/wide_generic/h640" />
+  </programme>
+  <programme start="20261022201000 +0000" stop="20261022201200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Village ensoleillé</title>
+    <desc lang="fr">La vie quotidienne d'un village ensoleillé- Messieurs chameau, chien, une famille de raton laveur, un petit Chat, un cochon amical... </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983249/wide_generic/h640" />
+  </programme>
+  <programme start="20261022201200 +0000" stop="20261022201500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Amis</title>
+    <desc lang="fr">Les amis, un petit singe et un petit ours jouent les jeux les plus variés. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985049/wide_generic/h640" />
+  </programme>
+  <programme start="20261022201500 +0000" stop="20261022201700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Bonshommes en légumes</title>
+    <desc lang="fr">Venez voir de plus près légumes et fruits, vos amis formidables...</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2017</date>
+    <icon src="https://img1.oqee.net/pictures/4254250/wide_generic/h640" />
+  </programme>
+  <programme start="20261022201700 +0000" stop="20261022201900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Moyens de transport</title>
+    <desc lang="fr">Voitures, bateaux, montgolfière, ovnis- tous cela s'anime dans nos histoires.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983255/wide_generic/h640" />
+  </programme>
+  <programme start="20261022201900 +0000" stop="20261022202200 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde des Elfes</title>
+    <desc lang="fr">Vous allez vivre d'incroyables aventures avec les elfes. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983252/wide_generic/h640" />
+  </programme>
+  <programme start="20261022202200 +0000" stop="20261022202500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Maintenant, nous jouons</title>
+    <desc lang="fr">Nous jouons avec les membres et objets les plus proches de notre famille: mère et père, enfants sur l'aire de jeu, dessins et coloriage. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983241/wide_generic/h640" />
+  </programme>
+  <programme start="20261022202500 +0000" stop="20261022202700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Art à Leon</title>
+    <desc lang="fr">Duck tv has a strong educational aspect. Each series stimulates imagination and creativity thanks to fun characters, colorful graphics, and attention-getting rhythms to entertain the little viewers. Join Leon, the bear as he draws and paints friends for himself to play with. What are his painted friends today? The bear helps to encourage imagination and develop basic visual and motor skills. A whole family can paint together for the perfect bonding activity of parents and children.</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <date>2015</date>
+    <icon src="https://img1.oqee.net/pictures/4274044/wide_generic/h640" />
+  </programme>
+  <programme start="20261022202700 +0000" stop="20261022203100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Cactus Hipp-hopp</title>
+    <desc lang="fr">Que font les abeilles et ses amies fleurs folâtres quand il n'y a personne à la maison? </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990580/wide_generic/h640" />
+  </programme>
+  <programme start="20261022203100 +0000" stop="20261022203400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Toby McFly</title>
+    <desc lang="fr">Petit chien pilote, Toby McFly nous montre comment se présente le monde vu de dessus. Il survole de beaux paysages naturels, des animaux, des personnes et divers endroits intéressants. Après les avoir admirés depuis les altitudes, il atterrit avec son avion pour nous montrer de près ce qu'il a vu de là-haut. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985061/wide_generic/h640" />
+  </programme>
+  <programme start="20261022203400 +0000" stop="20261022203600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Hubbi s'en charge</title>
+    <desc lang="fr">Où que nos trois bricoleurs aillent, ils travaillent de façon assidue. Aucun travail ne fait peur à Hubbiho le Rhinoceros, Matti le castor et son ami Milo. Ils obtiennent toujours le meilleur résultat sans prendre en compte leur adresse. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990636/wide_generic/h640" />
+  </programme>
+  <programme start="20261022203600 +0000" stop="20261022203900 +0000" channel="DuckTV.fr">
+    <title lang="fr">Zoo</title>
+    <desc lang="fr">One friendly zoo keeper wants you to come along and meet all the exciting animals he's looking after, and learn a few things on the way, too! This cartoon for young children, encourages them to recognise and name a variety of animals, acquire basic vocabulary, and associate the sounds animals with the sounds that they make.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985095/wide_generic/h640" />
+  </programme>
+  <programme start="20261022203900 +0000" stop="20261022204100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Maintenant, nous jouons</title>
+    <desc lang="fr">Nous jouons avec les membres et objets les plus proches de notre famille: mère et père, enfants sur l'aire de jeu, dessins et coloriage. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983241/wide_generic/h640" />
+  </programme>
+  <programme start="20261022204100 +0000" stop="20261022204500 +0000" channel="DuckTV.fr">
+    <title lang="fr">Petits castors</title>
+    <desc lang="fr">Venez voir comment vit une famille des castors. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4983230/wide_generic/h640" />
+  </programme>
+  <programme start="20261022204500 +0000" stop="20261022204800 +0000" channel="DuckTV.fr">
+    <title lang="fr">Ecoutez cela</title>
+    <desc lang="fr">Les enfants mettent en pair les divers animaux et instruments de musique en fonction des sons que ces derniers émettent.</desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985017/wide_generic/h640" />
+  </programme>
+  <programme start="20261022204800 +0000" stop="20261022205100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Aventures spatiales</title>
+    <desc lang="fr">Les divers personnages fantastiques volant dans l'univers aident à construire la capacité de reconnaissance des enfants. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4983263/wide_generic/h640" />
+  </programme>
+  <programme start="20261022205100 +0000" stop="20261022205400 +0000" channel="DuckTV.fr">
+    <title lang="fr">Monde des animaux</title>
+    <desc lang="fr">Les enfants prennent connaissance des animaux domestiques et sauvages pour apprendre à les reconnaître lors de leur visites du ZOO ou d'une ferme. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985045/wide_generic/h640" />
+  </programme>
+  <programme start="20261022205400 +0000" stop="20261022205600 +0000" channel="DuckTV.fr">
+    <title lang="fr">Lola et les nombres</title>
+    <desc lang="fr">Lola, une petite fille joueuse qui ne s'arrête jamais, est toujours prête à compter avec ses amis les nombres 1 à 10. Venons compter avec eux ! </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img2.oqee.net/pictures/4985075/wide_generic/h640" />
+  </programme>
+  <programme start="20261022205600 +0000" stop="20261022205700 +0000" channel="DuckTV.fr">
+    <title lang="fr">Un nid douillet</title>
+    <desc lang="fr">Dans les contes d'Un nid douillet on rencontre les petits animaux bien connus des bambins, les héros découvrent leur entourage pour retourner à leurs familles et y câliner leurs proches bien aimés. </desc>
+    <category lang="fr">Divers</category>
+    <category lang="fr">Emission jeunesse</category>
+    <icon src="https://img1.oqee.net/pictures/4990614/wide_generic/h640" />
+  </programme>
+  <programme start="20261022205700 +0000" stop="20261022210100 +0000" channel="DuckTV.fr">
+    <title lang="fr">Dotty et Kitty</title>
+    <desc lang="fr">Le crayon Dotty pointille le dessin, le petit chat Kitty les relie.</desc>
+    <category lang="fr">Dessin animé</category>
+    <category lang="fr">Dessin animé</category>
+    <icon src="https://img2.oqee.net/pictures/4252201/wide_generic/h640" />
+  </programme>
   <programme start="20261015060000 +0100" stop="20261015060200 +0100" channel="Watania1.tn">
     <title lang="ar">النشيد الرسمي</title>
     <desc lang="ar">النشيد الرسمي</desc>
@@ -130118,86 +130126,6 @@
     <desc lang="ar">فقرة غنائية: أم كلثوم</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-gqhUqA7F.jpg" />
   </programme>
-  <programme channel="ADN.fr" start="20261015161500 +0000" stop="20261015164500 +0000">
-    <title>Monster</title>
-    <desc>La pluie tombe sans discontinuer sur la ville de Ruhenheim. Les intempéries ont provoqué la crue …</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_494618449_10_20240606T162348421Z_120.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261015164500 +0000" stop="20261015170000 +0000">
-    <title>Psycho Pass</title>
-    <desc>Makishima ne cesse de donner du fil a retordre à la Brigade Criminelle, avec ses sbires il s'amus…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488764787_5_20240222T152337902Z_26.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261015170000 +0000" stop="20261015173000 +0000">
-    <title>Psycho Pass</title>
-    <desc>Shôgo Makishima a enfin été arrêté par la Brigade Criminelle du ministère des Affaires Sociales. …</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488764830_5_20240222T152336800Z_29.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261015173000 +0000" stop="20261015174500 +0000">
-    <title>Psycho Pass</title>
-    <desc>Sibylle cacherait donc bel et bien un secret, avec Makishima de nouveau en liberté la menace s'in…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488706198_4_20240220T183717900Z_115.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261015174500 +0000" stop="20261015181500 +0000">
-    <title>Psycho Pass</title>
-    <desc>Il reste cinq jours avant la restauration du réseau de surveillance du Système Sibylle. Certain q…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488706199_1_20240220T183713181Z_91.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261015181500 +0000" stop="20261015183000 +0000">
-    <title>Dan da Dan</title>
-    <desc>La situation est critique dans le village de Jiji. Momo se fait attaquer dans les bains par un gr…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1669977687_1_20260303T184850811Z_47_imageprocessorclient-tvplus-linear-85d7d49859-sb69g.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261015183000 +0000" stop="20261015190000 +0000">
-    <title>Dan da Dan</title>
-    <desc>La maison de Jiji est en réalité construite sur un ancien autel dédié aux sacrifices humains, afi…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1669967287_1_20260303T184841812Z_128_imageprocessorclient-tvplus-linear-85d7d49859-sb69g.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261015190000 +0000" stop="20261015193000 +0000">
-    <title>Dan da Dan</title>
-    <desc>Jiji prend conscience que l'esprit qui le hantait ne lui voulait peut-être pas de mal. En accepta…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1670033706_1_20260303T184839751Z_129_imageprocessorclient-tvplus-linear-85d7d49859-sb69g.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261015193000 +0000" stop="20261015194500 +0000">
-    <title>Dan da Dan</title>
-    <desc>Alors que tout semblait gagné, voilà que le volcan aux abords du village entre en éruption ! Momo…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1669950442_0_20260303T184843766Z_111_imageprocessorclient-tvplus-linear-85d7d49859-7ft59.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261015194500 +0000" stop="20261015201500 +0000">
-    <title>GTO</title>
-    <desc>Suite à la visite de madame Ota, Onizuka n'est pas loin du renvoi. On lui accorde toutefois un de…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_504888033_0_20240912T162258649Z_22_imageprocessorclient-tvplus-linear-7cd5d896cc-zljw4.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="ADN.fr" start="20261015201500 +0000" stop="20261015204500 +0000">
     <title>GTO</title>
     <desc>Alors qu'il doit passer un examen important pour assurer sa carrière de professeur, Onizuka est t…</desc>
@@ -130234,6 +130162,78 @@
     <title>Hajime no Ippo : The Fighting!</title>
     <desc>Ippo broie du noir : l'état de son poing le prive de la finale contre Sendô... Alors qu'il aide s…</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_501388042_1_20240808T172903490Z_1_imageprocessorclient-tvplus-linear-64ff86dd75-sd29b.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261015223000 +0000" stop="20261015230000 +0000">
+    <title>Hajime no Ippo : The Fighting!</title>
+    <desc>À l'approche de la finale nationale du tournoi Jeunes Pro, Fujii, journaliste au magazine « Boxin…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_501386538_0_20240808T172907147Z_19_imageprocessorclient-tvplus-linear-64ff86dd75-rwbhq.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261015230000 +0000" stop="20261015233000 +0000">
+    <title>Hajime no Ippo : The Fighting!</title>
+    <desc>Ippo, arrivé à Osaka pour disputer la finale contre Sendô, se livre à un sparring afin de procéde…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_501386577_0_20240808T172906963Z_44_imageprocessorclient-tvplus-linear-64ff86dd75-rwbhq.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261015233000 +0000" stop="20261015234500 +0000">
+    <title>Hajime no Ippo : The Fighting!</title>
+    <desc>Dans cette finale opposant deux cogneurs au punch destructeurs, c'est Ippo qui domine à la fin du…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_501388837_0_20240808T172906963Z_32_imageprocessorclient-tvplus-linear-64ff86dd75-rwbhq.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261015234500 +0000" stop="20261016001500 +0000">
+    <title>Hajime no Ippo : The Fighting!</title>
+    <desc>Le Kôrakuen Hall vibre au rythme des échanges entre les deux finalistes qui commencent à sentir l…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_501388291_0_20240808T172903472Z_43_imageprocessorclient-tvplus-linear-64ff86dd75-rwbhq.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261016001500 +0000" stop="20261016004500 +0000">
+    <title>Hajime no Ippo : The Fighting!</title>
+    <desc>Venu au Kôrakuen Hall assister aux combats des membres du club Kamogawa, Ippo tombe au détour d'u…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_501387452_0_20240808T172906963Z_22_imageprocessorclient-tvplus-linear-64ff86dd75-rwbhq.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261016004500 +0000" stop="20261016011500 +0000">
+    <title>Hajime no Ippo : The Fighting!</title>
+    <desc>Accompagné de Vomichi, nouvelle recrue du club Kamogawa, Ippo s'est rendu au club Nakadai pour un…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_501388509_0_20240808T172906965Z_20_imageprocessorclient-tvplus-linear-64ff86dd75-rwbhq.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261016011500 +0000" stop="20261016013000 +0000">
+    <title>Urusei Yatsura (2022)</title>
+    <desc>Après Ran, l'amie d'enfance de Lamu, c'est au tour de Rei d'entrer en scène. Rei, lui, est un gar…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1415460966_0_20251207T032235440Z_122_imageprocessorclient-tvplus-linear-85d7d49859-c5l9z.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261016013000 +0000" stop="20261016020000 +0000">
+    <title>Urusei Yatsura (2022)</title>
+    <desc>Aujourd'hui, c'est cours ouverts aux parents d'élève et réunion parents-profs dans la foulée. Une…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1415411799_1_20251207T032234049Z_1_imageprocessorclient-tvplus-linear-85d7d49859-scbk2.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261016020000 +0000" stop="20261016023000 +0000">
+    <title>Urusei Yatsura (2022)</title>
+    <desc>Un palanquin fait lentement route dans Tomobiki. Est-ce la mère de Mendo qui revient réprimander …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_1429943545_0_20251211T194541521Z_129_imageprocessorclient-tvplus-linear-85d7d49859-kwj9b.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -134524,117 +134524,60 @@
     <episode-num system="onscreen">S01E04</episode-num>
     <image>https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/EPG/250_250_BEAAA7B33D887C3D39E429FC52A562E4.jpg</image>
   </programme>
-  <programme start="20261015070000 +0200" stop="20261015080000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261015163000 -0400" stop="20261015170000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Vasco 360</title>
+    <category lang="fr">Magazine</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2Fde94bf1332f3461d874824842fae4b40.jpg" />
   </programme>
-  <programme start="20261015173000 +0200" stop="20261015183000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261015170000 -0400" stop="20261015180000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Vasco Kids</title>
+    <category lang="fr">Magazine</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2F48921c234b9547c5ac40991f849192b2.jpg" />
   </programme>
-  <programme start="20261015190000 +0200" stop="20261015200000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Le Live</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261015180000 -0400" stop="20261015183000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">30 Minutes Santé</title>
+    <category lang="fr">Magazine</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2F24fe0562386b42ccbb6a4392d6e90542.jpg" />
   </programme>
-  <programme start="20261015211000 +0200" stop="20261015235900 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Soirée thématique</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261015183000 -0400" stop="20261015190000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Science en direct : les meilleurs moments</title>
+    <category lang="fr">Magazine</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2F02a86592308842a699b2fd2654fbc561.jpg" />
   </programme>
-  <programme start="20261016070000 +0200" stop="20261016080000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261015190000 -0400" stop="20261015200000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Studio Vasco</title>
+    <category lang="fr">Magazine</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2F48976a4bc3cc4ef2aa8427e5fd5b67b7.jpg" />
   </programme>
-  <programme start="20261016173000 +0200" stop="20261016183000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261015200000 -0400" stop="20261015210000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Vasco 360</title>
+    <category lang="fr">Magazine</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2Fde94bf1332f3461d874824842fae4b40.jpg" />
   </programme>
-  <programme start="20261016190000 +0200" stop="20261016200000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Le Live</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261015210000 -0400" stop="20261015223000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">En immersion</title>
+    <category lang="fr">Magazine</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2F48976a4bc3cc4ef2aa8427e5fd5b67b7.jpg" />
   </programme>
-  <programme start="20261016211000 +0200" stop="20261016235900 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Soirée thématique</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261015223000 -0400" stop="20261015230000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Vasco 360</title>
+    <category lang="fr">Magazine</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2Fde94bf1332f3461d874824842fae4b40.jpg" />
   </programme>
-  <programme start="20261017070000 +0200" stop="20261017080000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261015230000 -0400" stop="20261016000000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Studio Vasco</title>
+    <category lang="fr">Magazine</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2F48976a4bc3cc4ef2aa8427e5fd5b67b7.jpg" />
   </programme>
-  <programme start="20261017173000 +0200" stop="20261017183000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261016000000 -0400" stop="20261016013000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">En public</title>
+    <category lang="fr">Magazine</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2F68dc64e4a6334cf897e1939a8cffb90a.jpg" />
   </programme>
-  <programme start="20261017190000 +0200" stop="20261017200000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Le Live</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261017211000 +0200" stop="20261017235900 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Soirée thématique</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261018070000 +0200" stop="20261018080000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261018173000 +0200" stop="20261018183000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261018190000 +0200" stop="20261018200000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Le Live</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261018211000 +0200" stop="20261018235900 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Soirée thématique</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261019070000 +0200" stop="20261019080000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261019173000 +0200" stop="20261019183000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261019190000 +0200" stop="20261019200000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Le Live</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261019211000 +0200" stop="20261019235900 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Soirée thématique</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261020070000 +0200" stop="20261020080000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261020173000 +0200" stop="20261020183000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261020190000 +0200" stop="20261020200000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Le Live</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261020211000 +0200" stop="20261020235900 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Soirée thématique</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261021070000 +0200" stop="20261021080000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261021173000 +0200" stop="20261021183000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Jeunesse</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261021190000 +0200" stop="20261021200000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Le Live</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
-  </programme>
-  <programme start="20261021211000 +0200" stop="20261021235900 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">Soirée thématique</title>
-    <category lang="fr">Programme officiel L'Esprit Sorcier TV</category>
+  <programme start="20261016013000 -0400" stop="20261016070000 -0400" channel="LEspritSorcierTV.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <category lang="fr">Autre</category>
+    <icon src="https://proxymedia.woopic.com/api/v1/images/2329%2F6b0d009b586642fa85beb76ed872fd1a.jpg" />
   </programme>
   <programme start="20261023193000 +0200" stop="20261023203000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1 - Essais libres 1</title>
@@ -135272,88 +135215,13 @@
     <title lang="ar">نشرة الأخبار</title>
     <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
   </programme>
-  <programme start="20261015190000 +0200" stop="20261022190000 +0200" channel="F1TV1.fr">
+  <programme start="20261015230000 +0200" stop="20261022230000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
   </programme>
-  <programme start="20261015190000 +0200" stop="20261022190000 +0200" channel="MXGPTV.fr">
+  <programme start="20261015230000 +0200" stop="20261022230000 +0200" channel="MXGPTV.fr">
     <title lang="fr">MXGP-TV</title>
   </programme>
-  <programme start="20261015200000 +0200" stop="20261015211000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261015235900 +0200" stop="20261016070000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261016080000 +0200" stop="20261016173000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261016183000 +0200" stop="20261016190000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261016200000 +0200" stop="20261016211000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261016235900 +0200" stop="20261017070000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261017080000 +0200" stop="20261017173000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261017183000 +0200" stop="20261017190000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261017200000 +0200" stop="20261017211000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261017235900 +0200" stop="20261018070000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261018080000 +0200" stop="20261018173000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261018183000 +0200" stop="20261018190000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261018200000 +0200" stop="20261018211000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261018235900 +0200" stop="20261019070000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261019080000 +0200" stop="20261019173000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261019183000 +0200" stop="20261019190000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261019200000 +0200" stop="20261019211000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261019235900 +0200" stop="20261020070000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261020080000 +0200" stop="20261020173000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261020183000 +0200" stop="20261020190000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261020200000 +0200" stop="20261020211000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261020235900 +0200" stop="20261021070000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261021080000 +0200" stop="20261021173000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261021183000 +0200" stop="20261021190000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261021200000 +0200" stop="20261021211000 +0200" channel="LEspritSorcierTV.fr">
-    <title lang="fr">L'Esprit Sorcier TV</title>
-  </programme>
-  <programme start="20261021235900 +0200" stop="20261022190000 +0200" channel="LEspritSorcierTV.fr">
+  <programme start="20261016130000 +0200" stop="20261022230000 +0200" channel="LEspritSorcierTV.fr">
     <title lang="fr">L'Esprit Sorcier TV</title>
   </programme>
   <programme start="20261016014500 +0200" stop="20261016080000 +0200" channel="Nessma.tn">
@@ -135365,7 +135233,7 @@
   <programme start="20261018021500 +0200" stop="20261018080000 +0200" channel="Nessma.tn">
     <title lang="fr">Nessma</title>
   </programme>
-  <programme start="20261019013000 +0200" stop="20261022190000 +0200" channel="Nessma.tn">
+  <programme start="20261019013000 +0200" stop="20261022230000 +0200" channel="Nessma.tn">
     <title lang="fr">Nessma</title>
   </programme>
 </tv>
