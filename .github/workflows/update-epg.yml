@@ -36,6 +36,11 @@ jobs:
           cd epg-source
           npm run grab -- --channels=../channels-motorvisionplus-pickx.xml --days=2 --output=../motorvisionplus-pickx.xml
 
+      - name: Generate Nat Geo Wild EPG from Pickx
+        run: |
+          cd epg-source
+          npm run grab -- --channels=../channels-natgeowild-pickx.xml --days=2 --output=../natgeowild-pickx.xml
+
       - name: Generate custom EPG files
         run: |
           python3 orange_pitchoun.py
@@ -104,6 +109,7 @@ jobs:
               "nessma.xml",
               "aljazeera2.xml",
               "guide-free.xml",
+              "natgeowild-pickx.xml",
           ]
 
           TARGET_IDS = {
@@ -121,6 +127,8 @@ jobs:
               "F1TV1.fr",
               "Nessma.tn",
               "OQEE.1162",
+              "OQEE.28",
+              "NatGeoWild.fr",
               "AlJazeera2",
           }
 
@@ -254,6 +262,8 @@ jobs:
               "F1TV1.fr",
               "Nessma.tn",
               "OQEE.1162",
+              "OQEE.28",
+              "NatGeoWild.fr",
           ]
 
           counts = Counter(
