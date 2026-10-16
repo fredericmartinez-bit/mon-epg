@@ -130118,30 +130118,6 @@
     <desc lang="ar">يمثل أرشيف الدراما التونسية ذاكرة بصرية واجتماعية غنية، حيث برزت العديد من الأعمال الخالدة التي رسخت في وجدان التونسيين ووثقت لتاريخ تونس، عاداتها، وتحولاتها الاجتماعية بأسلوب يجمع بين الطرافة والعمق.</desc>
     <icon src="https://api.wataniaplus.tunisiatv.tn/uploads/program/landscape-NKQNO5mW.jpg" />
   </programme>
-  <programme channel="ADN.fr" start="20261016170000 +0000" stop="20261016173000 +0000">
-    <title>Psycho Pass</title>
-    <desc>La plus grande chasse à l'homme de la Brigade Criminelle est à son apogée. Akane de nouveau avec …</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_488706195_1_20240220T183713181Z_52.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261016173000 +0000" stop="20261016174500 +0000">
-    <title>Psycho Pass</title>
-    <desc>Akane Tsunemori, toujours inspecteur à la Sécurité Publique, a sous ses ordres Yayoi Kunizuka, so…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_490070458_1_20240407T004428807Z_98.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="ADN.fr" start="20261016174500 +0000" stop="20261016181500 +0000">
-    <title>Psycho Pass</title>
-    <desc>Le mystère demeure. Shisui, inspecteur à la Section 2, a tué avec son Dominateur Yamatoya, l'exéc…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_490070459_1_20240407T004428807Z_42.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="ADN.fr" start="20261016181500 +0000" stop="20261016183000 +0000">
     <title>Psycho Pass</title>
     <desc>L'inspecteur Shisui de la Section 2 se réveille chez un particulier et comprend avec effroi qu'on…</desc>
@@ -130242,6 +130218,30 @@
     <title>Super Cube</title>
     <desc>Se sentant pousser des ailes grâce à ses nouveaux pouvoirs, Xiaoxiu a décidé d'affronter le gang …</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2278196861_20_20261012T161259704Z_81_imageprocessorclient-tvplus-linear-b5879c6c6-pjh7n.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261016233000 +0000" stop="20261017000000 +0000">
+    <title>Strike the Blood</title>
+    <desc>L'île artificielle d'Itogami est une réserve sur laquelle toutes les créatures magiques peuvent h…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489284706_9_20240311T163038852Z_136.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261017000000 +0000" stop="20261017001500 +0000">
+    <title>Strike the Blood</title>
+    <desc>L'été touche à sa fin. Kojô en a enfin fini avec les examens de rattrapage. Mais le répit n'est q…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489284736_2_20240311T163038683Z_36.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="ADN.fr" start="20261017001500 +0000" stop="20261017004500 +0000">
+    <title>Strike the Blood</title>
+    <desc>La brève rencontre de Kojô et de Rudolf Eustach a provoqué des dégâts très importants sur Island …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_489400130_7_20240315T193202427Z_32.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -135275,6 +135275,223 @@
     <title lang="fr">Ward wa Chawk</title>
     <desc lang="fr">This drama series from Egypt follows the story of a man who is left to raise his three daughters on his own after his wife dies. However, things become easier when he falls in love with another woman and eventually marries her.</desc>
   </programme>
+  <programme start="20261011170000 +0300" stop="20261011173000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261011173000 +0300" stop="20261011180000 +0300" channel="AlJazeera2">
+    <title lang="ar">شبكات</title>
+    <desc lang="ar">شبكات برنامج يعكس أبرز القصص المتداولة على منصات التواصل الاجتماعي ويعيد صياغة الحكاية ليعكس آراءكم فيها ويشرح سياقها وأبعادها.</desc>
+  </programme>
+  <programme start="20261011180000 +0300" stop="20261011184500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261011184500 +0300" stop="20261011190000 +0300" channel="AlJazeera2">
+    <title lang="ar">النشرة الرياضية</title>
+    <desc lang="ar">فقرة تقدم أحدث الاخبار الرياضية العربية والعالمية</desc>
+  </programme>
+  <programme start="20261011190000 +0300" stop="20261011190500 +0300" channel="AlJazeera2">
+    <title lang="ar">موجز الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261011190500 +0300" stop="20261011200000 +0300" channel="AlJazeera2">
+    <title lang="ar">مساحة أثير</title>
+  </programme>
+  <programme start="20261011200000 +0300" stop="20261011203000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261011203000 +0300" stop="20261011210000 +0300" channel="AlJazeera2">
+    <title lang="ar">ما وراء الخبر</title>
+    <desc lang="ar">برنامج حواري يومي مباشر، تقوم فكرته على معالجة مفصلة لحدث يشغل الساحة في وقته، ويعمد إلى طرح أسئلة متعددة تتعلق بالخبر المتناول يجيب عليها عدد من الخبراء أو المسؤولين ليضع الحقيقة أمام المشاهد تاركا له حرية اتخاذ موقفه.</desc>
+  </programme>
+  <programme start="20261011210000 +0300" stop="20261011220500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261011220500 +0300" stop="20261011230000 +0300" channel="AlJazeera2">
+    <title lang="ar">المقابلة</title>
+    <desc lang="ar">برنامج يروي سيرة وحياة ومحطات نجوم السياسة والفكر والثقافة والفن من خلال مقابلة شخصية تجري في أجواء غير رسمية يقوم من خلالها مقدم البرنامج علي الظفيري بتسليط الأضواء على جوانب جديدة من حياة هذه الشخصيات.</desc>
+  </programme>
+  <programme start="20261011230000 +0300" stop="20261011233000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261012170000 +0300" stop="20261012173000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261012173000 +0300" stop="20261012180000 +0300" channel="AlJazeera2">
+    <title lang="ar">شبكات</title>
+    <desc lang="ar">شبكات برنامج يعكس أبرز القصص المتداولة على منصات التواصل الاجتماعي ويعيد صياغة الحكاية ليعكس آراءكم فيها ويشرح سياقها وأبعادها.</desc>
+  </programme>
+  <programme start="20261012180000 +0300" stop="20261012184500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261012184500 +0300" stop="20261012190000 +0300" channel="AlJazeera2">
+    <title lang="ar">النشرة الرياضية</title>
+    <desc lang="ar">فقرة تقدم أحدث الاخبار الرياضية العربية والعالمية</desc>
+  </programme>
+  <programme start="20261012190000 +0300" stop="20261012193000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261012193000 +0300" stop="20261012200000 +0300" channel="AlJazeera2">
+    <title lang="ar">المرصد</title>
+    <desc lang="ar">“المرصد”، مجلة أسبوعية تقدم قراءة مبتكرة في القضايا المتصلة بعالم الإعلام، وترصد الجديد في ميدان الاتصال سواء عبر الوسائل التقليدية أو وسائط الإعلام الجديد.</desc>
+  </programme>
+  <programme start="20261012200000 +0300" stop="20261012203000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261012203000 +0300" stop="20261012210000 +0300" channel="AlJazeera2">
+    <title lang="ar">ما وراء الخبر</title>
+    <desc lang="ar">برنامج حواري يومي مباشر، تقوم فكرته على معالجة مفصلة لحدث يشغل الساحة في وقته، ويعمد إلى طرح أسئلة متعددة تتعلق بالخبر المتناول يجيب عليها عدد من الخبراء أو المسؤولين ليضع الحقيقة أمام المشاهد تاركا له حرية اتخاذ موقفه.</desc>
+  </programme>
+  <programme start="20261012210000 +0300" stop="20261012220500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261012220500 +0300" stop="20261012230000 +0300" channel="AlJazeera2">
+    <title lang="ar">للقصة بقية</title>
+    <desc lang="ar">برنامج حواري أسبوعي يبحث في قضايا عامة تهم المشاهد العربي قد تكون ضمن الشأن الجاري أو ما زالت تداعياتها موجودة، البرنامج عبارة عن فيلم لنصف ساعة، يختصر القصة بشكل قصصي أو تحقيقي، أبطالها شهود عيان، بينما الجزء الثاني فهو حوار مع المختصين المعنيين بالقصة نفسها، على أن يكون لمنصات التواصل الاجتماعي دور في التفاعل بنشر آراء المشاهدين والرد عليها.</desc>
+  </programme>
+  <programme start="20261012230000 +0300" stop="20261012233000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261013170000 +0300" stop="20261013173000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261013173000 +0300" stop="20261013180000 +0300" channel="AlJazeera2">
+    <title lang="ar">شبكات</title>
+    <desc lang="ar">شبكات برنامج يعكس أبرز القصص المتداولة على منصات التواصل الاجتماعي ويعيد صياغة الحكاية ليعكس آراءكم فيها ويشرح سياقها وأبعادها.</desc>
+  </programme>
+  <programme start="20261013180000 +0300" stop="20261013184500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261013184500 +0300" stop="20261013190000 +0300" channel="AlJazeera2">
+    <title lang="ar">النشرة الرياضية</title>
+    <desc lang="ar">فقرة تقدم أحدث الاخبار الرياضية العربية والعالمية</desc>
+  </programme>
+  <programme start="20261013190000 +0300" stop="20261013193000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261013193000 +0300" stop="20261013200000 +0300" channel="AlJazeera2">
+    <title lang="ar">حياة ذكية</title>
+    <desc lang="ar">مجلة تلفزيونية أسبوعية مسجلة ذات فقرات متنوعة تتميز بتغطيتها لجديد التقنيات وآخر الأخبار والاكتشافات والابتكارات في مجال التكنولوجيا، وغيرها من المجالات ومدى تأثيرها على حياتنا اليومية وذلك بأسلوب مبسط وسهل وعرض لا يخلو من التشويق.</desc>
+  </programme>
+  <programme start="20261013200000 +0300" stop="20261013203000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261013203000 +0300" stop="20261013210000 +0300" channel="AlJazeera2">
+    <title lang="ar">ما وراء الخبر</title>
+    <desc lang="ar">برنامج حواري يومي مباشر، تقوم فكرته على معالجة مفصلة لحدث يشغل الساحة في وقته، ويعمد إلى طرح أسئلة متعددة تتعلق بالخبر المتناول يجيب عليها عدد من الخبراء أو المسؤولين ليضع الحقيقة أمام المشاهد تاركا له حرية اتخاذ موقفه.</desc>
+  </programme>
+  <programme start="20261013210000 +0300" stop="20261013220500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261013220500 +0300" stop="20261013230000 +0300" channel="AlJazeera2">
+    <title lang="ar">ساعة نقاش</title>
+  </programme>
+  <programme start="20261013230000 +0300" stop="20261013233000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261014170000 +0300" stop="20261014173000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261014173000 +0300" stop="20261014180000 +0300" channel="AlJazeera2">
+    <title lang="ar">شبكات</title>
+    <desc lang="ar">شبكات برنامج يعكس أبرز القصص المتداولة على منصات التواصل الاجتماعي ويعيد صياغة الحكاية ليعكس آراءكم فيها ويشرح سياقها وأبعادها.</desc>
+  </programme>
+  <programme start="20261014180000 +0300" stop="20261014184500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261014184500 +0300" stop="20261014190000 +0300" channel="AlJazeera2">
+    <title lang="ar">النشرة الرياضية</title>
+    <desc lang="ar">فقرة تقدم أحدث الاخبار الرياضية العربية والعالمية</desc>
+  </programme>
+  <programme start="20261014190000 +0300" stop="20261014190500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261014190500 +0300" stop="20261014200000 +0300" channel="AlJazeera2">
+    <title lang="ar">موازين</title>
+    <desc lang="ar">برنامج حواري أسبوعي، يقدمه الإعلامي الكويتي الدكتور علي السند، وتقوم فلسفته على تناول قضايا الفكر الإسلامي المعاصر بالبحث والنقاش. ويهتم برصد المتغيرات السياسية والاجتماعية والبحث في جذورها التاريخية.</desc>
+  </programme>
+  <programme start="20261014200000 +0300" stop="20261014203000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261014203000 +0300" stop="20261014210000 +0300" channel="AlJazeera2">
+    <title lang="ar">ما وراء الخبر</title>
+    <desc lang="ar">برنامج حواري يومي مباشر، تقوم فكرته على معالجة مفصلة لحدث يشغل الساحة في وقته، ويعمد إلى طرح أسئلة متعددة تتعلق بالخبر المتناول يجيب عليها عدد من الخبراء أو المسؤولين ليضع الحقيقة أمام المشاهد تاركا له حرية اتخاذ موقفه.</desc>
+  </programme>
+  <programme start="20261014210000 +0300" stop="20261014220500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261014220500 +0300" stop="20261014230000 +0300" channel="AlJazeera2">
+    <title lang="ar">محاولة فهم</title>
+  </programme>
+  <programme start="20261014230000 +0300" stop="20261014233000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261015170000 +0300" stop="20261015173000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261015173000 +0300" stop="20261015180000 +0300" channel="AlJazeera2">
+    <title lang="ar">شبكات</title>
+    <desc lang="ar">شبكات برنامج يعكس أبرز القصص المتداولة على منصات التواصل الاجتماعي ويعيد صياغة الحكاية ليعكس آراءكم فيها ويشرح سياقها وأبعادها.</desc>
+  </programme>
+  <programme start="20261015180000 +0300" stop="20261015184500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261015184500 +0300" stop="20261015190000 +0300" channel="AlJazeera2">
+    <title lang="ar">النشرة الرياضية</title>
+    <desc lang="ar">فقرة تقدم أحدث الاخبار الرياضية العربية والعالمية</desc>
+  </programme>
+  <programme start="20261015190000 +0300" stop="20261015190500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261015190500 +0300" stop="20261015200000 +0300" channel="AlJazeera2">
+    <title lang="ar">من واشنطن</title>
+    <desc lang="ar">برنامج حواري أسبوعي مباشر، وتقوم فلسفته على استضافة اثنين أو ثلاثة من السياسيين أو المحللين لمناقشة ما يجري داخل أروقة الإدارة الأميركية من قضايا المنطقة لمناقشته أمام المشاهد تاركا له حرية تحديد رأيه.</desc>
+  </programme>
+  <programme start="20261015200000 +0300" stop="20261015203000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261015203000 +0300" stop="20261015210000 +0300" channel="AlJazeera2">
+    <title lang="ar">ما وراء الخبر</title>
+    <desc lang="ar">برنامج حواري يومي مباشر، تقوم فكرته على معالجة مفصلة لحدث يشغل الساحة في وقته، ويعمد إلى طرح أسئلة متعددة تتعلق بالخبر المتناول يجيب عليها عدد من الخبراء أو المسؤولين ليضع الحقيقة أمام المشاهد تاركا له حرية اتخاذ موقفه.</desc>
+  </programme>
+  <programme start="20261015210000 +0300" stop="20261015220500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261015220500 +0300" stop="20261015230000 +0300" channel="AlJazeera2">
+    <title lang="ar">سيناريوهات</title>
+    <desc lang="ar">برنامج سياسي استشرافي يبحث السيناريوهات المحتملة للأحداث الإقليمية والدولية، بناء على قراءة المعطيات الراهنة، واستشراف المؤشرات المستقبلية الممكنة.</desc>
+  </programme>
+  <programme start="20261015230000 +0300" stop="20261015233000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
   <programme start="20261016170000 +0300" stop="20261016173000 +0300" channel="AlJazeera2">
     <title lang="ar">نشرة الأخبار</title>
     <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
@@ -135315,6 +135532,45 @@
     <title lang="ar">وثائقيات انتقاء</title>
   </programme>
   <programme start="20261016230000 +0300" stop="20261016233000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261017170000 +0300" stop="20261017173000 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261017173000 +0300" stop="20261017180000 +0300" channel="AlJazeera2">
+    <title lang="ar">شبكات</title>
+    <desc lang="ar">شبكات برنامج يعكس أبرز القصص المتداولة على منصات التواصل الاجتماعي ويعيد صياغة الحكاية ليعكس آراءكم فيها ويشرح سياقها وأبعادها.</desc>
+  </programme>
+  <programme start="20261017180000 +0300" stop="20261017184500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261017184500 +0300" stop="20261017190000 +0300" channel="AlJazeera2">
+    <title lang="ar">النشرة الرياضية</title>
+    <desc lang="ar">فقرة تقدم أحدث الاخبار الرياضية العربية والعالمية</desc>
+  </programme>
+  <programme start="20261017190000 +0300" stop="20261017190500 +0300" channel="AlJazeera2">
+    <title lang="ar">موجز الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261017190500 +0300" stop="20261017203000 +0300" channel="AlJazeera2">
+    <title lang="ar">أسئلة الحدث</title>
+  </programme>
+  <programme start="20261017203000 +0300" stop="20261017210000 +0300" channel="AlJazeera2">
+    <title lang="ar">ما وراء الخبر</title>
+    <desc lang="ar">برنامج حواري يومي مباشر، تقوم فكرته على معالجة مفصلة لحدث يشغل الساحة في وقته، ويعمد إلى طرح أسئلة متعددة تتعلق بالخبر المتناول يجيب عليها عدد من الخبراء أو المسؤولين ليضع الحقيقة أمام المشاهد تاركا له حرية اتخاذ موقفه.</desc>
+  </programme>
+  <programme start="20261017210000 +0300" stop="20261017220500 +0300" channel="AlJazeera2">
+    <title lang="ar">نشرة الأخبار</title>
+    <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme start="20261017220500 +0300" stop="20261017230000 +0300" channel="AlJazeera2">
+    <title lang="ar">شاهد على العصر</title>
+    <desc lang="ar">برنامج حواري أسبوعي يجري حوار مع سياسيين ليشهدوا على حقبة زمنية مدعمة بالأدلة والبراهين والوثائق ليضع الحقيقة التاريخية أمام المشاهد.</desc>
+  </programme>
+  <programme start="20261017230000 +0300" stop="20261017233000 +0300" channel="AlJazeera2">
     <title lang="ar">نشرة الأخبار</title>
     <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
   </programme>
