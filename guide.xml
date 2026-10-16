@@ -1299,6 +1299,9 @@
   <channel id="Nessma.tn">
     <display-name>NESSMA TV</display-name>
   </channel>
+  <channel id="OQEE.1162">
+    <display-name>Le Média TV</display-name>
+  </channel>
   <channel id="PitchounKidsMusic.fr">
     <display-name>Pitchoun Kids Music</display-name>
   </channel>
@@ -135573,6 +135576,348 @@
   <programme start="20261017230000 +0300" stop="20261017233000 +0300" channel="AlJazeera2">
     <title lang="ar">نشرة الأخبار</title>
     <desc lang="ar">جولة في أهم الأحداث العربية والعالمية</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261016180000 +0000" stop="20261016182000 +0000">
+    <title lang="fr">L'instant Porcher</title>
+    <desc lang="fr">L'économiste Thomas Porcher décrypte et critique chaque semaine les fausses évidences des gardiens du temple néolibéral.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261016182900 +0000" stop="20261016185000 +0000">
+    <title lang="fr">Les indiscrets de Nils Wilcke</title>
+    <desc lang="fr">Journaliste indépendant, journaliste politique jusqu'au bout des doigts, Nils Wilcke recueille les confidences des politiques de tout bord.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261016185000 +0000" stop="20261016190000 +0000">
+    <title lang="fr">Les reportages</title>
+    <desc lang="fr">Le Média et ses équipes se mobilisent au plus près du terrain pour vous permettre de suivre et de comprendre les événements et les tendances de fond qui touchent et transforment la France et le monde.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261016190000 +0000" stop="20261016201000 +0000">
+    <title lang="fr">Le fauteuil</title>
+    <desc lang="fr">Un entretien long format avec une personnalité artistique, médiatique ou politique, où le récit d'un parcours individuel devient une manière d'interroger une époque.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261016201000 +0000" stop="20261016203400 +0000">
+    <title lang="fr">Les reportages</title>
+    <desc lang="fr">Le Média et ses équipes se mobilisent au plus près du terrain pour vous permettre de suivre et de comprendre les événements et les tendances de fond qui touchent et transforment la France et le monde.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261016203400 +0000" stop="20261016204700 +0000">
+    <title lang="fr">Le face cam</title>
+  </programme>
+  <programme channel="OQEE.1162" start="20261016204700 +0000" stop="20261016213500 +0000">
+    <title lang="fr">On s'autorise à penser</title>
+  </programme>
+  <programme channel="OQEE.1162" start="20261016213500 +0000" stop="20261016214000 +0000">
+    <title lang="fr">Les reportages</title>
+    <desc lang="fr">Le Média et ses équipes se mobilisent au plus près du terrain pour vous permettre de suivre et de comprendre les événements et les tendances de fond qui touchent et transforment la France et le monde.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261016214000 +0000" stop="20261016220000 +0000">
+    <title lang="fr">Le fauteuil</title>
+    <desc lang="fr">Un entretien long format avec une personnalité artistique, médiatique ou politique, où le récit d'un parcours individuel devient une manière d'interroger une époque.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261016220000 +0000" stop="20261017050000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017050000 +0000" stop="20261017170000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017170000 +0000" stop="20261017180000 +0000">
+    <title lang="fr">Toujours debout</title>
+    <desc lang="fr">Une émission quotidienne diffusée en direct qui décrypte l'actualité en présence de nombreux invité.e.s.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017180000 +0000" stop="20261017182000 +0000">
+    <title lang="fr">L'instant Porcher</title>
+    <desc lang="fr">L'économiste Thomas Porcher décrypte et critique chaque semaine les fausses évidences des gardiens du temple néolibéral.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017182000 +0000" stop="20261017190000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017190000 +0000" stop="20261017192000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017192000 +0000" stop="20261017194000 +0000">
+    <title lang="fr">Les indiscrets de Nils Wilcke</title>
+    <desc lang="fr">Journaliste indépendant, journaliste politique jusqu'au bout des doigts, Nils Wilcke recueille les confidences des politiques de tout bord.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017194000 +0000" stop="20261017200000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017200000 +0000" stop="20261017202000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017202000 +0000" stop="20261017210000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017210000 +0000" stop="20261017212000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017212000 +0000" stop="20261017220000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261017220000 +0000" stop="20261018050000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018050000 +0000" stop="20261018170000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018170000 +0000" stop="20261018180000 +0000">
+    <title lang="fr">Toujours debout</title>
+    <desc lang="fr">Une émission quotidienne diffusée en direct qui décrypte l'actualité en présence de nombreux invité.e.s.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018180000 +0000" stop="20261018182000 +0000">
+    <title lang="fr">L'instant Porcher</title>
+    <desc lang="fr">L'économiste Thomas Porcher décrypte et critique chaque semaine les fausses évidences des gardiens du temple néolibéral.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018182000 +0000" stop="20261018190000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018190000 +0000" stop="20261018192000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018192000 +0000" stop="20261018194000 +0000">
+    <title lang="fr">Les indiscrets de Nils Wilcke</title>
+    <desc lang="fr">Journaliste indépendant, journaliste politique jusqu'au bout des doigts, Nils Wilcke recueille les confidences des politiques de tout bord.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018194000 +0000" stop="20261018200000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018200000 +0000" stop="20261018202000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018202000 +0000" stop="20261018210000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018210000 +0000" stop="20261018212000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018212000 +0000" stop="20261018220000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261018220000 +0000" stop="20261019050000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019050000 +0000" stop="20261019170000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019170000 +0000" stop="20261019180000 +0000">
+    <title lang="fr">Toujours debout</title>
+    <desc lang="fr">Une émission quotidienne diffusée en direct qui décrypte l'actualité en présence de nombreux invité.e.s.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019180000 +0000" stop="20261019182000 +0000">
+    <title lang="fr">L'instant Porcher</title>
+    <desc lang="fr">L'économiste Thomas Porcher décrypte et critique chaque semaine les fausses évidences des gardiens du temple néolibéral.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019182000 +0000" stop="20261019190000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019190000 +0000" stop="20261019192000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019192000 +0000" stop="20261019194000 +0000">
+    <title lang="fr">Les indiscrets de Nils Wilcke</title>
+    <desc lang="fr">Journaliste indépendant, journaliste politique jusqu'au bout des doigts, Nils Wilcke recueille les confidences des politiques de tout bord.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019194000 +0000" stop="20261019200000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019200000 +0000" stop="20261019202000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019202000 +0000" stop="20261019210000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019210000 +0000" stop="20261019212000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019212000 +0000" stop="20261019220000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261019220000 +0000" stop="20261020050000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020050000 +0000" stop="20261020170000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020170000 +0000" stop="20261020180000 +0000">
+    <title lang="fr">Toujours debout</title>
+    <desc lang="fr">Une émission quotidienne diffusée en direct qui décrypte l'actualité en présence de nombreux invité.e.s.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020180000 +0000" stop="20261020182000 +0000">
+    <title lang="fr">L'instant Porcher</title>
+    <desc lang="fr">L'économiste Thomas Porcher décrypte et critique chaque semaine les fausses évidences des gardiens du temple néolibéral.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020182000 +0000" stop="20261020190000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020190000 +0000" stop="20261020192000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020192000 +0000" stop="20261020194000 +0000">
+    <title lang="fr">Les indiscrets de Nils Wilcke</title>
+    <desc lang="fr">Journaliste indépendant, journaliste politique jusqu'au bout des doigts, Nils Wilcke recueille les confidences des politiques de tout bord.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020194000 +0000" stop="20261020200000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020200000 +0000" stop="20261020202000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020202000 +0000" stop="20261020210000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020210000 +0000" stop="20261020212000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020212000 +0000" stop="20261020220000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261020220000 +0000" stop="20261021050000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021050000 +0000" stop="20261021170000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021170000 +0000" stop="20261021180000 +0000">
+    <title lang="fr">Toujours debout</title>
+    <desc lang="fr">Une émission quotidienne diffusée en direct qui décrypte l'actualité en présence de nombreux invité.e.s.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021180000 +0000" stop="20261021182000 +0000">
+    <title lang="fr">L'instant Porcher</title>
+    <desc lang="fr">L'économiste Thomas Porcher décrypte et critique chaque semaine les fausses évidences des gardiens du temple néolibéral.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021182000 +0000" stop="20261021190000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021190000 +0000" stop="20261021192000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021192000 +0000" stop="20261021194000 +0000">
+    <title lang="fr">Les indiscrets de Nils Wilcke</title>
+    <desc lang="fr">Journaliste indépendant, journaliste politique jusqu'au bout des doigts, Nils Wilcke recueille les confidences des politiques de tout bord.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021194000 +0000" stop="20261021200000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021200000 +0000" stop="20261021202000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021202000 +0000" stop="20261021210000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021210000 +0000" stop="20261021212000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021212000 +0000" stop="20261021220000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261021220000 +0000" stop="20261022050000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022050000 +0000" stop="20261022170000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022170000 +0000" stop="20261022180000 +0000">
+    <title lang="fr">Toujours debout</title>
+    <desc lang="fr">Une émission quotidienne diffusée en direct qui décrypte l'actualité en présence de nombreux invité.e.s.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022180000 +0000" stop="20261022182000 +0000">
+    <title lang="fr">L'instant Porcher</title>
+    <desc lang="fr">L'économiste Thomas Porcher décrypte et critique chaque semaine les fausses évidences des gardiens du temple néolibéral.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022182000 +0000" stop="20261022190000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022190000 +0000" stop="20261022192000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022192000 +0000" stop="20261022194000 +0000">
+    <title lang="fr">Les indiscrets de Nils Wilcke</title>
+    <desc lang="fr">Journaliste indépendant, journaliste politique jusqu'au bout des doigts, Nils Wilcke recueille les confidences des politiques de tout bord.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022194000 +0000" stop="20261022200000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022200000 +0000" stop="20261022202000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022202000 +0000" stop="20261022210000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022210000 +0000" stop="20261022212000 +0000">
+    <title lang="fr">Le récap</title>
+    <desc lang="fr">La pastille d'info condensée et musclée du Média. Tous les jours, du lundi au jeudi, à 20h, elle passe en revue l'actualité sans filtre et sans langue de bois.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022212000 +0000" stop="20261022220000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261022220000 +0000" stop="20261023050000 +0000">
+    <title lang="fr">Les nuits du Média</title>
+    <desc lang="fr">Rediffusions nocturnes des programmes phares du Média, offrant un condensé engagé et accessible des contenus emblématiques de la chaîne.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261023050000 +0000" stop="20261023170000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261023170000 +0000" stop="20261023180000 +0000">
+    <title lang="fr">Toujours debout</title>
+    <desc lang="fr">Une émission quotidienne diffusée en direct qui décrypte l'actualité en présence de nombreux invité.e.s.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261023180000 +0000" stop="20261023182000 +0000">
+    <title lang="fr">L'instant Porcher</title>
+    <desc lang="fr">L'économiste Thomas Porcher décrypte et critique chaque semaine les fausses évidences des gardiens du temple néolibéral.</desc>
+  </programme>
+  <programme channel="OQEE.1162" start="20261023182000 +0000" stop="20261023190000 +0000">
+    <title lang="fr">L'actu du média</title>
+    <desc lang="fr">Projets, actualité ou encore foires aux questions permettent de rester connecté avec les dessous de la rédaction du Média.</desc>
   </programme>
   <programme start="20261016200000 +0200" stop="20261023193000 +0200" channel="F1TV1.fr">
     <title lang="fr">F1TV 1</title>
