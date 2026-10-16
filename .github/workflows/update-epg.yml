@@ -103,6 +103,7 @@ jobs:
               "f1tv.xml",
               "nessma.xml",
               "aljazeera2.xml",
+              "guide-free.xml",
           ]
 
           TARGET_IDS = {
@@ -119,6 +120,7 @@ jobs:
               "MXGPTV.fr",
               "F1TV1.fr",
               "Nessma.tn",
+              "OQEE.1162",
               "AlJazeera2",
           }
 
@@ -251,6 +253,7 @@ jobs:
               "MXGPTV.fr",
               "F1TV1.fr",
               "Nessma.tn",
+              "OQEE.1162",
           ]
 
           counts = Counter(
