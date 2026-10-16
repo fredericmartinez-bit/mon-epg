@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import re
+import json
+import base64
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
@@ -36,7 +38,14 @@ def main():
     with urllib.request.urlopen(request, timeout=30) as response:
         html = response.read().decode("utf-8")
 
-    soup = BeautifulSoup(html, "html.parser")
+    match = re.search(r'window\.__APOLLO_STATE__="([^"]+)"', html)
+    if not match:
+        raise RuntimeError("Données intégrées introuvables.")
+    data = json.loads(base64.b64decode(match.group(1)))
+    items = next(
+        v["schedule"] for v in data.values()
+        if isinstance(v, dict) and isinstance(v.get("schedule"), list)
+    )
 
     tv = ET.Element("tv", {"generator-info-name": "mon-epg"})
 
@@ -46,84 +55,41 @@ def main():
     today = datetime.now(MECCA).date()
     count = 0
 
-    for panel in soup.select(".schedule__items"):
-        day_name = panel.get("aria-labelledby", "").lower()
-
-        if day_name not in DAYS:
+    seen = set()
+    for item in items:
+        date = datetime.fromtimestamp(
+            int(item["startDate"]), ZoneInfo("UTC")
+        ).date()
+        hour = item.get("showTimeslot", "")
+        title = item.get("showName", "").strip()
+        if not title or not re.fullmatch(r"\d{1,2}:\d{2}", hour):
             continue
-
-        target_weekday = DAYS[day_name]
-        difference = target_weekday - today.weekday()
-
-        # La page présente généralement les jours autour d'aujourd'hui.
-        date = today + timedelta(days=difference)
-
-        programmes = []
-
-        for row in panel.select(".schedule__row"):
-            time_element = row.select_one(".schedule__row__timeslot")
-            title_element = row.select_one(".schedule__row__showname")
-
-            if not time_element or not title_element:
-                continue
-
-            hour = time_element.get_text(strip=True)
-
-            if not re.fullmatch(r"\d{1,2}:\d{2}", hour):
-                continue
-
-            title = title_element.get_text(" ", strip=True)
-
-            now_showing = title_element.select_one(
-                ".schedule__row__nowshowing"
-            )
-
-            if now_showing:
-                title = title.replace(
-                    now_showing.get_text(" ", strip=True), ""
-                ).strip()
-
-            description_element = row.select_one(
-                ".schedule__row__description"
-            )
-
-            description = (
-                description_element.get_text(" ", strip=True)
-                if description_element else ""
-            )
-
-            start = datetime.strptime(
-                f"{date} {hour}", "%Y-%m-%d %H:%M"
-            ).replace(tzinfo=MECCA)
-
-            programmes.append((start, title, description))
-
-        for index, (start, title, description) in enumerate(programmes):
-            if index + 1 < len(programmes):
-                stop = programmes[index + 1][0]
-            else:
-                stop = start + timedelta(minutes=30)
-
-            programme = ET.SubElement(
-                tv,
-                "programme",
-                {
-                    "start": xmltv_time(start),
-                    "stop": xmltv_time(stop),
-                    "channel": CHANNEL_ID,
-                },
-            )
-
-            ET.SubElement(
-                programme, "title", lang="ar"
-            ).text = title
-
-            if description:
-                ET.SubElement(
-                    programme, "desc", lang="ar"
-                ).text = description
-
-            count += 1
+        start = datetime.strptime(
+            f"{date} {hour}", "%Y-%m-%d %H:%M"
+        ).replace(tzinfo=MECCA)
+        key = (start.isoformat(), title)
+        if key in seen:
+            continue
+        seen.add(key)
+        try:
+            h, m, s = map(int, item.get("duration", "").split(":"))
+            seconds = h * 3600 + m * 60 + s
+        except (ValueError, AttributeError):
+            seconds = 0
+        # Les durées excessives ne décrivent pas une émission détaillée.
+        if not 0 < seconds <= 3 * 3600:
+            seconds = 1800
+        stop = start + timedelta(seconds=seconds)
+        programme = ET.SubElement(tv, "programme", {
+            "start": xmltv_time(start),
+            "stop": xmltv_time(stop),
+            "channel": CHANNEL_ID,
+        })
+        ET.SubElement(programme, "title", lang="ar").text = title
+        description = item.get("showDescription", "").strip()
+        if description:
+            ET.SubElement(programme, "desc", lang="ar").text = description
+        count += 1
 
     if count == 0:
         raise RuntimeError("Aucun programme trouvé sur le site.")
