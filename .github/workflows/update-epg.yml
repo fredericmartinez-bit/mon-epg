@@ -37,13 +37,14 @@ jobs:
           npm run grab -- --channels=../channels-motorvisionplus-pickx.xml --days=2 --output=../motorvisionplus-pickx.xml
 
       - name: Generate Nat Geo Wild EPG from Pickx
+        continue-on-error: true
         run: |
           cd epg-source
           npm run grab -- --channels=../channels-natgeowild-pickx.xml --days=2 --output=../natgeowild-pickx.xml
 
       - name: Generate custom EPG files
         run: |
-          python3 orange_pitchoun.py
+          python3 orange_pitchoun.py || echo "::warning::Orange Pitchoun indisponible"
           python3 oqee_pitchoun.py
           python3 oqee_ducktv.py
           python3 tunisiatv_watania.py
@@ -59,7 +60,7 @@ jobs:
 
       - name: Verify generated files
         run: |
-          test -s pitchoun-kids.xml
+          test -s pitchoun-kids.xml || echo "Pitchoun Orange absent"
           test -s tv-pitchoun.xml
           test -s duck-tv.xml
           test -s watania-officiel.xml
@@ -74,7 +75,6 @@ jobs:
           test -s aljazeera2.xml || echo "EPG Al Jazeera 2 absent"
 
           ls -lh \
-            pitchoun-kids.xml \
             tv-pitchoun.xml \
             duck-tv.xml \
             watania-officiel.xml \
@@ -134,6 +134,30 @@ jobs:
 
           tree = ET.parse(GUIDE)
           root = tree.getroot()
+
+          # Une source indisponible ne doit pas bloquer les autres chaînes.
+          from datetime import datetime, timezone
+          now = datetime.now(timezone.utc)
+          optional_sources = {
+              "pitchoun-kids.xml": "PitchounKidsMusic.fr",
+              "natgeowild-pickx.xml": "NatGeoWild.fr",
+          }
+          for source, cid in optional_sources.items():
+              try:
+                  source_root = ET.parse(source).getroot()
+                  fresh = any(
+                      item.get("channel") == cid
+                      and datetime.strptime(
+                          item.get("stop", ""), "%Y%m%d%H%M%S %z"
+                      ) > now
+                      for item in source_root.findall("programme")
+                  )
+              except (OSError, ET.ParseError, ValueError, TypeError):
+                  fresh = False
+              if not fresh:
+                  print(f"::warning::{cid}: source indisponible ou périmée ; ancienne grille conservée")
+                  TARGET_IDS.discard(cid)
+                  SOURCES.remove(source)
 
           # Conserver l'ancienne grille Motorvision+ si Pickx est vide.
           try:
@@ -271,9 +295,13 @@ jobs:
               for p in root.findall("programme")
           )
 
+          optional_ids = {"PitchounKidsMusic.fr", "NatGeoWild.fr"}
           print("TOTAL:", len(root.findall("programme")))
 
           for cid in ids:
+              if cid in optional_ids and counts[cid] == 0:
+                  print(f"::warning::{cid}: aucun programme disponible")
+                  continue
               if cid == "MotorvisionPlus.fr" and counts[cid] == 0:
                   print("Motorvision+ absent : validation ignorée")
                   continue
@@ -287,6 +315,8 @@ jobs:
           now = datetime.now(timezone.utc)
 
           for cid in freshness_ids:
+              if cid in optional_ids and counts[cid] == 0:
+                  continue
               if cid == "MotorvisionPlus.fr" and counts[cid] == 0:
                   continue
               items = [
@@ -305,6 +335,9 @@ jobs:
               )
 
               if latest <= now:
+                  if cid in optional_ids:
+                      print(f"::warning::{cid}: ancienne grille périmée, fin {latest.isoformat()}")
+                      continue
                   if cid == "MotorvisionPlus.fr":
                       print("⚠️ Motorvision+ périmé : ancienne grille conservée")
                       continue
